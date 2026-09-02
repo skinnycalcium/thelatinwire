@@ -1,49 +1,160 @@
 {
-  "at": 1788360195953,
+  "at": 1788366554452,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Legis1",
-        "Yahoo",
-        "KTSA",
-        "Axios"
+        "Ottumwa Courier",
+        "Marietta Daily Journal",
+        "newscentermaine.com",
+        "wng.org",
+        "Maine Public",
+        "WABI"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "House Passes Symbolic Vote Condemning Socialism",
-        "Democratic divide deepens as House passes resolution condemning socialism",
-        "192 House Democrats Refuse to Condemn Socialism in Explosive Pre-Midterms Vote",
-        "House Democrats fume about GOP's anti-socialism bill"
+        "Maine’s high court rules father can restrict daughter’s church attendance",
+        "Maine’s high court rules father can restrict daughter’s church attendance",
+        "Maine Supreme Court upholds ruling giving father final say on child's religious, medical decisions",
+        "Maine’s top court rules mom can’t bring child to church",
+        "Maine Supreme Court upholds father's sole authority over religious and medical decisions for child",
+        "Maine Supreme Judicial Court denies mother’s appeal of order that stops her from taking daughter to church"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1NUgtSkVsZktjc1ZMS0EtSGRLSHlYQnFFN0ZqSUx2TXNwczlaNHFWbUlZTkhYckJmRHFFc2NNTHF4SFNmVWhxUDhPRXdVVWZlZEF3dnZzTDZLUmxhcXJvVF9RRkdIcTBYc1hqV1NPZU01RXhW?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTjh3ZGthNkRVcjluc2VkNzV0SS0tRVdnTFZHZF9uUFlZNHc2eVI3cWVYY1VGNjhIR09QajFMcEJhUlNtNGpYLTN1RUt0bDFoQndVTFFqM0xLYVVyWEFnUkp2TEpyWGd1WE5vZEhtRmNLMEdTRjB6T0tiOUlCb1U5Z1dlNnBKS0NkeE9MZllDX1g?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjhHZmZJRTdtazZ3eDkyNm1nMzZHS3o1Nk1tSHdzaWVVWERITDlISXhnOFlGMEw4OTR2VUtFaWV3U0dYamVCdExISllnS2c2QWNNMHA2X2pFd2NxQlAyeEFNZGFFREpVQzBmSU5Kb2lIY1g2eWhaNEVPWEtPalQtWGxEeXpQaVIzZmp1NktaLVlCQkhBUFpJczIxZ1IxTEtoV0E?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZl9Hb1dLZmxHc3pfS0o4YXhyTUpqa2x3YllrZWZpZEZick5fYWcwSVppVEhqeS1YLXdEOGd2U3RTc3VYZFFYSmZBc0M4a0FNaDM0cUhlWmxBUDBNeDVQeVY3N0NHeGc0cUJnNV83eEtja3dsLVl4a1hWREpNc3ZDenpHdDh1UQ?oc=5"
+        "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZFRLVEFHOTFrbW9UTHBXSG9udy1HcDZ2QzBkVGJfSVpXSGtEeWxPa1VBVnotWTYzN1U2enNYT2ViWnVSU3Bla2RFNVJUTTdqbEZDcjlFdmJmSXRtQmJZWFRxMk5aVFhMYXNpSl8xa2cyZUJNOWs2MXdMb1QzblBONXpoVkhTRXJqTElINHF2em1zUGhndDJjVVk2Q2VQcncxWHF3UzZ1LTRscmJEQmRrcnEzT2VybWJNcHZ6VHM5cUUtTVgtejNTNWQ5bkZTd2N4YjIxc2JiZlR5UHlxVGdnUlkyS3BnelItd2xNMlZHbV9GYTNmT21yRUcxOE9jN2RqM21Z?oc=5",
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcndVcldHb3ViNE5FM013cFh3Mzg4MERGLXlUcDJlYmpSQ0dzYzV5dktrMjh6cVdMdUExYktHZkNqNHU0cVV5ZU1DdTM0WjhPcmt2MEU0MTNYSmVlNWlvR244VmJuUTNZdzBqcVBUTjlEZVFqTy1RSUhYMU4yLTI3ZmdlM3dmeFNrb0tLTFY4ZnFyY3FzZ2dBcG9XNEQ3cC1POWdBT3Y1cEpGXzNZeGpORDZneTR6OU5SMFpPZEdoVEtObDlaLVZhNlYxU0t6T2xLVkVWb0p5MjV4bDNVMUxsQmFQd0tMeFpfX21ZQ01hVS04ZXp0T1E?oc=5",
+        "https://news.google.com/rss/articles/CBMipgJBVV95cUxOTDlaUkJYbEtoZENSeUtqUkxKa2dEVFpJYXFrcXpBaDlnUGltMUg3YkpMakQ1UV9fUE9UWmVsenNWQlI1Ri0zNUJHdVBhMUpBTlBySkJtaTdVS25nZEJpTnJ2UXRKWnFKLVU2V0VKNFNMTS1Vd2dkQVJmdmR2RWtQa3U0YTNrcTJITTcxUXJfMzZRZ1kyRVZ5bGF6SFJHTjNlQjlldEwxQ1FxSnVROXhHeU5HV2YzaG9TNGtKZjhzeHpNZ3FZMFoyemNTWGtaMHQ4V3YyMFBCTlpMT1hwR2U4TzdzZDlTNDRIdks1YUg0TmhtUGRaZnA4V1lwYmxMUjNKOERSNWRtbkp2eVNNYWZfTEVrTE1HS1pUclh3eUpoN2YyNHFQcGc?oc=5",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdVhjMUtUeUV6cmdad0pYeUpMS0V2RktRc0VScFBCZmNNWUQ4VlVWMEt1dzVkQ0xqWnpWQlktM3RDaGNpOWFDSW9wQ2ZQRXBqNndKSmpNMVR3MnR3aXA5T2tHY2tHUFJsMk8yR1ZZcmJjaHNfRTNuYmltczNXQ3pUMElYcGRkcWpYRl9lOGZB?oc=5",
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT3RGZ20wcFlsTElxcHdJZGR4THQyOGFydldaOXRKeVR5QWd4N28tN1N1UnFsa3ljQ0hFWjMyT3plTExncjdQanhHbjZGcVQ1NUxyWWFjSWRuZkRDVXdqOGpyS0g0XzQwMTFKaUlTeXRuYkR6Q1lrWUNTNUtTcnJjd1dxMGVnSXlNZHpmWnVYVnE3cHRBT2piRGZoUWpUMjdTeWJqMExoMFRUZENuWHNiZGpoTE5aNlVQMzAtV1FFTE05X0xwVWxra2FCd2luNjhYN29TdU5CRFFaN29vZnIyOUdhY0tYYUVf?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUZvMnBSb0pNMUV4NWNXRy1KRHZWU25tdXVYNnA3NFZVZUR5bEpJVXdZZ2hjZlJXV2xZVkd1QlZISFNxSkxTaS01ck1FcEFxa0c3M1lZYnMtOTYyLTNXTko3SnBCenpYT3BLR014SkZLUEdJZFpjdVJjTDdYYVZ2SGlKMlFyMVMxVzBLWWlJZE5BN1I1TC1IMzN4MFBHU2txMElkUUY3NTdtLVpwQ3RoeF9zMG92eXVyRWxTQkdJdVY0dVZ50gHYAUFVX3lxTE9HNklOVVRKTWxFNk93VEZWNEJaaWx5MjNKR05LQUNyOEtiTEY1RkNBTjJ5Rks1eFRtbUhXRHByaE5ybGpSNFNNNGl4TmRFdEljeDA4eGRGcF9mYmtqMF9aSmN3b1ozYUZ4N3BHMi1WZnpqcGtQWjhsbGZKaUlZbkluQzVyVkhTOUZ2bHVwNGlvdGVFVXVrNkFuQ1NKNVpJU0ZCVTE1clltdEpoQmcwQ1pqZ3pranBpa0pEZUI1UGIyU281YlFVM3VmU3hVTVl6VEZ6X3FpbGJRYg?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "WBIR",
-        "LEX 18 News",
-        "Honolulu Star-Advertiser"
+        "Univision",
+        "NBC News"
+      ],
+      "lines": [
+        "left"
+      ],
+      "titles": [
+        "DOS evalúa exigir estatus legal a padres para emitir el pasaporte de hijos nacidos en EEUU",
+        "U.S. may ask parents to prove citizenship or immigration status to get passports for children"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPem1wLWxGX0JySlFlanMwUlZZbmpsNmMtY3FDME51UVBZVUNxaDhxTkZsN3BFOTFGWEcyN0s4VGpzQUdRYWMtT09qdGE2LTZ4MElYVzhMclZpQ1M3MHJib3NBT0w3SDZ0MERZVXY2ckQtYWtxdWw2X2tRaG5wWkZOMmoxVWRlV29rVXJmZUJJeWM4M2Z2N1NKaXZfQ0lpMEo4UGprRENGRHJPV0tCWF9obFNZejlmYnFwdkdzaXdGVlpGNTlWX3daUzJGQzc4Qm9TNEVvNEhuSHVpNldIdGJsdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONFZiZkM1cEZkV1JyQTJ5endNcXUzWTg4NzNxNWFndlByX2FDNk9ielJWdk5tdFRiZ01GVGZTNWhCSkg1MDRjbTZsaEpvM3ltUzZyRFhmckcwYkUyVjloMTR4c0xGTUJIUHVqOEJhVENZV0RheWNnUFp6U1dFcE1VODJYQVdGWlFQaWpJdG50ZWFPRGFOZl9YcGJlRHJuU0VYeFhFMEgzaVBuZXRDSEc0Snd2VDhvX2hT?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "El Heraldo de San Luis Potosí.",
+        "Yahoo"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "House passes government funding bill",
-        "House passes government funding bill through the midterms",
-        "House passes funding bill to avert government shutdown before midterms"
+        "AUMENTAN 47.5% LAS DEPORTACIONES DE GUATEMALTECOS DESDE EU Y MÉXICO",
+        "ICE envía a cubanos de Florida a África tras ampliación de deportaciones de Trump"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2pWRWhmdWhsdmRwZndoWklvbHNqWXp5dHVYNzJqVW93aUt6YVY3WDVCSFBFRnUydU1rSGZOOFNkUmNreXJ1cjA1Vk5XMm1YekNoNVpBX29aRmpHT3ZnMXNpYmZVNTVvbDFMelpDa3hsYV9ZS2R0TVZQSHN2OHE2Sk5scm56cjNpWWhnZDhaemFid2JUZnVMUFp5VE1DOF80eEhmeTBULTNlTU9mM1BYNC1IT1ppcnF2?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjdXZHZxaEdQcUxlVy1zbHFZMlItcmdKaG1Vb3BGeUZTTWxtQWlZajczR3NDckVnSlpnOFM5M0tndGVPb3Z4ekI1ZkNHS1lhTm94ZGRmOTdUT0hoUm1XbGRneVVZbE8xY2RHNWZ2MVRTZlZ3c1hsZWdxM3kyekpOOVpQTTV2M3JoMDdSOGt3R0tZaXNnZ2pZS3lJNW1MX3EtR3YzTG50UlpJRXA4T0E?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUEhhSzJkUDMyOERsTXMtbThOdmhnbmJLZXV0Ql9ETncxdy1CRTFMRklad3JLZW9FMGRYY0hOc2kzdS1JSGxSTVZaM21EUlJTRm80d3pNN2FlRjdjelYtZnNSajFab2M4cEFUSmduOGYzRUg0eW53bHFJdGFVWnJrNXFmbUlLMC04YkduczVZSTlQUjNMTWdvRHkxVm81QTRaUlNCeEl2dURZbVVJR0dPOVJpRm9KbnM3Nk1TUF9qRnl6MnBkMnc?oc=5"
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOajJ0V2tnVWpIc2QtQUVvd044YldSNmgyd0lYcW1FV2wzV1IxdGNocExUamMtNUdQZkVlV0tTRVdtSzRPMEVKWWoybTM2SGJOSHcxbENkeEJNb0hoX3FfUmwxNm9GTTJIdVZzemZRY3JYUHlIX1pOZC01ci1EaUJfa1pfQUZ3TERzeVkwUWxKZG1nSVAxV2xVWjJRdUhJSkZzNTZ0c056YlAwemF5dmln?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLWxqRjVhTi0zanVYUl9EdmdCSG0zRlRYeVljNE81R2dOWUZqazFQNDRqRDdiQzdvRnBnTjJWQWM2WGZ5NDNiZjFiUG9NVUFrdnBCZ3hKVHphc0hOOGZ2RG9BVXJUT1pMVko1VV9CVG9kRDhXdWlBOE5KZV9sV2RIeWtDenluMExwZ2pJNjJST3pRaTFX?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Axios",
+        "The Hill"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Rogue House Democrats Golden and Perez face growing push for \"consequences\"",
+        "Golden explains defection on GOP rule: ‘I’m going with the fishermen’"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc1FhQUFOd2RNUUV5NHZRVnlyUktKdlUyMlBIVnFfRVl0a0swcUctdVZMV0hNejM4QnZlWm1VRGFWQ1N0ekcwM0pwNGI5OTlIZ2U1Yk5kR1V3cnQ2Z1dCQkhDbnJkNHh4UEQxV0xfMXRHN2tOTzRjR3pRUFVnMHBZWVVPQWhybHlF?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTHpjNThQYXZ5b19EM1BUa3VoOHkxeXBFd2JuS1UtdWcxTVBmUFhsa05VSUxidmVIMDJfazctU3BYRF9zaElZYnB5Z3h0bTRvWS1vcVRGVlExTGIzZ2NGRTJGaS1YU2JYVWtTTmpfbzd2aHJEZ3BEZ3E0SHRoV2RRZE1XcklRQ2VmNE42dNIBkgFBVV95cUxOOFE2YWF3d2tBalU4dGR3S1d1M2wyLVZFdF95ZnhfTWxocmUzYnBod0pHaTVPaDJsMmhPQVdHMXVFNDYzLXRheTBnMXM2VGhBNGhXaGt0WnNWV2xTZWo2SmdwRjZEeTR1TmVnQnowSXRFUUtOOHZpR0l3M2lQQVc2SHJkdlJ3WDFhREstLUFxNEU4Zw?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Alliance for American Manufacturing",
+        "Daily Nonpareil"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Bipartisan Trade Crimes Bill Passes House Unanimously",
+        "US House passes Hinson bill targeting international trade crimes"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0Y4Yk5HZlFacGtGeFZEMFFPaWotUVRmSk1ENUxXRG44Qk1XQjBHdWh6cHZ4LU1WN0d6OURLZWlwUFQxaDhmdUN4R2xLVEl0Q2tFeVNYMkV6Y05VazJHTk1iUUZtNDRqUkg5dkpqVkdEREp3T1lUNElwY3Q3YzdnWTJIZHZZeEhLNFRBUnhQSVIzZjI4ZGRvb2pHdWluQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaUNWd2ZQS2tpMjZVSzhZcVlOSmt4RzJxWmR5RlhkSjc3ZjNuRnBjX2wxZks1cVlkM1ZLeVlaTEJ0bUEzZzN4dU16Z1ZzLTNOOWN3N2FJcHV6bEk5Um1BUHd0SVF0dTMwT2JwNVFaWFJSX2VKMnhORHF4WjdyMXBJMlpwYWdkb1NlVnpCSWo3NUdFX2pZQnpCalFGMFJ0WW5UcWxkdVNxUlpodTlUWi1acHZ5amhtWmg1?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Axios",
+        "Yahoo"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "House censures Chuck Edwards over \"sexual harassment\" of staff",
+        "Democratic divide deepens as House passes resolution condemning socialism"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXZxeVNRNkJIeHNNU2haYUozX0RyV0tCT0o0NmFBVUFpam9DTXFfS3VQTlJJQzZrN3Y4RWgxbG4wbVhuRXhIb0FmTzMyNVJvVkc0d1kycjRXRG9KVWx5aXp0bXlsSHpQbGlPQ2ZsVVM3NzhVRHU0TE5sYnZPVTVnYjdrclVRMHJyVDBOUm93?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTjh3ZGthNkRVcjluc2VkNzV0SS0tRVdnTFZHZF9uUFlZNHc2eVI3cWVYY1VGNjhIR09QajFMcEJhUlNtNGpYLTN1RUt0bDFoQndVTFFqM0xLYVVyWEFnUkp2TEpyWGd1WE5vZEhtRmNLMEdTRjB6T0tiOUlCb1U5Z1dlNnBKS0NkeE9MZllDX1g?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "AP News",
+        "Reuters"
+      ],
+      "lines": [
+        "wire"
+      ],
+      "titles": [
+        "US oil giant Chevron confirms it will expand operations in Venezuela",
+        "Chevron, KEO Capital, ENI and Primavera to sign energy pacts in Venezuela soon, sources say"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUpHN1lnRWV3ZmJ3dUhndFkwZXpBT2JlT0Z4S0gxU2VCT0pObVVjYVdQYmhjeGVDOVNCaG5qejRNUTE3ZTVnaTdsTEhETFFFZlpwVEpqR29DZTZNUUl4LUVlOWlaeWtCcDlzYUNRUVd0ZmtBX0RBWThudTJHSHJucVFLQXBiN0tPUy1yOVJRWmFiM0x5TVBzbHQ2SzFNRDN1STJqWXY1RUpQeEJRN3UzTnhnaE5HXzBaM190SzNxQmViNnplYUtiYWtB?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "insideradio.com",
+        "The Presidential Prayer Team"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Supreme Court Asked To Step Into Political Ad Rate Fight.",
+        "Supreme Court Rules White House Ballroom Construction may Continue"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcFZVOUxkMFdJU3ZaTDVUejMtQ1NJaWR5NDB3TUVKaGRVd05TMzhZQ0pyMGVoSmRjYVpLQTZsMXNQZFk4ZXhwQnNpNFJmNFFDeThLeUdpZnJNY0stMExoTWRndlczVXU0QUQ2RDlzYnd6YW9KWFd3RWlGWDJvWm9EdjZsMDJOVmVrUTVrbE9SQlBoYTZadEZmdHN4VG9kLW82LVl5b09Vb0J3Vy1feWJIUy1Fc0VqZDl5SUM2aFFvMFgtdFctZWZSbTh6SUxIbkQxdHpJNll3?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeVBjRDB0TUZCeXZYRVV4Zjg0c1B5WkNpWEtnSkdGS09QZjRiQWFEa0hUdVVMamtoR1FvekxJaEtseHdGdkxYT1RINVFWVjFZYzJ3UjU0cFlEODhhQkNfeWxoVmUxLVhRMElLYXBid1I4dkUwQ1JYb0tPWGhtN3FtcXlYWW53YllEd05tbDNHRk1XdFJMUU40VmtleU9vU0huMG50VkZNY1Vnby1mU2NIM3RpZ1JvaXc2?oc=5"
       ]
     }
   ]

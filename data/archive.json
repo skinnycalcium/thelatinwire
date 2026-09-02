@@ -1,6 +1,620 @@
 [
   {
     "es": {
+      "headline": "La economía de Chile se contrae 1,5% en julio, el peor resultado desde 2023",
+      "dek": "El Imacec de Chile cayó 1,5% interanual en julio, su lectura más débil desde marzo de 2023, ante el derrumbe de la minería y el tropiezo de la manufactura.",
+      "body": "La economía de Chile se contrajo 1,5% interanual en julio de 2026, según informó el Banco Central el 1 de septiembre. El Indicador Mensual de Actividad Económica, conocido como Imacec, registró su peor resultado desde marzo de 2023. En términos desestacionalizados, el índice cayó 1,7% respecto a junio y 2,1% en doce meses.\n\nLa minería fue el principal responsable del daño. El sector retrocedió 9,3% interanual, golpeado por leyes de mineral más bajas, mantenciones programadas y mal tiempo que interrumpió la producción de cobre. La producción de bienes en su conjunto cayó 3,2% anual. La manufactura sumó más presión al bajar 3,1% interanual, mientras la producción de combustibles y químicos sufrió las mismas interrupciones provocadas por el clima.\n\nLa economía no minera ofreció poco alivio. Ese subíndice disminuyó 0,3% interanual y 0,5% mensual en términos desestacionalizados. El comercio fue el único punto positivo, con un crecimiento de 0,7% interanual, aunque igual retrocedió 1,4% respecto a junio.\n\nEl resultado de julio profundiza un patrón preocupante. Según AmericaEconomica, el Imacec ha registrado caídas interanuales en seis de los primeros siete meses de 2026. El crecimiento de 2,4% de junio es el único mes positivo en ese tramo.\n\nEl panorama no mejora. El economista jefe de Scotiabank Chile, Jorge Selaive, advirtió que están dadas las condiciones para otra contracción desestacionalizada en el tercer trimestre de 2026. Los trabajadores de las comunidades mineras y los centros manufactureros enfrentan la exposición más directa si la caída continúa durante el resto del año.",
+      "perspectives": [
+        {
+          "who": "Jorge Selaive, economista jefe de Scotiabank Chile",
+          "position": "Advirtió que están dadas las condiciones para otra contracción desestacionalizada en el tercer trimestre de 2026."
+        }
+      ]
+    },
+    "id": "2026-09-02-12155a1+1kpc",
+    "section": "business",
+    "rank": 0,
+    "writer": "calderon",
+    "headline": "Chile's economy contracts 1.5% in July, worst result since 2023",
+    "dek": "Chile's Imacec fell 1.5% year-on-year in July, its weakest reading since March 2023, as mining collapsed and manufacturing stumbled.",
+    "body": "Chile's economy shrank 1.5% year-on-year in July 2026, the Central Bank reported September 1. The Monthly Economic Activity Indicator, known as Imacec, posted its worst result since March 2023. On a seasonally adjusted basis, the index fell 1.7% from June and 2.1% over twelve months.\n\nMining drove the damage. The sector dropped 9.3% year-on-year, hit by lower ore grades, scheduled maintenance, and bad weather that disrupted copper output. Goods production overall fell 3.2% annually. Manufacturing added to the pain, sliding 3.1% year-on-year as fuel and chemical output suffered the same weather-related disruptions.\n\nThe non-mining economy offered little cushion. That sub-index declined 0.3% year-on-year and 0.5% month-on-month in seasonally adjusted terms. Commerce was the lone bright spot, growing 0.7% year-on-year, though it still fell 1.4% compared to June.\n\nThe July result deepens a troubling pattern. According to AmericaEconomica, the Imacec has now recorded year-on-year declines in six of the first seven months of 2026. June's 2.4% growth stands as the only positive month in that stretch.\n\nThe outlook is not improving. Scotiabank Chile chief economist Jorge Selaive warned that conditions are in place for another seasonally adjusted contraction in the third quarter of 2026. Workers in mining communities and manufacturing hubs face the most direct exposure if the slide continues through the rest of the year.",
+    "facts": "Chile's Central Bank reported on September 1, 2026 that the Monthly Economic Activity Indicator (Imacec) fell 1.5% year-on-year in July 2026, its worst performance since March 2023. The seasonally adjusted series dropped 1.7% from June and 2.1% over twelve months. Mining was the primary driver of the contraction, with the sector falling 9.3% year-on-year, hurt by lower ore grades, maintenance work, and adverse weather conditions that also disrupted copper production. Goods production overall fell 3.2% annually. The non-mining Imacec also declined, falling 0.3% year-on-year and 0.5% month-on-month in seasonally adjusted terms. The manufacturing sector fell 3.1% year-on-year, with the Central Bank citing a drop in fuel and chemical production linked to the bad weather. Commerce was one of the few bright spots, growing 0.7% year-on-year, though it fell 1.4% compared to June. According to AmericaEconomica, the Imacec has now registered year-on-year declines in six of the first seven months of 2026, with June's 2.4% growth being the sole positive month. Scotiabank Chile's chief economist Jorge Selaive warned that the conditions are set for another seasonally adjusted contraction in Q3 2026.",
+    "perspectives": [],
+    "location": "Chile",
+    "when": "Sep 1",
+    "sources": [
+      {
+        "outlet": "eldesconcierto.cl",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb1RWbWtIS3JRMFhUcmV2aEZnZnpRSW80a0FzUGtCLUpKYnJRdENNOXBvdWJIanowM0lFZHFXT0c1MzVfQV8xclRUaGdUZFkxdXhCNXRrRE9UUjYwb3ZCcnVyVkk5bEx1dmNHTHZ6Wm8zNUlvNGd0WVZCZU1walQzc0l0SFltWVFjQkV6dEc3NG9nVVlXWW9XWWVEVWM0WEtvQmd6NHgyODlTTjVVSDJpM3hFT1hnZjJVaTBWYXdIMzY1YjlidV9HNVBR?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "Perfil",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON0NzUk41eEZrVmZ3Z01YdWFFeGZLVFRmZHY5RTQ0R3dfUHkteURLcnVJbzI4UzdFZzFkbkRwNkZGTGV1NHl2dTJURUticmhCVDFNcVZMS1dyd2JxWW84N3FRb2RqeDR3WFhJbDRMR1Z0SHpQcWRkb3RZR1dGakhlSExPdXV6REVXWUMzanNxdmtJcExEM0dzNXBDQ205bXJUbHRHeFhkMkw1QVNOaXFnbm5RQ29QWHF3Qm03ejFXUWNvUjhIYkoyRjh5ODdHTzVyWnVEVUZmN0ZQZlHSAeABQVVfeXFMTmtjZmNrYjNrR1lEZ3NQUkV5bHhjQmNkaXdlRk5iejN0UjBEMVgzZnk1b2JiN1loVGdlUWZmWnhwanZpSGtZZnlxM3hNbG0yd080MUo1WmF1SWJTc09oYmo4Qm96eDRhQlpQU2x6SmZyTXVhRktQY2wyNnJDeEdxb3o2M2ZyMHpWcGJ5NkdxYW5kRE1Id3pHV3RJSnVxTmhwQXBqajJUQjZBYUxHWDJUd00wNUNEZWsyODFfV0ZHY1prajREV09KUll4bmxxM2FlSU03OU95MEtfYVUtME1mQWg?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "BioBioChile",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNV3lVYkF0N21nM3dpb1RBZU9BVm13c3EtdmdDQW52V1hGY3FUaUZVNXRBMm9jb2p0ZnFReVJrZlZjQ05IZldNT1R1MUh3R09XTUpxYVFZNkk0RnZSeEpGWmJrUXFiYVdJVFUyQ1FKUnRUZEFFWTNqS0dBM0JlUV9TYS11WW9PRk1WbXNlTjdZLUpRMEpDR09KSlVuYkZjY2xnQ3FoUkJnNk5wM2Fva1lEYnVNZDNieGlWMzV5Rm5kV29KMlhYdXF1b2Ewam05bU9LM3NuVTBsYjExSjZuMTZsMXQ1dGVwbnpJUE5lT3B4NA?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "Minería en Línea",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTNBNkhTNXc5MXVYTjdSa2Q2OXNLdThmYzZjY3NPRFpfTjRybTdCQW1DWTBkM2h3NjhzX0xmVWdaV1FpVnJMTnFRenM5cWpDWjlHVmNpX3g3cHpRZjQ3eHhYNW81RERDMHJHLVdmUjZVWm94c0dUbUJrTzh3b0xXZV8wQy1hcVhuTHB1aXpyOE1wbmRQS21XOWl5NWowdk45cWFCMWZB?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788366554452
+  },
+  {
+    "es": {
+      "headline": "Inter Miami ficha al extremo brasileño Riquelme Fillipi, de 19 años, procedente del Palmeiras",
+      "dek": "Inter Miami se hace con el extremo brasileño Riquelme Fillipi, de 19 años, procedente del Palmeiras, por hasta $6 millones hasta 2030.",
+      "body": "Inter Miami CF pagó entre $4.2 millones y $6 millones para adquirir el 60 por ciento de los derechos económicos de Riquelme Fillipi del Palmeiras, anunció el club el 2 de septiembre de 2026. El extremo brasileño, nacido el 15 de septiembre de 2006 en Santo André, tiene contrato hasta la temporada 2029-30, con una opción del club para 2030-31.\n\nFillipi, extremo izquierdo, anotó 30 goles en 80 partidos con el equipo sub-20 del Palmeiras y realizó 11 apariciones con el primer equipo. También representó a Brasil en el Mundial Sub-17 de la FIFA 2023, donde la Seleção llegó a los cuartos de final.\n\nEl fichaje cubre el hueco dejado por Tadeo Allende, cuya lesión que lo dejó fuera de temporada activó una excepción de reemplazo por lesión de la MLS. Esa excepción permite a los clubes incorporar a un jugador fuera de la ventana normal de congelación de plantilla, que cierra el 9 de octubre de 2026. Sin ella, Inter Miami no habría podido moverse por Fillipi tan tarde en la ventana.\n\nFillipi ocupa una plaza de la Iniciativa Sub-22 y una plaza de jugador internacional en la plantilla del Miami. Es el tercer fichaje internacional del club en la ventana de transferencias de verano.\n\nCon 19 años, Fillipi llega con escasa experiencia en el fútbol senior pero con un sólido historial en categorías juveniles. Inter Miami esperará que contribuya en el flanco izquierdo de inmediato, dada la falta de profundidad generada por la ausencia de Allende. La rapidez con que se adapte a la intensidad de la MLS determinará su tiempo de juego en los primeros compases.",
+      "perspectives": [
+        {
+          "who": "Inter Miami CF",
+          "position": "El club considera que Fillipi cubre una necesidad urgente en el flanco izquierdo tras la lesión de Allende y apuesta por su potencial a largo plazo a través de 2030."
+        },
+        {
+          "who": "Riquelme Fillipi",
+          "position": "El joven extremo llega con un destacado historial en categorías juveniles y experiencia en un Mundial Sub-17, pero deberá demostrar que puede rendir a nivel senior en la MLS."
+        }
+      ]
+    },
+    "id": "2026-09-02-1bl4stb+1rbu",
+    "section": "sports",
+    "rank": 3,
+    "writer": "calderon",
+    "headline": "Inter Miami sign 19-year-old Brazilian winger Riquelme Fillipi from Palmeiras",
+    "dek": "Inter Miami land 19-year-old Brazilian winger Riquelme Fillipi from Palmeiras for up to $6 million through 2030.",
+    "body": "Inter Miami CF paid between $4.2 million and $6 million to acquire 60 percent of Riquelme Fillipi's economic rights from Palmeiras, the club announced September 2, 2026. The Brazilian winger, born September 15, 2006, in Santo André, is under contract through the 2029–30 season, with a club option for 2030–31.\n\nFillipi, a left winger, scored 30 goals in 80 matches for Palmeiras's under-20 side and made 11 appearances with the first team. He also represented Brazil at the 2023 FIFA U-17 World Cup, where the Seleção reached the quarterfinals.\n\nThe signing fills a gap left by Tadeo Allende, whose season-ending injury triggered an MLS injury-replacement exception. That exception lets clubs add one player outside the normal roster freeze window, which closes October 9, 2026. Without it, Inter Miami could not have moved for Fillipi this late in the window.\n\nFillipi takes up a U22 Initiative spot and an international roster spot on the Miami squad. He is the club's third international signing of the summer transfer window.\n\nAt 19, Fillipi arrives with modest senior experience but a strong youth record. Inter Miami will expect him to contribute on the left flank immediately, given the depth problem created by Allende's absence. How quickly he adapts to MLS intensity will determine his early playing time.",
+    "facts": "Inter Miami CF announced on September 2, 2026, the signing of Brazilian winger Riquelme Fillipi from Palmeiras of the Brazilian Série A. Fillipi, born September 15, 2006 in Santo André, Brazil, is 19 years old and plays as a left winger. The deal covers 60 percent of the player's economic rights, with a transfer fee reported variously at $4.2 million to $6 million depending on the source. Fillipi will be under contract with Inter Miami through the 2029–30 season, with an option for 2030–31. He will occupy U22 Initiative and international roster spots. At Palmeiras, Fillipi made 11 first-team appearances and scored 30 goals in 80 matches for the club's under-20 side. He also represented Brazil at the 2023 FIFA U-17 World Cup, where Brazil reached the quarterfinals. The signing is partly facilitated by a season-ending injury to Inter Miami winger Tadeo Allende; MLS rules allow one injury-replacement signing per season, and the roster freeze deadline is October 9, 2026. Fillipi is Inter Miami's third international signing of the summer transfer window.",
+    "perspectives": [],
+    "location": "Fort Lauderdale",
+    "when": "Sep 2",
+    "sources": [
+      {
+        "outlet": "mlssoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc0dXU3BMTXJib3hjRXRyMVY0UzFEMTgya0hpby1qd3VOaXJabExFa3RuRk50LUxPaE1rQTA0a2Z1NXRjdk1QMkt1empwQXUtQXJFcVpwUWk1czVwSEdDbVdNd21tMlg2RHM2Ylkxa1BXTzNtV0JTN1dhNUEtbTFRNzZjRFpKZHpKWVE?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "Inter Miami CF",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZXgyTHJDRWtwcW9NN2llcEM3T0NqcmtWVXFWWTZ4Ry1aVjVvMnE0Z2RBQ05INUV2YldCczBNSGdYc210R0FaZ2gyQnRCZ3JlSkZxQnJnX1NBU2ZRWGUzMkxsb0VhMmNDVnc3a1RFZFgxZGtERXIwamFFZjAta2ZyVDhaa2paMUc4MmxvQm1QbWd5dw?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "World Soccer Talk",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOamxZVGluOTF3RHh4RzZ4YVhuWVE5RDZHdDloenhEcUVsekVQb3F5b0V0aGVnX2FGbHNLMDFoZm9JdUt3V3hocGhZYS0zVFd0YmM5Wk0yLVVtN29PandtRGVwVl84c0s4OWZ6MVpnU2V4U0tjYk5nUVFBLUpnd2xMY2N6Wkp2a2JZbDhTVEllWGhSd3hUWmZFQ3QzR05VVW10R0taSFlJeDdBZHVNaHdmZThRam5fSzEwcjFpd1NyaVktRUxDZHVpNVhMd1V1UFZpQUllNmdsOTJMbk83NHfSAd4BQVVfeXFMTmpsWVRpbjkxd0R4eEc2eGFYbllROUQ2R3Q5aHp4RHFFbHpFUG9xeW9FdGhlZ19hRmxzSzAxaGZvSXVLd1d4aHBoWWEtM1RXdGJjOVpNMi1VbTdvT2p3bURlcFZfOHNLODlmejFaZ1NleFNLY2JOZ1FRQS1KZ3dsTGNjelpKdmtiWWw4U1RJZVhoUnd4VFpmRUN0M0dOVVVtdEdLWkhZSXg3QWR1TWh3ZmU4UWpuX0sxMHIxaXdTcmlZLUVMQ2R1aTVYTHdVdVBWaUFJZTZnbDkyTG5PNzR3?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788366554452
+  },
+  {
+    "es": {
+      "headline": "Paredes no tiene claro su futuro con Argentina tras la suspensión y el retiro de Messi",
+      "dek": "Una suspensión de 10 partidos impuesta por la FIFA y el retiro internacional de Lionel Messi llevan a Leandro Paredes a cuestionarse si volverá a jugar con Argentina.",
+      "body": "Leandro Paredes, de 32 años, dice que le será difícil seguir jugando con Argentina después de que la FIFA le impusiera una suspensión de 10 partidos por su conducta al término de la final del Mundial 2026.\n\nLa sanción tiene su origen en el pitazo final de la derrota de Argentina 1-0 ante España en el New York/New Jersey Stadium el 19 de julio. Cuando los suplentes españoles irrumpieron en el campo para celebrar, Paredes empujó al suelo al mediocampista Gavi y agarró por el cuello al defensor Eric Garcia. La FIFA lo acusó de tres cargos de agresión y lo multó con $90,000. Su compañero Nahuel Molina recibió dos cargos de agresión y la misma multa de $90,000.\n\nEn declaraciones a medios argentinos el 2 de septiembre, Paredes agregó una segunda razón para su incertidumbre: el retiro de Lionel Messi del fútbol internacional. \"Me va a ser difícil seguir en la selección\", afirmó. Todavía no habló con el entrenador Lionel Scaloni, pero espera que esa conversación ocurra antes de tomar una decisión definitiva.\n\nEl momento es complicado para el esquema argentino. Scaloni ya puso en duda su propio futuro más allá de diciembre. El defensor Nicolás Otamendi confirmó su retiro internacional tras la final. Argentina tiene programados dos amistosos en septiembre, aunque la Asociación del Fútbol Argentino no había confirmado los rivales al momento de las declaraciones de Paredes.\n\nLa suspensión de 10 partidos deja a Paredes prácticamente fuera de un tramo importante de las eliminatorias o de partidos competitivos cuando regrese, lo que hace que su decisión sea algo más que simbólica. Con Messi retirado, Otamendi fuera y el futuro de Scaloni en el aire, Argentina atraviesa una transición profunda, y Paredes todavía está decidiendo si forma parte de ella.",
+      "perspectives": [
+        {
+          "who": "Leandro Paredes",
+          "position": "Dice que le será difícil seguir en la selección argentina tras la suspensión de la FIFA y el retiro de Messi, y espera hablar con Scaloni antes de decidir."
+        },
+        {
+          "who": "Lionel Scaloni",
+          "position": "Ya puso en duda su propio futuro como entrenador de Argentina más allá de diciembre."
+        },
+        {
+          "who": "Nicolás Otamendi",
+          "position": "Confirmó su retiro internacional tras la final de la Copa del Mundo."
+        }
+      ]
+    },
+    "id": "2026-09-02-1bpz8e5+d3hb",
+    "section": "sports",
+    "rank": 2,
+    "writer": "calderon",
+    "headline": "Paredes uncertain on Argentina future after ban and Messi retirement",
+    "dek": "A 10-match FIFA ban and Lionel Messi's international retirement have Leandro Paredes questioning whether he will ever play for Argentina again.",
+    "body": "Leandro Paredes, 32, says it will be difficult to keep playing for Argentina after FIFA handed him a 10-match suspension for his conduct following the 2026 World Cup final.\n\nThe ban stems from the final whistle of Argentina's 1-0 loss to Spain at New York/New Jersey Stadium on July 19. When Spain's substitutes rushed the pitch to celebrate, Paredes shoved midfielder Gavi to the ground and grabbed defender Eric Garcia by the throat. FIFA charged him with three counts of assault and fined him $90,000. Teammate Nahuel Molina received two assault charges and the same $90,000 fine.\n\nSpeaking to Argentine media on September 2, Paredes added a second reason for his uncertainty: Lionel Messi's retirement from international football. \"It's going to be difficult for me to stay with the national team,\" he said. He has not yet spoken with coach Lionel Scaloni but expects that conversation to happen before he makes a final call.\n\nThe timing is awkward for Argentina's setup. Scaloni has already cast doubt on his own future beyond December. Defender Nicolas Otamendi confirmed his international retirement after the final. Argentina are scheduled for two September friendlies, though the Argentine Football Association had not confirmed opponents as of Paredes's statement.\n\nThe 10-match ban effectively sidelines Paredes for a significant stretch of qualifying or competitive fixtures whenever he does return, making his decision more than symbolic. With Messi gone, Otamendi retired, and Scaloni's status unclear, Argentina are navigating a broad transition — and Paredes is still deciding whether he is part of it.",
+    "facts": "Argentina midfielder Leandro Paredes, 32, said on September 2, 2026, that it will be difficult to continue playing for the national team after receiving a 10-match suspension from FIFA for his role in a brawl following the 2026 World Cup final defeat by Spain. The altercation occurred at the final whistle of Argentina's 1-0 loss to Spain at New York/New Jersey Stadium on July 19, 2026, when Paredes shoved Spain midfielder Gavi to the ground and grabbed Spain's Eric Garcia by the throat as Spain's substitutes rushed onto the pitch to celebrate. Paredes faced three assault charges and was fined $90,000; teammate Nahuel Molina faced two assault charges and was also fined $90,000. Paredes also cited Lionel Messi's retirement from international football as a second reason weighing on his decision, telling Argentine media: \"It's going to be difficult for me to stay with the national team.\" Paredes said he had not yet spoken with coach Lionel Scaloni about his future but expected to do so before making a final decision. Scaloni himself had previously cast doubt on his own continuity beyond December, and fellow defender Nicolas Otamendi confirmed his international retirement after the final. Argentina are scheduled to play two friendlies in September, though their opponents had not yet been confirmed by the Argentine Football Association.",
+    "perspectives": [],
+    "location": "Argentina",
+    "when": "Sep 2",
+    "sources": [
+      {
+        "outlet": "talksport.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPXzB3cjNGM29iakVOM29SSjU1bVNHZEJseWtMeExHaVFoRWkxZkVaWXVXaVhvalUtd3FZT1NOYVd2NmV1Q0lxOE02WEU2MnJmcXItb3U5UjRDcnppemhSWWdrVG5ObWtZN2QxYW9XVkFub1NRYjJpV25vSHQxNkRFT0Y5TXZkOWZteW45M1I4NVozbFlpRDZsQlNBYVJIdGJPT3c5SUFCVVJ2dw?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5UFNxY0x2UFEtdG5tVjF4NkpIenRuZ2c3ek10aWVpYUFZcUdKOHlXN3lfTW9KV1hfTDRrbzlBNXgzOTR5OUl2eThLd3l0Q0tXdGJvcmh5Mlp3djFSb1F6Sk1rbXUwWlU?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd3NtX1V2SmpRaFQzQTZacDlucThCZnVRSC1qMURoSFZkY0tJOGNxaWVWaXNCTThQbktING1xY19mMjBvTkhuclFKZm1oaERhTEM4LTJhTWlvODBZdWtBZ2U4LTg1VVJhd2ZaWGFKVTh5TG9LODkxQWtlWVhFOTc0cl9fNksxNndYVlpkN25GbDAwN1ZSS0l2MGpudUNyRzJxci1fazhUdDRZQUxXb3hLVzQwZzZsZVF2c01LblRjUQ?oc=5",
+        "line": "wire"
+      }
+    ],
+    "published": 1788366554452
+  },
+  {
+    "es": {
+      "headline": "Félix Pago recauda $200 millones para expandirse más allá de las remesas",
+      "dek": "La fintech de Miami cerró un paquete de $200 millones el 1 de septiembre de 2026 para ir más allá de las transferencias de dinero y adentrarse en préstamos, ahorros y herramientas de inteligencia artificial.",
+      "body": "Félix Pago, con sede en Miami, captó $200 millones el 1 de septiembre de 2026 para impulsar su servicio de remesas por WhatsApp hacia nuevos productos financieros dirigidos a inmigrantes latinoamericanos en todo Estados Unidos.\n\nEl paquete se divide en $87 millones en capital accionario, liderado por Andreessen Horowitz y acompañado por QED Investors, Castle Island Ventures y Switch Ventures, más una línea de crédito de $113 millones del Customer Value Fund de General Catalyst. La línea de crédito le da a Félix la solidez de balance para lanzar productos de préstamo.\n\nFélix opera a través de WhatsApp: los usuarios escriben o envían una nota de voz a un chatbot, y la transferencia se liquida en el backend usando la stablecoin USDC de Circle. La empresa afirma haber procesado más de $8 mil millones en 11 países de América Latina y contar con más de 6 millones de usuarios. Los ingresos crecieron 2.5 veces durante el último año.\n\nEl nuevo capital financiará la expansión hacia Brasil, Venezuela, Colombia, Ecuador y Perú, además de los nueve corredores ya existentes. Félix también desarrollará productos de préstamos y ahorros usando los datos de transacciones ya recopilados de sus clientes de remesas, y planea lanzar un asistente financiero de inteligencia artificial al que llama compañero financiero cognitivo.\n\nEl CEO Manuel Godoy, inmigrante venezolano y graduado de Caltech y Wharton, cofundó la empresa en 2020 junto al COO Bernardo García, ciudadano mexicano y también graduado del MBA de Wharton. Su propuesta es que los millones de inmigrantes que ya confían en Félix para enviar dinero representan un mercado listo para servicios bancarios más amplios, sin necesidad de visitar una sucursal.",
+      "perspectives": [
+        {
+          "who": "Manuel Godoy, CEO de Félix Pago",
+          "position": "Los inmigrantes que ya confían en Félix para las transferencias de dinero son un mercado disponible para servicios bancarios más amplios, sin necesidad de visitar una sucursal."
+        },
+        {
+          "who": "Andreessen Horowitz",
+          "position": "Lideró la ronda de capital accionario de $87 millones, apostando por el modelo de Félix Pago para expandir servicios financieros a inmigrantes latinoamericanos vía WhatsApp."
+        },
+        {
+          "who": "General Catalyst (Customer Value Fund)",
+          "position": "Aportó una línea de crédito de $113 millones para darle a Félix Pago la capacidad de balance necesaria para lanzar productos de préstamo."
+        }
+      ]
+    },
+    "id": "2026-09-02-1com40q+30hw",
+    "section": "business",
+    "rank": 1,
+    "writer": "calderon",
+    "headline": "Félix Pago raises $200 million to expand beyond remittances",
+    "dek": "The Miami fintech closed a $200 million package on September 1, 2026, to move beyond money transfers into lending, savings, and AI tools.",
+    "body": "Miami-based Félix Pago pulled in $200 million on September 1, 2026, to push its WhatsApp remittance service into new financial products for Latin American immigrants across the United States.\n\nThe package splits into $87 million in equity, led by Andreessen Horowitz and joined by QED Investors, Castle Island Ventures, and Switch Ventures, plus a $113 million credit facility from General Catalyst's Customer Value Fund. The credit line gives Félix the balance-sheet muscle to launch lending products.\n\nFélix works through WhatsApp: users type or send a voice note to a chatbot, and the transfer settles on the backend using Circle's USDC stablecoin. The company says it has processed more than $8 billion across 11 Latin American countries and now counts more than 6 million users. Revenue grew 2.5-fold over the past year.\n\nThe fresh capital funds expansion into Brazil, Venezuela, Colombia, Ecuador, and Peru on top of the existing nine corridors. Félix will also build lending and savings products using transaction data already collected from remittance customers, and it plans to roll out an AI financial assistant it calls a cognitive financial companion.\n\nCEO Manuel Godoy, a Venezuelan immigrant and Caltech and Wharton graduate, co-founded the company in 2020 alongside COO Bernardo García, a Mexican national and fellow Wharton MBA graduate. Their pitch is that millions of immigrants who already trust Félix for money transfers are a ready market for broader banking services — no branch visit required.",
+    "facts": "Miami-based fintech Félix Pago raised $200 million in a funding package announced September 1, 2026, to expand its WhatsApp-based stablecoin remittance service into lending, savings, and AI-powered financial tools for Latin American immigrants in the United States. The package comprises $87 million in equity led by Andreessen Horowitz (a16z), with QED Investors, Castle Island Ventures, and Switch Ventures also participating, plus a $113 million credit facility from General Catalyst's Customer Value Fund. Félix was founded in 2020 by Manuel Godoy, a Venezuelan immigrant and Caltech and Wharton graduate who serves as CEO, and Bernardo García, a Mexican national and fellow Wharton MBA graduate who serves as COO. The company lets users send money to Latin America by typing or sending voice notes to a WhatsApp chatbot, with transactions settled on the backend using Circle's USDC stablecoin. Félix says it has processed more than $8 billion in remittances across 11 Latin American countries and that its user base has surpassed 6 million, with revenue growing 2.5-fold over the past year. The new funds will support expansion into Brazil, Venezuela, Colombia, Ecuador, and Peru, in addition to the company's existing nine corridors. Félix plans to introduce lending and savings products built on transaction data from existing remittance customers, as well as an AI financial assistant it describes as a cognitive financial companion.",
+    "perspectives": [],
+    "location": "Miami",
+    "when": "Sep 1",
+    "sources": [
+      {
+        "outlet": "Bonik Barta",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Udk40dHdKd3pNUE9nakhqNGZEV1BxUVN2V0t2RTBJRmVELV83ZUdkYjBmRjNIcTd3VGROMExncG5UY2VRbmEyX1JGaS1aTjNqUnNITHV2c1lkbHJkc1FyYUE4Yw?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VRVdCVVV5Sm9TY3RXb3VRU19mQzRwRXdkeHpneUZWM0FnQzJtOGxvMU9LWjMtNXo3aE5yUmdiVzBYb3hJcWlPZk9EXzhlLWxyVV9kb1Y3R09mUFlyQnFSTUtZUjlQVjdPeExHNWk2N0VhaFdIQUE?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "PYMNTS.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGhrakVFUENod2JHc29ZNHp5V0xFYjUzblQxRkd3SE9EOUZOeHF5ZDE3X2V2S1gzSkdyZmh6UlYwYmFBbjhRMFE0N21PWlZtODRMbGFhNXdERDVrR0hlSWZFQUgxOHU5ZUY0OWV3OFNfWWJiZDd2ckNrRmxmVVdGNlBnZDVGRWttWUhyY0hmMVJfb0kyeXFtUzFNeDRRbUtiRWhBdG5wVVdnQkk?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "Dealroom",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLWpzMHhoTzJIUDFndkZ5Zk52YlZoRG1mb28yWHFDbTJ1MFdQRHV4aXdqZDJZMk5kVmZJMUd6V1VUMk5SUHBVQXpraHJJUHduOTA3eGdCZFBjT09yZnJKbUwwLVhmQnJMZTVzVGxmSkU1TGd4Mm1oenB3cDJJSlN5S2dER2tZUDF0SW5z?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788366554452
+  },
+  {
+    "es": {
+      "headline": "Banco central de Brasil planea medidas de capital para frenar los riesgos del crédito a los hogares",
+      "dek": "El banco central de Brasil avanza hacia reglas de capital más estrictas para los prestamistas mientras el servicio de la deuda de los hogares alcanza un récord del 26.6% del ingreso.",
+      "body": "El banco central de Brasil anunció el miércoles 3 de septiembre que está preparando medidas para frenar el crédito de alto costo a los hogares, después de que los costos del servicio de la deuda alcanzaran un récord del 26.6% del ingreso, excluyendo hipotecas, en junio de 2026, en comparación con el 25.7% de finales de 2025.\n\nEl banco reveló los planes a través de las minutas de su más reciente reunión del Comité de Estabilidad Financiera, señalando que las medidas buscan acumular capital de manera gradual y crear condiciones de endeudamiento más sostenibles. No ofreció detalles específicos sobre plazos ni forma.\n\nFuentes familiarizadas con el asunto indican que los responsables de política económica están evaluando herramientas del lado de los prestamistas: mayores requisitos de capital y reservas, ponderaciones de riesgo más altas en ciertos préstamos y posibles cambios al colchón de capital anticíclico, conocido como CCyB. El banco central mantuvo el CCyB en 0% en su reunión más reciente, pero ha advertido desde el año pasado que un aumento está en consideración. Un límite directo al servicio de la deuda de los hogares se contempla como una opción posterior, no como el primer paso.\n\nEl presidente del banco central, Gabriel Galípolo, ha señalado el volumen de crédito y la combinación de productos —no las tasas de interés por sí solas— como los principales factores del creciente endeudamiento. Ha destacado los préstamos sin garantía y las tarjetas de crédito como sus mayores preocupaciones. La federación bancaria de Brasil, Febraban, reconoció a finales de agosto de 2026 que los bancos promovieron ofertas de crédito con demasiada agresividad mientras la deuda y la morosidad de los hogares aumentaban.\n\nLos deudores que cargan saldos en tarjetas y préstamos personales serían quienes más sentirían el impacto directo si los prestamistas endurecen sus criterios o elevan las tasas para compensar los mayores costos de capital. Los bancos enfrentan un entorno regulatorio más exigente por delante. El banco central no ha fijado una fecha para las decisiones finales.",
+      "perspectives": [
+        {
+          "who": "Gabriel Galípolo, presidente del banco central de Brasil",
+          "position": "El volumen de crédito y la combinación de productos —no las tasas de interés por sí solas— son los principales impulsores del creciente endeudamiento, con los préstamos sin garantía y las tarjetas de crédito como las mayores preocupaciones."
+        },
+        {
+          "who": "Febraban, federación bancaria de Brasil",
+          "position": "Reconoció que los bancos promovieron ofertas de crédito con demasiada agresividad mientras la deuda y la morosidad de los hogares aumentaban."
+        }
+      ]
+    },
+    "id": "2026-09-02-1l4tg3c+1l5m",
+    "section": "business",
+    "rank": 3,
+    "writer": "calderon",
+    "headline": "Brazil central bank plans capital measures to curb household credit risks",
+    "dek": "Brazil's central bank is moving toward stricter capital rules for lenders as household debt service hits a record 26.6% of income.",
+    "body": "Brazil's central bank announced Wednesday, September 3, that it is preparing measures to rein in high-cost household credit, after debt service costs hit a record 26.6% of income excluding mortgages in June 2026, up from 25.7% at the end of 2025.\n\nThe bank disclosed the plans through minutes of its latest Financial Stability Committee meeting, saying the measures aim to build capital gradually and create more sustainable borrowing conditions. It gave no specific details on timing or form.\n\nSources familiar with the matter say policymakers are weighing lender-side tools: higher capital and reserve requirements, steeper risk weights on certain loans, and possible changes to the countercyclical capital buffer, known as the CCyB. The central bank held the CCyB at 0% at its most recent meeting but has flagged since last year that a hike is under consideration. A direct cap on household debt service is seen as a later option, not the first move.\n\nCentral bank chief Gabriel Galípolo has pointed to credit volume and product mix—not interest rates alone—as the main drivers of rising indebtedness. He has singled out unsecured lending and credit cards as the sharpest concerns. Brazil's banking federation Febraban acknowledged in late August 2026 that banks pushed credit offers too aggressively as household debt and delinquency climbed.\n\nBorrowers carrying card balances and personal loans stand to feel the most direct impact if lenders tighten standards or raise rates to offset higher capital costs. Banks face a tougher compliance environment ahead. The central bank has not set a date for final decisions.",
+    "facts": "Brazil's central bank announced on Wednesday, September 3, that it is preparing measures to address the increasing share of high-cost credit products in household debt. According to the minutes of its latest Financial Stability Committee meeting, the measures are designed to promote gradual capital accumulation and more sustainable credit conditions for borrowers. The bank did not provide specific details about the nature or timing of the planned measures. Brazil's ratio of household debt service to income excluding mortgages reached a record 26.6% in June 2026, up from 25.7% at the end of 2025, according to central bank data. Sources familiar with the matter said policymakers are considering lender-side measures such as higher capital and reserve requirements, steeper risk weights, and possible changes to the countercyclical capital buffer (CCyB), before any cap on household debt service. The central bank kept the CCyB at 0% at its most recent meeting but has signaled since last year that it is considering raising the requirement. Central bank chief Gabriel Galípolo has warned that more credit volume and type—not interest rates alone—explains rising household indebtedness, highlighting costly unsecured lending and credit cards as particular concerns. Brazil's banking federation Febraban acknowledged in late August 2026 that banks overdid credit offers as household indebtedness and delinquency climbed.",
+    "perspectives": [],
+    "location": "Brazil",
+    "when": "Sep 2",
+    "sources": [
+      {
+        "outlet": "Investing.com Australia",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdGtaUWtNXzRRdnJrU19JaE05VmJ0VWxGN1BKbGpvMGEtYkF0bHlpRlRITzNXLTYtcU9XZGlHUWgwSXdEU1RNLWdreFJZU2xOWG45dUdVdFctblh0dDJuMllaNXN3cHlCNnhSc05LaEF5OFhtbS1QdjV4MENfR0NMbjFMUlpYaHBhXzNiVUJPaGZXeFk2ZWMtYm1teUZrcmk3SVpMNUdBLWRrTzZFR1V3RlhMeVVOTzBKcG44eXRheU5uQWc?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbnlDSGZ3UURhUnV3VWgwbEkycllPRlFuMVhhR1dhR0o0MjR4aXd1WEZ2WlRVMTFJakNwZUdkVi1YNDZraURXR2RqNllxdnJwZXpMd2RMMDZ6ZUs5S3JhRXd5d1lWdUl1SWh5Y2w4eFhNcFJGWFhiMnc0NjdhTVF2bG1COFdpcjFoRi1FU2JBRUZuVkthQVJfdzI4YjVtZWZwSEczUzJWbVQ3aGVKLTh6SDNoNE1DS1R3ek04V0cySExiTElmeUxN?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "tradingview.com",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVmRvT0R3Z3BfWk5SSXRyVnlLRUpyb2xlUmYtVWtVTlFFRW1xTzdDVC1Qd2RKUllwaXpHdi1pQ2w4el9SUmIxREk2RDFEYVhXcERJZDBKemwwaUQxcWJnN2xJMXpYOTI1UmZHSk1PUlFCajhwT1pNUWR0R2tSaWJpdWdxTmQ4dmFrdUhYRUJ4X1JWNk5tbjJ3Y2pyX0tTSE51YkhoMnFkbTk1WDRuOEg2RjUyTVBmVDlBVkNXSmVLN2thVnBrT3hmQUUxU1Bfb0xYdWkwdG5NYjV4YXUwMnc?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788366554452
+  },
+  {
+    "es": {
+      "headline": "La selección mexicana le roba el médico del equipo al Club Puebla",
+      "dek": "El Club Puebla pierde a su médico jefe ante la selección mexicana justo cuando se acumulan las lesiones, y Alfredo Talavera revela por qué Márquez no lo eligió.",
+      "body": "El Club Puebla está buscando reemplazar a su jefe médico tras la partida del Dr. Arturo Alcalde Santerbas, quien se unió al cuerpo médico de la selección mexicana. Alcalde había dirigido el departamento médico del club por más de tres años, fungiendo como médico del primer equipo desde el torneo Apertura 2023 y a través de varios cambios de entrenador.\n\nEl momento no puede ser peor para Puebla. El club ya enfrenta una lesión grave del delantero uruguayo Emiliano Gómez, quien sufrió una herida profunda en el pie durante un partido contra Pachuca.\n\nEl Dr. José Francisco Briseño De la Luz llega como reemplazo. Cuenta con experiencia en la Liga MX, un Diploma FIFA en Medicina del Fútbol y un certificado del Barça Innovation Hub. Reportará a Luis Fossati, jefe de servicios médicos del Club Puebla.\n\nEn cuanto a la selección, el veterano portero Alfredo Talavera confirmó en una entrevista con TUDN que no formará parte del cuerpo técnico de Rafael Márquez. Talavera dijo que Márquez le comunicó directamente que era la tercera opción para el rol de entrenador de porteros y que otros perfiles tenían prioridad. La FMF ha confirmado a Xabier Mancisidor, entrenador de porteros español con 13 temporadas en el Manchester City, como la elección oficial para ese puesto.\n\nEl cuerpo técnico completo de Márquez ya está definido: Juan Manuel Lillo, Andrés Guardado y Vidal Paloma como asistentes, con Pol Lorente a cargo de la preparación física. La nueva era de México arranca el 26 de septiembre ante Colombia en Baltimore.",
+      "perspectives": [
+        {
+          "who": "Alfredo Talavera",
+          "position": "Confirmó que no se unirá al cuerpo técnico de Márquez, tras revelar que el seleccionador le dijo directamente que era la tercera opción para el puesto de entrenador de porteros."
+        },
+        {
+          "who": "Club Puebla",
+          "position": "Enfrenta la pérdida de su médico jefe en un momento crítico, con lesiones acumulándose, y recurre al Dr. José Francisco Briseño De la Luz como reemplazo."
+        }
+      ]
+    },
+    "id": "2026-09-02-1648rv5+5cam",
+    "section": "sports",
+    "rank": 0,
+    "writer": "calderon",
+    "headline": "Mexico national team poaches Club Puebla's team doctor",
+    "dek": "Club Puebla loses its head doctor to the Mexican national team just as injuries pile up, and Alfredo Talavera reveals why Márquez passed on him.",
+    "body": "Club Puebla is replacing its top medical officer after Dr. Arturo Alcalde Santerbas departed to join the Mexican national team's medical staff. Alcalde had led the club's medical department for more than three years, serving as first-team doctor since the Apertura 2023 tournament through several coaching changes.\n\nThe timing is rough for Puebla. The club is already dealing with a serious injury to Uruguayan forward Emiliano Gómez, who suffered a deep foot wound during a match against Pachuca.\n\nDr. José Francisco Briseño De la Luz steps in as replacement. He brings Liga MX experience, a FIFA Diploma in Football Medicine, and a certificate from the Barça Innovation Hub. He will report to Luis Fossati, Club Puebla's head of medical services.\n\nOn the national team side, veteran goalkeeper Alfredo Talavera confirmed in a TUDN interview that he will not be joining Rafael Márquez's staff. Talavera said Márquez told him directly that he was the third option for the goalkeeper-coach role and that other profiles took priority. The FMF has confirmed Xabier Mancisidor, a Spanish goalkeeper coach with 13 seasons at Manchester City, as the official pick for that position.\n\nMárquez's full technical staff is now set: Juan Manuel Lillo, Andrés Guardado, and Vidal Paloma as assistants, with Pol Lorente handling fitness. México's new era opens September 26 against Colombia in Baltimore.",
+    "facts": "Club Puebla announced that Dr. Arturo Alcalde Santerbas is leaving his role as head of the club's medical department after more than three years to join the medical staff of the Mexican national team (Selección Mexicana). Alcalde had served as the first-team doctor since the Apertura 2023 tournament, working alongside several coaching staffs during that period. His departure comes amid a wave of injuries at Puebla, including a deep foot wound suffered by Uruguayan forward Emiliano Gómez in a match against Pachuca. Club Puebla announced that his replacement will be Dr. José Francisco Briseño De la Luz, who joins after accumulating experience at other Liga MX clubs and holds credentials including the FIFA Diploma in Football Medicine and a certificate from the Barça Innovation Hub. Briseño De la Luz will work under the supervision of Luis Fossati, Club Puebla's head of medical services. Separately, veteran Mexican goalkeeper Alfredo Talavera revealed in an interview on TUDN's Tricolor al Día that he did not join Rafael Márquez's coaching staff because Márquez told him he was the third option for the goalkeeper-coach position and ultimately prioritized other profiles. The FMF confirmed Xabier Mancisidor, a Spanish goalkeeper coach with 13 seasons at Manchester City, as the official goalkeeper coach for Márquez's staff. Márquez's full technical staff also includes Juan Manuel Lillo, Andrés Guardado, and Vidal Paloma as assistants, and Pol Lorente as fitness coach. México's new era under Márquez is set to debut on September 26 against Colombia in Baltimore.",
+    "perspectives": [],
+    "location": "Puebla",
+    "when": "Sep 2",
+    "sources": [
+      {
+        "outlet": "Urbano Puebla",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQVZ6cUFkc3NLM0JPSjVxeDF2YlhMVUVpTmIyajVCNHFKQWxkWTZCaDVsNGNlQkxaOThldU5HQmV5VGJoeFBFaWhzTEZMVk9OeE15c1BTakVpMWJCRC1YR0w2VGl1VUM4NmJ1OVc4U2M4S1RGd0NjWXcwY19hMGRlY3JFYW9RYVFDSTNobGhBUGFrRVRSSXp0bDFkdl9Rd2NVTl9fSUdmUWlyQm9XLWJZTkpFTGpJWWN3SkZQMW82aThGSVZHMkNaOVVtSUxXblJrX0s5di1WdEg?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "TUDN",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbTNYNnA2UEhieDJxWWxlaE5KSjBpQWt5LTYtellOR01IQkIzZVljU2o5cHdseGRLSTlhQkgwVS1BSHRVdUtJdE55aDNmU3ppSmM3eWhDY2N0a3hva0REZGdQdXJ0WFdfMWFYNmpUbTFPaHZ2Q1pNRWpKTzhuTmd4aDNBX29aLXExYS1wR291UHNocG0tbUYzRUlfZ284SXVRQWMwaC16d3lfMnNnd3B5WHZXbERrVURZUW5QclkzZEt3a3l4Qmc?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "MARCA",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWhLTHZ2ekQxakJUeGE4Y3ZLOXc2NkdoSXZ4NDUxUmtPREgwMGxkdWJJZjFxLVMtWmwxWmtnVWU0M3ZaTXRuWDNwaGdHN0ZkUk5xWktMb1pTQkZKcUhIUzJhcy1FT2xxRWNKZkVpbDVBaFJXc25HVUtjckFoSFVKLTQ3YkZ3bkdGRWYyamI5NVZpaFZFaVZzRE05Sk5jeVM5Vzk0cnZMamxSSkJSMjZMaFRiT0dEX2hhQXNmNFg3RdIBvwFBVV95cUxPejU5aW5KVlloZzFuZkZTZEVYSE9LSUJCV1BJTll3eXVPWEZmZm5pbkZPNGlQQzJMeGdaZmpkNDVlSHBHMkNVcVBKRTFVYmtNRUx1emN4ZzNtMEFIZFRyaV83dWhwTzRGaDNxUWdpRnZpZnFWejJxVGllb2dzVUNmQTJUYUdtMUVNQjZ3OGFiODlpQlRHUGdmdkpQMjlNRzhLRXZ1NVpfU1BCTjVlVjlWT0RJRjdzWjc0NWp3WmNWTQ?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "oem.com.mx",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUktnYWgxUkVEV01WWlpScFdER1gxSGlJWlRxNl9mc2dBT2kySEowQ0I1WkFTY3l4alU5anN3U0JxVWFVUmcyTkczRGw3QWNyN2dSbGNkZlBSSGtIcFNfSVBmc0VGX3lGcl9BX0NyVWc0MXBWRlZIVnlxdU51Rm0tLWp5UE1vVEVERTM5eXQzektZNkZ3ejY1SWRPaHc3YkJJN3k4emNCeHpud0RWYWFPZm1MQnBqZTI2a3d4T0t1UWZMX180ak1xRm9PM0RETHR0S2V1anc4Y3lfRW1tdnBKRlV1cm9jQQ?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788366554452
+  },
+  {
+    "es": {
+      "headline": "Neal gana la primaria del Distrito 1 de Massachusetts sobre el retador progresista Whalen",
+      "dek": "Neal, de 77 años, obtuvo el 53% de los votos el martes sobre el retador primerizo Jeromie Whalen, un maestro de 39 años que propugnaba la atención médica de pagador único y la abolición del ICE.",
+      "body": "El representante federal Richard Neal derrotó al retador progresista Jeromie Whalen en la primaria demócrata del 1.º Distrito Congressional de Massachusetts el 1 de septiembre de 2026, según declaró la Associated Press, con resultados preliminares que muestran a Neal obteniendo el 53% de los votos frente al 46% de Whalen, de acuerdo con el Greenfield Recorder y el Daily Hampshire Gazette.\n\nNeal, de 77 años, buscaba un vigésimo mandato representando al oeste de Massachusetts, una curul que ocupa desde 1988. Actualmente se desempeña como miembro de mayor rango del Comité de Medios y Arbitrios de la Cámara. En su discurso de victoria, Neal citó su historial en materia de seguro médico y Seguro Social, y llamó a los demócratas a reconquistar la Cámara en noviembre, según el Greenfield Recorder.\n\nNeal argumentó que su antigüedad y su trayectoria —que incluyen canalizar fondos federales hacia el oeste de Massachusetts y oponerse a las políticas de la administración Trump— otorgan al distrito una influencia congressional que un legislador de primer mandato no podría replicar, según WAMC y Fox News.\n\nWhalen, un maestro de preparatoria de 39 años oriundo de Northampton y candidato primerizo, encabezó una campaña de base con una plataforma que incluía la atención médica de pagador único y la abolición del ICE. Presentó a Neal como un representante del establecimiento demócrata sometido al dinero corporativo y llamó a un liderazgo más joven que empuje al partido más hacia la izquierda, según Fox News y New England Public Media. Whalen recaudó aproximadamente $300,000, aceptando únicamente donaciones individuales y ningún dinero de PAC corporativos, en comparación con los más de $3 millones de Neal, gran parte de los cuales provino de fuentes corporativas, según New England Public Media.\n\nFox News reportó la contienda como parte de un debate más amplio al interior del partido sobre el envejecimiento del liderazgo demócrata y si los titulares de larga data deberían ceder el paso a candidatos más jóvenes. Neal se enfrentará en noviembre a los candidatos independientes Nadia Milleron y Anthony Celata; no hay ningún republicano en la boleta, según WAMC. El último desafío primario que enfrentó Neal fue en 2020, cuando derrotó al entonces alcalde de Holyoke, Alex Morse, según WWLP.",
+      "perspectives": [
+        {
+          "who": "Rep. Richard Neal",
+          "position": "Neal argumentó que su antigüedad y su trayectoria —que incluyen canalizar fondos federales hacia el oeste de Massachusetts y oponerse a las políticas de la administración Trump— otorgan al distrito una influencia congressional que un legislador de primer mandato no podría replicar (WAMC/Fox News)."
+        },
+        {
+          "who": "Jeromie Whalen",
+          "position": "Whalen presentó a Neal como un representante del establecimiento demócrata sometido al dinero corporativo y llamó a un liderazgo más joven que empuje al partido más hacia la izquierda con políticas como la atención médica de pagador único y la abolición del ICE (Fox News/New England Public Media)."
+        }
+      ]
+    },
+    "id": "2026-09-02-18h26ii+xkrq",
+    "section": "politics",
+    "rank": 5,
+    "writer": "vega",
+    "headline": "Neal wins Massachusetts 1st District primary over progressive challenger Whalen",
+    "dek": "Neal, 77, secured 53% of the vote Tuesday over first-time challenger Jeromie Whalen, a 39-year-old teacher who ran on single-payer healthcare and abolishing ICE.",
+    "body": "U.S. Rep. Richard Neal defeated progressive challenger Jeromie Whalen in the Massachusetts 1st Congressional District Democratic primary on Sept. 1, 2026, the Associated Press called, with preliminary results showing Neal receiving 53% of the vote to Whalen's 46%, according to the Greenfield Recorder and Daily Hampshire Gazette.\n\nNeal, 77, was seeking a 20th term representing western Massachusetts, a seat he has held since 1988. He currently serves as ranking member of the House Ways and Means Committee. In his victory speech, Neal cited his record on health insurance and Social Security and called on Democrats to win back the House in November, per the Greenfield Recorder.\n\nNeal argued that his seniority and record—including directing federal funds to western Massachusetts and opposing Trump administration policies—give the district congressional influence a first-term lawmaker could not replicate, according to WAMC and Fox News.\n\nWhalen, a 39-year-old high school teacher from Northampton and first-time candidate, ran a grassroots campaign on a platform that included single-payer healthcare and abolishing ICE. He cast Neal as a representative of the Democratic establishment beholden to corporate money and called for younger leadership to push the party further left, according to Fox News and New England Public Media. Whalen raised approximately $300,000, accepting only individual donations and no corporate PAC money, compared to Neal's more than $3 million, much of which came from corporate sources, per New England Public Media.\n\nFox News reported the race as part of a broader intra-party debate over the Democratic Party's aging leadership and whether longtime incumbents should step aside for younger candidates. Neal will face independent candidates Nadia Milleron and Anthony Celata in November; no Republican is on the ballot, according to WAMC. The last primary challenge Neal faced was in 2020, when he defeated then-Holyoke Mayor Alex Morse, per WWLP.",
+    "facts": "U.S. Rep. Richard Neal defeated challenger Jeromie Whalen in the Massachusetts 1st Congressional District Democratic primary on Sept. 1, 2026, per the Associated Press, with preliminary results showing Neal receiving 53% of the vote and Whalen 46% (Greenfield Recorder/Daily Hampshire Gazette). Neal, 77, was seeking a 20th term in Congress and has represented western Massachusetts since first being elected in 1988, currently serving as ranking member of the House Ways and Means Committee (WWLP). Whalen, a 39-year-old high school teacher from Northampton, was a first-time candidate who ran a grassroots campaign; his progressive platform included single-payer healthcare and abolishing ICE (New England Public Media). Whalen raised approximately $300,000 compared to Neal's more than $3 million, much of Neal's total from corporate sources (New England Public Media). Whalen accepted only individual donations and no corporate PAC money (New England Public Media). Fox News reported that the race was part of a broader intra-party debate over the Democratic Party's aging leadership and whether longtime incumbents should step aside for a younger generation. In his victory speech, Neal cited his record on health insurance and Social Security and called on his party to win back the House in November (Greenfield Recorder). According to WAMC, Neal will face independent candidate Nadia Milleron and independent Anthony Celata in the November general election; there is no Republican in the race. The last time Neal faced a primary challenger was in 2020, when he defeated then-Holyoke Mayor Alex Morse (WWLP).",
+    "perspectives": [
+      {
+        "who": "Rep. Richard Neal",
+        "position": "Neal argued that his seniority and record—including directing federal funds to western Massachusetts and opposing Trump administration policies—give the district congressional influence a first-term lawmaker could not replicate (WAMC/Fox News)."
+      },
+      {
+        "who": "Jeromie Whalen",
+        "position": "Whalen cast Neal as a representative of the Democratic establishment beholden to corporate money and called for younger leadership to push the party further left with policies such as single-payer healthcare and abolishing ICE (Fox News/New England Public Media)."
+      }
+    ],
+    "location": "Springfield",
+    "when": "Sep 1",
+    "sources": [
+      {
+        "outlet": "Greenfield Recorder",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41Q2g4VlVCRzhKSkV6Zm5YdnBCbEs4dkwwQS01N2tiSnVScU5lb1ZXXy1hY0xWUTJZa2lzdmxYWnVjR1c0OUhrTFJJZHdwdHVteTJkU2p5aXVhM2doM2syN2lPYnJHd21z?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "Fox News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcnJBNV9POFlabk54UEtkU0puLTMwVEhRRTk1anFObnAwZklEc3ZscVRLcndlZDFTWFkzYlplUzlXVTFRd1Z4NGZmSFdfTndYd0kzc1B5Nzl3TlZvX0xIU0tWMW1VSU10Q2JicTVFUFlFcWdaelZHazRlaXJDVXpyTVhwZWNVbUhzVGRzOFhScGQ4NDF0cVU3bG55TzlTY2ttcHdMcFNZVUhHckZ10gGyAUFVX3lxTE83Q25PakJMZzlmZ0VjOWhMM0ttczF0U0RPTkFxS3pONzdXdXdkaFk0djAzZXdSd2tkVDJlcWxCTEx6SktPbVRlQ0pGT3Y1VnU3Zm83bHFJY2ZKMDMweVJ6Vkw3enBYU2VydllfSUxManpoVk45YnJjSFBfZXdzZDBhUk1DWi03Z3lLR3hRYmFNYWh2eDhhZzlkYlBldldyX2ZYeDVQb3pZcEo3SU5iN1A5WVE?oc=5",
+        "line": "right"
+      }
+    ],
+    "published": 1788366554452
+  },
+  {
+    "es": {
+      "headline": "Nueva Jersey apela a la Corte Suprema en disputa sobre apuestas deportivas con Kalshi",
+      "dek": "Nueva Jersey pidió el 2 de septiembre a la Corte Suprema que decida si los estados pueden aplicar sus leyes de juego contra el operador de mercados de predicción Kalshi.",
+      "body": "WASHINGTON — Nueva Jersey presentó una petición de certiorari ante la Corte Suprema de EE.UU. el 2 de septiembre de 2026, solicitando a los magistrados que revisen si los estados pueden aplicar sus leyes de juego contra el operador de mercados de predicción KalshiEX, LLC. El caso, Flaherty v. KalshiEX, LLC, gira en torno a si los contratos de eventos deportivos de Kalshi son swaps financieros regidos exclusivamente por la ley federal o apuestas deportivas no autorizadas sujetas a regulación estatal.\n\nLa disputa se originó en 2025, cuando la División de Control del Juego de Nueva Jersey emitió órdenes de cese y desistimiento acusando a Kalshi de operar apuestas deportivas no autorizadas en el estado. Kalshi demandó, y un tribunal federal de distrito otorgó una orden preliminar que bloqueó la aplicación de dichas órdenes. El Tercer Circuito confirmó esa resolución por 2-1 el 6 de abril de 2026, determinando que los contratos de Kalshi son swaps bajo la Ley de Bolsas de Materias Primas y, por lo tanto, están sujetos a la jurisdicción exclusiva de la Comisión de Comercio en Futuros de Materias Primas (CFTC, por sus siglas en inglés).\n\nEl Procurador General de Nueva Jersey, Jeremy Feigenbaum, abogado de registro, argumentó que la decisión del Tercer Circuito 'federalizaría una industria de apuestas deportivas de miles de millones de dólares anuales a expensas de cada ley estatal del país'. Feigenbaum había solicitado previamente al magistrado Samuel Alito una extensión del plazo de presentación el 26 de junio; Alito concedió dos extensiones, fijando el plazo final para el 3 de septiembre.\n\nLa petición sigue a una resolución unánime de 3-0 del Noveno Circuito del 28 de agosto de 2026, en un caso paralelo de Nevada que llegó a la conclusión opuesta: que los contratos de Kalshi no son swaps y que los estados pueden regularlos como apuestas deportivas. Esa resolución creó una división entre circuitos, condición que los tribunales han citado tradicionalmente como fundamento para la revisión de la Corte Suprema.\n\nLa magistrada disidente del Tercer Circuito, Jane Richards Roth, había argumentado que los contratos de Kalshi eran 'virtualmente indistinguibles de los productos de apuestas disponibles en las casas de apuestas deportivas en línea' y que Kalshi incurría en un 'juego de manos performativo' para escapar de la regulación estatal. Kalshi sostiene que sus productos son derivados financieros regidos únicamente por la ley federal. Los reguladores de Nevada, Michigan y el estado de Washington han obtenido cada uno órdenes judiciales que restringen las operaciones de apuestas deportivas de Kalshi, según CNN.",
+      "perspectives": [
+        {
+          "who": "Nueva Jersey (Procurador General Jeremy Feigenbaum)",
+          "position": "La decisión del Tercer Circuito 'federalizaría una industria de apuestas deportivas de miles de millones de dólares anuales a expensas de cada ley estatal del país'."
+        },
+        {
+          "who": "Kalshi",
+          "position": "Kalshi argumenta que sus contratos de eventos deportivos son derivados financieros —swaps— regidos exclusivamente por la CFTC bajo la ley federal, y no apuestas deportivas sujetas a la jurisdicción de juego de los estados."
+        }
+      ]
+    },
+    "id": "2026-09-02-1c2hlyt+1yhz",
+    "section": "politics",
+    "rank": 1,
+    "writer": "vega",
+    "headline": "New Jersey petitions Supreme Court in Kalshi sports-betting dispute",
+    "dek": "New Jersey asked the Supreme Court on September 2 to decide whether states can enforce gambling laws against prediction market operator Kalshi.",
+    "body": "WASHINGTON — New Jersey filed a petition for writ of certiorari with the U.S. Supreme Court on September 2, 2026, asking the justices to review whether states may enforce their gambling laws against prediction market operator KalshiEX, LLC. The case, Flaherty v. KalshiEX, LLC, centers on whether Kalshi's sports event contracts are financial swaps governed exclusively by federal law or unauthorized sports bets subject to state regulation.\n\nThe dispute originated in 2025, when New Jersey's Division of Gaming Enforcement issued cease-and-desist orders accusing Kalshi of running unauthorized sports wagering operations in the state. Kalshi sued, and a federal district court granted a preliminary injunction blocking enforcement. The Third Circuit upheld that ruling 2-1 on April 6, 2026, finding Kalshi's contracts are swaps under the Commodity Exchange Act and therefore subject to exclusive jurisdiction of the Commodity Futures Trading Commission.\n\nNew Jersey Solicitor General Jeremy Feigenbaum, counsel of record, argued that the Third Circuit's decision would 'federalize a multi-billion-dollar-a-year sports-wagering industry at the expense of every state law in the country.' Feigenbaum had previously applied to Justice Samuel Alito for a filing deadline extension on June 26; Alito granted two extensions, setting the final deadline at September 3.\n\nThe petition follows a 3-0 ruling by the Ninth Circuit on August 28, 2026, in a parallel Nevada case reaching the opposite conclusion — that Kalshi's contracts are not swaps and that states may regulate them as sports betting. That ruling created a circuit split, a condition courts have traditionally cited as grounds for Supreme Court review.\n\nThird Circuit dissenting Judge Jane Richards Roth had argued that Kalshi's contracts were 'virtually indistinguishable from the betting products available on online sportsbooks' and that Kalshi was engaged in a 'performative sleight' to escape state regulation. Kalshi maintains its products are financial derivatives governed solely by federal law. Regulators in Nevada, Michigan, and Washington state have each secured court orders restricting Kalshi's sports-betting operations, according to CNN.",
+    "facts": "New Jersey filed a petition for writ of certiorari with the U.S. Supreme Court on September 2, 2026, in the case Flaherty v. KalshiEX, LLC, asking the justices to review whether states may enforce gambling laws against prediction market operator Kalshi. The dispute began in 2025 when New Jersey's Division of Gaming Enforcement issued cease-and-desist orders accusing Kalshi of running unauthorized sports wagering operations in the state. Kalshi sued, and a federal district court granted a preliminary injunction blocking New Jersey's enforcement; the Third Circuit Court of Appeals upheld that ruling 2-1 on April 6, 2026, finding Kalshi's sports event contracts are 'swaps' under the Commodity Exchange Act and subject to exclusive CFTC jurisdiction. New Jersey Solicitor General Jeremy Feigenbaum is counsel of record; he previously applied on June 26 to Justice Alito for a filing deadline extension, which Alito twice extended, setting the final deadline at September 3. The New Jersey petition follows a 3-0 ruling by the Ninth Circuit on August 28, 2026, in a case involving Nevada, which reached the opposite conclusion and found that Kalshi's sports event contracts are not swaps and that states may regulate them as sports betting, creating a circuit split. Third Circuit dissenting Judge Jane Richards Roth had argued that Kalshi's contracts were 'virtually indistinguishable from the betting products available on online sportsbooks' and that Kalshi was engaged in a 'performative sleight' to escape state regulation. Regulators in Nevada, Michigan, and Washington state have each secured court orders restricting Kalshi's sports-betting operations, according to CNN.",
+    "perspectives": [
+      {
+        "who": "New Jersey (Solicitor General Jeremy Feigenbaum)",
+        "position": "The Third Circuit's decision would 'federalize a multi-billion-dollar-a-year sports-wagering industry at the expense of every state law in the country.'"
+      },
+      {
+        "who": "Kalshi",
+        "position": "Kalshi argues its sports event contracts are financial derivatives—swaps—governed exclusively by the CFTC under federal law, not sports bets subject to state gambling jurisdiction."
+      }
+    ],
+    "location": "Washington",
+    "when": "Sep 2",
+    "sources": [
+      {
+        "outlet": "WKZO",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPamZia3dqQVNLUWV5SFotWDFNaVRNazBENzRnTHlUTDI4bTZVWU42emMxeXV1N1BiUWJHZXdGakJGd2d4MzdCX1FlM0lFckZXc2hfdXZJQmthNno1bkZ5Z1paWk9RT09PU1NvU0RIRzFlZE1OVmx2M04zNzZfYzBlSUN2S3VRdmd6b0JldjFOdklvbmoyX1BKMDVCQlZmZVU1MGR5UFlhYzBMTThtRnNPcw?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRjRqMUR0RmozaFNMRndreUh2cEpXYXowSndYVi15Z0FLNFV5bUgxd2cxTUlpSnVhUlc5SDJvWmV6N2xVOGctanIyUEJXVVVNMUZ4a3h3NDVpUHVsb1pjR1ZKTDVuN05oY0prVVFoUEtxd3lQUUdTdnpQN1lrdHZyNEJqZmhpY0ZVRjVfNjltZTVLWUpfR21iXzlvcFBkbF9EWHdxZGZoTGpvblh4ZFpXTHRuVUFqQQ?oc=5",
+        "line": "wire"
+      }
+    ],
+    "published": 1788366554452
+  },
+  {
+    "es": {
+      "headline": "El traspaso de Erik Lira al Mónaco se derrumba en el último día del mercado de fichajes",
+      "dek": "Una disputa salarial entre Folarin Balogun y el Everton eliminó el cupo en el roster del Mónaco que Lira necesitaba, echando por tierra un acuerdo de €11 millones horas antes de que cerrara la ventana.",
+      "body": "Ocho millones de euros en cuotas fijas, tres millones en variables, una cláusula de reventa, un examen médico aprobado — y aun así, sin traspaso. El fichaje de Erik Lira de Cruz Azul al AS Mónaco se vino abajo el 1 de septiembre de 2026, último día de la ventana de transferencias francesa, tras una cadena de eventos que el mediocampista mexicano no tuvo poder de frenar.\n\nEl Mónaco necesitaba liberar un cupo de jugador no comunitario para poder inscribir a Lira. Ese cupo dependía de que el delantero internacional estadounidense Folarin Balogun saliera hacia el Everton de la Premier League. Balogun y el Everton no lograron ponerse de acuerdo en términos salariales, el trato se cayó y el cupo quedó ocupado. La ventana de la Ligue 1 cerró al mediodía hora de la Ciudad de México, sin dejarle margen de maniobra al Mónaco, según Reforma y El Financiero.\n\nEl momento lo hizo todavía más doloroso. El presidente de Cruz Azul, Víctor Velázquez, le había dicho a los reporteros el día anterior que el traspaso \"ya se está concretando\". Lira ya había pasado su examen físico y se preparaba para volar a Francia cuando llegó la noticia.\n\nLira volvió a entrenar con Cruz Azul y sigue bajo contrato con el club de la Liga MX. Sus representantes ahora buscan clubes en ligas europeas cuyas ventanas aún permanecen abiertas, según El Universal. Una oferta vigente del Al Jazira de los Emiratos Árabes Unidos también sigue sobre la mesa.\n\nPara Cruz Azul, una venta totalmente negociada a un valor máximo reportado de €11 millones se evaporó en cuestión de horas sin culpa de ninguno de los dos clubes. Para Lira, de 24 años, el camino a Europa se angostó, pero aún no se cerró del todo — dependiendo de con qué rapidez actúe otra liga antes de su propio plazo límite.",
+      "perspectives": [
+        {
+          "who": "Víctor Velázquez, presidente de Cruz Azul",
+          "position": "Afirmó el día anterior al cierre que el traspaso \"ya se está concretando\", lo que refleja la confianza del club en que el acuerdo se completaría."
+        },
+        {
+          "who": "Erik Lira, mediocampista",
+          "position": "Ya había superado el examen médico y estaba listo para volar a Francia; quedó atrapado en una cadena de eventos fuera de su control."
+        },
+        {
+          "who": "AS Mónaco",
+          "position": "No pudo inscribir a Lira al no poder liberar el cupo no comunitario necesario tras el fracaso del traspaso de Balogun al Everton."
+        },
+        {
+          "who": "Folarin Balogun y Everton",
+          "position": "No llegaron a un acuerdo en términos salariales, lo que desencadenó el colapso del fichaje de Lira al Mónaco."
+        }
+      ]
+    },
+    "id": "2026-09-02-1b6x59q+1c0f",
+    "section": "sports",
+    "rank": 1,
+    "writer": "calderon",
+    "headline": "Erik Lira's move to Monaco collapses on transfer deadline day",
+    "dek": "A salary dispute between Folarin Balogun and Everton killed the Monaco roster slot Lira needed, ending an €11 million deal hours before the window closed.",
+    "body": "Eight million euros in fixed fees, three million in variables, a sell-on clause, a passed medical — and still no move. Erik Lira's transfer from Cruz Azul to AS Monaco collapsed on September 1, 2026, the final day of the French transfer window, after a chain of events the Mexican midfielder had no power to stop.\n\nMonaco needed to clear a non-EU roster slot to register Lira. That slot depended on U.S. international striker Folarin Balogun leaving for Everton of the Premier League. Balogun and Everton could not agree on salary terms, the deal died, and the slot stayed filled. The Ligue 1 window shut at noon Mexico City time, leaving Monaco no room to maneuver, according to Reforma and El Financiero.\n\nThe timing made it worse. Cruz Azul president Víctor Velázquez had told reporters the day before that the transfer \"ya se está concretando\" — was being finalized. Lira had already passed his physical and was preparing to fly to France when the news broke.\n\nLira is back training with Cruz Azul and remains under contract with the Liga MX club. His representatives are now looking at clubs in European leagues whose windows are still open, per El Universal. A standing offer from UAE side Al Jazira also remains on the table.\n\nFor Cruz Azul, a fully negotiated sale at reported top-line value of €11 million evaporated in hours through no fault of either club. For Lira, 24, the path to Europe is narrower but not yet closed — depending on how quickly another league acts before its own deadline.",
+    "facts": "Mexican midfielder Erik Lira, who plays for Cruz Azul in Liga MX, had a fully agreed transfer to AS Monaco of Ligue 1 fall through on September 1, 2026, the final day of the French transfer window. Cruz Azul and Monaco had reached a complete agreement, reportedly worth eight million euros in fixed fees plus three million euros in variables and a sell-on percentage, according to SI.com MX. Lira had already passed his medical examination and was preparing to travel to France when the deal collapsed. Monaco needed to free a non-EU roster slot before registering Lira, and that slot was expected to open with the departure of U.S. international striker Folarin Balogun to Everton of the Premier League. Balogun's move to Everton did not go through in time, reportedly because he could not agree on salary terms with the Merseyside club, triggering a domino effect that blocked Lira's registration, per Reforma and El Financiero. The Ligue 1 transfer window closed at noon Mexico City time on September 1, leaving Monaco no margin to resolve the situation. Cruz Azul president Víctor Velázquez had confirmed the day before that the transfer \"ya se está concretando\" (was being finalized), making the collapse all the more abrupt. Lira's representatives are reportedly still exploring options in other European leagues whose windows remain open, while an offer from UAE club Al Jazira also remains on the table, according to El Universal. Lira remains under contract with Cruz Azul and has returned to training with the club.",
+    "perspectives": [],
+    "location": "Monaco / Mexico",
+    "when": "Sep 1",
+    "sources": [
+      {
+        "outlet": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3lrVUJSb24ycS1SX1diMlNHYmZodlpnWTVaak9aV2dNRmRsMWliSWtjNEFxOVRlc3FxOHRySm82UVdQYjlVR21vd2FsZjhvdGZGNlBJWGIwcUROajBZUlNUeTRtOVpxeFRicEozYkg3Tk14ZWt6SDZNXzlrVUtiLWNXa3htWS1MczRscTNQVUdtOC1BUnRoNjZ3c0hETkhxRWdMaDdseHVlUFRQWlhucGY0RHRYdw?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "Diario AS",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDU3R1JLNjFZdk1TT3lMQnpBRUhta3VzdTllYmVLb291QWV2VHVzYTY0amtkdzM0NnhidDZRR3p6LXU2bTdVM3ZUdGF6di05WUpndVlrU2ZjMlRXVC14R1k3anFNdktXcVpSQTFCWHllTC1mRXlQNzg3MVo4S0FhN0NpQTI3YnFNVlJsMWVSZGw0N29iZWRHU2lB0gGuAUFVX3lxTFB1OXdHcldoajRCZVh6Rm1KdmdkLU1TZ1JvaXd1TEt2VTZMNTVqQnZndU1JdGg2WlNhbmNLajUyTUpJZkctQTdTTW9hYmJxVGFwXzZ6dnZVLWpRVVlBbVM0Tl9GcllJUTFtdk1uLXFHLWt4MVl6RENDUXpnS1hlVURxUlYzU2lSc2hDMUlCMy12Qk9hYjdUc1FfTEg3MWJJWU51MFp2LVV6S1U0eHZrZw?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "Mediotiempo",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUdxcWZJVzZSdFJlSHd0VGd5clVackRtNTg1ancySkxBNWMwM2xFOW9VcUJ4a21HanoxM2U1dF8tRXgyWWl4OUpWT1lFY0VYclVISDJEcGV0cF9FYWhpNm81aDdnSVVSVVE1Q3JGYVdBbWltZ2tfcTN1OHRSdFNUT1RVVUtuenpwb2pWUWRkLTkxemoyMG5kZERaWDg1S2c0eVhJ0gGjAUFVX3lxTE1pOTY0ZTNCVmQ2MjJRM0ZjS212dUdYVUc1WjRvYjM4Mzd3dGRoRzlRZTlRUGhjZ0tUQlJFbWVnT29Ud0I5cE1QQjF2REpjZlh6dTBnLVVYS09ydDVwcjFzTFdYQW9Jc050Tk03V1lVdjU5NjVHMkNveWlURndlY3FqbGhhZFdHMS1Bcm1nbG1TSVExVEoyLXZ5VXNWazVyMTFKQkU?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "TUDN",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb3J0QS1CZkFOZ213WFBtaTVjMkFkdWFkOGdTclVXNXNxUDM5eldoc1h6NDJjd3poVGRaU2h4QWlVcl9yN1R6VWpCYUlRcThJYnVVWHZZMUZFV1VYTzNZVjJMYlNjRTBlQjV4YUEzdlR2NWZocUpaSFNyXzVpQVlDYXBfakxncnE2a2hzMk91RFA?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788366554452
+  },
+  {
+    "es": {
+      "headline": "Denunciante del USPS y funcionarios electorales impugnan las reglas de Trump para el voto por correo",
+      "dek": "Una denuncia de un informante y presentaciones judiciales de funcionarios electorales generan alarma sobre un decreto ejecutivo de Trump que reorganiza la entrega de boletas por correo a través del Servicio Postal de EE.UU.",
+      "body": "WASHINGTON — Un denunciante federal y funcionarios electorales estatales están impugnando un decreto ejecutivo de la administración Trump que ordena al Servicio Postal de Estados Unidos (USPS) reorganizar la forma en que se procesan y entregan las boletas por correo, con un juez federal bloqueando el decreto para que no entre en vigor en medio de un litigio en curso sobre su constitucionalidad, según NBC News.\n\nEl presidente Trump firmó el decreto ejecutivo en marzo de 2026, exigiendo que el USPS transmita boletas por correo únicamente a los votantes que figuren en una nueva lista federal de ciudadanos y ordenando que los sobres de las boletas lleven códigos de barras únicos verificados por el Servicio Postal, según informó NBC News. Un funcionario federal anónimo presentó una denuncia de informante, divulgada por el sen. Richard Blumenthal (D-CT) el 1 de septiembre de 2026, en la que alega que el USPS construyó la infraestructura tecnológica requerida —incluido un Portal Federal de Correo Electoral— mediante un proceso que la denuncia describe como \"secretivo, apresurado, caótico y fundamentalmente defectuoso\", según CyberScoop. El denunciante alegó además que la política de tolerancia cero del portal resultaría en el rechazo de lotes enteros de boletas —potencialmente miles— si un solo código de barras en el lote no se puede escanear, según CBS News.\n\nBlumenthal envió la denuncia al Director General de Correos David Steiner el 31 de agosto, exigiendo que la agencia explique si había cumplido con las órdenes judiciales de suspender el trabajo en el sistema, según reportó Axios. Blumenthal y los funcionarios electorales estatales que se oponen calificaron la implementación del USPS como \"peligrosamente apresurada y potencialmente ilegal\" y argumentaron que el sistema carece de la capacidad técnica para proteger los derechos de voto.\n\nEn presentaciones judiciales y entrevistas con CNN, funcionarios electorales y expertos en votación por correo dijeron que cumplir con la normativa no es prácticamente posible antes de las elecciones de noviembre, ni siquiera para los estados que pudieran conseguir los millones de dólares necesarios. Tammy Patrick, directora principal de programas del Election Center, le dijo a Votebeat que los estados no podrían hacer la transición al nuevo sistema a tiempo. Los proveedores también le han dicho a los funcionarios electorales que no hay tiempo suficiente para rediseñar e imprimir los millones de sobres que exige la normativa, según reportó CNN.\n\nLa administración Trump ha descrito los cambios a las reglas postales como un ajuste \"modesto\" para los estados y dijo que está apelando los fallos judiciales que han bloqueado los mandatos. El USPS declaró que \"no tendrá ningún papel en la determinación de la elegibilidad de los votantes, el mantenimiento de los registros electorales ni el conteo de boletas\", según CBS News.",
+      "perspectives": [
+        {
+          "who": "Sen. Richard Blumenthal (D-CT) y funcionarios electorales estatales que se oponen",
+          "position": "La implementación del decreto ejecutivo por parte del USPS es 'peligrosamente apresurada y potencialmente ilegal', el sistema carece de la capacidad técnica para proteger los derechos de voto y el cumplimiento es imposible para muchos estados antes de las elecciones intermedias de noviembre."
+        },
+        {
+          "who": "Administración Trump",
+          "position": "Las nuevas reglas postales representan un cambio 'modesto' para los estados, y la administración está apelando los fallos judiciales que bloquean los mandatos."
+        }
+      ]
+    },
+    "id": "2026-09-02-1fepnii+dm90",
+    "section": "politics",
+    "rank": 4,
+    "writer": "vega",
+    "headline": "USPS whistleblower and election officials challenge Trump mail ballot rules",
+    "dek": "A whistleblower complaint and election officials' court filings raise alarms about a Trump executive order overhauling mail ballot delivery through the U.S. Postal Service.",
+    "body": "WASHINGTON — A federal whistleblower and state election officials are challenging a Trump administration executive order directing the U.S. Postal Service to overhaul how mail ballots are processed and delivered, with a federal judge blocking the order from taking effect amid ongoing litigation over its constitutionality, according to NBC News.\n\nPresident Trump signed the executive order in March 2026, requiring the USPS to transmit mail ballots only to voters on a new federal citizen list and mandating that ballot envelopes carry unique barcodes verified by the Postal Service, NBC News reported. An anonymous federal official filed a whistleblower complaint, released by Sen. Richard Blumenthal (D-CT) on September 1, 2026, alleging the USPS built the required IT infrastructure — including a Federal Ballot Mail Portal — through a process the complaint describes as \"secretive, rushed, chaotic and fundamentally flawed,\" according to CyberScoop. The whistleblower further alleged that the portal's zero-tolerance policy would result in the rejection of entire batches of ballots — potentially thousands — if a single barcode in the batch fails to scan, per CBS News.\n\nBlumenthal sent the complaint to Postmaster General David Steiner on August 31, demanding the agency explain whether it had followed court orders to halt work on the system, Axios reported. Blumenthal and opposing state election officials characterized the USPS implementation as \"perilously rushed and potentially unlawful\" and argued the system lacks the technical capability to safeguard voting rights.\n\nIn court filings and interviews with CNN, election officials and mail voting experts said compliance is not practically achievable before the November election, even for states that could secure the millions of dollars required. Tammy Patrick, chief program officer at the Election Center, told Votebeat that states would not be able to successfully transition to the new system in time. Vendors have also told election officials there is insufficient time to redesign and print the millions of envelopes the rule requires, CNN reported.\n\nThe Trump administration has described the postal rule changes as a \"modest\" adjustment for states and said it is appealing court rulings that have blocked the mandates. The USPS stated it \"will not play any role in determining voter eligibility, maintaining voter rolls, or counting ballots,\" per CBS News.",
+    "facts": "President Trump signed an executive order in March 2026 directing the USPS to transmit mail ballots only to voters on a new federal citizen list and requiring ballot envelopes to carry unique barcodes checked by the Postal Service, according to NBC News. A federal judge has blocked the order from going into effect amid ongoing litigation over its constitutionality, per NBC News. An anonymous federal official filed a whistleblower complaint, released by Sen. Richard Blumenthal (D-CT) on September 1, 2026, alleging that the USPS built the required IT system, including a Federal Ballot Mail Portal, through a process the complaint describes as 'secretive, rushed, chaotic and fundamentally flawed,' according to CyberScoop. The whistleblower alleges that under the portal's zero-tolerance policy, if even one barcode in a batch of ballots does not scan properly, the entire batch—potentially thousands of ballots—would be rejected and returned to state officials, per CBS News. Blumenthal sent the complaint to Postmaster General David Steiner on Monday, August 31, demanding the agency explain whether it followed court orders to cease work on the new system, per Axios. In court filings and interviews with CNN, election officials and mail voting experts said there is no practical way to comply with the Postal Service's plans, even if states can find the millions of dollars compliance is expected to cost. Tammy Patrick, chief program officer at the Election Center, told Votebeat there was no way states would be able to successfully shift to the new system in time for the November election. Vendors have told election officials there is not enough time to print the millions of envelopes that would need to be redesigned under the rule, according to CNN. The USPS has stated it 'will not play any role in determining voter eligibility, maintaining voter rolls, or counting ballots,' per CBS News.",
+    "perspectives": [
+      {
+        "who": "Sen. Richard Blumenthal (D-CT) and opposing state election officials",
+        "position": "The USPS implementation of the executive order is 'perilously rushed and potentially unlawful,' the system lacks the technical capability to safeguard voting rights, and compliance is impossible for many states before the November midterms."
+      },
+      {
+        "who": "Trump administration",
+        "position": "The new postal rules represent a 'modest' change for states, and the administration is appealing court rulings blocking the mandates."
+      }
+    ],
+    "location": "United States",
+    "when": "Sep 1–2",
+    "sources": [
+      {
+        "outlet": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xSWQwd0ViOFRzbV9hYnRSRG82QlplejUtQVVwR3otaE53OUdLRnViN3V0U19Id1FqWmxCVm1NTGVISUZSckRaaDRwcE5mR0N4QnBQRG82LXNrUXVaV21sWGstWXVScHhDUlBlcnRmY0RWSklBRlNGa1ZNNDQ?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd0lQT3dtNXlGV3lHcUczRFE4QkV5Qnk0WG5FY2VseVN4ZW1UNnVfVXdTNF9sZ2c1WFk2MUdkS3E4SEltaFkxLVJvYWZXSDVhM0tJUFhkeHV2ZEFyaDBId3hFaG11QkFXR3BBaWZXUjh3djJZOHNwZlNYSkVTRW9QQlFSM19KekRSXzRWTWVPQW9xb2JjbG5rSnZPbw?oc=5",
+        "line": "left"
+      }
+    ],
+    "published": 1788366554452
+  },
+  {
+    "es": {
+      "headline": "La deuda de EE.UU. llega a $40 billones mientras se vislumbra un tercer juicio político a Trump tras las elecciones de medio término",
+      "dek": "La deuda nacional superó los $40 billones el 20 de agosto cuando los pronósticos proyectan que los demócratas tomarían el control de la Cámara, algo que el propio Trump dice desencadenaría su juicio político.",
+      "body": "WASHINGTON — La deuda nacional de Estados Unidos superó los $40 billones por primera vez el 20 de agosto de 2026, según una actualización diaria del Departamento del Tesoro, mientras los analistas del Congreso proyectan que los demócratas tomarán el control de la Cámara de Representantes en noviembre, lo que el presidente Trump ha dicho llevaría a su juicio político.\n\nLa cifra del Tesoro representa un aumento de $3.8 billones desde que Trump regresó al poder en enero de 2025, elevando el total acumulado en sus dos mandatos a $11.6 billones, según informó Al Jazeera. El gobierno gasta ahora más de $1 billón al año solo en pagos de intereses, lo que convierte el servicio de la deuda en el segundo mayor gasto federal después del Seguro Social, de acuerdo con NPR, que también reportó que el rendimiento de los bonos del Tesoro a 30 años alcanzó un máximo de 19 años esa semana. Economistas de JP Morgan, escribiendo en Semafor, advirtieron que el programa de recompra de bonos del Tesoro arriesgaba una crisis de credibilidad 'a falta de una consolidación fiscal real.' La Oficina de Presupuesto del Congreso advirtió en febrero de 2026, según Euronews, que la trayectoria fiscal del país es insostenible.\n\nTrump, al referirse a la deuda y al aumento de los costos de endeudamiento, dijo 'estamos superando estas tasas de interés,' y advirtió a sus seguidores que los republicanos deben mantener el control de la Cámara o 'encontrarán una razón para someterme a juicio político.' En enero de 2026, le dijo llanamente a NBC News: 'Me harán un juicio político.'\n\nYa se han presentado múltiples resoluciones de juicio político en el Congreso actual. El Rep. Al Green (D-TX) introdujo una por el presunto uso indebido del ICE y la Patrulla Fronteriza, y el Rep. John Larson (D-CT) presentó una resolución separada en abril de 2026, según The Hill y CT News Junkie.\n\nEl Rep. Jamie Raskin (D-MD), cuyo partido ha sometido a Trump a juicio político dos veces, le dijo a NBC News que el juicio político no es 'la solución utópica a nuestros problemas' y señaló que los demócratas se concentrarían en oponerse a la 'terrible agenda' de Trump. El equipo de pronósticos de Nate Silver situó la probabilidad de que los demócratas recuperen la Cámara en un 86 por ciento, según informó The Hill el 2 de septiembre de 2026.",
+      "perspectives": [
+        {
+          "who": "Presidente Trump",
+          "position": "Trump ha dicho que los republicanos deben ganar las elecciones de medio término o 'encontrarán una razón para someterme a juicio político,' y expresó poca preocupación por el aumento de la deuda, diciendo 'estamos superando estas tasas de interés.'"
+        },
+        {
+          "who": "Rep. Jamie Raskin (D-MD)",
+          "position": "Raskin le dijo a NBC News que los demócratas ya han sometido a Trump a juicio político dos veces y que el juicio político no es 'la solución utópica a nuestros problemas,' señalando que el enfoque del partido será la 'terrible agenda' de Trump en lugar del juicio político."
+        }
+      ]
+    },
+    "id": "2026-09-02-1myqsun+5c5o",
+    "section": "politics",
+    "rank": 3,
+    "writer": "vega",
+    "headline": "US debt hits $40 trillion as third Trump impeachment looms after midterms",
+    "dek": "The national debt crossed $40 trillion on August 20 as forecasters project a Democratic House takeover that Trump himself says would trigger his impeachment.",
+    "body": "WASHINGTON — The United States national debt surpassed $40 trillion for the first time on August 20, 2026, according to a daily Treasury Department update, as congressional forecasters project a Democratic House takeover in November that President Trump has said would lead to his impeachment.\n\nThe Treasury figure marks a $3.8 trillion increase since Trump returned to office in January 2025, bringing the total accumulated across his two terms to $11.6 trillion, Al Jazeera reported. The government is now spending more than $1 trillion annually on interest payments alone, making debt service the second-largest federal expenditure after Social Security, according to NPR, which also reported that the yield on 30-year Treasury bonds reached a 19-year high that week. JP Morgan economists, writing in Semafor, warned that the Treasury's bond buyback program risked a credibility crisis 'absent real fiscal consolidation.' The Congressional Budget Office cautioned in February 2026, per Euronews, that the country's fiscal trajectory is unsustainable.\n\nTrump, addressing the debt and rising borrowing costs, said 'we are powering through these interest rates,' and warned his supporters that Republicans must hold the House or 'they'll find a reason to impeach me.' In January 2026, he told NBC News flatly, 'I'll get impeached.'\n\nMultiple impeachment resolutions have already been filed in the current Congress. Rep. Al Green (D-TX) introduced one over alleged misuse of ICE and Border Patrol, and Rep. John Larson (D-CT) filed a separate resolution in April 2026, per The Hill and CT News Junkie.\n\nRep. Jamie Raskin (D-MD), whose party has impeached Trump twice, told NBC News that impeachment is not 'the utopian solution to our problems' and said Democrats would focus on opposing Trump's 'terrible agenda.' Nate Silver's forecasting team placed the probability of Democrats retaking the House at 86 percent, The Hill reported on September 2, 2026.",
+    "facts": "The US national debt surpassed $40 trillion for the first time on August 20, 2026, according to a daily update from the Treasury Department. According to NPR, the government is spending more than $1 trillion a year just to pay interest on the debt, now the second-largest federal expense after Social Security. NPR also reported that the yield on 30-year Treasurys reached a 19-year high that week, pushing up borrowing costs. Al Jazeera reported that since Trump's return to office in January 2025, debt has grown by $3.8 trillion, bringing the total to $11.6 trillion across his two terms. The Congressional Budget Office warned in February 2026, per Euronews, that the US fiscal trajectory is unsustainable. JP Morgan economists wrote, per Semafor, that the Treasury's bond buyback program risked a credibility crisis 'absent real fiscal consolidation.' Separately, The Hill reported on September 2, 2026 that the consensus among forecasters is that Republicans are all but certain to lose their narrow House majority in the November 2026 midterms, with Nate Silver's team giving Democrats an 86 percent chance of taking control. Multiple impeachment resolutions have already been filed against Trump in his second term, including by Rep. Al Green (D-TX) over alleged misuse of ICE and Border Patrol, and by Rep. John Larson (D-CT) in April 2026, per The Hill and CT News Junkie. Trump himself predicted in January 2026 that Democrats would impeach him if Republicans lost the midterms, saying 'I'll get impeached,' per NBC News.",
+    "perspectives": [
+      {
+        "who": "President Trump",
+        "position": "Trump has said Republicans must win the midterms or 'they'll find a reason to impeach me,' and expressed little concern about rising debt, saying 'we are powering through these interest rates.'"
+      },
+      {
+        "who": "Rep. Jamie Raskin (D-MD)",
+        "position": "Raskin told NBC News that Democrats have already impeached Trump twice and that impeachment is not 'the utopian solution to our problems,' signaling the party's focus will be on Trump's 'terrible agenda' rather than impeachment."
+      }
+    ],
+    "location": "Washington",
+    "when": "Sep 2",
+    "sources": [
+      {
+        "outlet": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWkE3SEY4Mk1STzZZZXp0NGtSNXh3NV96RVBHQTlqRGVGZml6YWRKaVdqRnZHN1N4LUJrdms4UG9zY0NLVFJiMnZqUkNad1A0YVUteGxNdVdHU2JLOUFPeVI4TmtQT2xmZUhWRmZrcVE1bUlpdXRFd2ZNSGJjQUMxNEVTa3FwYU9pcnFCa3RiemZoWU5hcjYzaXEzbDVBaDFqNGV0R1lLVXhYaVJmbWxHbkdUVW1rX21ubzM1UVl3?oc=5",
+        "line": "wire"
+      },
+      {
+        "outlet": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV1BMOE1nVEZ0VkRTd1NweHZERlp2UlVhT0RrN1JBeVd2WEYzMlNralNncGZHd0pKMmhLY19mZk1md3V6cGw3M1hNY3FSN3loSm1fVEZFTHc5UzhyQ3ZYQ2NreDBKeDE4VmxsNXNmc3VnMlRnTXNnSm82NjA3a3BvVm1n0gGHAUFVX3lxTE00dno3bHoxZFJscHpQbE02ZFQ3RU9CZ3FYTDdscERnWFZEalR6cVpJS0pHSHNjLVB5U2NtajYwOUdQQ2xITjJxMmxaSkZTUUUzalRwTWVzdFFPRTR0MXhLVE1MYVdRMnV6Tk5PZ2U3bzl4TEx4NHU5Wk41NXktYnNEOWJrMURtYw?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788366554452
+  },
+  {
+    "es": {
+      "headline": "EE.UU. ataca Irán; Irán responde con misiles y drones contra aliados del Golfo",
+      "dek": "El intercambio de ataques y represalias del martes sigue una lógica más antigua que cualquier administración: las escaladas son más fáciles de iniciar que de detener.",
+      "body": "El martes 1 de septiembre, Estados Unidos lanzó ataques contra aproximadamente 100 objetivos dentro de Irán, incluyendo instalaciones de defensa aérea de los Guardianes de la Revolución (IRGC), sistemas de radar y activos marítimos. Drones estadounidenses también dispararon misiles contra las salas de máquinas de dos buques cisterna del gobierno iraní anclados frente a las costas de Irán, la primera vez que Washington ataca petroleros iraníes en represalia directa por ataques a la navegación comercial, en lugar de hacerlo para hacer cumplir su bloqueo naval. El presidente Trump presentó la acción como una respuesta al intento de Irán de sembrar minas en el Estrecho de Ormuz y a los ocho misiles iraníes disparados contra una base estadounidense en Jordania.\n\nLa política de 'petrolero por petrolero' codificó en silencio algo significativo: una nueva doctrina de reciprocidad que intercambia daño económico simétrico por disuasión. Si la represalia simétrica realmente disuade, o simplemente normaliza la escalada, es la pregunta central con la que los estrategas han lidiado desde los enfrentamientos navales de acción por acción de los años ochenta en la Guerra Fría, en este mismo estrecho.\n\nMedios iraníes informaron que un ataque estadounidense impactó una boda en Kuhestak, matando a cuatro personas —dos mujeres y dos niños— e hiriendo a decenas más. El CENTCOM afirmó que los militares nunca atacan a civiles y no abordó el incidente directamente. Los relatos en disputa sobre bajas civiles en zonas de ataque contestadas han determinado históricamente las batallas de legitimidad internacional mucho después de que concluyen las militares.\n\nLa respuesta de Irán llegó rápidamente: misiles y drones apuntaron a aliados de EE.UU. en Kuwait, Baréin, Jordania e Irak. Ciudad de Kuwait presenció un incendio provocado por un ataque de dron; el ejército de Jordania interceptó diez misiles balísticos; Erbil interceptó diez drones explosivos. Baréin también reportó interceptaciones.\n\nEl presidente Trump advirtió que nuevos ataques iraníes provocarían respuestas 'mucho más duras y contundentes'. Ambas partes están ahora atrapadas en una dinámica de compromiso público en la que dar marcha atrás conlleva costos políticos internos —una trampa estructural que ha sobrevivido a muchas crisis individuales en esta región.",
+      "perspectives": [
+        {
+          "who": "Estados Unidos (administración Trump / CENTCOM)",
+          "position": "Los ataques fueron una represalia justificada por el intento de Irán de minar el Estrecho de Ormuz y los ataques con misiles contra bases estadounidenses, llevados a cabo bajo una nueva política de 'petrolero por petrolero' para disuadir una mayor agresión iraní contra la navegación comercial."
+        },
+        {
+          "who": "Irán",
+          "position": "Irán calificó los ataques estadounidenses de 'crímenes salvajes', incluido un ataque mortal contra una fiesta de bodas, y juró responder 'con firmeza', lanzando sus propios ataques con misiles y drones contra fuerzas estadounidenses y aliados en todo el Golfo."
+        }
+      ]
+    },
+    "id": "2026-09-02-1k2u75a+1nml",
+    "section": "politics",
+    "rank": 0,
+    "writer": "santamaria",
+    "headline": "US strikes Iran; Iran retaliates against Gulf allies with missiles and drones",
+    "dek": "Tuesday's exchange of strikes and retaliations follows a logic older than any single administration—escalation ladders are easier to climb than to descend.",
+    "body": "On Tuesday, September 1, the United States launched strikes against approximately 100 sites inside Iran, including IRGC air defense installations, radar systems, and maritime assets. U.S. drones also fired missiles into the engine rooms of two Iranian government tankers anchored off Iran's coast—the first time Washington has struck Iranian tankers in direct retaliation for attacks on commercial shipping, rather than to enforce its naval blockade. President Trump framed the action as payback for Iranian mine-laying attempts in the Strait of Hormuz and for eight Iranian missiles fired at a U.S. base in Jordan.\n\nThe 'tanker for tanker' policy quietly codified something significant: a new reciprocity doctrine that trades symmetrical economic pain for deterrence. Whether symmetrical retaliation actually deters, or simply normalizes escalation, is the central question strategists have wrestled with since the Cold War's tit-for-tat naval skirmishes of the 1980s in this same waterway.\n\nIranian media reported a U.S. strike hit a wedding in Kuhestak, killing four people—two women and two children—and wounding dozens more. CENTCOM said the military never targets civilians and did not directly address the incident. Competing accounts of civilian casualties in contested strike zones have historically shaped international legitimacy battles long after military ones conclude.\n\nIran's response came swiftly: missiles and drones targeted U.S. allies in Kuwait, Bahrain, Jordan, and Iraq. Kuwait City saw a blaze from a drone strike; Jordan's army intercepted ten ballistic missiles; Irbil intercepted ten explosive drones. Bahrain also reported interceptions.\n\nPresident Trump warned that further Iranian attacks would draw 'much harder and higher' responses. Both sides are now locked into a public commitment dynamic where backing down carries domestic political costs—a structural trap that has outlasted many individual crises in this region.",
+    "facts": "U.S. forces launched a new round of strikes inside Iran on Tuesday, September 1, targeting approximately 100 sites including IRGC air defense sites, radar systems, mine-laying capabilities, and maritime assets, according to U.S. Central Command and U.S. officials cited by Axios. As part of those strikes, the U.S. military attacked two Iranian government tankers anchored off Iran's coast north of the U.S. naval blockade line, with U.S. drones launching missiles that hit their engine rooms, marking the first time the U.S. has struck Iranian tankers in retaliation for Iranian attacks on shipping rather than to enforce the blockade, according to Axios. A U.S. official told Axios the tanker strikes were carried out under a new 'tanker for tanker' policy approved by President Trump to deter Iranian attacks on commercial tankers in the Strait of Hormuz. President Trump said the strikes were 'in retaliation for the Iranians' failed attempt at adding sea mines to the Strait' and for Iran firing eight missiles at a U.S. base in Jordan, according to RTÉ. Iranian media reported that one U.S. strike hit a home hosting a wedding in Kuhestak, a small coastal town in Hormozgan province; Iranian state agency IRNA and state TV said four people were killed—two women and two children—and at least 68 were wounded, while Iran's Red Crescent cited shrapnel from a U.S. missile killing four people including a child and wounding more than 50. CENTCOM spokesman Capt. Tim Hawkins said, per Axios, 'We're aware of the reports, which originated from Iranian state media. The U.S. military never targets civilians, unlike the IRGC,' and the U.S. military did not directly address the wedding strike, according to RTÉ. In retaliation, Iran launched missiles and drones at U.S. allies and bases in Kuwait, Bahrain, Jordan, and Iraq; an Iranian drone attack sparked a blaze in Kuwait City, Bahrain intercepted incoming drones, the Jordanian army said it intercepted 10 ballistic missiles fired from Iran, and Kurdish authorities in Iraq's Irbil region said they intercepted 10 explosive-laden drones, according to AP and RTÉ. President Trump warned Iran before its retaliatory strikes that further attacks would draw 'much harder and higher' responses, according to RTÉ.",
+    "perspectives": [
+      {
+        "who": "United States (Trump administration / CENTCOM)",
+        "position": "The strikes were a justified retaliation for Iran's attempted mining of the Strait of Hormuz and missile attacks on U.S. bases, conducted under a new 'tanker for tanker' policy to deter further Iranian aggression against commercial shipping."
+      },
+      {
+        "who": "Iran",
+        "position": "Iran said the U.S. strikes constituted 'savage crimes,' including a deadly strike on a wedding party, and vowed to respond 'with firmness,' launching its own missile and drone attacks on U.S. forces and allies across the Gulf."
+      }
+    ],
+    "location": "Iran",
+    "when": "Sep 1–2",
+    "sources": [
+      {
+        "outlet": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
+        "line": "wire"
+      },
+      {
+        "outlet": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSzRKSHdYZ0V5RDRoQXpKeUprUGVkLW15Ymd4VUkzSkpIeFJ6R2RpS1h5VGF0ckVBTXRscEg2NFhfWXJWeVJFV3BYYnlyVG9lTEhGT1cyY3duNmhPSVlPM3pLVVFTazVVSzM0MHBjVi1mb2NxNm1YNWJfQTNtWDZVQTVfSnFIeWUwYVdodnFSUVRubkw5UXBQb0p1dFBLRUFNclkw?oc=5",
+        "line": "left"
+      },
+      {
+        "outlet": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83TDRUZnBBNEU5R2QyU2Zzc0V0Z2tFb3YwSFlzZVB5S2huMXU0bEpOQzBmLXdpczcxRnpHdGpXT2VkbzVhZmdidEsyR0NydFktRVF4NkF1N3BoYjlFd05zVmtLQlhfNGozVVhIMXZWVUk1UQ?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOTAxalBMekxHQmg5Z1UyMmlvNjNjZWJtc015S2dUNEdELTNJX0xCZzVKRHJqdVZsc0Z6eEJMUTIzSXk2SlMyajgwaklyT1g2clhDODBmWmlSQUZUWHlHTlN6TFhTeDZ0bUplZzVPdDFMN24yTTVpZWhJOWo1b1l1S2ljeFpXM0c3WUEtdHV2c3h6Z0hIdGVobFAzalFXRWYwU08wdEJkUXJyNHM?oc=5",
+        "line": "wire"
+      }
+    ],
+    "published": 1788366554452
+  },
+  {
+    "es": {
       "headline": "Argentina gana el bronce masculino en la Copa Mundial de Hockey 2026",
       "dek": "Argentina venció a los Países Bajos 2-1 en Ámsterdam para asegurar el bronce masculino en la Copa Mundial de Hockey FIH 2026 el 30 de agosto.",
       "body": "ÁMSTERDAM — Argentina se llevó la medalla de bronce masculina en la Copa Mundial de Hockey FIH 2026 al derrotar a los Países Bajos 2-1 en Ámsterdam el 30 de agosto. La victoria cerró un notable tramo de dos días para el hockey argentino.\n\nEl día anterior, Las Leonas se coronaron campeonas del torneo femenino al vencer al anfitrión Países Bajos 3-1 en una tanda de penales tras un empate 1-1. La portera Cristina Cosentino fue la figura decisiva en esa instancia, dándole a Argentina su primer título mundial femenino desde 2010.\n\nEn el lado masculino, Argentina había caído ante Alemania 2-1 en las semifinales, eliminando cualquier posibilidad de ir por el oro. Alemania luego derrotó a España 1-0 en la final en Wavre, conquistando su cuarto título mundial e igualando el récord histórico de Pakistán.\n\nTomás Domene fue el mejor jugador individual del torneo. El delantero argentino terminó como máximo goleador con 10 goles en toda la competencia, una cifra que lo diferenció de todos los demás jugadores del campo.\n\nLa edición 2026 fue la primera Copa Mundial masculina de Hockey co-organizada entre dos países. Bélgica y los Países Bajos compartieron las responsabilidades, con partidos divididos entre Wavre y Ámsterdam del 15 al 30 de agosto. Argentina regresa a casa con dos medallas en una sola Copa Mundial: un bronce para los hombres, un oro para las mujeres, un resultado que el país no olvidará fácilmente.",
