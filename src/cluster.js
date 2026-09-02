@@ -1,5 +1,5 @@
 import Anthropic from "@anthropic-ai/sdk";
-import { SECTIONS, SITE } from "./config.js";
+import { SECTIONS, SITE, audienceFor } from "./config.js";
 
 const client = new Anthropic();
 const MAX_ITEMS = 160; // newest N headlines per section go to the matcher
@@ -7,7 +7,8 @@ const MAX_ITEMS = 160; // newest N headlines per section go to the matcher
 // Ask a small fast model to group headlines that report the same news event.
 // Cross-language and cross-outlet, which is what keyword matching could not do.
 export async function clusterSection(items, sectionLabel) {
-  const recent = [...items].sort((a, b) => b.ts - a.ts).slice(0, MAX_ITEMS);
+  const sec = SECTIONS.find((s) => s.label === sectionLabel) || {};
+  const recent = [...items].sort((a, b) => b.ts - a.ts).slice(0, sec.storiesPerSection ? MAX_ITEMS * 2 : MAX_ITEMS);
   if (recent.length < 2) return [];
   try {
     const list = recent.map((it, i) => `${i}\t${it.outlet}\t${it.title}`).join("\n");
@@ -15,7 +16,7 @@ export async function clusterSection(items, sectionLabel) {
       model: SITE.matcherModel,
       max_tokens: 1500,
       system:
-        "You are a news desk editor. You receive numbered headlines from many outlets in English and Spanish. Group the ones that report the SAME specific news event (same who, what, when). Being about the same broad topic is not enough. Output strict JSON only.",
+        `You are a news desk editor. ${audienceFor(sec)} You receive numbered headlines from many outlets in English and Spanish. Group the ones that report the SAME specific news event (same who, what, when). Being about the same broad topic is not enough. Leave out events that do not qualify for this publication. Output strict JSON only.`,
       messages: [
         {
           role: "user",
@@ -59,7 +60,7 @@ export function select(clusters, section, alreadyPublished) {
     if (c.outlets.length < 2) continue;
     if (sec.requireTwoLines && c.lines.length < 2) { held.push(c); continue; }
     picks.push(c);
-    if (picks.length >= SITE.storiesPerSection) break;
+    if (picks.length >= (sec.storiesPerSection || SITE.storiesPerSection)) break;
   }
   return { picks, held };
 }

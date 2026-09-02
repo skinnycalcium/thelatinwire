@@ -21,7 +21,7 @@ function layout({ title, body, path, now }) {
 </head>
 <body>
 <header class="top">
-  <div class="topline"><span>${fmtDate(now)}</span><span>Updated ${fmtTime(now)}</span></div>
+  <div class="topline"><span>${fmtDate(now)}</span></div>
   <a class="mast" href="/">The Latin <em>Wire</em></a>
   <p class="tag">${esc(SITE.tagline)}</p>
   <nav class="nav">
@@ -34,10 +34,6 @@ function layout({ title, body, path, now }) {
   <div>
     <h4>The newsroom</h4>
     ${Object.values(WRITERS).map((w) => `<p><b>${w.name}</b>, ${w.title}</p>`).join("")}
-  </div>
-  <div>
-    <h4>How it works</h4>
-    <p>Every edition, the curation desk reads dozens of outlets, keeps only stories confirmed by more than one, and writes a fact sheet with every claim attributed. A staff writer is assigned by beat and files from that fact sheet alone. The lead story in each section goes to the columnist.</p>
   </div>
   <div><p><a href="/rss.xml">RSS</a></p></div>
 </footer>
@@ -91,7 +87,7 @@ function frontPage(bySection, now) {
     ? `<div class="hero"><div class="leadcol">${teaser(lead, { lead: true })}</div><div class="side">${side.map((s) => teaser(s)).join("")}</div></div>`
     : `<p class="note">The desk is reading the wire. Stories appear as soon as two outlets confirm one.</p>`;
   const bands = SECTIONS.map((sec) => {
-    const list = (bySection[sec.id] || []).slice(0, 4);
+    const list = (bySection[sec.id] || []).slice(0, sec.frontCount || 4);
     if (!list.length) return "";
     return `<section class="band"><div class="band-head"><h2>${sec.label}</h2><a href="/${sec.id}/">All ${sec.label.toLowerCase()}</a></div><div class="grid">${list.map((s) => teaser(s)).join("")}</div></section>`;
   }).join("");

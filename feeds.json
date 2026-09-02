@@ -2,56 +2,506 @@
   "_notes": [
     "Most feeds are Google News queries because they are reliable and each item carries its real outlet name, which the desk uses to count distinct outlets.",
     "line: left | center | right | wire | auto. 'auto' means look the outlet up in the lines map below; unknown outlets count as center.",
-    "Politics only publishes a story once outlets from two different lines have covered it."
+    "Politics only publishes a story once outlets from two different lines have covered it.",
+    "Politics is deliberately broad: US national politics plus Latin America. The other sections keep the Latino/Latin America filter."
   ],
   "lines": {
-    "left": ["nbc", "msnbc", "cnn", "washington post", "new york times", "nytimes", "guardian", "huffpost", "vox", "univision", "el país", "el pais", "latino usa", "los angeles times", "la times", "salon", "daily beast", "mother jones", "new republic", "the atlantic", "npr", "pbs", "cbs", "abc news", "telemundo", "la opinión", "la opinion"],
-    "right": ["fox news", "foxnews", "fox business", "washington examiner", "new york post", "nypost", "daily wire", "breitbart", "national review", "the federalist", "newsmax", "daily caller", "washington times", "free beacon", "epoch times", "blaze", "oan", "townhall", "americano media", "el american"],
-    "wire": ["associated press", "ap news", "apnews", "reuters", "efe", "afp", "bloomberg", "upi"],
-    "center": ["axios", "the hill", "politico", "wall street journal", "wsj", "usa today", "newsweek", "forbes", "cnbc", "semafor", "voice of america", "voa", "el nuevo herald", "miami herald", "houston chronicle", "san antonio express", "arizona republic", "dallas morning news", "el universal", "milenio", "reforma", "excélsior", "excelsior", "infobae", "la nación", "la nacion", "clarín", "clarin", "el tiempo", "semana", "el comercio", "el mercurio", "la tercera", "folha", "o globo", "estadão", "estadao", "el nacional", "diario las américas", "diario las americas"]
+    "left": [
+      "nbc",
+      "msnbc",
+      "cnn",
+      "washington post",
+      "new york times",
+      "nytimes",
+      "guardian",
+      "huffpost",
+      "vox",
+      "univision",
+      "el país",
+      "el pais",
+      "latino usa",
+      "los angeles times",
+      "la times",
+      "salon",
+      "daily beast",
+      "mother jones",
+      "new republic",
+      "the atlantic",
+      "npr",
+      "pbs",
+      "cbs",
+      "abc news",
+      "telemundo",
+      "la opinión",
+      "la opinion"
+    ],
+    "right": [
+      "fox news",
+      "foxnews",
+      "fox business",
+      "washington examiner",
+      "new york post",
+      "nypost",
+      "daily wire",
+      "breitbart",
+      "national review",
+      "the federalist",
+      "newsmax",
+      "daily caller",
+      "washington times",
+      "free beacon",
+      "epoch times",
+      "blaze",
+      "oan",
+      "townhall",
+      "americano media",
+      "el american"
+    ],
+    "wire": [
+      "associated press",
+      "ap news",
+      "apnews",
+      "reuters",
+      "efe",
+      "afp",
+      "bloomberg",
+      "upi"
+    ],
+    "center": [
+      "axios",
+      "the hill",
+      "politico",
+      "wall street journal",
+      "wsj",
+      "usa today",
+      "newsweek",
+      "forbes",
+      "cnbc",
+      "semafor",
+      "voice of america",
+      "voa",
+      "el nuevo herald",
+      "miami herald",
+      "houston chronicle",
+      "san antonio express",
+      "arizona republic",
+      "dallas morning news",
+      "el universal",
+      "milenio",
+      "reforma",
+      "excélsior",
+      "excelsior",
+      "infobae",
+      "la nación",
+      "la nacion",
+      "clarín",
+      "clarin",
+      "el tiempo",
+      "semana",
+      "el comercio",
+      "el mercurio",
+      "la tercera",
+      "folha",
+      "o globo",
+      "estadão",
+      "estadao",
+      "el nacional",
+      "diario las américas",
+      "diario las americas"
+    ]
   },
   "feeds": [
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(latino+OR+hispanic)+(voters+OR+congress+OR+immigration+OR+election)&hl=en-US&gl=US&ceid=US:en", "section": "politics", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=immigration+policy+(ICE+OR+border+OR+deportation+OR+asylum)&hl=en-US&gl=US&ceid=US:en", "section": "politics", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(Mexico+OR+Sheinbaum)+(government+OR+president+OR+cartel+OR+tariff)&hl=en-US&gl=US&ceid=US:en", "section": "politics", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(Venezuela+OR+Cuba+OR+Colombia+OR+Argentina+OR+Brazil+OR+Chile+OR+Peru+OR+Guatemala+OR+Honduras+OR+El+Salvador+OR+Puerto+Rico)+(president+OR+election+OR+government+OR+sanctions)&hl=en-US&gl=US&ceid=US:en", "section": "politics", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=site:foxnews.com+(latino+OR+hispanic+OR+mexico+OR+venezuela+OR+cuba+OR+immigration)&hl=en-US&gl=US&ceid=US:en", "section": "politics", "line": "right", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=site:washingtonexaminer.com+(immigration+OR+mexico+OR+latino+OR+hispanic)&hl=en-US&gl=US&ceid=US:en", "section": "politics", "line": "right", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=site:nypost.com+(immigration+OR+mexico+OR+latino+OR+venezuela+OR+cuba)&hl=en-US&gl=US&ceid=US:en", "section": "politics", "line": "right", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=site:nbcnews.com+(latino+OR+hispanic+OR+immigration+OR+mexico)&hl=en-US&gl=US&ceid=US:en", "section": "politics", "line": "left", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=site:apnews.com+(latino+OR+hispanic+OR+immigration+OR+mexico+OR+venezuela+OR+cuba)&hl=en-US&gl=US&ceid=US:en", "section": "politics", "line": "wire", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=site:reuters.com+(latin+america+OR+mexico+OR+immigration+OR+venezuela+OR+brazil)&hl=en-US&gl=US&ceid=US:en", "section": "politics", "line": "wire", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=site:univision.com+(política+OR+inmigración+OR+elecciones)&hl=es-419&gl=US&ceid=US:es-419", "section": "politics", "line": "left", "lang": "es" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(inmigración+OR+deportaciones+OR+latinos)+Estados+Unidos&hl=es-419&gl=US&ceid=US:es-419", "section": "politics", "line": "auto", "lang": "es" },
-    { "outlet": "The Hill", "url": "https://thehill.com/latino/feed/", "section": "politics", "line": "center", "lang": "en" },
-
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(hispanic+OR+latino)+(business+OR+entrepreneurs+OR+consumers+OR+economy)&hl=en-US&gl=US&ceid=US:en", "section": "business", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(remittances+OR+remesas)&hl=en-US&gl=US&ceid=US:en", "section": "business", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(Mexico+OR+Brazil+OR+Argentina+OR+Colombia+OR+Chile+OR+Peru)+(economy+OR+peso+OR+inflation+OR+central+bank+OR+trade+OR+tariffs)&hl=en-US&gl=US&ceid=US:en", "section": "business", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(latin+america+OR+latam)+(startup+OR+fintech+OR+funding+OR+IPO+OR+acquisition)&hl=en-US&gl=US&ceid=US:en", "section": "business", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(Pemex+OR+Petrobras+OR+nearshoring+OR+USMCA+OR+T-MEC)&hl=en-US&gl=US&ceid=US:en", "section": "business", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=economía+(México+OR+Colombia+OR+Argentina+OR+Chile+OR+Perú)&hl=es-419&gl=MX&ceid=MX:es-419", "section": "business", "line": "auto", "lang": "es" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=site:bloomberglinea.com&hl=es-419&gl=US&ceid=US:es-419", "section": "business", "line": "center", "lang": "es" },
-
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(Bad+Bunny+OR+Karol+G+OR+Peso+Pluma+OR+Shakira+OR+Rauw+Alejandro+OR+Feid+OR+Fuerza+Regida+OR+Maluma+OR+J+Balvin+OR+Grupo+Frontera)&hl=en-US&gl=US&ceid=US:en", "section": "entertainment", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(latin+music+OR+reggaeton+OR+regional+mexicano+OR+corridos+OR+Latin+Grammy)&hl=en-US&gl=US&ceid=US:en", "section": "entertainment", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(latino+OR+latina+OR+spanish-language)+(film+OR+movie+OR+series+OR+Netflix+OR+telenovela+OR+actor+OR+actress)&hl=en-US&gl=US&ceid=US:en", "section": "entertainment", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(Jennifer+Lopez+OR+Selena+Gomez+OR+Pedro+Pascal+OR+Salma+Hayek+OR+Eva+Longoria+OR+Sofía+Vergara+OR+Jenna+Ortega)&hl=en-US&gl=US&ceid=US:en", "section": "entertainment", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(música+latina+OR+reguetón+OR+regional+mexicano)+(estreno+OR+gira+OR+lanza)&hl=es-419&gl=US&ceid=US:es-419", "section": "entertainment", "line": "auto", "lang": "es" },
-    { "outlet": "Billboard Latin", "url": "https://www.billboard.com/c/music/latin/feed/", "section": "entertainment", "line": "center", "lang": "en" },
-    { "outlet": "Remezcla", "url": "https://remezcla.com/feed/", "section": "entertainment", "line": "center", "lang": "en" },
-
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(Liga+MX+OR+Club+América+OR+Chivas+OR+Cruz+Azul+OR+Tigres+OR+Rayados)&hl=en-US&gl=US&ceid=US:en", "section": "sports", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(Messi+OR+Inter+Miami+OR+MLS)&hl=en-US&gl=US&ceid=US:en", "section": "sports", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=MLB+(Dominican+OR+Venezuelan+OR+Puerto+Rican+OR+Cuban+OR+Mexican)&hl=en-US&gl=US&ceid=US:en", "section": "sports", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(Canelo+OR+Copa+Libertadores+OR+Copa+Sudamericana+OR+Conmebol+OR+Checo+Pérez)&hl=en-US&gl=US&ceid=US:en", "section": "sports", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(selección+mexicana+OR+Liga+MX+OR+Libertadores)&hl=es-419&gl=MX&ceid=MX:es-419", "section": "sports", "line": "auto", "lang": "es" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=World+Cup+2026+(Mexico+OR+Argentina+OR+Brazil+OR+Colombia+OR+Uruguay)&hl=en-US&gl=US&ceid=US:en", "section": "sports", "line": "auto", "lang": "en" },
-
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(latino+OR+hispanic)+(culture+OR+heritage+OR+museum+OR+exhibit+OR+festival+OR+author+OR+novel)&hl=en-US&gl=US&ceid=US:en", "section": "culture", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(mexican+OR+cuban+OR+puerto+rican+OR+dominican+OR+colombian+OR+venezuelan)+(restaurant+OR+chef+OR+cuisine)+(opens+OR+award+OR+James+Beard+OR+Michelin)&hl=en-US&gl=US&ceid=US:en", "section": "culture", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(Día+de+los+Muertos+OR+quinceañera+OR+Hispanic+Heritage+Month+OR+Latino+artist+OR+lowrider+OR+mariachi)&hl=en-US&gl=US&ceid=US:en", "section": "culture", "line": "auto", "lang": "en" },
-    { "outlet": "Google News", "url": "https://news.google.com/rss/search?q=(latino+OR+latina)+(obituary+OR+dies+OR+legend)+-sports&hl=en-US&gl=US&ceid=US:en", "section": "culture", "line": "auto", "lang": "en" },
-    { "outlet": "Latino USA", "url": "https://www.latinousa.org/feed/", "section": "culture", "line": "center", "lang": "en" }
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(latino+OR+hispanic)+(voters+OR+congress+OR+immigration+OR+election)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=immigration+policy+(ICE+OR+border+OR+deportation+OR+asylum)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(Mexico+OR+Sheinbaum)+(government+OR+president+OR+cartel+OR+tariff)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(Venezuela+OR+Cuba+OR+Colombia+OR+Argentina+OR+Brazil+OR+Chile+OR+Peru+OR+Guatemala+OR+Honduras+OR+El+Salvador+OR+Puerto+Rico)+(president+OR+election+OR+government+OR+sanctions)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:foxnews.com+(latino+OR+hispanic+OR+mexico+OR+venezuela+OR+cuba+OR+immigration)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "right",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:washingtonexaminer.com+(immigration+OR+mexico+OR+latino+OR+hispanic)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "right",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:nypost.com+(immigration+OR+mexico+OR+latino+OR+venezuela+OR+cuba)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "right",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:nbcnews.com+(latino+OR+hispanic+OR+immigration+OR+mexico)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "left",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:apnews.com+(latino+OR+hispanic+OR+immigration+OR+mexico+OR+venezuela+OR+cuba)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "wire",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:reuters.com+(latin+america+OR+mexico+OR+immigration+OR+venezuela+OR+brazil)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "wire",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:univision.com+(política+OR+inmigración+OR+elecciones)&hl=es-419&gl=US&ceid=US:es-419",
+      "section": "politics",
+      "line": "left",
+      "lang": "es"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(inmigración+OR+deportaciones+OR+latinos)+Estados+Unidos&hl=es-419&gl=US&ceid=US:es-419",
+      "section": "politics",
+      "line": "auto",
+      "lang": "es"
+    },
+    {
+      "outlet": "The Hill",
+      "url": "https://thehill.com/latino/feed/",
+      "section": "politics",
+      "line": "center",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(Congress+OR+Senate+OR+House)+(vote+OR+bill+OR+hearing+OR+passes+OR+blocks)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(White+House+OR+President)+(executive+order+OR+announces+OR+signs+OR+vetoes)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=Supreme+Court+(ruling+OR+rules+OR+decision+OR+arguments)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(midterms+OR+midterm+elections+OR+2026+election)+(poll+OR+race+OR+primary+OR+campaign)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(governor+OR+state+legislature)+(signs+OR+vetoes+OR+election+OR+race)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(tariffs+OR+trade+deal+OR+foreign+policy)+(Trump+OR+administration)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:politico.com&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "center",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:thehill.com+(Congress+OR+White+House+OR+Senate)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "center",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:apnews.com+(Congress+OR+White+House+OR+Supreme+Court+OR+election)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "wire",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:reuters.com+(Congress+OR+White+House+OR+Supreme+Court+OR+election)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "wire",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:foxnews.com+(Congress+OR+White+House+OR+Democrats+OR+Republicans+OR+Senate)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "right",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:washingtonexaminer.com+(Congress+OR+White+House+OR+Senate+OR+Democrats)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "right",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:nypost.com+(Congress+OR+White+House+OR+Democrats+OR+Republicans)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "right",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:dailywire.com+(Congress+OR+White+House+OR+Democrats)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "right",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:nbcnews.com+(Congress+OR+White+House+OR+Senate+OR+Republicans)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "left",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:cnn.com+politics+(Congress+OR+White+House+OR+Senate)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "left",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:washingtonpost.com+(Congress+OR+White+House+OR+Senate+OR+Republicans)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "left",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:axios.com+(Congress+OR+White+House+OR+Senate)&hl=en-US&gl=US&ceid=US:en",
+      "section": "politics",
+      "line": "center",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(hispanic+OR+latino)+(business+OR+entrepreneurs+OR+consumers+OR+economy)&hl=en-US&gl=US&ceid=US:en",
+      "section": "business",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(remittances+OR+remesas)&hl=en-US&gl=US&ceid=US:en",
+      "section": "business",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(Mexico+OR+Brazil+OR+Argentina+OR+Colombia+OR+Chile+OR+Peru)+(economy+OR+peso+OR+inflation+OR+central+bank+OR+trade+OR+tariffs)&hl=en-US&gl=US&ceid=US:en",
+      "section": "business",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(latin+america+OR+latam)+(startup+OR+fintech+OR+funding+OR+IPO+OR+acquisition)&hl=en-US&gl=US&ceid=US:en",
+      "section": "business",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(Pemex+OR+Petrobras+OR+nearshoring+OR+USMCA+OR+T-MEC)&hl=en-US&gl=US&ceid=US:en",
+      "section": "business",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=economía+(México+OR+Colombia+OR+Argentina+OR+Chile+OR+Perú)&hl=es-419&gl=MX&ceid=MX:es-419",
+      "section": "business",
+      "line": "auto",
+      "lang": "es"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=site:bloomberglinea.com&hl=es-419&gl=US&ceid=US:es-419",
+      "section": "business",
+      "line": "center",
+      "lang": "es"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(Bad+Bunny+OR+Karol+G+OR+Peso+Pluma+OR+Shakira+OR+Rauw+Alejandro+OR+Feid+OR+Fuerza+Regida+OR+Maluma+OR+J+Balvin+OR+Grupo+Frontera)&hl=en-US&gl=US&ceid=US:en",
+      "section": "entertainment",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(latin+music+OR+reggaeton+OR+regional+mexicano+OR+corridos+OR+Latin+Grammy)&hl=en-US&gl=US&ceid=US:en",
+      "section": "entertainment",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(latino+OR+latina+OR+spanish-language)+(film+OR+movie+OR+series+OR+Netflix+OR+telenovela+OR+actor+OR+actress)&hl=en-US&gl=US&ceid=US:en",
+      "section": "entertainment",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(Jennifer+Lopez+OR+Selena+Gomez+OR+Pedro+Pascal+OR+Salma+Hayek+OR+Eva+Longoria+OR+Sofía+Vergara+OR+Jenna+Ortega)&hl=en-US&gl=US&ceid=US:en",
+      "section": "entertainment",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(música+latina+OR+reguetón+OR+regional+mexicano)+(estreno+OR+gira+OR+lanza)&hl=es-419&gl=US&ceid=US:es-419",
+      "section": "entertainment",
+      "line": "auto",
+      "lang": "es"
+    },
+    {
+      "outlet": "Billboard Latin",
+      "url": "https://www.billboard.com/c/music/latin/feed/",
+      "section": "entertainment",
+      "line": "center",
+      "lang": "en"
+    },
+    {
+      "outlet": "Remezcla",
+      "url": "https://remezcla.com/feed/",
+      "section": "entertainment",
+      "line": "center",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(Liga+MX+OR+Club+América+OR+Chivas+OR+Cruz+Azul+OR+Tigres+OR+Rayados)&hl=en-US&gl=US&ceid=US:en",
+      "section": "sports",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(Messi+OR+Inter+Miami+OR+MLS)&hl=en-US&gl=US&ceid=US:en",
+      "section": "sports",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=MLB+(Dominican+OR+Venezuelan+OR+Puerto+Rican+OR+Cuban+OR+Mexican)&hl=en-US&gl=US&ceid=US:en",
+      "section": "sports",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(Canelo+OR+Copa+Libertadores+OR+Copa+Sudamericana+OR+Conmebol+OR+Checo+Pérez)&hl=en-US&gl=US&ceid=US:en",
+      "section": "sports",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(selección+mexicana+OR+Liga+MX+OR+Libertadores)&hl=es-419&gl=MX&ceid=MX:es-419",
+      "section": "sports",
+      "line": "auto",
+      "lang": "es"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=World+Cup+2026+(Mexico+OR+Argentina+OR+Brazil+OR+Colombia+OR+Uruguay)&hl=en-US&gl=US&ceid=US:en",
+      "section": "sports",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(latino+OR+hispanic)+(culture+OR+heritage+OR+museum+OR+exhibit+OR+festival+OR+author+OR+novel)&hl=en-US&gl=US&ceid=US:en",
+      "section": "culture",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(mexican+OR+cuban+OR+puerto+rican+OR+dominican+OR+colombian+OR+venezuelan)+(restaurant+OR+chef+OR+cuisine)+(opens+OR+award+OR+James+Beard+OR+Michelin)&hl=en-US&gl=US&ceid=US:en",
+      "section": "culture",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(Día+de+los+Muertos+OR+quinceañera+OR+Hispanic+Heritage+Month+OR+Latino+artist+OR+lowrider+OR+mariachi)&hl=en-US&gl=US&ceid=US:en",
+      "section": "culture",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Google News",
+      "url": "https://news.google.com/rss/search?q=(latino+OR+latina)+(obituary+OR+dies+OR+legend)+-sports&hl=en-US&gl=US&ceid=US:en",
+      "section": "culture",
+      "line": "auto",
+      "lang": "en"
+    },
+    {
+      "outlet": "Latino USA",
+      "url": "https://www.latinousa.org/feed/",
+      "section": "culture",
+      "line": "center",
+      "lang": "en"
+    }
   ]
 }

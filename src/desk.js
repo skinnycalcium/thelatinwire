@@ -1,5 +1,5 @@
 import Anthropic from "@anthropic-ai/sdk";
-import { SITE, WRITERS } from "./config.js";
+import { SITE, WRITERS, audienceFor } from "./config.js";
 
 const client = new Anthropic();
 
@@ -15,7 +15,16 @@ async function ask(system, user, { maxTokens = 1400, search = false } = {}) {
     res = await client.messages.create(req);
   }
   const text = res.content.filter((b) => b.type === "text").map((b) => b.text).join("\n");
-  return extractJSON(text);
+  try { return extractJSON(text); }
+  catch (e) {
+    // One repair pass: hand the broken output back and ask for valid JSON only.
+    const fix = await client.messages.create({
+      model: SITE.model, max_tokens: maxTokens,
+      system: "You repair malformed JSON. Return the same content as valid JSON only. Escape quotes inside strings. No prose, no fences.",
+      messages: [{ role: "user", content: text.slice(0, 12000) }],
+    });
+    return extractJSON(fix.content.filter((b) => b.type === "text").map((b) => b.text).join(""));
+  }
 }
 
 function extractJSON(text) {
@@ -37,11 +46,14 @@ export async function factSheet(cluster, section) {
     ? "This is a political story. Attribute every claim to who made it. No adjectives of judgment. In perspectives, state each side's position as they themselves state it, one sentence each, without evaluation. If outlets disagree on a fact, say so in the facts."
     : "In perspectives return an empty array.";
 
-  return ask(
-    `You are the curation desk for ${SITE.name}, an automated publication. You are handed headlines from several outlets about one news event. Use web search to read the actual coverage, then produce a strict JSON fact sheet. You never editorialize and you never include a fact you did not find in a source.`,
-    `Headlines about this event:\n${material}\n\nSearch for and read the coverage (at most ${SITE.searchesPerStory} searches). ${balance}\n\nIf these headlines are really about different events, set "coherent": false and stop.\n\nRespond with ONLY raw JSON, no markdown fences, no prose before or after:\n{"coherent": true, "headline": "under 12 words, sentence case, no clickbait", "facts": "6 to 9 sentences of plain attributed facts in English", "perspectives": [{"who": "", "position": ""}], "location": "city or country", "when": "e.g. Aug 31"}`,
+  const sheet = await ask(
+    `You are the curation desk for ${SITE.name}, an automated publication. ${audienceFor(section)} You are handed headlines from several outlets about one news event. Use web search to read the actual coverage, then produce a strict JSON fact sheet. You never editorialize and you never include a fact you did not find in a source.`,
+    `Headlines about this event:\n${material}\n\nSearch for and read the coverage (at most ${SITE.searchesPerStory} searches). ${balance}\n\nIf these headlines are really about different events, set "coherent": false and stop. If the event does not qualify for this publication, set "relevant": false and stop.\n\nRespond with ONLY raw JSON, no markdown fences, no prose before or after:\n{"coherent": true, "relevant": true, "headline": "under 12 words, sentence case, no clickbait", "facts": "6 to 9 sentences of plain attributed facts in English", "perspectives": [{"who": "", "position": ""}], "location": "city or country, under 4 words", "when": "month and day only, e.g. Aug 31"}`,
     { maxTokens: 2000, search: true }
   );
+  if (sheet.when) sheet.when = String(sheet.when).split(/[;(,]/)[0].trim().slice(0, 12);
+  if (sheet.location) sheet.location = String(sheet.location).split(/[;(,]/)[0].trim().slice(0, 40);
+  return sheet;
 }
 
 // Stage 2: the assigned writer files from the fact sheet alone.

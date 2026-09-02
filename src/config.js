@@ -12,7 +12,8 @@ export const SITE = {
 };
 
 export const SECTIONS = [
-  { id: "politics", label: "Politics", writer: "vega", requireTwoLines: true },
+  { id: "politics", label: "Politics", writer: "vega", requireTwoLines: true, storiesPerSection: 8, frontCount: 8,
+    audience: "The Politics desk covers US national politics broadly (Congress, the White House, federal courts, elections and campaigns, governors and state politics, immigration, foreign policy) and the politics of Latin America and the Caribbean. Any substantive political news story qualifies; celebrity gossip and sports do not." },
   { id: "business", label: "Business", writer: "calderon" },
   { id: "entertainment", label: "Entertainment", writer: "ferrer" },
   { id: "sports", label: "Sports", writer: "calderon" },
@@ -47,7 +48,12 @@ export const WRITERS = {
   },
 };
 
-// The lead story in every section goes to the columnist.
+// The columnist takes the top politics story of each edition; everything else goes to the beat writer.
 export function assignWriter(section, rank) {
-  return rank === 0 ? "santamaria" : section.writer;
+  return section.id === "politics" && rank === 0 ? "santamaria" : section.writer;
 }
+
+export const AUDIENCE =
+  "This desk covers news for Hispanics and Latinos in the United States and news from Latin America and the Caribbean. A story qualifies only if its main subject is a Latino person, community, business or institution, a Latin American or Caribbean country, US policy that specifically affects Latinos or Latin America (immigration, trade with the region, relations with a Latin American government), or Latin music, film, food, sport or culture. General US or world news that merely mentions the region in passing does not qualify.";
+
+export const audienceFor = (section) => section.audience || AUDIENCE;

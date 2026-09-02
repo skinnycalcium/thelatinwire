@@ -60,6 +60,7 @@ await Promise.all(
     try {
       const sheet = await factSheet(cluster, sec);
       if (!sheet.coherent) { console.warn(`${sec.label} #${rank}: cluster not coherent, skipped`); return; }
+      if (sheet.relevant === false) { console.warn(`${sec.label} #${rank}: not a Latin story, skipped`); return; }
       const writer = assignWriter(sec, rank);
       const art = await writeArticle(sheet, writer, sec);
       const es = await translateArticle(sheet, art).catch((e) => { console.warn(`translation failed: ${e.message}`); return null; });
