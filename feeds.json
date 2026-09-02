@@ -1,0 +1,40 @@
+{
+  "_notes": [
+    "Each feed carries a section and an editorial line. 'line' is used only by the politics desk: a political story must be covered by at least two outlets with different lines before it can publish.",
+    "Lines: left, center, right, wire. 'wire' counts as its own line (AP, Reuters, EFE).",
+    "Add, remove, or retag freely. Verify each URL still resolves; outlets move feeds without notice."
+  ],
+  "feeds": [
+    { "outlet": "AP News Latin America", "url": "https://rsshub.app/apnews/topics/latin-america", "section": "politics", "line": "wire", "lang": "en" },
+    { "outlet": "Reuters Americas", "url": "https://news.google.com/rss/search?q=site:reuters.com+latin+america&hl=en-US&gl=US&ceid=US:en", "section": "politics", "line": "wire", "lang": "en" },
+    { "outlet": "EFE", "url": "https://www.efe.com/feed/", "section": "politics", "line": "wire", "lang": "es" },
+    { "outlet": "NBC Latino", "url": "https://www.nbcnews.com/latino/rss", "section": "politics", "line": "left", "lang": "en" },
+    { "outlet": "Fox News Latino", "url": "https://news.google.com/rss/search?q=site:foxnews.com+latino+OR+hispanic+OR+mexico+OR+venezuela+OR+cuba&hl=en-US&gl=US&ceid=US:en", "section": "politics", "line": "right", "lang": "en" },
+    { "outlet": "The Hill", "url": "https://thehill.com/latino/feed/", "section": "politics", "line": "center", "lang": "en" },
+    { "outlet": "Axios Latino", "url": "https://api.axios.com/feed/latino", "section": "politics", "line": "center", "lang": "en" },
+    { "outlet": "Univision Noticias", "url": "https://www.univision.com/feed/noticias", "section": "politics", "line": "left", "lang": "es" },
+    { "outlet": "Washington Examiner", "url": "https://news.google.com/rss/search?q=site:washingtonexaminer.com+immigration+OR+mexico+OR+latino&hl=en-US&gl=US&ceid=US:en", "section": "politics", "line": "right", "lang": "en" },
+    { "outlet": "El País América", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada", "section": "politics", "line": "left", "lang": "es" },
+
+    { "outlet": "Bloomberg Línea", "url": "https://www.bloomberglinea.com/arc/outboundfeeds/rss/", "section": "business", "line": "center", "lang": "es" },
+    { "outlet": "Reuters Business Latin America", "url": "https://news.google.com/rss/search?q=site:reuters.com+(mexico+OR+brazil+OR+argentina+OR+colombia)+economy&hl=en-US&gl=US&ceid=US:en", "section": "business", "line": "wire", "lang": "en" },
+    { "outlet": "El Economista", "url": "https://www.eleconomista.com.mx/rss/", "section": "business", "line": "center", "lang": "es" },
+    { "outlet": "Expansión", "url": "https://expansion.mx/rss", "section": "business", "line": "center", "lang": "es" },
+    { "outlet": "Google News Hispanic business", "url": "https://news.google.com/rss/search?q=hispanic+owned+business+OR+latino+entrepreneurs+OR+remittances&hl=en-US&gl=US&ceid=US:en", "section": "business", "line": "center", "lang": "en" },
+
+    { "outlet": "Billboard Latin", "url": "https://www.billboard.com/c/music/latin/feed/", "section": "entertainment", "line": "center", "lang": "en" },
+    { "outlet": "Remezcla", "url": "https://remezcla.com/feed/", "section": "entertainment", "line": "center", "lang": "en" },
+    { "outlet": "People en Español", "url": "https://peopleenespanol.com/feed/", "section": "entertainment", "line": "center", "lang": "es" },
+    { "outlet": "Variety Latino", "url": "https://news.google.com/rss/search?q=site:variety.com+latin+OR+latino+OR+spanish-language&hl=en-US&gl=US&ceid=US:en", "section": "entertainment", "line": "center", "lang": "en" },
+    { "outlet": "Rolling Stone en Español", "url": "https://es.rollingstone.com/feed/", "section": "entertainment", "line": "center", "lang": "es" },
+
+    { "outlet": "ESPN Deportes", "url": "https://www.espn.com.mx/espn/rss/news", "section": "sports", "line": "center", "lang": "es" },
+    { "outlet": "Marca", "url": "https://e00-marca.uecdn.es/rss/portada.xml", "section": "sports", "line": "center", "lang": "es" },
+    { "outlet": "MLB.com", "url": "https://www.mlb.com/feeds/news/rss.xml", "section": "sports", "line": "center", "lang": "en" },
+    { "outlet": "Google News Liga MX", "url": "https://news.google.com/rss/search?q=liga+mx+OR+copa+libertadores+OR+mls&hl=en-US&gl=US&ceid=US:en", "section": "sports", "line": "center", "lang": "en" },
+
+    { "outlet": "Latino USA", "url": "https://www.latinousa.org/feed/", "section": "culture", "line": "center", "lang": "en" },
+    { "outlet": "Hyperallergic", "url": "https://hyperallergic.com/feed/", "section": "culture", "line": "center", "lang": "en" },
+    { "outlet": "Google News Latino culture", "url": "https://news.google.com/rss/search?q=latino+culture+OR+latinx+art+OR+hispanic+heritage+OR+latin+food&hl=en-US&gl=US&ceid=US:en", "section": "culture", "line": "center", "lang": "en" }
+  ]
+}
