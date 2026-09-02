@@ -83,11 +83,13 @@ try{var s=localStorage.getItem('lw-lang');if(s==='es')pick('es')}catch(e){}})();
 }
 
 function frontPage(bySection, now) {
-  const lead = bySection.politics?.[0];
-  const side = [bySection.business?.[0], bySection.entertainment?.[0], bySection.politics?.[1]].filter(Boolean);
+  const order = ["politics", "business", "entertainment", "sports", "culture"];
+  const all = order.flatMap((id) => bySection[id] || []);
+  const lead = all[0];
+  const side = order.map((id) => bySection[id]?.[0]).filter((s) => s && s !== lead).slice(0, 3);
   const hero = lead
     ? `<div class="hero"><div class="leadcol">${teaser(lead, { lead: true })}</div><div class="side">${side.map((s) => teaser(s)).join("")}</div></div>`
-    : `<p class="note">No politics stories cleared the two-line rule this edition. Held stories are reviewed next run.</p>`;
+    : `<p class="note">The desk is reading the wire. Stories appear as soon as two outlets confirm one.</p>`;
   const bands = SECTIONS.map((sec) => {
     const list = (bySection[sec.id] || []).slice(0, 4);
     if (!list.length) return "";
@@ -116,6 +118,8 @@ export function render(archive, now = Date.now()) {
   const out = new URL("../public/", import.meta.url).pathname;
   mkdirSync(out, { recursive: true });
   cpSync(new URL("../theme.css", import.meta.url).pathname, out + "theme.css");
+  writeFileSync(out + "CNAME", SITE.domain.replace(/^https?:\/\//, ""));
+  writeFileSync(out + ".nojekyll", "");
   writeFileSync(out + "index.html", frontPage(bySection, now));
   writeFileSync(out + "rss.xml", rss(recent, now));
   for (const sec of SECTIONS) {

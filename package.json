@@ -12,7 +12,7 @@
   },
   "engines": { "node": ">=20" },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.30.0",
+    "@anthropic-ai/sdk": ">=0.52.0",
     "rss-parser": "^3.13.0"
   }
 }

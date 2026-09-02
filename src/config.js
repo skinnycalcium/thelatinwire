@@ -6,7 +6,9 @@ export const SITE = {
   storiesPerSection: 4,
   windowHours: 48, // how far back the desk looks
   archiveDays: 7, // how long stories stay on section pages
-  model: "claude-sonnet-4-6",
+  model: "claude-sonnet-4-6",        // writes fact sheets, articles, translations
+  matcherModel: "claude-haiku-4-5-20251001", // groups headlines into stories (cheap, runs often)
+  searchesPerStory: 3,               // web searches the desk may use per fact sheet
 };
 
 export const SECTIONS = [

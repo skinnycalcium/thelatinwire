@@ -25,17 +25,23 @@ const items = await ingest();
 console.log(`ingested ${items.length} items`);
 
 const published = new Set(archive.flatMap((s) => s.sources.map((x) => x.url)));
+const seen = new Set(load("seen.json", []));
 const held = [];
 const plan = [];
 
-for (const sec of SECTIONS) {
-  const secItems = items.filter((i) => i.section === sec.id);
-  const clusters = clusterSection(secItems);
-  const { picks, held: h } = select(clusters, sec.id, published);
-  held.push(...h.map((c) => ({ section: sec.id, outlets: c.outlets, lines: c.lines, titles: c.items.map((i) => i.title), links: c.items.map((i) => i.link) })));
-  picks.forEach((c, rank) => plan.push({ sec, cluster: c, rank }));
-  console.log(`${sec.label}: ${secItems.length} items, ${clusters.length} clusters, ${picks.length} picked, ${h.length} held`);
-}
+await Promise.all(
+  SECTIONS.map(async (sec) => {
+    const secItems = items.filter((i) => i.section === sec.id);
+    const newCount = secItems.filter((i) => !seen.has(i.id)).length;
+    if (newCount < 2) { console.log(`${sec.label}: ${secItems.length} items, ${newCount} new, skipped matching`); return; }
+    const clusters = await clusterSection(secItems, sec.label);
+    const { picks, held: h } = select(clusters, sec.id, published);
+    held.push(...h.map((c) => ({ section: sec.id, outlets: c.outlets, lines: c.lines, titles: c.items.map((i) => i.title), links: c.items.map((i) => i.link) })));
+    picks.forEach((c, rank) => plan.push({ sec, cluster: c, rank }));
+    console.log(`${sec.label}: ${secItems.length} items, ${newCount} new, ${clusters.length} matched stories, ${picks.length} picked, ${h.length} held`);
+  })
+);
+save("seen.json", items.map((i) => i.id));
 
 save("held.json", { at: now, held });
 if (args.has("--ingest-only")) {
