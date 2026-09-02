@@ -34,12 +34,19 @@ for (const sec of SECTIONS) {
   const { picks, held: h } = select(clusters, sec.id, published);
   held.push(...h.map((c) => ({ section: sec.id, outlets: c.outlets, lines: c.lines, titles: c.items.map((i) => i.title), links: c.items.map((i) => i.link) })));
   picks.forEach((c, rank) => plan.push({ sec, cluster: c, rank }));
-  console.log(`${sec.label}: ${clusters.length} clusters, ${picks.length} picked, ${h.length} held`);
+  console.log(`${sec.label}: ${secItems.length} items, ${clusters.length} clusters, ${picks.length} picked, ${h.length} held`);
 }
 
 save("held.json", { at: now, held });
-if (!plan.length && !args.has("--ingest-only")) { console.log("nothing new cleared the desk; no edition"); process.exit(0); }
-if (args.has("--ingest-only")) { save("plan.json", plan.map((p) => ({ section: p.sec.id, rank: p.rank, outlets: p.cluster.outlets, titles: p.cluster.items.map((i) => i.title) }))); process.exit(0); }
+if (args.has("--ingest-only")) {
+  save("plan.json", plan.map((p) => ({ section: p.sec.id, rank: p.rank, outlets: p.cluster.outlets, titles: p.cluster.items.map((i) => i.title) })));
+  process.exit(0);
+}
+if (!plan.length) {
+  console.log("nothing new cleared the desk; site left as is");
+  console.log(`rendered ${render(archive, now)} stories to public/`);
+  process.exit(0);
+}
 
 const fresh = [];
 await Promise.all(
