@@ -1,40 +1,40 @@
 {
-  "at": 1788425880776,
+  "at": 1788442232996,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Springfield News-Leader",
-        "Baltimore Sun",
-        "kshb.com",
-        "Columbia Missourian",
-        "KY3",
-        "Missouri Lawyers Media",
-        "STLPR",
-        "kansascity.com"
+        "The Boston Globe",
+        "The Harvard Crimson"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "MO Supreme Court questions effort to block redistricting referendum",
-        "Maryland redistricting fight over Question 3 heads to state Supreme Court",
-        "Missouri awaits decision from state Supreme Court on redistricting before November’s election",
-        "Voter power at stake as Missouri Supreme Court hears controversial ballot cases",
-        "Missouri Supreme Court weighs fate of new congressional map",
-        "Missouri Supreme Court weighs ballot, redistricting disputes",
-        "Quick ruling expected after Missouri Supreme Court hears arguments on congressional map",
-        "Will Missourians vote to protect direct democracy? Supreme Court weighs campaign’s fate"
+        "A Somerville democratic socialist is likely headed to the state senate. What’s Erika Uyterhoeven’s deal?",
+        "Erika Uyterhoeven Declares Victory in 2nd Middlesex District as Opponents Concede"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRHZWRUZXcUI1RHAxM01iM01LVGE4SlE3RjhmeVd5Z2tCUk5Ra2xKcGhWNTBLTTkxYlFpMG5lTmZDYU1UdWtaZXRiVkxrUUNtUTN6TXZYRWNvQ3lsWkM2NjB1b1BaM094RDF6bjV3S1d6Wk9VUTRRSi1SOEJGM25TMWxyYVR5akwwRl9yX2hjSk5hMjVUbXdvUkdiT3VGM2NiUE12eVJMZkY2ZGZhSE5TcEYyTUpMRTVPTE1YYkdpOXZzS3ZCY09lLWxn?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ3hEa002WUNjdzVWaU5BZXYtMW9Ic2ZtbTAxWHZOQlVnbTRpOHZ5Q2tMXzZtSHJ2RGhkWTBFTUVxUGVoMmFTZnM1bG51OGlETTA3TGZzbk9ta3lETjBhaHJ6S0lWMFpEZjczNVVLaU8wUFBlNVJVTk9wTmxMRVJnZzVpUXk1VnVBN1drSVhYR19NODNxdk5tZEw0YWRNV083U280SlRIR1NIRE04TkJvd1lOUTg?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQak5qUFVrUjl2MG1kYmtYM2VzYWtwVUtpbmVFY1NmbS1kWUpSNkwxUnRablduSFhxVGdzMnJWM21QZTFvakNUbXZxTDJYLVNpOVJKcjVnVlJxM0NyeXdKa3NjQlhCWjd3VGFfOXNPUjdFSE9ldVNMYXRXRC1HRDZnc0M5dkl6TTVCdGlwY2FPWVFpQ29XU1F3V1ZSQnUweG9CRWxTQXNIQkx1bnlkakxRTk9kTk1IU3lKaUlqbHNpcWRwemkxa1g4NGJXbXEybjFCMEJrYmZCSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVnd3MlVDdFFrRnNUVEdQOEhzV2VtTm5uc0NZSnl1ak1OX2s3X3NOQmZiOXJxRHEyWE5VNndINUU5MWQxYmVKWlF5V0pNQW9TSVZiS1BWcmtkelpEdml2U0RUNEZCQ0xaLWt0XzI4VUl4UFozbW43Nnk5dDVCaE5lOGg1QU0xb2c4ZXRTZ1Q2WjE4QzFMcVU4Mi1DYVlodXJzcDJxenJsbmZ1cHlXSGswWGx4LXJVZkRiZDJlNW1jV3JmalVUSi1qZXFkMnFaTDc3RVkxVUNQdGpYemVMTnBFWURCMUJCbGFVMkhaNk95bmtYbDBIY1F0emtzVDljbUh6dlhyTTBFM2gyY2M?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMFh6UDcwQ0N2TVVKeUdqWXBUdUthYjVFQ2hpSF9sT1lOLWs2Q1FrT21pSEdmY2ZveGtFbU5lRzBUdldiMWcydVpNNWltZE1acmVJZUM1bW5YR2g0WEVubWdrNEVDclNhTVpTREFRRzYtVjN3dTJLcFlfeVVwc1pSZENSTFBsTkFSQTRtTzdwNmJ1d9IBpgFBVV95cUxQTWFBdGRuSVB3b2hqa1B5dHNpWnAtX3J1SlVwUHkyT0l0UE9KcVBqNUl5S2FEZGUzSlo0V2ROa0ozZFREM2tsOFE1LThKUVFsZFJIUlRWTE9XenliRFBJaTVYbmUzQUZsQ2duMXhXTF81ak1JV0F2RDZreHZ3VE9DUkFXVDFOU2l4b05pUWdlaXFPV1hsU3dmd3FxSHlEWUhGd0lYZXBn?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmFkVU45eklLTFRabnVlTENMS3cyR2J1N3ZTWHJWSEE0QTJVZlBDVmJyTDktMlFSbVZ6eklMdFlObGlUNGZPc1BEaEdxdVVIa250aTNRcFNsUHgtN2FqMnBBcmlTT3d5SnFKSHhvdmhETXJqN1ZJYmZJaHY1Nm1ER2FVVjVLZmhp?oc=5",
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQUZJd0I4akFnVFVpSnFaQjIzM1E5bWozVEo2MmdoeEEtaU9BS290ZnoxWmZtTXphdEl5VGVKZGdCbkpCdUxnbTV2dmJKaDNZRkpxS1poLVpvNWNveWU5YW85WHlpSG9hM2l0LUtvdEpsTEozOHExVUNFNWdjNjBpWV9pVXlqdFdYdXF6STFOOUo2Ylg3VWlnYmR6YjRoZ0Q5THhMSFpqY1R4Slh5VGtBOVBWZHQ2ZEh6WDMxMmNIZEhSa2dxQ1pOUmtNLVNZa0VtTHh0VV9DTEx1S0JKYVZrZw?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mWjFPc2NTM1RIeWJzbzZMMVdiNkRxR0RNb2FUZTQ5WjlmLVZQSE5yb3k2UWpvWUFTSEVINGdQWG51WHlvTnEtM1lrUXFUYVprUjJucF95QTZFa05jN2hSQUZPOXNDSVdObkVwU2F2aFQwRHFnVGQwUFBPcHBhd9IBfkFVX3lxTE1ueVlLZkwwZjllX01iSTR5VzYxd3diaDBLalh6dkJKbGdzMkg1ZG85M0paNlBCT1VFckExRWpDWU54TGs4UXVpbllhRjBOYUpKSnB6WUZQVWtaUTZEZUM3Tkplc19BOFNqNS1wWDM5eGhXaGIwYThEOERvM1dQdw?oc=5"
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE90Q3RzTTl4XzRFUXhCcUZWQ3oyQVN5N1poZmhIT1VmbHhxZmtvdDA1dUtlZXk4Q3NpRXktWTM1TlZURWJRZDhiQTZhUm5DYUkycFpvRHEtdmpNUGhDQW1YYVp0R3l2eHI2YkdqNk1FNlBjazByWkxMMw?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlNqZGxueTJSNnd3Z2JLNk5DQm51emtMZzRDNUJwLTA2WkdDb3BXQnFfVmFQWnQxaDV4S0cwTmk4Q1poeUFadFVENnJweGx1NnFHbE44c0dFcm45bmpYRDFaMUl2bjBsSnBMZDdzSXM3N0otVjRoakMyNU9IUFA1ejlPX0IzR1U1WHhxcA?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Yahoo Finance Singapore",
+        "Yahoo"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Javier Loya Says Hispanic Voters Are Setting the Terms as Proyecto Lone Star Launches in Texas",
+        "Donald Trump approval rating with Hispanics shifts direction"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR3dBX1pud1V2YUhKUU5rS2Y2bWVfdmVNN2ZlUkFneVNYenF6cTF2MllWZmhybFp0ejE2WXdiTVBNazloaUF3aTc2eE13Y2V4NDNPeEFKd3BLMWpUT2lrQnRtODl4UHl4OGZMdXpPME1CbXhIZFVPZE1XQzNjNm0xZHlOTGpkZ1ZB?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSktGMEo2RTNSUk9WZnFJWWVvVmdPbEtjNDMyMHV3blBPSE1hRXBsMFR1ZkxBbE11MHF0R2tnNi1XSGE2MDdZNVFuU1Z0ZTRad3A2clpSNEZGdmRPOW1Jak9hUkRfTlF2Qm1wVmFEMkYxVnhFWC14cHFMVmFwOGNiUzBRNjhXQy1iUkRIeEgxQUJtaHRGdklwbWotaTZjakU?oc=5"
       ]
     }
   ]
