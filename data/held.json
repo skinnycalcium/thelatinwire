@@ -1,70 +1,31 @@
 {
-  "at": 1788514558333,
+  "at": 1788529405004,
   "held": [
     {
       "section": "politics",
       "outlets": [
+        "Seafoodnews",
         "The Media Line",
         "Inside Higher Ed",
-        "Israel National News",
-        "Jewish Telegraphic Agency",
-        "House.gov"
+        "israelnationalnews.com",
+        "Jewish Telegraphic Agency"
       ],
       "lines": [
         "center"
       ],
       "titles": [
+        "US House Passes PAIL Act, Creating DOJ Task Force to Prosecute Shrimp Trade Fraud",
         "US House Passes Bill To Cut Funding to Universities Boycotting Israel",
         "House Passes Bill Blocking Aid to Colleges That Boycott Israel",
         "US House passes bill cutting aid to colleges that participate in BDS boycotts",
-        "US House passes bill stripping federal funds from universities that boycott Israel",
-        "RELEASE: House Passes Gottheimer, Foxx Bipartisan Bill to Hold Higher Education Accountable for Hate-Driven BDS Activity that Targets Jewish Students and Professors"
+        "US House passes bill stripping federal funds from universities that boycott Israel"
       ],
       "links": [
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb1RzalF1N3dySW9oQkwxZDliNWJWUEZTN2FNamEzRVpyS3duQ1dPY0k5R3oxTmUxSngtVVZJeVdEbnoxT2hNaXdtTTJNVUdiNzB3U093SFZhM1V2YjJpME9oQ1hEMy1ucnFPX3J0dVl1YjN2cHNibFNuQVp0eHo3b2lVMjdxUVFDT3pYa1lMODZKWXFnd3ZfOGU1ZmRiYk1GNmJ2WVVWcXZUZkdhRnl6dFhlNkJod3ZuUXJCSHpWdw?oc=5",
         "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZzFGcHhMLTJ1OXJiX1pwU21MVzZ1X3U3WEE5aTNmWnl0eEtOMmhCTndBWW9PZ0JqYzJxTTF0eGlPb3FPa3ljaHhsU0Y0UmFtMjRqQkdXTml0V2NET3FrWHBmaHdZdVlLM1FhWFVYVTRLejhVbGJjaVZQbjVsbHJ0NmY0c0ZhRDJRSjlVcWM5QjNFMmowNDR0ZXVzQWxxdVFNQUFMcVlDQUc?oc=5",
         "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU09nbTcwZVhHWkxGSkctNm80WUlSdFNCSDVBcFNFVTJuZVJxQXpHSnkyaHljZFhLTWQwZktFT1JyUVNFbU9sMElvNGxJcFNwZTB4Wi11QjVCVU1mejZ1MVlDVHdCYjNJSEdSZldYZmpzd2E3VGI2MTFENU1PM3ZIdzd2MHRIazRob09YeEZ1UHE0cU9DY0U2Y0ZZSlV1OGZ1bndqS2RZVXJrbXdrbUpnc0NvNA?oc=5",
         "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12VTJHbENFMFRWOXZkTzBpblIxU0U2QUh1ejczTnc2bzUxeF9xSUpoMzRGOFIxTHY4aUNWUVZydnQ2SjRNb3h5b2NIeFZrMHhGX3VqTkxqNGVvZw?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWUVDZXBZTWI1aXNpbm1teHF1aXVybnBVNDBhd2RIMjRHeTJvSEM0cUJMVmQxOHRiX1ByRG55bXpOaWYtREk5NkVWc2JrN0NEZWl4NEsxeVdRWENwcGphY0RMbWE3LXhscTlxYklKV3BrWENabkZTVDdCdklOLUFQdEVrV1czT1lYZmRMWmRLTHUtYmM5bEh0U0RIdThjM2g1YkpmSU5ZTnMxZ0ZBbkxPaGI5QThqY041YWtjM3pwSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiowJBVV95cUxQX0huOWVyMGptZ1hLZ1lkVWM5YU5LNlE5Zm1zVnpnbURobUxCQzNuaVYtWjJqekFweUZjbzhyS2N3ejZfRklILWRJMjBUU0ZIcEZwS3hTRjA1Qk9sNUJqQVNLU014WGp4cnRuRENaZS1oLVRlS1ZGbjk3QU84UF9MY1lLbWZ0d0hYNm9TMGkzZjZhSnJvWno1aFY3MEo1amxockdtcGF4VFd1MFdxb2d0aXNrUXVEVXZFZU56WFJlU0xWY0pkREtvUjE1a3dDZ2NGek1JRUlJV3hMYnJpb2kya2gxa2FvNmkzc2VyeWVrVzFiYzJuZGJxdHRRRzd4SWxTMzdHbmRIVjhwUV9XRjM4QWdBNm5fdFU4a29zd3N0QkxzV1E?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Meduza",
-        "Українська правда",
-        "Radio Free Europe/Radio Liberty"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Bloomberg: ‘Sanctions from hell’ bill against Russia stalls in U.S. House of Representatives",
-        "Graham's Russia sanctions bill may not pass until US midterm elections, says Bloomberg",
-        "Ukraine Optimistic On Russia Sanctions Bill As House Vote Window Narrows"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVQtLU1IZC1qM1ZzUE1ndU9uOWctNGZTQ2RLb3hCSjVLdnpycUQ2ZTk2c2I4R0hNbmgzdnVvMEFsTG00Z1VZai1BWXJNcENRQnY3cHJveXpwTUZIMkx1LU5ucGZ6VXFLLW54M2N3ZE43OGZQbGlYQUt3MVVScGpNNEZvcDdFVURNN1V5MGViZ2wyTDkyVEVpTmE2ZlVhLS13LUVvTnQydjZvMXBFY1FiR2gxVHBZS3RiT1ZLWkdpMnZvSG_SAcgBQVVfeXFMTjFreHlLc3dTcHJWZ1VTM3pqSFQ2bkNhc3VuNnhub0Y3M1h2TDdoUFVQaDl4QWFiYkcyVllkeDFlLXZWUk8yMGxUcGxFcnFhaFh4Y21jeVlFY2Ytbll5VGE4UVNVbFZMX3ZlNjhrY1pzNC1FTllvM1NRWFUxd09hUVhNdTRYYlJxS2hrSUxSUFA5ZHJJWVlaLS16aHIxd0RCWmE1amZqbVpYX0Rid3lESjhBVzhLVm45LUxXd0JKOGNYM3l2UkpMV2s?oc=5",
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mamYyUWhVMXI5OUp5MkQtY254RE1MQlNJVU9keHF0eGhzZHVFS2ZzLWpJQllnR3IyX1BLcHpOOUFCci11LUxUSTg3d3JnV0NadnQyLUlyVngtWEhtdERhbFN2RzjSAXBBVV95cUxQT2ZGdDNfNlJJOFhNeHJaZ0xGZ1N5NElDejlBUl9aMHJfR1E4S2tPbUdjWlpsZnhFcHNZYy1tQThCeWFyb1d6YnNURXk5Z0RQdFRFMlNHakc2SGljN0ZwT1R5bkE3YXdLN29JVFdfT0FI?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb2NYVmVwUlRfTk15UzYwRTFza2xiUWp6aDZ0aXZmdDAxaTduNmVXSTdkQnpPVUlhT1g1U2RXc0NkTG52MG93WTZpbzQ5V05kcHJvYldvSk9xNkRaTzJ1THJCaTZKSldHMXJLRk5EamR2X19FS0xKOGF5Y29ITm8zMUtKakI3bEdRM0Rxa2VyNNIBkgFBVV95cUxPVURXbldtdEl5M2RDSkppRURRWk82cDhOODBIa1J0Ukh4QXBDOHVyUjZaV09vMnNjM1VOVmo4OGxOMmF5bGtNcE8teVFGd09PS3drRjZ5bDhkZ1RTb1ZhQ21zaXFfd2dBeTAzRjBBWTlDZko3LW5vUmtQTFFYd2prMEtvV2dDRlVQaVB6MEV2RmR4Zw?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "EL PAÍS",
-        "Univision"
-      ],
-      "lines": [
-        "left"
-      ],
-      "titles": [
-        "Patrulla Fronteriza alerta por calor extremo y riesgos mortales para inmigrantes en Texas",
-        "Del muro a las carreteras: la Patrulla Fronteriza intensifica las revisiones en retenes tras la caída de los cruces irregulares"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTW0zRGlBZUQ2T2JaQkV1NG96UmlsMW1aMS1GVWxoX0pxeWgtUnNMakIzUzU3ZlJuVmZZUDBndFdUX01UeW9FSF9Hc3F3bTMtS3ZGNmJ5Sm1GNUdSZnBZVDNaR1l4SmZyVTNXTThGa085UzlLSTNsbV9wM1NrMWpmVFpOcUxNMUp0dWN0UnlDaElleFFCc0lGTWZTS2RKNXNvLUJGa1BOcHFtZTQyQUxxNlpSY1VDLUl4RnJjSjRObkdwUy0yb1R2Q1c0VlVCNHRNdllCVmpfX3lmUnhxdzItWg?oc=5",
-        "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTmtFbE56RE41SHAyVWJtaVp1QW1vcWtmWWxSZGgyYTAyeElfY2t4OU9JUVdJTFN6OGpyUzFKWXBEdkhHRjM0N2FsVXY0QUZ2UFhYZ2VYUW8wU0NMNDZjZF9OdTh4Qm1kZ1Mwa0ZUT054VXlhS0UyeTNMRzgtZW5TOG9RWVVfUVdRSEZzVXFQWnlPSHlTME1uU3lCYmJCajJDcHYxbEJ2UG8zcjhUVTNtVXdJNEh6WjlsLURGVzdzRG1FbmJhYm9leGY5NE9lX3Zzc0ZoMS1PZHdWYUVEelJ2Skl3WTgxTjBmTm5vQ1doMFBVVHEzYjdSS182NjIyb1hPUVgzSdIBmAJBVV95cUxNUi1SWkg3elduSV9felB5RDF0b2VBZ09BMUJad1JWSXZ6alVzQVZiWGE0YXl4dlRwQzRaUVI0Y21kWFZYMml5VUZfa1ZhNEVGMWlaX1IzUF9qZnRyb0RxVWZWNXE2ZERHdVdvalVURHhRaFJNWUFfZTdxcV8wT0pzaGZ3Nmd5VE5tMzMtb3R0YnFBbDY3aVcteTNxMTJuLXhIaHBaQW0tSndiWHJ0S3MyejNod3VzTHpQdTk5X1psSFIxSVdGc3RtdFdxQWdoQ3dyTTVZVlA4UW5GQVNlTnJoa3JVODl0VHF0aFRuNkgzSExyekhlZVZvUzNmckhFY3o3U3hLNkMwMDVUZ09BRUdXX0t3Z21HajRs?oc=5"
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWUVDZXBZTWI1aXNpbm1teHF1aXVybnBVNDBhd2RIMjRHeTJvSEM0cUJMVmQxOHRiX1ByRG55bXpOaWYtREk5NkVWc2JrN0NEZWl4NEsxeVdRWENwcGphY0RMbWE3LXhscTlxYklKV3BrWENabkZTVDdCdklOLUFQdEVrV1czT1lYZmRMWmRLTHUtYmM5bEh0U0RIdThjM2g1YkpmSU5ZTnMxZ0ZBbkxPaGI5QThqY041YWtjM3pwSQ?oc=5"
       ]
     }
   ]
