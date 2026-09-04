@@ -1,31 +1,28 @@
 {
-  "at": 1788529405004,
+  "at": 1788541725176,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Seafoodnews",
-        "The Media Line",
-        "Inside Higher Ed",
-        "israelnationalnews.com",
-        "Jewish Telegraphic Agency"
+        "Nebraska Examiner",
+        "Lincoln Journal Star",
+        "klin.com",
+        "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "US House Passes PAIL Act, Creating DOJ Task Force to Prosecute Shrimp Trade Fraud",
-        "US House Passes Bill To Cut Funding to Universities Boycotting Israel",
-        "House Passes Bill Blocking Aid to Colleges That Boycott Israel",
-        "US House passes bill cutting aid to colleges that participate in BDS boycotts",
-        "US House passes bill stripping federal funds from universities that boycott Israel"
+        "BREAKING: Nebraska Supreme Court upholds validity of state medical cannabis laws",
+        "Nebraska Supreme Court rejects legal challenge to medical marijuana",
+        "Nebraska Supreme Court Upholds Voter-Approved Medical Cannabis Laws",
+        "Nebraska Supreme Court upholds voter-approved medical marijuana laws"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb1RzalF1N3dySW9oQkwxZDliNWJWUEZTN2FNamEzRVpyS3duQ1dPY0k5R3oxTmUxSngtVVZJeVdEbnoxT2hNaXdtTTJNVUdiNzB3U093SFZhM1V2YjJpME9oQ1hEMy1ucnFPX3J0dVl1YjN2cHNibFNuQVp0eHo3b2lVMjdxUVFDT3pYa1lMODZKWXFnd3ZfOGU1ZmRiYk1GNmJ2WVVWcXZUZkdhRnl6dFhlNkJod3ZuUXJCSHpWdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZzFGcHhMLTJ1OXJiX1pwU21MVzZ1X3U3WEE5aTNmWnl0eEtOMmhCTndBWW9PZ0JqYzJxTTF0eGlPb3FPa3ljaHhsU0Y0UmFtMjRqQkdXTml0V2NET3FrWHBmaHdZdVlLM1FhWFVYVTRLejhVbGJjaVZQbjVsbHJ0NmY0c0ZhRDJRSjlVcWM5QjNFMmowNDR0ZXVzQWxxdVFNQUFMcVlDQUc?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU09nbTcwZVhHWkxGSkctNm80WUlSdFNCSDVBcFNFVTJuZVJxQXpHSnkyaHljZFhLTWQwZktFT1JyUVNFbU9sMElvNGxJcFNwZTB4Wi11QjVCVU1mejZ1MVlDVHdCYjNJSEdSZldYZmpzd2E3VGI2MTFENU1PM3ZIdzd2MHRIazRob09YeEZ1UHE0cU9DY0U2Y0ZZSlV1OGZ1bndqS2RZVXJrbXdrbUpnc0NvNA?oc=5",
-        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12VTJHbENFMFRWOXZkTzBpblIxU0U2QUh1ejczTnc2bzUxeF9xSUpoMzRGOFIxTHY4aUNWUVZydnQ2SjRNb3h5b2NIeFZrMHhGX3VqTkxqNGVvZw?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWUVDZXBZTWI1aXNpbm1teHF1aXVybnBVNDBhd2RIMjRHeTJvSEM0cUJMVmQxOHRiX1ByRG55bXpOaWYtREk5NkVWc2JrN0NEZWl4NEsxeVdRWENwcGphY0RMbWE3LXhscTlxYklKV3BrWENabkZTVDdCdklOLUFQdEVrV1czT1lYZmRMWmRLTHUtYmM5bEh0U0RIdThjM2g1YkpmSU5ZTnMxZ0ZBbkxPaGI5QThqY041YWtjM3pwSQ?oc=5"
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWZyN0w2TWNYLU1IVjNWTUF0LUdsNF9NdllWbEhtdFN6LXZVLWlTSGcxRTJ4cXJLT01RUEtreG0tRUcyVUIyOVRPVE9xOHpoVEloTXpkak94b2Y2aG9kODVQMXFsUmRZemRnTV9qbkdoOElPNmxsUGl1X3dfTUpfU3FqeWtLY2JEMTJKNmc2bkEwVl9ybU1aNDBUWWl1dmwxYVE1UDlRd3E3MkRvRXA2SA?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdGs3QzN1bUFMaTEtbUtxZllmVEQwV1RiSzlWUHdNbWtEbjFFclVrRFk2MUg0Y0xYT3dmRlA4dHlQU3RtTXp2MmZ0anlwNzhhOVlnclNJb3FEcURncGtiNmJZRXZSNzNLVmF6cFlJQ0h2eGI4YlJRcDFWaFlFbzIxRVY4MndWRmhpRzI3dnU4NGtxVWdTczBkMUh4UEhkWHEzRUdpRGFwYS0wNVZtTE9PeDBfMA?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY19NZ2c0ektMMXhlZExKb0trYTdRM0tPbUhSb1RXRFJ6cVo4NFV2X3VBQ1pqdmJ4dS04TmFPbWpWaG84SjZ3WXlaVVIwVWpQSnlhc2kzOGVRMWI3bUtVT2d6cWlldG9QZzRtQlJmMnloU05FWklPU0R0Zk5tbmRqbk9zSTNucE9LdGhndmh2b21nSUJrc201X3VyVEg?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWG5SN1ZKUTJoNURESTRlcnl1WGJNMl9OaTBzMFJabl9ZZ3FBMUJReHVtcHA2WFNjYWdYNktuXzlnRjNtTXN0UXFZb3JKTktaUEFFUncyUnRpX0NvTk5DcGprMDJZTDhYYTlUUGdOcUtCOXdONFVxZU1VT3BTLW5fUHlMU2Q3Wk9EQTRkYV9KUWRkd3c?oc=5"
       ]
     }
   ]
