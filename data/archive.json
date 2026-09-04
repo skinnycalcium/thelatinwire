@@ -1,6 +1,580 @@
 [
   {
     "es": {
+      "headline": "Colombia enfrenta su peor crisis fiscal en 50 años y advierte aumento de impuestos",
+      "dek": "El viceministro de Hacienda Andrés Quevedo califica la situación fiscal de Colombia como la peor en medio siglo, mientras se avecinan alzas tributarias y recortes profundos al gasto.",
+      "body": "Colombia gasta 40 billones de pesos al mes y recauda apenas 29 billones. Esa brecha mensual de 11 billones de pesos es el centro de lo que el viceministro de Hacienda Andrés Quevedo, el 4 de septiembre de 2026, denominó la peor situación fiscal del país en 50 años, con excepción de los años de pandemia.\n\nEl Ministerio de Hacienda anunció un paquete de consolidación basado en un recorte al gasto de 21,9 billones de pesos. El objetivo: reducir el déficit primario a 3,3 por ciento del PIB en 2026. El presupuesto de 2027 agrega más austeridad, respaldado por una Ley de Rescate Económico diseñada para recortar un 2,2 por ciento adicional del PIB al déficit.\n\nTambién se aproximan mayores impuestos. La codirectora del Banco de la República Olga Lucía Acosta dijo en el Congreso Nacional Minero 2026 en Cartagena que los colombianos tendrán que pagar más para cerrar la brecha. Expuso las cifras sin rodeos: los ingresos públicos están en 16 puntos del PIB, mientras el gasto oscila entre 22 y 23 puntos. Aproximadamente el 30 por ciento de cada peso recaudado va directamente al pago de intereses de la deuda.\n\nEl ministro de Hacienda Germán Ávila Plazas ya había anunciado una reforma tributaria única con la que se buscan 19 billones de pesos en nuevos ingresos para 2026, incluida en el Marco Fiscal de Mediano Plazo.\n\nPara los colombianos de a pie, la presión llega por ambos lados: menos gasto público y una factura tributaria más alta. Las empresas enfrentan contratos gubernamentales más escasos y una demanda interna más débil. La Ley de Rescate Económico y las negociaciones del presupuesto 2027 serán las próximas pruebas para determinar si el plan de consolidación se sostiene o se fractura bajo la presión política.",
+      "perspectives": [
+        {
+          "who": "Viceministro de Hacienda Andrés Quevedo",
+          "position": "Califica la situación fiscal actual como la peor en 50 años, excluyendo los años de pandemia, con una brecha mensual de 11 billones de pesos entre gasto e ingresos."
+        },
+        {
+          "who": "Codirectora del Banco de la República Olga Lucía Acosta",
+          "position": "Advierte que los colombianos tendrán que pagar más impuestos para cerrar la brecha fiscal, señalando que el gasto supera ampliamente los ingresos y que el 30 por ciento de lo recaudado se destina al servicio de la deuda."
+        },
+        {
+          "who": "Ministro de Hacienda Germán Ávila Plazas",
+          "position": "Propone una reforma tributaria que busca recaudar 19 billones de pesos en nuevos ingresos para 2026, enmarcada en el Plan Fiscal de Mediano Plazo."
+        }
+      ]
+    },
+    "id": "2026-09-04-1ipw8t3+hjgp",
+    "section": "business",
+    "rank": 3,
+    "writer": "calderon",
+    "headline": "Colombia faces worst fiscal crisis in 50 years, tax hike warned",
+    "dek": "Deputy Finance Minister Andrés Quevedo calls Colombia's fiscal position the worst in half a century, as a tax hike and deep spending cuts loom.",
+    "body": "Colombia spends 40 trillion pesos a month and collects only 29 trillion. That 11-trillion-peso monthly gap sits at the center of what Deputy Finance Minister Andrés Quevedo, on September 4, 2026, called the country's worst fiscal situation in 50 years — pandemic years excluded.\n\nThe Ministry of Finance has announced a consolidation package built around a 21.9-trillion-peso spending cut. The target: pull the primary deficit down to 3.3 percent of GDP in 2026. The 2027 budget adds more austerity, backed by an Economic Rescue Law designed to shave a further 2.2 percent of GDP off the deficit.\n\nHigher taxes are coming too. Banco de la República board co-director Olga Lucía Acosta told the 2026 National Mining Congress in Cartagena that Colombians will have to pay more to close the gap. She put the numbers plainly: public revenues sit at 16 points of GDP while expenditure runs between 22 and 23 points. Roughly 30 percent of every peso collected goes straight to debt interest.\n\nFinance Minister Germán Ávila Plazas had already flagged a single tax reform targeting 19 trillion pesos in new revenue for 2026, embedded in the Medium-Term Fiscal Framework.\n\nFor ordinary Colombians, the squeeze comes from both ends — less public spending and a larger tax bill. Businesses face tighter government contracts and weaker domestic demand. The Economic Rescue Law and the 2027 budget negotiations will be the next tests of whether the consolidation plan holds together or fractures under political pressure.",
+    "facts": "Colombia's Deputy Finance Minister Andrés Quevedo warned on September 4, 2026, that the country is experiencing its worst fiscal situation in 50 years, excluding the Covid-19 pandemic period. The Ministry of Finance announced a fiscal consolidation package that includes a spending cut of 21.9 trillion pesos, targeting a reduction of the primary deficit to 3.3 percent of GDP in 2026. The 2027 budget will include additional austerity measures, to be complemented by an Economic Rescue Law aimed at reducing the deficit by 2.2 percent of GDP. Separately, Banco de la República board co-director Olga Lucía Acosta warned at the 2026 National Mining Congress in Cartagena that Colombians will have to pay more taxes to close the fiscal gap. Acosta noted that public revenues amount to only 16 points of GDP while expenditure stands at between 22 and 23 points, with roughly 30 percent of revenues going toward debt interest payments. The central bank also noted that Colombia collects approximately 29 trillion pesos per month but spends around 40 trillion, a gap it says aggravates the fiscal deficit. Finance Minister Germán Ávila Plazas had previously outlined a goal of raising 19 trillion pesos through a single tax reform in 2026 as part of the Medium-Term Fiscal Framework.",
+    "perspectives": [],
+    "location": "Colombia",
+    "when": "Sep 4",
+    "sources": [
+      {
+        "outlet": "abceconomia.co",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdXdyaWlPeUpmMk5kQlNjQ3I4MnFHZmMtMlBidjZzVWtqR1BMUTZKMmVCOGgwLU9lTHN5NDJWOE5tbUhTT3haZ3hvMHJzOFQyNFdxLU5hSEtMNDZpeW8xX2M1R0N1S3R2MUlzTnl4OGZnRkFrM0YzTk9WUXNwS09rY3JpTkRJOV9mamc?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "El Tiempo",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQSllKZFFPMUhCRktqUTlBUkViRkdITkx4aFBuTWk1anBQX3VtOUM2ZzdDWHRidFI0VzI4V0NGSGxkUVJTNk9TWkViYXIxNzlWMWQxcHptc3AxbndveXV3TW9RUXNhM3BpMGNSVm9rSG9ybXVFV19YR0MzVUN2Tmk1TFJvZmh5T05MTjN6bmRGRWF0RnVBazhkal94LVJsT2RUTGZEM2VydmM1XzdfVEJjYU5vWlBHR2RaZzFrVk1rQ0lGaE9pdzZLMDdVX0lJdGFHVmk3ZEZORU5IMGluOG5NNFprX3BkTHJjQ20xUVl2aUNUTWNNczdRanFkaG5ra0VKbDRkbVZaRdIBjAJBVV95cUxOcGR5b2xWUjd4QnJCMnlJbTl6YlFLdWp4TjdxM1ZCeW56WmNmSUZWb0FjNk5LRmNuYWNoTVpXUXV2ZFNvNjVWLXJFWDI1Yk91UUFJRnRYQzBHd1ZSbzF0X0xNcS1uMHBsc1NKaWdlY2tnLXllV084dGRGOXh5MXJubTRNMER2MnhCUUU4ZGVMQjVpSml2Qml3WmQtUUI1SUpqTzdXY3VTeXJXN1ZLa0VQWlotc3FNMHUtTGEyQ0kyRzZUZUtEUVhmTXByT0Z5UE16dHRDZVNPSVNLTXlXZlpsRWNYaTh3VnlVUW53TlRSSklMbmdVWHRuSE9OSXU4Tk5fV1I5eVVPQW9oMGVC?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788565653846
+  },
+  {
+    "es": {
+      "headline": "Juez extiende bloqueo a orden ejecutiva de Trump sobre el voto por correo antes de las elecciones de medio término",
+      "dek": "Un juez federal en Boston emitió una orden preliminar que bloquea una regla del Servicio Postal vinculada a la orden ejecutiva de Trump de marzo de 2026 sobre el voto por correo.",
+      "body": "La jueza del Tribunal de Distrito de EE.UU. Indira Talwani, de Boston, emitió una orden preliminar el 4 de septiembre que bloquea al Servicio Postal de EE.UU. (USPS) de implementar una regla vinculada a la orden ejecutiva del presidente Trump orientada a restringir el voto por correo antes de las elecciones de medio término de noviembre, según Associated Press y NBC News.\n\nLa orden preliminar reemplaza una orden de restricción temporal que Talwani había otorgado anteriormente, según AP. La regla subyacente del USPS ordenaría a los estados entregar boletas por correo únicamente a los votantes que aparezcan en las listas federales de ciudadanía, y exigiría que los estados presenten los diseños de los sobres de las boletas a un portal del USPS para su aprobación previa, según NBC News y MSNBC.\n\nTalwani escribió que los estados demandantes enfrentan un \"daño irreparable\" y que el cumplimiento de la regla es \"prácticamente imposible\" dado el calendario de las elecciones de medio término, según NBC News. Trump firmó la orden ejecutiva sobre el voto por correo en marzo de 2026, tras lo cual demócratas y grupos de derechos electorales presentaron varias demandas, según AP. Carolina del Norte comenzó a enviar sus primeras boletas por correo el 4 de septiembre, con más estados programados para seguir su ejemplo, según AP.\n\nLos estados demandantes y los grupos de derechos electorales argumentan que la Constitución reserva al Congreso la autoridad para modificar la ley electoral, y que el Congreso no ha actuado para hacerlo, según NBC News. El Departamento de Justicia de la administración Trump sostiene que no hay ningún cuestionamiento constitucional en juego, según NBC News.\n\nLa Corte Suprema anuló a finales del mes pasado la orden preliminar anterior de Talwani, al determinar que las demandas habían sido presentadas de manera prematura, antes de que el Servicio Postal emitiera su regla definitiva, según AP. La administración Trump ya le ha pedido a la Corte Suprema que levante la orden temporal de Talwani y se espera que también apele la nueva orden preliminar, según AP.",
+      "perspectives": [
+        {
+          "who": "Estados demandantes y grupos de derechos electorales",
+          "position": "Los demandantes argumentan que, según la Constitución, solo el Congreso puede modificar la ley electoral, y que este no ha optado por hacerlo, según NBC News."
+        },
+        {
+          "who": "Administración Trump (DOJ)",
+          "position": "El gobierno sostiene que no hay ningún cuestionamiento constitucional en juego, según NBC News."
+        }
+      ]
+    },
+    "id": "2026-09-04-17xjeig+1ic3",
+    "section": "politics",
+    "rank": 2,
+    "writer": "vega",
+    "headline": "Judge extends block on Trump mail-voting executive order ahead of midterms",
+    "dek": "A federal judge in Boston issued a preliminary injunction blocking a USPS rule tied to Trump's March 2026 mail-voting executive order.",
+    "body": "U.S. District Court Judge Indira Talwani of Boston issued a preliminary injunction on Sept. 4 blocking the U.S. Postal Service from implementing a rule linked to President Trump's executive order aimed at restricting mail voting ahead of the November midterm elections, according to the Associated Press and NBC News.\n\nThe preliminary injunction replaces a temporary restraining order Talwani had previously granted, per AP. The underlying USPS rule would direct states to deliver mail ballots only to voters appearing on federal citizenship lists and would require states to submit ballot envelope designs to a USPS portal for advance approval, according to NBC News and MSNBC.\n\nTalwani wrote that plaintiff states face \"irreparable harm\" and that compliance with the rule is \"practically impossible\" given the midterm election timeline, per NBC News. Trump signed the mail-voting executive order in March 2026, after which Democrats and voting rights groups filed several lawsuits, per AP. North Carolina began sending out its first mail ballots on Sept. 4, with more states scheduled to follow, per AP.\n\nPlaintiff states and voting rights groups argue that the Constitution reserves the authority to alter election law to Congress, and that Congress has not acted to do so, per NBC News. The Trump administration's Department of Justice contends there is no constitutional challenge at play, per NBC News.\n\nThe Supreme Court late last month overturned Talwani's earlier injunction, finding that the lawsuits had been filed prematurely before the Postal Service issued its finalized rule, per AP. The Trump administration has already asked the Supreme Court to lift Talwani's temporary order and is expected to appeal the new preliminary injunction as well, per AP.",
+    "facts": "On Sept. 4, U.S. District Court Judge Indira Talwani, based in Boston, issued a preliminary injunction blocking the U.S. Postal Service from implementing President Trump's executive order seeking to limit mail voting ahead of the November midterm elections, according to AP and NBC News. The preliminary injunction replaces a temporary restraining order Talwani had previously granted, per AP. Trump signed the mail-voting executive order in March 2026, after which Democrats and voting rights groups filed several lawsuits, per AP. A USPS rule implementing the executive order would direct states to deliver mail ballots only to voters on federal citizenship lists and require states to submit ballot envelope designs to a USPS portal for advance approval, per NBC News and MSNBC. Talwani wrote that plaintiff states face 'irreparable harm' and that compliance with the rule is 'practically impossible' given the midterm election timeline, per NBC News. The Supreme Court late last month had overturned Talwani's earlier injunction, finding the lawsuits were filed prematurely before the Postal Service issued its finalized rule, per AP. The Trump administration has already asked the Supreme Court to lift Talwani's temporary order and will likely appeal the new preliminary injunction as well, per AP. North Carolina began sending out its first mail ballots on Sept. 4, with more states to follow, per AP.",
+    "perspectives": [
+      {
+        "who": "Plaintiff states and voting rights groups",
+        "position": "The plaintiffs argue that, according to the Constitution, only Congress can alter election law, and that it has not elected to do so, per NBC News."
+      },
+      {
+        "who": "Trump administration (DOJ)",
+        "position": "The government contends there is no constitutional challenge at play, per NBC News."
+      }
+    ],
+    "location": "Boston",
+    "when": "Sep 4",
+    "sources": [
+      {
+        "outlet": "Statesman Journal",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNelFIUjFRR3hWUnpnaTJDdU5La0pGWnc2VDZ5Smw3LXkzZExxZkNfQVAtUTI0eE1rblZTRGJhNkVmUVZBYktrSXlfdTg4QU5tcnJjblNtbTk5OWNVZElWVWtSYzdPa0JQb0VWYml6RGhPSy1zQm81NDc2ZVE2LS12a0MwcndwRHlmTHNOR1FBSVhKZkZjY083cEpQYlIwdmVMUk11OGVUV1RMZkpLdE9nQm9hXy00LVRNR2s4VmNCVXplYi15WDh1TjdfUmZENGRGMDR0YXVmU0xsc1Z5Z3A2eXVIczRaTTJhWHZHVFpB?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa0JKRDk2OHU2LWRNOUhldUVGcDRDZlhMSWF0TWdyejllVVFwaFhDNk5vTkdtYUZvN2ZWcGJDc3V6SGRfOU4wVkNvanY1Ti03OXpUdE54ak02c09FYU1GZVo5NmRXdk9KVkR3OGN2V1Fyem5nZkJ3bGtZcjZVWWlJT3FWYWNrUmZlSHRfUjFTZ1o1ZWFrTzlfUWVXTjNyQUhnd0NSR1lWbHp1d9IBrwFBVV95cUxNc1ZMN1dwemlLaU1hUkJNbEtpLXZmdkJnRnh3Y3V3UzdUYVFqRS1TZndpQWZoaHBCTjZ5eGlLQVFVdFJuY0FCYndVQ2tPNC1xV1d4N0NFQ3A1VURLS2x1dUk5WTdsY0Y1NW9KY1FQekRhOWIxQmlXaEh5bmJXM2RwbkZud3AwZ3RhdTRqVEtfWXlINFFCbU5sWnpWeU16UjZNblUzVzB5NnVhdHpTWGhj?oc=5",
+        "line": "left"
+      },
+      {
+        "outlet": "WHYY",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa1U1dEUtOE54N0IzRXlpaTBnWGEzYXN2THJxUUVOc09XdmZTd2dna2xJMGFaNV9YWXhJNlpiRVdtbVNFVG9VTkNVZTM4dWJra2xBd1o5ZWQxSnZTeFNrVTlwVDhBa2R3dEdvOS00ejNROUFRUDVqNWFKbEJ4a0RHT29QVl8wUQ?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeEJVY1JzX1RFS2Q5bnFqRDFXRXBsNVNoVDEyOGVTS19yVTRuWXlLaXVjN3lJV2ZlNGtRNFJWWXkxUk1QbzZPVlJHWGtXcUpEVzNUMVFyOTc0a1o5amhfRmdLU0x1NUNyLS1KZjVEV21fMlRyYllpOVdGbnl1OGVmekZRVDJVVFlhT3BlTlR0eGNOc3RDM1YzVHZtcVJIZ01lVkZBbHh2SEJkUQ?oc=5",
+        "line": "wire"
+      }
+    ],
+    "published": 1788565653846
+  },
+  {
+    "es": {
+      "headline": "El Tribunal Supremo de Misuri bloquea el mapa legislativo de 2025 y ordena un referéndum en noviembre",
+      "dek": "El Tribunal Supremo de Misuri invalidó por unanimidad el mapa congressional de 2025 y ordenó que los votantes decidan su destino en noviembre.",
+      "body": "JEFFERSON CITY, Mo. — El Tribunal Supremo de Misuri bloqueó por unanimidad los nuevos distritos congressionales respaldados por el presidente Donald Trump para su uso en las elecciones generales de noviembre de 2026 y ordenó un referéndum estatal para determinar si se aprueba o se rechaza el mapa, según reportes de Associated Press y PBS.\n\nLa legislatura controlada por los republicanos trazó el mapa de 2025 después de que el gobernador Mike Kehoe convocara una sesión especial a instancias de Trump. La redistritación apuntó al 5.º Distrito Congressional con sede en Kansas City, ocupado por el demócrata Emanuel Cleaver; un análisis estatal citado por Yahoo y Capital B News encontró que los nuevos límites habrían reducido significativamente la proporción de residentes negros en el distrito. El tribunal determinó que los opositores habían logrado suspender el mapa en diciembre de 2025, cuando presentaron más de 300,000 firmas de petición solicitando un referéndum.\n\nEl secretario de Estado republicano Denny Hoskins esperó hasta el día de las elecciones primarias en agosto para rechazar la petición, argumentando que el proceso de referéndum no puede aplicarse a la redistritación congressional. Un tribunal inferior estuvo de acuerdo, pero el Tribunal Supremo de Misuri revocó esa decisión, según PBS y AP. Al redactar la opinión del tribunal, la jueza Gooch declaró que el plan de 2025 \"no es la ley y nunca ha sido la ley\", según el Missouri Independent y St. Louis Public Radio. El tribunal ordenó a Hoskins utilizar los límites distritales de 2022 para las elecciones generales de noviembre. Misuri cuenta actualmente con seis republicanos y dos demócratas en la Cámara de Representantes de EE.UU., según PBS.\n\nEl senador estatal republicano Rick Brattin había ganado unas primarias en el reconfigurado 5.º Distrito, que había sido extendido hacia el este para incluir áreas rurales republicanas, según CNN.\n\nLa fiscal general de Misuri, Catherine Hanaway, republicana, dijo que el fallo \"ha sumido a nuestro estado en una crisis constitucional en toda regla\" y anunció una apelación inmediata ante el Tribunal Supremo de EE.UU., según CNN y AP. Richard von Glahn, director ejecutivo de People Not Politicians Missouri, el grupo que patrocinó la petición, dijo que el fallo confirmó que el proceso de referéndum era legal y que \"la gente, no los políticos, tendrá la última palabra\", según ABC News.",
+      "perspectives": [
+        {
+          "who": "La fiscal general de Misuri, Catherine Hanaway (R)",
+          "position": "Hanaway dijo que el fallo 'ha sumido a nuestro estado en una crisis constitucional en toda regla' y anunció que apelaría de inmediato ante el Tribunal Supremo de EE.UU., según CNN."
+        },
+        {
+          "who": "Richard von Glahn, director ejecutivo de People Not Politicians Missouri (patrocinador de la petición de referéndum)",
+          "position": "Von Glahn dijo que 'la gente, no los políticos, tendrá la última palabra', calificando el fallo como una confirmación de que la petición de referéndum era legal, según ABC News."
+        }
+      ]
+    },
+    "id": "2026-09-04-1upmalm+1wb7",
+    "section": "politics",
+    "rank": 7,
+    "writer": "vega",
+    "headline": "Missouri Supreme Court blocks 2025 House map, orders November referendum",
+    "dek": "The Missouri Supreme Court unanimously invalidated the 2025 congressional map and ordered voters to decide its fate in November.",
+    "body": "JEFFERSON CITY, Mo. — The Missouri Supreme Court unanimously blocked new congressional districts backed by President Donald Trump from use in the November 2026 general election and ordered a statewide referendum on whether to uphold or reject the map, according to reporting by the Associated Press and PBS.\n\nThe Republican-controlled legislature drew the 2025 map after Gov. Mike Kehoe called a special session at Trump's urging. The redistricting targeted the Kansas City-based 5th Congressional District, held by Democrat Emanuel Cleaver; a state analysis cited by Yahoo and Capital B News found the new boundaries would have significantly reduced the share of Black residents in the district. The court held that opponents had effectively placed the map on hold in December 2025, when they submitted more than 300,000 petition signatures seeking a referendum.\n\nRepublican Secretary of State Denny Hoskins waited until primary election day in August to reject the petition, arguing the referendum process cannot be applied to congressional redistricting. A lower court agreed, but the Missouri Supreme Court overturned that decision, per PBS and AP. Writing for the court, Justice Gooch stated the 2025 plan \"is not the law and has never been the law,\" according to the Missouri Independent and St. Louis Public Radio. The court ordered Hoskins to use the 2022 district lines for the November general election. Missouri currently has six Republicans and two Democrats in the U.S. House, per PBS.\n\nRepublican state Sen. Rick Brattin had won a primary in the reshaped 5th District, which had been stretched eastward to include rural Republican areas, per CNN.\n\nMissouri Attorney General Catherine Hanaway, a Republican, said the ruling \"has thrust our state into a full-fledged constitutional crisis\" and announced an immediate appeal to the U.S. Supreme Court, per CNN and AP. Richard von Glahn, executive director of People Not Politicians Missouri, the group that sponsored the petition, said the ruling confirmed the referendum process was lawful and that \"people, not politicians, will have the final say,\" per ABC News.",
+    "facts": "The Missouri Supreme Court unanimously blocked new congressional districts backed by President Donald Trump from being used in the November 2026 general election and ordered a statewide vote on whether to uphold or reject the new map, according to AP reporting carried by PBS, KSL, and others. The Republican-controlled legislature drew the 2025 map after Gov. Mike Kehoe called a special session at Trump's urging, targeting the Kansas City-based 5th Congressional District held by Democrat Emanuel Cleaver; the new boundaries would have significantly reduced the share of Black residents in his district, according to a state analysis cited by Yahoo/Capital B News. The court ruled that opponents effectively placed the new districts on hold in December 2025, when they submitted over 300,000 petition signatures seeking a referendum, per PBS and AP. Republican Secretary of State Denny Hoskins waited until primary election day in August to reject the petition, asserting the referendum process cannot be used for congressional redistricting; a lower court agreed, but the Missouri Supreme Court overturned his decision, per PBS. Missouri's new districts were used in the August primaries; Republican state Sen. Rick Brattin won a primary in the reshaped 5th District, which had been stretched eastward to include rural Republican areas, according to CNN. The court ordered Hoskins to use the 2022 district lines for the November general election, with the opinion written by Justice Gooch stating the 2025 plan 'is not the law and has never been the law,' per the Missouri Independent and St. Louis Public Radio. Missouri Attorney General Catherine Hanaway, a Republican, said she would immediately appeal to the U.S. Supreme Court, per CNN and AP. Missouri currently has six Republicans and two Democrats in the U.S. House, per PBS.",
+    "perspectives": [
+      {
+        "who": "Missouri Attorney General Catherine Hanaway (R)",
+        "position": "Hanaway said the ruling 'has thrust our state into a full-fledged constitutional crisis' and announced she would immediately appeal to the U.S. Supreme Court, per CNN."
+      },
+      {
+        "who": "Richard von Glahn, executive director of People Not Politicians Missouri (referendum petition sponsor)",
+        "position": "Von Glahn said 'people, not politicians, will have the final say,' calling the ruling a confirmation that the referendum petition was lawful, per ABC News."
+      }
+    ],
+    "location": "Jefferson City",
+    "when": "Sep 3",
+    "sources": [
+      {
+        "outlet": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeTdrWDVDX3NzTFc2Q05XZngyWjR3cl9qZmEtTlhqbklzWExRSjhpcVE2R0RSR3FzX21wNW5QckNHQU5OTElwYWhtd2RNbVpqLTJYZ0lXXzY4MnJKZmtlbzVaT0pRUFl0V21weGtaUTQ1ZzBqU3VIMHZielcxY1MycUdZeVJoOEJwdE8tWkp3M0hrZ1U?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "PBS",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLXU4U1R4TnJBZEsyMmhrN1hrS3lIYWVWemdtUHpBbnh5X3laUHp6aFlWalI0eXl4VnZrdlZvY19kMjdFMzFqT0RKRXlKYWF5UHlMc25aUThPTmtWM3p4X3cyUFBrQ05NUGVWVG11M2dIcHo2cTl4TnFDZkNaMWMtRTNNZl9nNGtDZnV6WlZmRzAtd2Fzb0Z5eVEzeTgyYXNUeTB6RU1FWEVLLWZxV2gzZWRYUTdRV0pNRkVWbg?oc=5",
+        "line": "left"
+      },
+      {
+        "outlet": "KSL.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSHRvRU1veFFFWHVwa3N0Tm9uVmM0OEREYWVTVHBYRjNHM2UxdmkxcVRMdXQxZk1YdnVfa19KWGQ4QkNDTXhqM2FEV3hZdmNJTkVOZlVoZWRPOU1tYzNmRVZCRlVWS2dhOTZqTm5vLWVJSFJQRC1OWkJaQm1TdlF5aWtLQzRwUGZWS2xSVk44T1d2ZV9OMlhwckFYMVVaX3EwSnBPWlpadXUzMG9sY2JTMUhOaFZBUQ?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788565653846
+  },
+  {
+    "es": {
+      "headline": "Forlán anuncia su primera convocatoria con Uruguay e incluye cinco jugadores de la Liga MX",
+      "dek": "La nómina preliminar de 46 jugadores de Diego Forlán para tres amistosos en septiembre y octubre incluye representación de cinco continentes, con cinco convocados de la Liga MX.",
+      "body": "Cinco jugadores de la Liga MX integran la primera convocatoria de Diego Forlán con Uruguay, publicada el 4 de septiembre de 2026 por la Asociación Uruguaya de Fútbol. Los mediocampistas Santiago Homenchenko (Querétaro), Brian Rodríguez (América) y Diego Rossi (Monterrey) se suman a los delanteros Rodrigo Aguirre (Tigres) y Federico Viñas (Toluca) en una lista preliminar de 46 jugadores destinada a los amistosos de la Fecha FIFA de septiembre y octubre.\n\nUruguay enfrentará a Japón el 24 de septiembre en el Q&A Stadium de Miyagi, a Corea del Sur el 28 de septiembre en el Seoul World Cup Stadium y a India el 6 de octubre en Kolkata. Esta gira de tres partidos le da a Forlán una amplia ventana de evaluación antes de reducir su nómina.\n\nForlán, ganador del Balón de Oro del Mundial 2010, recibió el cargo de manera interina tras la eliminación temprana de Uruguay en el Mundial 2026 bajo las órdenes de Marcelo Bielsa. Devuelve la convocatoria a dos jugadores que Bielsa había marginado: el mediocampista Lucas Torreira y el versátil defensor-mediocampista Nahitan Nández. El delantero de Boca Juniors Miguel Merentiel es otra incorporación destacada.\n\nLuis Suárez, el máximo goleador histórico de Uruguay, está ausente. Suárez se retiró de la selección en 2024 y, a pesar de que Forlán había dejado abierta la puerta a un regreso, el veterano delantero no figura en la lista.\n\nLos 46 nombres provienen de clubes en Europa, Argentina, Brasil y el fútbol uruguayo. El portero Sebastián Jaume, de Albion, es el único jugador convocado del fútbol local uruguayo, lo que refleja cuán ampliamente está disperso el talento del país en el exterior. Forlán recortará la lista antes del primer partido en Miyagi.",
+      "perspectives": [
+        {
+          "who": "Diego Forlán",
+          "position": "Regresa a Lucas Torreira y Nahitan Nández, excluidos por Bielsa, y deja abierta la puerta a Luis Suárez sin incluirlo en la nómina preliminar."
+        },
+        {
+          "who": "Asociación Uruguaya de Fútbol",
+          "position": "Publicó la nómina de 46 jugadores el 4 de septiembre de 2026 para los amistosos de la Fecha FIFA de septiembre y octubre."
+        }
+      ]
+    },
+    "id": "2026-09-04-18k9dxb+1nun",
+    "section": "sports",
+    "rank": 3,
+    "writer": "calderon",
+    "headline": "Forlán names first Uruguay squad with five Liga MX players",
+    "dek": "Diego Forlán's 46-man preliminary roster for three September–October friendlies draws from five continents, with Liga MX supplying a notable five players.",
+    "body": "Five Liga MX players made Diego Forlán's first Uruguay squad, published September 4, 2026, by the Asociación Uruguaya de Fútbol. Midfielders Santiago Homenchenko (Querétaro), Brian Rodríguez (América), and Diego Rossi (Monterrey) join forwards Rodrigo Aguirre (Tigres) and Federico Viñas (Toluca) on a preliminary list of 46 players reserved for the September–October FIFA Date friendlies.\n\nUruguay faces Japan on September 24 at the Q&A Stadium in Miyagi, South Korea on September 28 at the Seoul World Cup Stadium, and India on October 6 in Kolkata. The three-game swing gives Forlán a wide audition window before narrowing his squad.\n\nForlán, the 2010 World Cup Golden Ball winner, was handed the interim role after Uruguay's early exit at the 2026 World Cup under Marcelo Bielsa. He returns two players Bielsa shut out: midfielder Lucas Torreira and versatile defender-midfielder Nahitan Nández. Boca Juniors forward Miguel Merentiel is another notable addition.\n\nLuis Suárez, Uruguay's all-time leading scorer, is absent. Suárez retired from international duty in 2024, and despite Forlán having left open the door to a recall, the veteran striker does not appear on the list.\n\nThe 46 names span clubs in Europe, Argentina, Brazil, and Uruguay's domestic league. Goalkeeper Sebastián Jaume of Albion is the only player pulled from local Uruguayan football, underscoring how widely the country's talent is scattered abroad. Forlán will cut the list before the first kickoff in Miyagi.",
+    "facts": "On September 4, 2026, the Asociación Uruguaya de Fútbol (AUF) published a preliminary list of 46 players reserved by interim head coach Diego Forlán for Uruguay's September–October FIFA Date friendlies. The squad includes five players from Mexico's Liga MX: midfielders Santiago Homenchenko (Querétaro), Brian Rodríguez (América), and Diego Rossi (Monterrey), and forwards Rodrigo Aguirre (Tigres) and Federico Viñas (Toluca). Uruguay will face Japan on September 24 at the Q&A Stadium in Miyagi, South Korea on September 28 at the Seoul World Cup Stadium, and India on October 6 in Kolkata. Forlán, who won the Golden Ball at the 2010 World Cup, was appointed as interim coach of the Celeste following Uruguay's early exit at the 2026 World Cup under Marcelo Bielsa. The list notably excludes all-time leading scorer Luis Suárez, who had retired from international duty in 2024, despite Forlán having publicly left open the possibility of recalling him. Among the notable inclusions are Boca Juniors forward Miguel Merentiel and the returns of midfielder Lucas Torreira and Nahitan Nández, neither of whom was called up by Bielsa. The 46-player preliminary list combines players from Europe, Argentina, Brazil, and local Uruguayan football, with goalkeeper Sebastián Jaume of Albion being the only player from the domestic Uruguayan league.",
+    "perspectives": [],
+    "location": "Uruguay",
+    "when": "Sep 4",
+    "sources": [
+      {
+        "outlet": "Excélsior",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLVBaTEtnTER5bWhJcGViVWhvYjZEUFNqT2JsMDJ2UUxMelMwT2RDRV9DWDhaY2tHZ2c1VnFabEdYck5yOTBjWHZXeW9RdFVGVGJ5OHBIelNGcXFVdWw0Wm05WWhXalltM2V4ZkxuRW1ZN0I4dFVMMnpDYmZVSVRBWFg0dExJSmRvX3BtM2JZdTVnZEgxUEJ6RVhUVXA0Szh1R3dZNdIBqgFBVV95cUxOYzVNVVBJY1A3R3ZQNGt1MmxCZGJGS3FwOXFTNndUeTRoSDFtQW1Qc2ZIelZsZzhRaE9WOUo4aFVUZ2N2UjBBWlh0dElOakQ0bUZ6YUgzSDZJUlNaVzQ0bzA2OUVBY0pMZml4eC05ZWJ6cTJHMm1TaHgtSzhkbzFlbmxrSFd2LXQ2b2JSVl9HanBESU9VQVI5R0ZuNGdLOEU0Z21aZWcwMjN6dw?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "MARCA",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUFFiNUFLdURtODRVQWFUWWdLZnM2SDFRRVJORjdsTzU4dVY5ODR2T3hjRjdMX2RTREVTQ05KWmlKMzkwVXVUM1NtRklkM0FMQ0JXdTNQWHpUYmZlSk5MNjIxQVlRZ3ZsTjRka2tiSHdIQTZSN0Z5VmdWSGU1bVRXR2tmbGstMWZydkh0TjZtYVc1ME1YUU1TV1IxVTgtdHFPNGlXVzFPQ2pzWUU2OEJwNFNWVdIBswFBVV95cUxQTm8tVUV6amt1TlJKSFQ0bHVIcDV1T2dRT2JkNHVSNGdNTWtZZEhNVWdwVW16SS1ZMTQ0cU5abEZCdnhUZDhjLVhURkpVVEI0Z2hXQ25FMFJZWnVodXhCaXNCV0p5YkJ5ajRCVVI2QmNZNmp0YmFRSXVZdGV2UG9CNGl0ZHRYZG1CaWN4RHdPeHgzcm9EeHowMkxwaUwwcHpLLWFmYmlhWUFFbTBkNmZHS2lOVQ?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "mediotiempo.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdS1tRTE0ZmRmNGJiSm9ZUnVwbndpeVpUakR2TDJFSmhfZVpSZzFyVHNvdGFIams3RWVSMGlUTk1GN2pNRlctSFNDeHVSRHBiRm5waDROWktYRUNmcks2cnVBZUlVQlRrMUR6N1pzcThkYmZ1VTNUdXdDT01ZMUtMcVdyejdjczZoYWM0RG9LcUZiMENqZFVGY0NyVGU5eVgyVWx6SC0wMDl4TEZ3WGNSWEdETdIBswFBVV95cUxPNkFZanQ0UWxlXzE5dnR1d1M1YTZsaVhIbjhlZ0F6akVLcEJvTGFpN2lJaWJEdFJZTmNZRmxkZG5GdXpJOUdPbWJWaGYwNTllRThiMTBFMElINnZaY21mdmx3U3FSc2ptOUd6Y0p3a2hfSGRTOFhacE1lVHNjNm5VU0Z2bXh0bFZoR0lMUDFrYWtUVjVjTVQ1R0lyRTh2blRUeDBtWWtuVmx3Yk54Z2pmMjNZRQ?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788565653846
+  },
+  {
+    "es": {
+      "headline": "Abogado de Bartiromo niega despido y dice que sigue siendo empleada de Fox",
+      "dek": "El abogado Bryan Freedman asegura que Maria Bartiromo sigue siendo empleada de Fox News, contradiciendo directamente el anuncio de la cadena del jueves sobre su salida.",
+      "body": "WASHINGTON — Un abogado de Maria Bartiromo rechazó el viernes el anuncio de Fox News Media sobre su salida, calificando de \"absoluta e inequívocamente falsos\" los reportes de que había sido despedida y afirmando que sigue en la nómina de la cadena.\n\nEl abogado Bryan Freedman emitió una declaración el viernes en la que dijo que Bartiromo \"sigue siendo empleada de Fox\" y advirtió que \"los recibos y los testigos\" saldrán a la luz \"ya sea por la vía judicial o de otro modo\", lo que sugiere una posible acción legal. El periodista John Solomon reportó el viernes que Bartiromo sigue bajo contrato con Fox y recibe pago hasta 2029 bajo una cláusula de pay-or-play, aunque ha sido retirada del aire.\n\nFox News Media anunció el jueves 4 de septiembre en un comunicado que \"a partir de hoy, Maria Bartiromo ya no forma parte de FOX News Media\", tras más de 12 años en la cadena. La empresa no ofreció ninguna razón para la salida en su comunicado y la caracterizó únicamente como \"una decisión de negocios\" cuando TheWrap le preguntó al respecto. La biografía y las páginas de programa de Bartiromo fueron eliminadas de los sitios web de Fox inmediatamente después del anuncio. Fox News Media no respondió de inmediato el viernes a las solicitudes de comentarios sobre la declaración de Freedman.\n\nStatus, un boletín de medios, reportó el jueves que Bartiromo fue destituida después de compartir con la Casa Blanca orientaciones internas de ejecutivos de Fox sobre declaraciones que el presidente Trump hizo acerca de China y las elecciones de 2020. The New York Times y el Wall Street Journal también reportaron que fue despedida por compartir comunicaciones internas de Fox con la Casa Blanca. NBC News dijo que no había verificado esos reportes. Puck News, citando múltiples fuentes, reportó por su parte que Bartiromo buscó cubrir una historia sobre China y conspiraciones de fraude electoral en las elecciones de 2020, y envió una captura de pantalla de la orientación de un ejecutivo de Fox Business que bloqueaba la historia a altos funcionarios de la Casa Blanca.",
+      "perspectives": [
+        {
+          "who": "El abogado Bryan Freedman, representando a Bartiromo",
+          "position": "Los reportes de que Bartiromo fue despedida o ya no es empleada de Fox son 'absoluta e inequívocamente falsos', y ella sigue siendo empleada de Fox, con evidencia que saldrá a la luz en los tribunales o de otro modo."
+        },
+        {
+          "who": "Fox News Media",
+          "position": "La salida fue 'una decisión de negocios' y el comunicado de la empresa habla por sí mismo, sin ofrecer mayor caracterización ni razón."
+        }
+      ]
+    },
+    "id": "2026-09-04-11wmg49+1ar8",
+    "section": "politics",
+    "rank": 5,
+    "writer": "vega",
+    "headline": "Bartiromo lawyer denies firing, says she remains Fox employee",
+    "dek": "Attorney Bryan Freedman says Maria Bartiromo remains a Fox News employee, directly contradicting the network's Thursday announcement of her departure.",
+    "body": "WASHINGTON — An attorney for Maria Bartiromo pushed back Friday against Fox News Media's announcement of her departure, calling reports that she had been fired \"absolutely and unequivocally false\" and asserting she remains on the network's payroll.\n\nAttorney Bryan Freedman issued a statement Friday saying Bartiromo \"is still employed by Fox\" and warning that \"receipts and witnesses\" would \"come out whether through the courthouse or otherwise,\" signaling possible legal action. Journalist John Solomon reported Friday that Bartiromo remains under contract with Fox and is receiving pay through 2029 under a pay-or-play provision, though she has been removed from air.\n\nFox News Media announced Thursday, September 4, in a statement that \"effective today, Maria Bartiromo is no longer with FOX News Media,\" following more than 12 years with the network. The company offered no reason for the departure in its statement and characterized it only as \"a business decision\" when asked by TheWrap. Bartiromo's bio and show pages were removed from Fox's websites immediately following the announcement. Fox News Media did not immediately respond to requests for comment Friday on Freedman's statement.\n\nStatus, a media newsletter, reported Thursday that Bartiromo was ousted after she shared internal Fox executive guidance with the White House regarding claims President Trump made about China and the 2020 election. The New York Times and Wall Street Journal also reported she was dismissed for sharing internal Fox communications with the White House. NBC News said it had not verified those reports. Puck News, citing multiple sources, separately reported that Bartiromo sought to pursue a story on China and 2020 election voting conspiracies and sent a screenshot of a Fox Business executive's guidance blocking the story to senior White House officials.",
+    "facts": "On Thursday, September 4, Fox News Media announced in a statement, 'Effective today, Maria Bartiromo is no longer with FOX News Media,' after more than 12 years with the network, without giving a reason for the departure. Fox News Media characterized the departure as 'a business decision' when asked by TheWrap. Immediately following the announcement, Bartiromo's bio and show pages were removed from Fox's websites. On Friday, attorney Bryan Freedman issued a statement saying reports that Bartiromo 'was fired or is no longer an employee of Fox are absolutely and unequivocally false,' and claiming she is 'still employed by Fox.' Freedman warned that 'receipts and witnesses' would 'come out whether through the courthouse or otherwise,' signaling possible legal action. Journalist John Solomon reported on Friday that Bartiromo remains under contract with Fox and receiving pay through 2029 under a pay-or-play provision, though she has been removed from air. Status, a media newsletter, reported Thursday that Bartiromo was ousted after she shared internal Fox executive guidance with the White House regarding claims President Trump made about China and the 2020 election; the New York Times and Wall Street Journal also reported she was dismissed for sharing internal Fox communications with the White House, though NBC News said it had not verified those reports. Puck News separately reported, citing multiple sources, that Bartiromo sought to pursue a story on China and 2020 election voting conspiracies and took a screenshot of a Fox Business executive's guidance blocking the story, sending it to senior White House officials. Fox News Media did not immediately respond to requests for comment Friday on Freedman's statement.",
+    "perspectives": [
+      {
+        "who": "Attorney Bryan Freedman, representing Bartiromo",
+        "position": "Reports that Bartiromo was fired or is no longer a Fox employee are 'absolutely and unequivocally false,' and she is still employed by Fox, with evidence that will come out in court or otherwise."
+      },
+      {
+        "who": "Fox News Media",
+        "position": "The departure was 'a business decision' and the company's release speaks for itself, offering no further characterization or reason."
+      }
+    ],
+    "location": "New York",
+    "when": "Sep 4",
+    "sources": [
+      {
+        "outlet": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOclVMa0cwNGhoSlZtR2tkSGtLNWJhMlVncDVQWFFHRDRudmV0ZkhKUWpwOUNFYzVxcGYzc2FoSHNxRk80R1BvbUc1MDNDeEpPMk5XekNaRXVJYzlFaXRaUzVpdzlSNHVLTXVQaFJsVUpFM2dXblFDODhaMWFic01RWnRGUXJHUHZXUWVLR29uZ2d1VkRvN1BoWWV0LXA4M2RlR1pHUEsxYm9pcVFiWTV5WEJIS0t4Zw?oc=5",
+        "line": "left"
+      },
+      {
+        "outlet": "Washington Examiner",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLW9mN0dXTUZ6eVp3eTNreGd5eTV2QXczLV9FOThHQWlVTWh1T0pvUGJFbFNnVlR0R01QUzAtMndzQldYcHBNQ0dZbnpuZHRqa2ZwUUphaGprLXJ2WGRDaDBicG5QTThTQXc2Q3ptNVBsOVZxdjJKY1VLa1JfTllHVzJ5OUpWOEoxUkY1Unc4UkJpbW9zRUgwRDRyOEI0eDFZWWpOMnZJNlY?oc=5",
+        "line": "right"
+      },
+      {
+        "outlet": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ0ZMZ18tM3BiRzU5aUoybWs4aEtGbVptMkFlOElGdS1XRlFWRGJIMTc0RGNQV1FIUDNQNWE0TUtKMTc4OGc4WXB3dy11RWN6bnE1UFNrbzF5RUZpQjJfZ2l5S1lNbE0xNFEwYXFqaGcxdm9IbjliWU0zSC1TTm9iZWNmUFo0cWhRRXdLRVZsYXF4MlFkNHdxVjk5ckhNZGItMEkw?oc=5",
+        "line": "left"
+      }
+    ],
+    "published": 1788565653846
+  },
+  {
+    "es": {
+      "headline": "Jueza emite una orden preliminar que bloquea la regla del USPS sobre boletas por correo",
+      "dek": "Una jueza federal de Boston bloqueó una regla del USPS sobre boletas por correo vinculada a una orden ejecutiva de Trump, al determinar que la privación del derecho al voto sería 'prácticamente inevitable' si se mantenía.",
+      "body": "BOSTON — La jueza de distrito federal Indira Talwani emitió el 4 de septiembre de 2026 una orden preliminar que bloquea una regla del Servicio Postal de EE.UU. (USPS) que regulaba el envío de boletas por correo antes de las elecciones de medio término del 3 de noviembre de 2026, según informó NBC News.\n\nLa regla del USPS, desarrollada en respuesta a una orden ejecutiva de Trump firmada el 31 de marzo de 2026, exigiría a los funcionarios electorales que sometieran los diseños de los sobres de boletas a aprobación federal y que cargaran información de los votantes con códigos de barras de rastreo únicos a un portal electrónico del USPS, según NBC News y Fox News. Talwani determinó que la regla probablemente es ilegal e inconstitucional, y que la privación del derecho al voto sería 'prácticamente inevitable' si la regla se mantenía en vigor, según informó NBC News. La orden siguió a una audiencia del 3 de septiembre y a una orden de restricción temporal de 14 días que Talwani había emitido el 27 de agosto, de acuerdo con NBC News y NPR.\n\nLos casos fueron presentados por una coalición de estados y grupos de derechos electorales, incluida la Liga de Mujeres Votantes, según NBC News y la ACLU. Los impugnadores argumentaron que el Congreso no ha otorgado al Servicio Postal autoridad para establecer reglas para las elecciones federales, que la Constitución otorga a los estados el poder de administrar las elecciones, y que el cumplimiento de la regla antes de las elecciones de medio término de noviembre es imposible, según CBS News y NBC News. CBS News informó que Carolina del Norte tenía previsto comenzar a enviar boletas por correo a votantes militares y en el extranjero el 4 de septiembre, con varios otros estados programados para comenzar a mediados de septiembre.\n\nLa administración Trump pidió a la Corte Suprema que permitiera que la regla del USPS siguiera adelante. El Departamento de Justicia argumentó en escritos judiciales que el cambio regulatorio era 'modesto' y estaba dentro de la autoridad estatutaria del USPS, según NBC News y CBS News. La Corte Suprema había levantado previamente una orden anterior de Talwani por razones de procedimiento, sin pronunciarse sobre el fondo de las restricciones, según informó CBS News.\n\nLa portavoz de la Casa Blanca Lauren Bis llamó a Talwani una 'jueza activista' y dijo que los cambios del presidente son 'medidas de sentido común para proteger la seguridad de las boletas por correo y garantizar que solo los estadounidenses voten en las elecciones estadounidenses', según CBS News.",
+      "perspectives": [
+        {
+          "who": "Administración Trump / Casa Blanca",
+          "position": "La portavoz de la Casa Blanca Lauren Bis llamó a Talwani una 'jueza activista' y dijo que los cambios del presidente son 'medidas de sentido común para proteger la seguridad de las boletas por correo y garantizar que solo los estadounidenses voten en las elecciones estadounidenses', según CBS News."
+        },
+        {
+          "who": "Estados demandantes y grupos de derechos electorales",
+          "position": "Los impugnadores argumentaron que el Congreso no ha otorgado al Servicio Postal autoridad para establecer reglas para las elecciones federales, que la Constitución otorga a los estados el poder de administrar las elecciones, y que el cumplimiento de la regla antes de las elecciones de medio término de noviembre es imposible, según CBS News y NBC News."
+        }
+      ]
+    },
+    "id": "2026-09-04-174cbfq+1f1p",
+    "section": "politics",
+    "rank": 6,
+    "writer": "vega",
+    "headline": "Judge issues preliminary injunction blocking USPS mail-ballot rule",
+    "dek": "A Boston federal judge blocked a USPS mail-ballot rule tied to a Trump executive order, finding voter disenfranchisement 'practically inevitable' if it stood.",
+    "body": "BOSTON — U.S. District Judge Indira Talwani on September 4, 2026, issued a preliminary injunction blocking a U.S. Postal Service rule governing the mailing of mail-in ballots ahead of the November 3, 2026, midterm elections, NBC News reported.\n\nThe USPS rule, developed in response to a Trump executive order signed March 31, 2026, would require election officials to submit ballot-envelope designs for federal approval and upload voter information with unique tracking barcodes to a USPS electronic portal, according to NBC News and Fox News. Talwani found the rule is likely unlawful and unconstitutional, and that voter disenfranchisement would be 'practically inevitable' if the rule remained in place, NBC News reported. The injunction followed a September 3 hearing and a 14-day temporary restraining order Talwani had issued August 27, according to NBC News and NPR.\n\nThe cases were brought by a coalition of states and voting rights groups including the League of Women Voters, according to NBC News and the ACLU. Challengers argued that Congress has not granted the Postal Service authority to set rules for federal elections, that the Constitution gives states the power to administer elections, and that compliance before the November midterms is impossible, per CBS News and NBC News. CBS News reported that North Carolina was set to begin mailing ballots to military and overseas voters on September 4, with several other states scheduled to begin in mid-September.\n\nThe Trump administration asked the Supreme Court to allow the USPS rule to proceed. The Department of Justice argued in court filings that the regulatory change was 'modest' and within USPS's statutory authority, according to NBC News and CBS News. The Supreme Court had previously lifted an earlier Talwani injunction on procedural grounds, without ruling on the merits of the restrictions, CBS News reported.\n\nWhite House spokeswoman Lauren Bis called Talwani an 'activist judge' and said the president's changes are 'commonsense measures to protect the security of mail-in ballots and ensure only Americans vote in American elections,' per CBS News.",
+    "facts": "On September 4, 2026, Boston-based U.S. District Judge Indira Talwani issued a preliminary injunction blocking a U.S. Postal Service rule governing the mailing of mail-in ballots ahead of the November 3, 2026 midterm elections, according to NBC News. The USPS rule, developed in response to a Trump executive order signed March 31, 2026, would require election officials to submit ballot-envelope designs for federal approval and upload voter information with unique tracking barcodes to a USPS electronic portal, according to NBC News and Fox News. Talwani found the rule is likely unlawful and unconstitutional, and that voter disenfranchisement would be 'practically inevitable' if the rule were allowed to stay in place, according to NBC News. The injunction was issued after a September 3 hearing, and followed a 14-day temporary restraining order Talwani had issued on August 27, according to NBC News and NPR. CBS News reported that North Carolina was set to begin sending mail ballots to military and overseas voters on September 4, with several other states beginning to mail ballots in mid-September. The cases were brought by a coalition of states and by voting rights groups including the League of Women Voters, according to NBC News and the ACLU. The Trump administration asked the Supreme Court to allow the USPS rule to proceed, and the DOJ argued in court filings that the regulatory change was 'modest' and within USPS's statutory authority, according to NBC News and CBS News. The Supreme Court had previously lifted an earlier Talwani injunction on procedural grounds, without ruling on the merits of the mail-in ballot restrictions, according to CBS News.",
+    "perspectives": [
+      {
+        "who": "Trump administration / White House",
+        "position": "White House spokeswoman Lauren Bis called Talwani an 'activist judge' and said the president's changes are 'commonsense measures to protect the security of mail-in ballots and ensure only Americans vote in American elections,' per CBS News."
+      },
+      {
+        "who": "Plaintiff states and voting rights groups",
+        "position": "Challengers argued that Congress has not given the Postal Service authority to set rules for federal elections, that the Constitution gives states the power to administer elections, and that compliance with the rule before the November midterms is impossible, per CBS News and NBC News."
+      }
+    ],
+    "location": "Boston",
+    "when": "Sep 4",
+    "sources": [
+      {
+        "outlet": "nytimes.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaXpmM3VTQkNraFZlM0JsX0NaX0Y5U0hodnBxempLQ1NCLVlxSV9RZHBybW43dVhMd2t0RDNsM1pqdnN5VVB3Qm82dHRxSGdjTkRMbDljb2NRdUFwWjkzc3ZtRU90WXMxU0tQODVpcWljY3VKYlJ4emYya3V5WjBaZVR5SmRVNlR3cjF3?oc=5",
+        "line": "left"
+      },
+      {
+        "outlet": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLTd1MEZMWF9KdTNTOGFhSzJQMUs1eDNDbnJ1YjhsRjdwbVpDOFR0M2R6U3YtUFltVFpQb2hiSVkwQjJ1aFR6WnRnSm1GUThlZFZjTkRVMVpJcjBlRkdhcmNyUm5TVkhuc1lLTm9kRHd6QVJndkRoZm9SMW1XbGtqSzJ6S0R0NGN1VkR2YlM5YVVMdXcxT3dHc0x1YnpfajllaEpnd0JKSmd5bzVQdHRadFI4cHFZb2E5WUlaVy16UDAtdw?oc=5",
+        "line": "left"
+      },
+      {
+        "outlet": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjFlR0RmM1BzOGhjaUhsVTdPT1RGNHRUZEY5Q21qTmFrNF9JcTB2d2VnUGU5cWVvdnA2dGJlN1Zubm5KcFcwQkJxZUM2aDVCanYyT2hGZkh4enBXclNFMFdkYTZsZXI4Y3NXTDVTSGVVY0YwM1hxZk1BT25lV3BYcHlTZmJQcVZpRG0zWkhWVW8xSGZZU25DRWNKeW5UT1FiSEFNdjB1SnhFSll4c2V4OHg0OUZvczJPdmc?oc=5",
+        "line": "wire"
+      }
+    ],
+    "published": 1788565653846
+  },
+  {
+    "es": {
+      "headline": "La Corte Suprema suspende fallo que limitaba descuento en anuncios de TV para el GOP",
+      "dek": "Una suspensión de la Corte Suprema sobre un descuento en publicidad televisiva reabre una pregunta de décadas sobre si los partidos y los candidatos merecen igual trato bajo la ley de financiamiento de campañas.",
+      "body": "El 4 de septiembre de 2026, la Corte Suprema concedió una suspensión de emergencia que detiene un fallo del 4.º Circuito que habría limitado el llamado lowest unit charge —un descuento federalmente obligatorio en publicidad televisiva— exclusivamente a los candidatos, bloqueando el acceso de los partidos políticos y los comités conjuntos de recaudación de fondos a las mismas tarifas reducidas. La suspensión llegó a petición del National Republican Congressional Committee y el National Republican Senatorial Committee, con el Solicitor General de la administración Trump, D. John Sauer, presentando un escrito en apoyo. La jueza Ketanji Brown Jackson disintió públicamente de la orden sin firma.\n\nEl lowest unit charge tiene una larga historia arraigada en la lógica de que los candidatos, como individuos que buscan un cargo, merecen acceso asequible a las ondas públicas durante la temporada electoral. La Oficina de Medios de la FCC emitió un aviso público tan recientemente como el 30 de marzo de 2026, afirmando que los partidos y los comités conjuntos de recaudación también califican. El 4.º Circuito no estuvo de acuerdo, fallando 2-1 que el descuento pertenece únicamente a los candidatos. La pregunta de dónde termina un candidato y dónde comienza el aparato partidista nunca se ha resuelto claramente en la ley de radiodifusión.\n\nLos demandantes demócratas —el sen. Jon Ossoff, el exsen. Sherrod Brown, el candidato al Senado por Carolina del Norte Roy Cooper y la rep. Kristen McDonald Rivet— argumentaron que el tribunal inferior tenía razón. Los comités republicanos contraargumentaron que el 4.º Circuito había reescrito reglas de larga data y restringido inconstitucionalmente su libertad de expresión política. La administración añadió un matiz procesal, sosteniendo que los demandantes demócratas carecían de legitimación para demandar.\n\nEl contexto financiero añade perspectiva. Los republicanos contaban con aproximadamente $148.6 millones combinados en efectivo disponible de cara a las elecciones intermedias, frente a los aproximadamente $120 millones de los demócratas. Si un descuento en publicidad televisiva altera materialmente esa aritmética es discutible, pero las implicaciones estructurales —quién controla la definición regulatoria de comunicador de campaña— sobrevivirán a cualquier ciclo electoral.",
+      "perspectives": [
+        {
+          "who": "National Republican Congressional Committee y National Republican Senatorial Committee",
+          "position": "Los comités argumentaron que el 4.º Circuito 'reescribió las reglas de larga data sobre las tarifas preferenciales de transmisión para anuncios políticos' y que su fallo restringe inconstitucionalmente su libertad de expresión política, impidiéndoles llegar a los votantes antes del día de las elecciones."
+        },
+        {
+          "who": "Candidatos demócratas (Ossoff, Brown, Cooper, McDonald Rivet)",
+          "position": "Los candidatos demócratas argumentaron que los anuncios televisivos más baratos bajo el lowest unit charge deben limitarse únicamente a los candidatos, y pidieron a los jueces que dejaran en pie el fallo del 4.º Circuito."
+        }
+      ]
+    },
+    "id": "2026-09-04-1f0w8bc+1uys",
+    "section": "politics",
+    "rank": 0,
+    "writer": "santamaria",
+    "headline": "Supreme Court pauses ruling restricting TV ad discount for GOP",
+    "dek": "A Supreme Court stay over a broadcast ad discount reopens a decades-old question about whether parties and candidates deserve equal treatment under campaign finance law.",
+    "body": "On September 4, 2026, the Supreme Court granted an emergency stay halting a 4th Circuit ruling that would have limited the so-called lowest unit charge — a federally mandated broadcast advertising discount — to candidates only, blocking political parties and joint fundraising committees from accessing the same reduced rates. The stay came at the request of the National Republican Congressional Committee and the National Republican Senatorial Committee, with the Trump administration's Solicitor General D. John Sauer filing a brief in support. Justice Ketanji Brown Jackson publicly dissented from the unsigned order.\n\nThe lowest unit charge has a long history rooted in the logic that candidates, as individuals seeking office, deserve affordable access to the public airwaves during campaign season. The FCC's Media Bureau issued a public notice as recently as March 30, 2026, affirming that parties and joint fundraising committees also qualify. The 4th Circuit disagreed, ruling 2-1 that the discount belongs to candidates alone. The question of where a candidate ends and a party apparatus begins has never been cleanly settled in broadcast law.\n\nThe Democratic plaintiffs — Sen. Jon Ossoff, former Sen. Sherrod Brown, North Carolina Senate candidate Roy Cooper, and Rep. Kristen McDonald Rivet — argued the lower court had it right. The Republican committees countered that the 4th Circuit had rewritten longstanding rules and unconstitutionally burdened their political speech. The administration added a procedural wrinkle, contending the Democratic challengers lacked standing to sue at all.\n\nThe financial backdrop adds texture. Republicans held roughly $148.6 million in combined cash-on-hand heading into the midterms compared to Democrats' roughly $120 million. Whether a broadcast discount materially shifts that arithmetic is debatable, but the structural stakes — who controls the regulatory definition of a campaign communicator — will outlast any single election cycle.",
+    "facts": "On September 4, 2026, the Supreme Court granted an emergency appeal from the National Republican Congressional Committee and the National Republican Senatorial Committee, halting a ruling by the U.S. Court of Appeals for the 4th Circuit, according to AP News and SCOTUSblog. The 4th Circuit had ruled 2-1 that political parties and joint fundraising committees must pay standard broadcast advertising rates, limiting the so-called lowest unit charge (LUC) to candidates only, according to SCOTUSblog. The FCC's Media Bureau had issued a public notice on March 30, 2026, stating that political parties and joint fundraising committees were also entitled to the discounted LUC rates, according to SCOTUSblog. The Supreme Court's unsigned order, which one justice publicly dissented from, stays the 4th Circuit ruling while litigation continues, according to AP News. Justice Ketanji Brown Jackson was identified by Deadline as the dissenting justice. The Trump administration, represented by Solicitor General D. John Sauer, filed a brief supporting the Republican groups and also argued that the Democratic candidates lacked standing to sue, according to SCOTUSblog. Democratic challengers in the case include Sen. Jon Ossoff, former Sen. Sherrod Brown, North Carolina Senate candidate Roy Cooper, and Rep. Kristen McDonald Rivet, according to WBT News. Republicans held a combined cash-on-hand advantage of roughly $148.6 million compared to Democrats' roughly $120 million heading into the midterms, according to The Hill.",
+    "perspectives": [
+      {
+        "who": "National Republican Congressional Committee and National Republican Senatorial Committee",
+        "position": "The committees argued that the 4th Circuit 'rewrote longstanding rules about preferential broadcast rates for political ads' and that its ruling unconstitutionally restricts their political speech, preventing them from reaching voters before election day."
+      },
+      {
+        "who": "Democratic candidates (Ossoff, Brown, Cooper, McDonald Rivet)",
+        "position": "The Democratic candidates argued that cheaper broadcast ads under the lowest unit charge should be limited to candidates only, and urged the justices to leave the 4th Circuit's ruling in place."
+      }
+    ],
+    "location": "Washington",
+    "when": "Sep 4",
+    "sources": [
+      {
+        "outlet": "Boston Herald",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fNHlEQWY2RFJZS2M1VlB1eFcydmJESGc3S1U1TTFJbzl3dkxVRTRwNElQVUhYNFlxOWMxRHlXa2ZZLUtOWlhxN2tWdHhSYV9RYVpaUzNXM1NkdHBnNjRXZFFuUUxSanNxVUpKanlnN3dMcmtiRGc?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "scotusblog.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNelBPRXBSLUtHeERHMF9HYW9RbTY1elkyZHRqYlpMbVFqaFREbEZLdVFnNS1wYU1Dbi1RY0tIcENiS01OVnV1WVRrVFg1Rlp2TWpmbGFyS29RSU5oa3c0enlPQXRHZHVTQTRZbmgxcG5NYTg5aFZaOVZqWHhlZ0U3UkViVkliTl9kdVJOdlMyMURsQVg2R2ZURnhJZHlaak95V3p3ek9MVmNWdVYtTlpJbFdmRmdhVEdLVWVYYjNiWkF0T3YyVjhxcldIcUI?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSHduWVYtMzJYQk5UcVJNbWxaY1Z4YnA4ZWZ5dFRQSXEtTERLTUd3Y2gydFJ6MUdTeWstd3k2NTZWZnR1ejNwWEhOY05SRnFUOURrZi1qWUpLeXAyWWR4ZlJSOXBUZFBkY1Q2dmNzbkxncVkwNzZtU0ZtWlluSll0bjB2SDFtTUNvMmNwTlBRY1RNOE5EdGZHRDV3?oc=5",
+        "line": "wire"
+      },
+      {
+        "outlet": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNVFVRFFwclJGVk5mMDZaOEEyenVBSkp6VnktbDVCN2lfUDdTazVlOXdIeWx4bV9BbllUWnBScm5kV1pUZ0FodHI5NEFybkpoazU3aUpCTGNKR1B0aUFnc1NGTzZuOUtKelVQWjBiQldXWkM5WGRJdWFvTHdCX2h4ZGsxM1NhUFJPUGlBejNUV1RlMVhZT09GamFrOFVJdjF3?oc=5",
+        "line": "left"
+      }
+    ],
+    "published": 1788565653846
+  },
+  {
+    "es": {
+      "headline": "Messi lidera a Inter Miami contra el Atlanta United de Tata Martino",
+      "dek": "Messi juega su primer partido desde que anunció su retiro de Argentina cuando Inter Miami recibe al Atlanta United y al exentrenador Tata Martino el sábado por la noche.",
+      "body": "Siete goles. Cuatro de Messi. Inter Miami llega al Nu Stadium el sábado tras una demolición de 7–1 al CF Montreal el 29 de agosto —la primera actuación de cuatro goles de Messi en la MLS— y con la mira puesta en afianzarse en el segundo lugar de la Conferencia Este.\n\nEl partido arranca a las 7:30 p.m. ET por Apple TV. Será la primera aparición de Messi desde que anunció su retiro de la selección argentina, una historia que lo seguirá hasta la cancha pero que él parece dispuesto a dejar atrás.\n\nEl rival le da a este partido un filo que va más allá del típico duelo de temporada regular. El técnico del Atlanta United, Gerardo 'Tata' Martino, dirigió a Inter Miami en 2023 y 2024, ganando la Leagues Cup y el Supporters' Shield antes de irse. Su último partido al mando de Miami fue una derrota ante Atlanta en los playoffs. Ahora regresa al Nu Stadium desde el otro banco. Martino fue directo sobre el desafío que enfrenta: 'No hay equipo capaz de neutralizarlo durante los 92 o 93 o 95 minutos del partido.'\n\nAtlanta también presenta al delantero suizo Breel Embolo, fichado del Stade Rennais como Designated Player el 23 de agosto. Tramitó su visa a tiempo y estará disponible el sábado. La llegada le da a Martino un arma nueva, aunque su equipo se ubica 13.º en la Conferencia Este con 21 puntos, cuatro por debajo de la línea de playoffs.\n\nMiami llega con bajas en la defensa. Los defensores Sergio Reguilón, Gonzalo Luján y Micael están todos fuera por lesiones en la parte inferior del cuerpo —Reguilón y Luján se lesionaron ante Toronto. Miami promedia 2.5 goles por partido en la MLS, la mejor marca de la liga. Atlanta necesita un resultado. Miami quiere distancia en la cima.",
+      "perspectives": [
+        {
+          "who": "Gerardo 'Tata' Martino, técnico del Atlanta United",
+          "position": "Reconoció que ningún equipo puede neutralizar a Messi durante todo el partido, admitiendo implícitamente la magnitud del reto que enfrenta su exjugador estrella."
+        },
+        {
+          "who": "Inter Miami",
+          "position": "Llegan con impulso ofensivo y el mejor promedio goleador de la MLS, pero con bajas sensibles en defensa justo cuando buscan ampliar su ventaja en la Conferencia Este."
+        }
+      ]
+    },
+    "id": "2026-09-04-18q7wf+199by",
+    "section": "sports",
+    "rank": 0,
+    "writer": "calderon",
+    "headline": "Messi leads Inter Miami against Tata Martino's Atlanta United",
+    "dek": "Messi plays his first match since retiring from Argentina duty as Inter Miami host Atlanta United and former coach Tata Martino on Saturday night.",
+    "body": "Seven goals. Four from Messi. Inter Miami arrive at Nu Stadium on Saturday riding a 7–1 demolition of CF Montreal on August 29 — Messi's first four-goal MLS performance — and looking to push deeper into second place in the Eastern Conference.\n\nKickoff is 7:30 p.m. ET on Apple TV. It marks Messi's first appearance since announcing his retirement from the Argentina national team, a storyline that will follow him onto the field but one he appears ready to move past.\n\nThe opposition makes this match sharper than a typical regular-season fixture. Atlanta United manager Gerardo 'Tata' Martino coached Inter Miami in 2023 and 2024, winning the Leagues Cup and the Supporters' Shield before leaving. His final game in charge of Miami was a playoff loss to Atlanta. Now he returns to Nu Stadium from the other bench. Martino was candid about the task ahead: 'There's no team capable of neutralizing him for the entire 92 or 93 or 95 minutes of the match.'\n\nAtlanta also debut Swiss forward Breel Embolo, signed from Stade Rennais as a Designated Player on August 23. He cleared his visa in time and is available Saturday. The arrival gives Martino a new weapon, though his side sits 13th in the Eastern Conference with 21 points, four back of the playoff line.\n\nMiami enter short-handed at the back. Defenders Sergio Reguilón, Gonzalo Luján, and Micael are all out with lower-body injuries — Reguilón and Luján both hurt against Toronto. Miami are averaging 2.5 MLS goals per match, the league's best rate. Atlanta need a result. Miami want separation at the top.",
+    "facts": "Inter Miami CF host Atlanta United in an MLS Matchday 24 regular-season match on Saturday, September 6, 2026, at Nu Stadium in Miami, kicking off at 7:30 p.m. ET on Apple TV. Lionel Messi is expected to play his first match since announcing his retirement from the Argentina national team, coming off a four-goal, 7–1 victory over CF Montreal on August 29 — the first four-goal MLS performance of his career. Inter Miami will be without defenders Sergio Reguilón, Gonzalo Luján, and Micael due to lower-body injuries, with Reguilón and Luján both hurt during Miami's match against Toronto. Atlanta United are managed by Argentine coach Gerardo 'Tata' Martino, who previously led Inter Miami in 2023 and 2024, winning the 2023 Leagues Cup and the 2024 Supporters' Shield before departing; his last match in charge of Inter Miami was a playoff elimination at the hands of Atlanta United. Martino said of Messi ahead of the match: 'There's no team capable of neutralizing him for the entire 92 or 93 or 95 minutes of the match.' Atlanta United signed Swiss forward Breel Embolo from Stade Rennais as a Designated Player on August 23, 2026, and Embolo cleared his visa in time to be available for his debut against Inter Miami. Atlanta sit 13th in the Eastern Conference with 21 points, four points outside the playoff places, while Inter Miami are second in the Eastern Conference, averaging 2.5 MLS goals per match, the most in the league.",
+    "perspectives": [],
+    "location": "Miami",
+    "when": "Sep 6",
+    "sources": [
+      {
+        "outlet": "World Soccer Talk",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeHFMQUV6UHllYUx1M3ByRnd2dHlSOGRKamVhaHJnOW4zRFBmbWFSRnJNM3RlN1FLeVFBbEY2Vm5PUENaQkh1RnhWWFBFQVFzNWpWa2thSXh0WWxCTEZnYjhYbVczYW9CQnBWUEtqRlVGeDNRNHZaYU4wSk4xTTdjU3IyY2JROXBQaGJYU3laZjZHMllqM3V2VG1qYzBKUEQ3T25FRC1mRzhYMktPX3NRSkxXcXTSAbgBQVVfeXFMT2Y1TG1tY0duT2RxQ2x2bTVlcGRnaHZsd1Z2M1NUR0U0TndtUllpTDBOUk9VRzlVb2E2TFBuU1l4azFwaFVfMG5TTDRjVDNJRWZnN1VLRVQ1OFFnN19oWHQyVDl5dXgwX0NhMktCdUttd0E1U1hjNUxQUzkyNnNfVjJFLTBqN1pUc1EweEloV3B6dW1aZVJ3Qmd4NVFKQVJsazUzb0VZQjYycS1vcVc3VXlUMVlNSV9pTQ?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "MLSsoccer.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOazNwVDN6MVREb2ZVWV9OTzFSLXVCa1RpTmh5MU83QnZVMHF3LTV2dWdsT0lERzQtaXJtRVotYlBoWWdTbVNDejJ1UjFZUW9VZ3lQYWFLTEVDVUN4LW5qUGw2cDVXZWVzSHZ3eklPR2ZDMGFnU0FmLWFOWDBaVk90Y01HNTV5b3NWUUY0dHBNMnY?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "Inter Miami CF",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMDlsbi1OOUhDNVVfRzd5OFgwYnFkZzBON1Z1X0xCUGRSRWluSDlHSmhSVGF3NGZ2LTEyMFFjSGUwZkhSTGgwMDM4b3BnWHhEVTZJMGExU092TlpMOGxBeTlTSHUwdXd1YVFPcjcybTdvaWFlUklseDdYek9wakdMcUxpRFRKT1pwUzdRMnlQNnQ0ellRUGx5Y3RtZkhES2lnOXZzcnR2aHRZUQ?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "miamiherald.com",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OSnJpNGFybWRCb3JJMFBoQ3lhNWQyQWJDcm8teXBVNnByTE1XdGx3Ulpqajc1ZGQ0SXJMbDM2ckJ3S0QycVR5eWVldUNCR01xbm1IV0NKd3FTSmlTRGVVZzNJX0JoSTV1MVRaNUZFTWlvWmVPM3NiSlNWUS3SAXxBVV95cUxPZEpwdk5FOHFFek5FSmZNcnNOT1h2ZHFvUDVtWmpTNkdiRGVDa3hwSW1hRFN0RVJaR2xIUW4yXzh0M2l2UkxZU1p3OVV6OVRMc25NMUxSX2ZyNC1KTkh1d1BPN1FCVS0wOEt5TVBadGlKQ25fRzFYcXREc0Rm?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788565653846
+  },
+  {
+    "es": {
+      "headline": "Tigres recibe a Necaxa en la jornada 7 del Apertura de la Liga MX",
+      "dek": "Tigres recibe a Necaxa el 6 de septiembre y necesita ganar para salir del lugar 16, pero sin el mediocampista Fernando Gorriarán, quien cumplirá suspensión.",
+      "body": "Tigres UANL marcha en el lugar 16 del Torneo Apertura 2026 de la Liga MX con cinco puntos en seis partidos — una victoria, dos empates y tres derrotas. El 6 de septiembre recibe al Necaxa, que ocupa el lugar 12, en el Estadio Universitario de San Nicolás de los Garza, Nuevo León, en la jornada 7. Necaxa llega al partido con siete puntos.\n\nEl estadio con capacidad para 41,615 aficionados le da a Tigres una ventaja que ha sabido aprovechar frente a este rival. Llevan 11 partidos consecutivos de Liga MX sin perder ante Necaxa. En 21 enfrentamientos registrados entre ambos, Tigres tiene un balance de 11-2-8, y su último duelo terminó 1–0 a favor de Tigres.\n\nHabrá una baja importante. El mediocampista Fernando Gorriarán cumplirá una suspensión de un partido tras recibir tarjeta roja en el empate de la jornada 6 ante Santos Laguna. Su ausencia deja un hueco en el mediocampo de Tigres en un momento en que el club no puede permitirse más puntos perdidos.\n\nLa defensa es un problema para ambos equipos. Tigres ha promediado 1.3 goles anotados y más de 1.7 recibidos por partido en este Apertura. Necaxa llega con promedios idénticos — 1.3 anotados y más de 1.7 permitidos. Ninguno de los dos equipos ha dejado su portería en cero en el torneo. Los goles son probables; las porterías a cero, no.\n\nPara Tigres, una victoria los haría escalar en la tabla y extendería su racha invicta ante Necaxa a 12 partidos. Para Necaxa, sacar un resultado de visita ante un rival en apuros pero históricamente dominante los acercaría a los primeros ocho lugares y a la zona de playoffs. El partido arranca el 6 de septiembre de 2026.",
+      "perspectives": [
+        {
+          "who": "Tigres UANL",
+          "position": "Necesitan ganar para salir del lugar 16; cuentan con la ventaja de jugar en casa y con una racha de 11 partidos sin perder ante Necaxa, pero resienten la ausencia de Gorriarán y una defensa porosa."
+        },
+        {
+          "who": "Necaxa",
+          "position": "Buscan un resultado de visita que los impulse hacia la zona de playoffs; llegan con más puntos que Tigres, aunque con las mismas debilidades defensivas."
+        }
+      ]
+    },
+    "id": "2026-09-04-1dit124+1m44",
+    "section": "sports",
+    "rank": 1,
+    "writer": "calderon",
+    "headline": "Tigres host Necaxa in Liga MX Apertura matchday 7",
+    "dek": "Tigres host Necaxa on September 6 needing a win to climb out of 16th place, with midfielder Fernando Gorriarán suspended.",
+    "body": "Tigres UANL sit 16th in the Liga MX Torneo Apertura 2026 with five points from six games — one win, two draws, three losses. They host 12th-place Necaxa on September 6 at Estadio Universitario in San Nicolás de los Garza, Nuevo León, in matchday 7. Necaxa carry seven points into the match.\n\nThe 41,615-capacity stadium gives Tigres an edge they have used well against this opponent. They have gone 11 consecutive Liga MX matches without a loss against Necaxa. Across 21 tracked head-to-head meetings, Tigres hold an 11-2-8 record, and their last encounter ended 1–0 in Tigres' favor.\n\nOne key piece will be missing. Midfielder Fernando Gorriarán serves a one-game suspension after picking up a red card in the matchday 6 draw with Santos Laguna. His absence leaves a gap in Tigres' midfield at a moment when the club cannot afford more dropped points.\n\nDefense is a problem for both sides. Tigres have averaged 1.3 goals scored and more than 1.7 conceded per game this Apertura. Necaxa carry identical averages — 1.3 scored, more than 1.7 allowed. Neither team has kept a clean sheet in the tournament. Goals are likely; clean sheets are not.\n\nFor Tigres, a win would move them up the table and extend their unbeaten run against Necaxa to 12. For Necaxa, a result on the road against a struggling but historically dominant opponent would push them closer to the top eight and playoff positioning. Kickoff is September 6, 2026.",
+    "facts": "Tigres UANL host Club Necaxa on September 6, 2026, in matchday 7 of the Liga MX Torneo Apertura 2026 at Estadio Universitario in San Nicolás de los Garza, Nuevo León, Mexico. The stadium has a capacity of 41,615 spectators. Tigres enter the match in 16th place with five points from six games, recording one win, two draws, and three losses. Necaxa sit 12th with seven points through six matches. Tigres are favored at home, having gone 11 consecutive Liga MX matches without a loss against Necaxa. In their last meeting, Tigres defeated Necaxa 1–0; across 21 tracked head-to-head matches, Tigres have won 11 times, Necaxa two, and eight ended in draws. Tigres midfielder Fernando Gorriarán will miss the match after being suspended one game for a red card in the matchday 6 draw with Santos Laguna. Both teams have averaged 1.3 goals scored and more than 1.7 goals conceded per game in the Apertura 2026, with neither side having kept a clean sheet.",
+    "perspectives": [],
+    "location": "San Nicolás de los Garza",
+    "when": "Sep 6",
+    "sources": [
+      {
+        "outlet": "transfermarkt.us",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWDJOTnZXWWNfS0lKZEM2QnhDREF5aE04c2VFYXJOdFhubE1ZaERlS0w5NEdiNF9vX0xwMU5OQmVOMzVVOENwUF9VOHBrY0xsTTdPR1ZDeW85cG5ST0k1LUVjYm1XZEtucEVXQ2hOdUlJX3I5dEQ4RFhEbTg1c2hPb3dCSmd0MVg3UVU4Ti04bnNzYmhfeHFzOS1R?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "dimers.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSUJBakV4blpIczV1ZjNwbGxXaUpVdHE3c1FTbm9JMW1JcDJvQ21Yc3RwZ2tEbHc5UW9XcTc0eWV1WnJzU2JHYWd3cjVuUjdiUnJLM2NfOWxoVm4zcl9BMEFsN0pYZmFaS2RzTWxZbm1SQzRabUtyVVJoWkRxNlItMzJ5dldhMGtVbEE?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "Sportsgambler",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXI5ei1nYUJyQ2ViNGlwSTgtNTVjSFpiVzZESU8yMVRIVXZycUlBU3FMNTBpT19WTWhGaU1JUXpCeG1vM0lFZ2paSi1oNFpjNnF4ZVZKOE93b0NoNUhCcjExc0dzZEExemJBRHc5ZG9kUzIxRzFJV2hFTnpDLUo4elFiZnRBcnE3amNGTHZzalNBUkE0UnNseExndFZncjdNTWh2c2swQQ?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "SportyTrader",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nZVFqLUg2ektNbDJ0aU4tbFlWS2luWDBxMDU3UEdZRmhZVkt0YVB2bExrVGdpcHBlQmZHQlFJb3ZCYmVDYzBCLXZ4ejdJUi1fcC1JVnljRW0wb3JjdUFjU3liS3NfcUVTRi12VUM0Z2FKZw?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788565653846
+  },
+  {
+    "es": {
+      "headline": "El Festival de Unidad de Wheaton dará inicio al Mes de la Herencia Hispana el 19 de septiembre",
+      "dek": "El festival gratuito de Wheaton en el Condado de Montgomery abrirá el Mes de la Herencia Hispana el 19 de septiembre con música en vivo, comida y diversión familiar cerca del Metro.",
+      "body": "El Condado de Montgomery, Maryland, arrancará el Mes Nacional de la Herencia Hispana por todo lo alto — ¿y dónde más? En Wheaton. El Festival de Unidad del Mes de la Herencia Hispana llega al centro de Wheaton el sábado 19 de septiembre, justo al lado de la estación de Metro de Wheaton, y es gratis y abierto a todo el mundo. Con lluvia o sol, la fiesta continúa.\n\nOrganizado por el Wheaton Urban District, la celebración vespertina reúne a familias locales, negocios y organizaciones comunitarias para honrar las tradiciones y contribuciones de los residentes hispanos y latinos — una comunidad que representa el 21.7% de la población del Condado de Montgomery, según la Encuesta sobre la Comunidad Estadounidense 2024 de la Oficina del Censo de EE. UU. Eso no es una nota al pie; eso es la esencia misma de este condado.\n\nEl programa tiene algo para cada generación. La música en vivo corre a cargo de Orquesta Manplesa, y los niños podrán lucir sus colores favoritos con pintacaras y la elaboración de piñatas — porque ¿qué sería el Mes de la Herencia sin una piñata? En cuanto a la comida, El Rey Chicken, Los Cobanos Restaurant y Trippy Tacos estarán sirviendo platillos para mantener a todos con energía durante los festejos.\n\nEl Ejecutivo del Condado, Marc Elrich, señaló que las comunidades hispanas y latinas \"han ayudado a dar forma a nuestro condado, desde nuestros vecindarios y escuelas hasta nuestros pequeños negocios y nuestra cultura.\" La Presidenta del Concejo, Natali Fani-González, se sumó a ese sentimiento y destacó a Wheaton en particular — su comida, su arte, sus negocios locales — como un reflejo vivo de esa diversidad.\n\nEl Mes Nacional de la Herencia Hispana transcurre cada año del 15 de septiembre al 15 de octubre, y este festival es el acto inaugural oficial. Si estás buscando una manera de celebrar, conectarte y comer muy bien un sábado por la tarde, Wheaton es el lugar indicado el día 19.",
+      "perspectives": [
+        {
+          "who": "Marc Elrich, Ejecutivo del Condado de Montgomery",
+          "position": "Las comunidades hispanas y latinas han ayudado a dar forma al condado, desde sus vecindarios y escuelas hasta sus pequeños negocios y su cultura."
+        },
+        {
+          "who": "Natali Fani-González, Presidenta del Concejo",
+          "position": "Wheaton — su comida, su arte y sus negocios locales — es un reflejo vivo de la diversidad hispana y latina del condado."
+        }
+      ]
+    },
+    "id": "2026-09-04-1ayy9ef+6uyw",
+    "section": "culture",
+    "rank": 0,
+    "writer": "ferrer",
+    "headline": "Wheaton Unity Festival to kick off Hispanic Heritage Month on Sept. 19",
+    "dek": "Montgomery County's free Wheaton festival on September 19 opens Hispanic Heritage Month with live music, food, and family fun near the Metro.",
+    "body": "Montgomery County, Maryland is kicking off National Hispanic Heritage Month in style — and in Wheaton, where else? The Hispanic Heritage Month Unity Festival lands in downtown Wheaton on Saturday, September 19, right next to the Wheaton Metro station, and it's free and open to everyone. Rain or shine, la fiesta goes on.\n\nOrganized by the Wheaton Urban District, the afternoon celebration brings together local families, businesses, and community organizations to honor the traditions and contributions of Hispanic and Latino residents — a community that makes up 21.7% of Montgomery County's population, according to the U.S. Census Bureau's 2024 American Community Survey. That's not a footnote; that's the fabric of this county.\n\nThe lineup has something for every generation. Live music comes courtesy of Orquesta Manplesa, and kids can get their hands colorful with face painting and piñata making — because what's Heritage Month without a piñata? On the food side, El Rey Chicken, Los Cobanos Restaurant, and Trippy Tacos will be serving up plates to keep everyone fueled through the festivities.\n\nCounty Executive Marc Elrich noted that Hispanic and Latino communities \"have helped shape our county, from our neighborhoods and schools to our small businesses and culture.\" Council President Natali Fani-González echoed that sentiment, pointing to Wheaton specifically — its food, its art, its local businesses — as a living reflection of that diversity.\n\nNational Hispanic Heritage Month runs annually from September 15 through October 15, and this festival is the official kickoff. If you're looking for a way to celebrate, connect, and eat really well on a Saturday afternoon, Wheaton is the place to be on the 19th.",
+    "facts": "Montgomery County, Maryland will host the Hispanic Heritage Month Unity Festival on Saturday, September 19, in downtown Wheaton, marking the kickoff of National Hispanic Heritage Month, which runs annually from September 15 through October 15. The free event will be held next to the Wheaton Metro station and will take place rain or shine, according to Montgomery Community Media. The festival will bring together local families, businesses, and community organizations for an afternoon highlighting the traditions and contributions of Hispanic and Latino residents, per the county's press release. Live music will be provided by Orquesta Manplesa, and activities will include face painting and piñata making. Food will be available from El Rey Chicken, Los Cobanos Restaurant, and Trippy Tacos. Hispanic and Latino residents account for 21.7% of Montgomery County's population, according to the U.S. Census Bureau's 2024 American Community Survey. County Executive Marc Elrich stated that Hispanic and Latino communities \"have helped shape our county, from our neighborhoods and schools to our small businesses and culture.\" Council President Natali Fani-González said Wheaton's diversity is reflected in its food, art, and local businesses. The Wheaton Urban District is listed as an organizer of the September 19 event.",
+    "perspectives": [],
+    "location": "Wheaton",
+    "when": "Sep 19",
+    "sources": [
+      {
+        "outlet": "Montgomery Community Media",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdGd2MUlXVXB0MGRLMnhTMW52ZW43bXdjTDVKS1YwcnJ3aE5DS09KMkNFMEQ3SmcyaTJ5Y1E1eFdST2JZWVBtSTcwTDB1VG5YRVd0YnpGMVdVUWdfZ0wzMmd0QmJ6d0FPN3dXXzNDcXVwVGtBd1VqUWpaVkpkVk9VbHFvU1JNTTg4eHliMXNPdHc?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "Montgomery County, MD (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdUhVQ01BVndrWE9jaTRhaXNzbkZlOERIRlpwS3JRcUxQX0FWWnoxTFY3aHdUQ0VyRkRfdGpCWnViYmN3Tkt2RWdoNzByR3NHekZhNGxpcmVsMlRmSWtnTUg4VFpncF8zUlFaMXpLanh2R0JJV0FKdl85QklBeENvSjkzOGdoRWswZTZEVmc3UmUzZGV1SW9xeW5IT0R5VWh4cmFPQU81R2laTkI0X1k0YmVYSVlxVjBSbDNIcFhRZG13b19O?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788565653846
+  },
+  {
+    "es": {
+      "headline": "El agente de ICE Castro se declara inocente de mentir sobre el tiroteo en Minneapolis",
+      "dek": "Un gran jurado federal acusó formalmente al agente de ICE de seis cargos por hacer declaraciones falsas al FBI sobre un tiroteo ocurrido en enero.",
+      "body": "TEXAS — El agente de ICE Christian Castro, de 52 años, se declaró inocente el 4 de septiembre en un tribunal federal de Texas de seis cargos por hacer declaraciones materialmente falsas al FBI sobre el tiroteo del 14 de enero contra el inmigrante venezolano Julio César Sosa-Celis en Minneapolis, según documentos judiciales federales revelados ese mismo día. Un gran jurado federal había emitido la acusación formal el 3 de septiembre, de acuerdo con CBS News.\n\nLos fiscales federales sostienen que Castro disparó un solo tiro a través de la puerta principal de un dúplex durante la Operación Metro Surge, un operativo de control migratorio focalizado en Minneapolis, e hirió a Sosa-Celis en la pierna. En ese momento había dos mujeres y dos niños de un año dentro de la unidad, dijeron los fiscales. Según se alega, Castro declaró a los investigadores que varios hombres lo habían golpeado con una escoba y una pala para nieve durante varios minutos y que disparó desde el suelo temiendo por su vida. Los fiscales federales afirman que las evidencias de video mostraron que Castro estaba de pie cuando disparó y que la pelea duró aproximadamente 11 segundos, no tres minutos, según la acusación formal.\n\nCNN informó que es la primera vez que el Departamento de Justicia acusa a un agente por conducta ocurrida en servicio durante sus operativos de control migratorio. El Departamento de Justicia dijo que continúa evaluando los hechos y no ha descartado cargos adicionales, según CBS Minnesota. Un juez ordenó la liberación de Castro bajo una fianza no garantizada de $75,000 con un monitor de tobillo.\n\nEn mayo, la fiscal del condado de Hennepin, Mary Moriarty, acusó por separado a Castro de cuatro cargos de agresión en segundo grado y un cargo de denuncia falsa de delito. El gobernador de Texas, Greg Abbott, se negó a extraditarlo, y un juez federal dictaminó la semana pasada que no tenía autoridad para intervenir en la disputa de extradición, según ABC News.\n\nEl abogado de Castro, David Lindenmuth, dijo que su cliente tiene la intención de combatir los cargos, cuenta con una historia de servicio público en el ejército y como agente federal, y merece tener su día en la corte antes de que el público se apresure a juzgarlo, según CBS Minnesota. La abogada de Sosa-Celis, Robin Wolpert, dijo a CNN que las declaraciones falsas de Castro fueron hechas para encubrir el hecho de haberle disparado a su cliente a través de la puerta de una casa ocupada sin justificación de defensa propia, y que el gobierno federal ha formulado cargos gravemente insuficientes en el caso.",
+      "perspectives": [
+        {
+          "who": "Abogado de Castro, David Lindenmuth",
+          "position": "Castro tiene la intención de combatir los cargos, cuenta con una historia de servicio público en el ejército y como agente federal, y merece tener su día en la corte antes de que el público se apresure a juzgarlo, según CBS Minnesota."
+        },
+        {
+          "who": "Abogada de Sosa-Celis, Robin Wolpert",
+          "position": "Las declaraciones falsas de Castro fueron hechas para encubrir el hecho de haberle disparado a su cliente a través de la puerta de una casa ocupada sin justificación de defensa propia, y el gobierno federal ha formulado cargos gravemente insuficientes en el caso, dijo Wolpert a CNN."
+        }
+      ]
+    },
+    "id": "2026-09-04-1n7wjli+kj89",
+    "section": "politics",
+    "rank": 4,
+    "writer": "vega",
+    "headline": "ICE officer Castro pleads not guilty to lying about Minneapolis shooting",
+    "dek": "A federal grand jury indicted the ICE officer on six counts of making false statements to the FBI about a January shooting in Minneapolis.",
+    "body": "TEXAS — ICE officer Christian Castro, 52, pleaded not guilty September 4 in Texas federal court to six counts of making materially false statements to the FBI about the January 14 shooting of Venezuelan immigrant Julio Cesar Sosa-Celis in Minneapolis, according to federal court documents unsealed that day. A federal grand jury had returned the indictment on September 3, according to CBS News.\n\nFederal prosecutors say Castro fired a single shot through the front door of an apartment duplex during Operation Metro Surge, a targeted immigration enforcement operation in Minneapolis, striking Sosa-Celis in the leg. Two women and two one-year-old children were inside the unit at the time, prosecutors said. Castro allegedly told investigators he had been beaten with a broom and a snow shovel by multiple men for several minutes and fired from the ground fearing for his life. Federal prosecutors say video evidence showed Castro was standing when he fired and that the struggle lasted approximately 11 seconds, not three minutes, according to the indictment.\n\nCNN reported this is the first time the Justice Department has charged an officer for conduct that occurred on duty during its immigration enforcement operations. The Justice Department said it continues to evaluate the facts and has not ruled out additional charges, according to CBS Minnesota. A judge ordered Castro released on a $75,000 unsecured bond with an ankle monitor.\n\nIn May, Hennepin County Attorney Mary Moriarty separately charged Castro with four counts of second-degree assault and one count of falsely reporting a crime. Texas Gov. Greg Abbott refused to extradite him, and a federal judge ruled last week it had no authority to intervene in the extradition dispute, according to ABC News.\n\nCastro's attorney, David Lindenmuth, said his client intends to fight the charges, has a history of public service in the military and as a federal officer, and deserves to have his day in court before the public rushes to judgment, according to CBS Minnesota. Sosa-Celis's attorney, Robin Wolpert, told CNN that Castro's false statements were made to cover up shooting her client through the door of an occupied house without self-defense justification, and that the federal government has grossly undercharged the case.",
+    "facts": "ICE officer Christian Castro, 52, pleaded not guilty on September 4 in Texas federal court to six counts of making materially false statements to the FBI about the January 14 shooting of Venezuelan immigrant Julio Cesar Sosa-Celis in Minneapolis, according to federal court documents unsealed that day. A federal grand jury had returned the indictment on Wednesday, September 3, according to CBS News. Federal prosecutors say Castro fired a single shot through the front door of an apartment duplex, striking Sosa-Celis in the leg; two women and two one-year-old children were inside at the time, prosecutors said. Castro allegedly told investigators he had been beaten with a broom and a snow shovel by multiple men for several minutes and fired from the ground fearing for his life, but federal prosecutors say video evidence showed he was standing when he fired and that the struggle lasted approximately 11 seconds, not three minutes, according to the indictment. The shooting occurred during Operation Metro Surge, a targeted immigration enforcement operation in Minneapolis, according to Fox News. A judge ordered Castro released on a $75,000 unsecured bond with an ankle monitor, according to multiple outlets. In May, Hennepin County Attorney Mary Moriarty separately charged Castro with four counts of second-degree assault and one count of falsely reporting a crime; Texas Gov. Greg Abbott refused to extradite him and a federal judge last week ruled it had no authority to intervene in the extradition dispute between the states, according to ABC News. The Justice Department said it continues to evaluate the facts and has not ruled out additional charges, according to CBS Minnesota. CNN reported this is the first time the Justice Department has charged an officer for conduct that occurred on duty during its immigration enforcement operations.",
+    "perspectives": [
+      {
+        "who": "Castro's attorney, David Lindenmuth",
+        "position": "Castro intends to fight the charges, has a history of public service in the military and as a federal officer, and deserves to have his day in court before the public rushes to judgment, according to CBS Minnesota."
+      },
+      {
+        "who": "Sosa-Celis's attorney, Robin Wolpert",
+        "position": "Castro's false statements were made to cover up shooting her client through the door of an occupied house without self-defense justification, and the federal government has grossly undercharged the case, Wolpert told CNN."
+      }
+    ],
+    "location": "Minneapolis",
+    "when": "Sep 4",
+    "sources": [
+      {
+        "outlet": "Fox News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlQ0Y0xGNUVXbWExTGNSLTk1ZFVxTnB0U3V3UDFfdHpoZkM0MkdNV3RhYUljRmdhTjdKdk1iZVBhUG1kYkJ2cVFEUTVJV3ZwbWNLUjlwd1MxOUpGaWlmMXRGVzdIR3V4OUxiTXl1LWkyTTNwUWNDUkNtRlh0QS1ab29mSk50NjVMUW1DU0N0TGh1VG5CeUlKNFlzaklRWjh5cEZ6MXJKZjh0Rk5L0gGyAUFVX3lxTE1DeUpYSDJFRDV5WldxMEszUEM3MEF3cWlYeUU4WUo3SUFwYTVsNFVNdjFRSzNzRU90a3Y1UDVyZ21xRjFqQVVFVEVqMnRqLTRYTnpHbmlPaENzYlpEUzQ4UllEbm85R0haRDRZVHIxUHpGSFFNdEoyRDVuRUZLSHFNUnk4WDUwS0o1Ui1SSFotSnUxQzZKMUlsZFA3aEpmRmUwc0Uwdmp5WWRFMlJEM3lvZ1E?oc=5",
+        "line": "right"
+      },
+      {
+        "outlet": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2lMZm5uVndPZHpxOURLNFNaRjBGOWx1YjRYM1JHand0NDNaUHZsZ1JWcFhoTDc2OVJfb28ydzdkcW5OdjhsZGJpVnNUci1qbjl0aEVyZTl6NWg5T1YzcDE5dzh5eE96WW93bmduR2h3OHh3U3lHOXlIM1BKYkxmN3U2ci1fek0zQTFuR2trVHUtZ2tNRF9QelJPaWJSdlZZSWVoUWJrZkd1Q0x5WDF1TU1rWTU?oc=5",
+        "line": "wire"
+      },
+      {
+        "outlet": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTGNteDNiQm95SlNad3gzNkM0TGE0WDIzdWtFZmlnQXM5NTctWENCUzAyLVNBSXBCVzA2R0piTUxzdVpfSlVSNUp3bUxyczNLZHh2eGE3SXY3cDJDeDgtaWFUOUEyeGVDTXN5aGYxNHZCVGlsZTRVRXR2TkROQWVJVTAyTTF4RWFxVHk5WF9Bd0VOYko0bXhmVnNKX1pSckhWUk5HSnNWQ1IwdHk2Q0VCdE85dlpYNWk1WHc?oc=5",
+        "line": "left"
+      }
+    ],
+    "published": 1788565653846
+  },
+  {
+    "es": {
       "headline": "Juez bloquea la segunda orden ejecutiva de Trump sobre ciudadanía por nacimiento",
       "dek": "Un juez federal en Maryland bloqueó la aplicación de la orden ejecutiva de agosto de 2026 del presidente Trump sobre ciudadanía por nacimiento, calificándola de casi con certeza inconstitucional.",
       "body": "Un juez de distrito federal emitió el martes una orden de interdicción preliminar que bloquea la aplicación de la orden ejecutiva del 6 de agosto de 2026 del presidente Trump sobre ciudadanía por nacimiento, resolviendo que la orden es \"casi con certeza inconstitucional\" a la luz de una reciente decisión de la Corte Suprema.\n\nLa jueza de distrito estadounidense Deborah Boardman, designada por Biden y con sede en Maryland, emitió el fallo en el caso CASA v. Trump, presentado por CASA Inc., una organización sin fines de lucro con sede en Maryland que atiende a inmigrantes, y otros demandantes relacionados. En una opinión de 35 páginas, Boardman escribió que la decisión del 30 de junio de 2026 de la Corte Suprema en Trump v. Barbara, que anuló la orden anterior de Trump de 2025 sobre ciudadanía por nacimiento, ya había establecido que los niños de la clase certificada son ciudadanos al nacer. Boardman escribió que el gobierno \"no puede alegar un interés legítimo\" en aplicar la orden de agosto en su contra.\n\nLa orden de agosto de 2026 de Trump instruyó a las agencias federales a no reconocer la ciudadanía de los niños nacidos en Estados Unidos si un padre es considerado un \"enemigo extranjero\", empleado de un gobierno extranjero, o si participa en lo que se denomina turismo de parto. Boardman escribió que esas excepciones \"tienen poco o ningún parecido con las 'excepciones limitadas' a la norma de ciudadanía por nacimiento reconocidas por la Corte Suprema en Barbara\".\n\nLa interdicción es parcial, según CNN y SCOTUSblog. Boardman está permitiendo que las agencias continúen trabajando en orientaciones de implementación mientras prohíbe su aplicación contra la clase certificada. Un segundo desafío legal a la orden de agosto está pendiente por separado en New Hampshire, según informó CNN.\n\nLa portavoz de la Casa Blanca, Lauren Bis, dijo que el fallo era \"obra de una jueza activista designada por Biden\" y señaló que la orden ejecutiva sobre ciudadanía por nacimiento es \"coherente con los fallos y el análisis establecidos por la Corte Suprema\".",
