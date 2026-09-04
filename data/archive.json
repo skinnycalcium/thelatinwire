@@ -1,6 +1,578 @@
 [
   {
     "es": {
+      "headline": "Burgum anuncia que la excavación del arco del triunfo comenzará en dos semanas",
+      "dek": "El secretario del Interior Doug Burgum dijo que la excavación de la estructura de 250 pies en Columbia Island comenzará en dos semanas, mientras sigue pendiente un desafío legal.",
+      "body": "WASHINGTON — El secretario del Interior Doug Burgum anunció el 3 de septiembre de 2026 que los trabajos de excavación para un propuesto Gran Arco del Triunfo y Mirador Militar comenzarían en dos semanas, según Fox News y CBS News.\n\nLa estructura, que tendría 250 pies de altura en Columbia Island, entre el Memorial Lincoln y el Cementerio Nacional de Arlington, estaría revestida de granito, coronada por tres estatuas doradas e incluiría una plataforma de observación, según informó CBS News. El Servicio de Parques Nacionales ha indicado que se espera que la construcción tome de dos a tres años con un intenso horario de 20 horas diarias durante todo el año, según CBS News. Burgum escribió en X que Washington, D.C., es la única gran capital occidental sin un arco y que después de 125 años de espera, el proyecto avanzará ahora.\n\nUn grupo de veteranos de la Guerra de Vietnam presentó una demanda pendiente para detener la construcción, argumentando que el proyecto carece de aprobación del Congreso y obstruiría las líneas de visión entre el Memorial Lincoln y el Cementerio Nacional de Arlington, según CNN y CBS News. El Departamento de Justicia pidió a un juez que desestimara la demanda, que sigue pendiente en un tribunal federal, reportó CBS News. El abogado de Public Citizen Nicolas Sansone, quien representa a los demandantes, le dijo a CNN que los demandantes están \"desconcertados\" sobre qué autoridad legal cree tener el gobierno para comenzar la construcción del arco.\n\nEl presidente Trump ha argumentado que no necesita la aprobación del Congreso para el proyecto. La administración ha citado un plan autorizado por el Congreso en 1925 para construir columnas cerca del sitio propuesto como fundamento de que no se requiere mayor supervisión legislativa, según CNN. El representante Don Beyer (D-Va.) dijo que los planes de excavación son \"claramente ilegales sin autorización del Congreso\", según GV Wire.\n\nCNN también informó que el proyecto no ha recibido aprobación de una comisión de planificación de D.C. y que no se ha completado una revisión de la FAA sobre el posible impacto en los vuelos.",
+      "perspectives": [
+        {
+          "who": "El secretario del Interior Doug Burgum (administración Trump)",
+          "position": "Burgum escribió en X que Washington, D.C., es la única gran capital occidental sin un arco y que después de 125 años de espera, el proyecto avanzará ahora."
+        },
+        {
+          "who": "El abogado de Public Citizen Nicolas Sansone, representando a los demandantes",
+          "position": "Sansone le dijo a CNN que los demandantes están 'desconcertados' sobre qué autoridad legal cree tener el gobierno para comenzar la construcción del arco."
+        }
+      ]
+    },
+    "id": "2026-09-04-18hce44+1xkf",
+    "section": "politics",
+    "rank": 2,
+    "writer": "vega",
+    "headline": "Burgum announces triumphal arch excavation to begin within two weeks",
+    "dek": "Interior Secretary Doug Burgum said excavation on the 250-foot structure on Columbia Island will start within two weeks, as a legal challenge remains pending.",
+    "body": "WASHINGTON — Interior Secretary Doug Burgum announced Sept. 3, 2026, that excavation work on a proposed Great Triumphal Arch and Military Observation Deck would begin within two weeks, according to Fox News and CBS News.\n\nThe structure, which would stand 250 feet tall on Columbia Island between the Lincoln Memorial and Arlington National Cemetery, would be clad in granite, topped by three golden statues, and include an observation deck, CBS News reported. The National Park Service has said construction is expected to take two to three years on an intense 20-hour-a-day, year-round schedule, per CBS News. Burgum wrote on X that Washington, D.C., is the only major Western capital without an arch and that after 125 years of waiting, the project will now move forward.\n\nA group of Vietnam War veterans has filed a pending lawsuit seeking to halt construction, arguing the project lacks congressional approval and would obstruct sight lines between the Lincoln Memorial and Arlington National Cemetery, according to CNN and CBS News. The Justice Department has asked a judge to dismiss the suit, which remains pending in federal court, CBS News reported. Public Citizen attorney Nicolas Sansone, who represents the plaintiffs, told CNN the plaintiffs are \"befuddled\" as to what legal authority the government believes it has to begin ground construction of the arch.\n\nPresident Trump has argued he does not need congressional approval for the project. The administration has cited a 1925 congressionally authorized plan to build columns near the proposed site as grounds that no further legislative oversight is required, per CNN. Rep. Don Beyer (D-Va.) said the excavation plans are \"plainly illegal without congressional authorization,\" according to GV Wire.\n\nCNN also reported that the project has not received approval from a D.C. planning commission and that an FAA review of potential flight impact has not been completed.",
+    "facts": "Interior Secretary Doug Burgum announced on September 3, 2026, that excavation work on the Great Triumphal Arch and Military Observation Deck would begin within two weeks. The proposed structure is 250 feet tall and would be located on Columbia Island, between the Lincoln Memorial and Arlington National Cemetery, according to Fox News and CBS News. CBS News reported that the arch would be clad in granite, topped by three golden statues, and include an observation deck. The National Park Service has said construction is expected to take two to three years on an intense 20-hour-a-day, year-round schedule, per CBS News. A group of Vietnam War veterans has filed a pending lawsuit to stop construction, arguing the project lacks congressional approval and would obstruct sight lines between the Lincoln Memorial and Arlington National Cemetery, according to CNN and CBS News. The Justice Department has asked a judge to dismiss the suit, which remains pending in federal court, CBS News reported. CNN reported that the project has also not received approval from a DC planning commission and that an FAA review of potential flight impact has not been completed. Trump has argued he does not need congressional approval, and the administration has cited a 1925 congressionally authorized plan to build columns near the proposed site as grounds that no further legislative oversight is required, per CNN. Rep. Don Beyer (D-Va.) stated the excavation plans are 'plainly illegal without congressional authorization,' according to GV Wire.",
+    "perspectives": [
+      {
+        "who": "Interior Secretary Doug Burgum (Trump administration)",
+        "position": "Burgum wrote on X that Washington, DC is the only major Western capital without an arch and that after 125 years of waiting, the project will now move forward."
+      },
+      {
+        "who": "Public Citizen attorney Nicolas Sansone, representing plaintiffs",
+        "position": "Sansone told CNN that the plaintiffs are 'befuddled' as to what legal authority the government believes it has to begin ground construction of the arch."
+      }
+    ],
+    "location": "Washington",
+    "when": "Sep 3",
+    "sources": [
+      {
+        "outlet": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZTRCMzBnMVlWYjlqZ0Q4alRRNmgtUXRBay1GdDQtdUs3Y2ZrTV9KNHZqYlQ2U1VwaXhBN1BFQm52cEZHQU8ycXVpNFY4UzJlcFUtZXA2d1M2ZERBY3BJajRWb1JSWW1waWpVM2pkcmlxNjhNWHdGR3puZ25jdXdwRl9jNG1uMmswNXBsT1VUM2ppczR4U1Y2ZlhyVkltZWJWN0tMeHFkdUVDRzg?oc=5",
+        "line": "left"
+      },
+      {
+        "outlet": "New York Post",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRE1WblpLS3c1TkZ6MFpIT0FxenV2TDJKOFNIMVp2VjAyZFN2SDVSSDJxN2VyeWl1eHRMN0dDOXJGc3ZhRjNQWVIwZjk0dTlIdXJRSGxEclh0RXdQZTFUZEx1SmpteUt3TWJTb1UtUEZMWmg2VVY4c211clQ5UU9ic3NQVlpuRVl1SlEta1hzTGIwc0JRM1p0bkowbUNRWjhtOGRpbWZpZXdIekh3d1RtVHotUG9WQnJCT0N4dDVB?oc=5",
+        "line": "right"
+      },
+      {
+        "outlet": "Fox News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1R2Wm1xOHZsbVQ5MUdxdHN0RENaT1ZpR0dDbG9ONDhqMUJ6YmpOTTZGQ3FTZXFnbk1oejZ4dUZuZ2U5M3NtYXlYNUFwb1lxU0tDU1VnTk8tUmhaM1pVQVVzSUZqbEozM0dQQWRzYWpDMmdXUDdNdUNCcWY2N0VqQm9BTmhnMkRXOElaWG90SXRuVktSX3hUOFJxbHl6SjkyaDdmTEJKTEh3NUtLaDRKVGN30gG3AUFVX3lxTE1nYjhxZWEzZ0VyTmxQY3hsb3VOYVJWV2JGVmtud3hWTWoycUx4c2NuclZObTdGaUVNck1YbzhZQk5sTTlObk5EOXdySGxkVWdJVEhCUkhfbC1VbTNFODhhQkp3cnhiWC1McDJzTWZJUmFhbDJYSzZVTS03bnZVRFJZVU5GbjQ5Y3lCNG01M1Rob04yeU1FM2VBdEx5R0pqbF92MkY2Sm04MTRkeTZSOHR0WHBCMWtHZw?oc=5",
+        "line": "right"
+      },
+      {
+        "outlet": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iU3ZoejE4ek9MSDcwYWdpNkprOS1lTTZUMHhQNmhkWVhySGpiaGZ6eHFZeDBGZkltZFRLOEtGSUk1M3dreWszU00tbGJWaDY0MkUybmI3dmoyU1pkNGpOY1F0ZTV0bGxjQV9wS25VNTctM2ZzckdEVQ?oc=5",
+        "line": "left"
+      }
+    ],
+    "published": 1788498074212
+  },
+  {
+    "es": {
+      "headline": "Las cámaras de Flock Safety se convierten en tema de las elecciones intermedias de 2026",
+      "dek": "Candidatos en Wisconsin, Pensilvania, Míchigan y Florida se han pronunciado en contra de los lectores de placas impulsados por inteligencia artificial, mientras que funcionarios de seguridad defienden la tecnología.",
+      "body": "Las cámaras de Flock Safety —una red impulsada por inteligencia artificial que registra placas de vehículos y otras características y permite a las agencias policiales buscar y compartir esos datos, según describió Associated Press— han surgido como tema de campaña en las elecciones intermedias de 2026, generando oposición entre candidatos de ambos partidos.\n\nAP reporta que candidatos a gobernador en Wisconsin han buscado limitar las cámaras, candidatos a gobernador en Pensilvania han respaldado una prohibición, un candidato al Congreso en Míchigan las ha calificado de \"antiestadounidenses\", y un candidato al Senado por Florida ha vendido mercancía en su contra. Flock Safety ha dicho que sus cámaras operan en 6,000 comunidades en todos los estados excepto Alaska, según AP.\n\nEl gobernador demócrata de Rhode Island, Dan McKee, pausó la instalación de nuevas cámaras semanas antes de las primarias estatales del 9 de septiembre, citando preocupaciones de privacidad y transparencia, según informó AP. El presidente Donald Trump dijo en un reciente evento en la Oficina Oval que su administración estaba estudiando el asunto y tendría más que decir pronto, según AP.\n\nUna portavoz de Flock Safety, en respuesta a preguntas sobre las cámaras como tema de campaña, dijo que la tecnología había ayudado a \"resolver aproximadamente un millón de crímenes y a reunir a roughly 10,000 personas desaparecidas con sus familias\", según AP. Mitchell Davis III, jefe de policía en Hazel Crest, Illinois, y presidente de la Organización Nacional de Ejecutivos Negros del Orden Público, dijo en una entrevista que la tecnología de Flock es \"invaluable\" y que las conversaciones a su alrededor se han vuelto \"perturbadoras\", según AP.\n\nMichael Soyfer, abogado del Instituto para la Justicia, un bufete de interés público que litiga sobre la tecnología, dijo en un comunicado que los candidatos que abogan por prohibir, retirar fondos o exigir órdenes judiciales para las cámaras reflejan el trabajo de activistas, según AP.",
+      "perspectives": [
+        {
+          "who": "Flock Safety (portavoz de la compañía)",
+          "position": "La tecnología ha ayudado a resolver aproximadamente un millón de crímenes y a reunir a roughly 10,000 personas desaparecidas con sus familias."
+        },
+        {
+          "who": "Críticos y candidatos opositores (según AP)",
+          "position": "La omnipresencia de las cámaras equivale a una vigilancia masiva inconstitucional sin orden judicial y deberían prohibirse, quedarse sin fondos o someterse a requisitos de orden judicial."
+        }
+      ]
+    },
+    "id": "2026-09-04-1799ogf+u39j",
+    "section": "politics",
+    "rank": 5,
+    "writer": "vega",
+    "headline": "Flock Safety cameras emerge as issue in 2026 midterm races",
+    "dek": "Candidates in Wisconsin, Pennsylvania, Michigan, and Florida have moved against AI-powered license plate readers, while law enforcement officials defend the technology.",
+    "body": "Flock Safety cameras — an AI-powered network that records license plates and other vehicle characteristics and allows law enforcement agencies to search and share that data, as described by the Associated Press — have emerged as a campaign issue in the 2026 midterm elections, drawing opposition from candidates in both parties.\n\nAP reports that Wisconsin gubernatorial candidates have sought to limit the cameras, Pennsylvania gubernatorial candidates have supported a ban, a Michigan congressional candidate has called them \"un-American,\" and a Florida Senate candidate has sold merchandise opposing them. Flock Safety has said its cameras operate in 6,000 communities in every state except Alaska, according to AP.\n\nRhode Island Democratic Gov. Dan McKee paused installation of new cameras weeks before the state's Sept. 9 primary, citing privacy and transparency concerns, AP reported. President Donald Trump said at a recent Oval Office event that his administration was studying the issue and would have more to say soon, per AP.\n\nA Flock Safety spokeswoman, responding to questions about the cameras as a campaign theme, said the technology had helped \"solve approximately one million crimes and helped reunite roughly 10,000 missing people with their families,\" according to AP. Mitchell Davis III, chief of police in Hazel Crest, Illinois, and president of the National Organization of Black Law Enforcement Executives, said in an interview that Flock's technology is \"invaluable\" and that conversations around it have become \"disturbing,\" per AP.\n\nMichael Soyfer, an attorney for the Institute for Justice, a public interest law firm litigating over the technology, said in a statement that candidates running on banning, defunding, or requiring warrants for the cameras reflected the work of activists, per AP.",
+    "facts": "Flock Safety cameras, described by AP as an AI-powered network that records license plates and other vehicle characteristics and allows law enforcement agencies to search and share that data, have become a campaign issue in the 2026 midterm elections. Flock Safety has said its cameras are running in 6,000 communities in every state but Alaska, according to AP. AP reports that candidates from both parties have attacked the cameras, with Wisconsin gubernatorial candidates seeking to limit them, Pennsylvania gubernatorial candidates supporting a ban, a Michigan congressional candidate calling them \"un-American,\" and a Florida Senate candidate selling merchandise opposing them. Rhode Island Democratic Gov. Dan McKee paused installation of new cameras weeks before the state's Sept. 9 primary, citing privacy and transparency concerns, according to AP. President Donald Trump said at a recent Oval Office event that his administration was studying the issue and would have more to say soon, per AP. A Flock spokeswoman, responding to questions about the cameras as a campaign theme, said the technology helped \"solve approximately one million crimes and helped reunite roughly 10,000 missing people with their families,\" according to AP. Michael Soyfer, an attorney for the Institute for Justice, a public interest law firm litigating over the technology, said in a statement that candidates running on banning, defunding, or requiring warrants for the cameras reflected the work of activists, per AP. Mitchell Davis III, chief of police in Hazel Crest, Illinois, and president of the National Organization of Black Law Enforcement Executives, said in an interview that Flock's technology is \"invaluable\" and that conversations around it have become \"disturbing,\" per AP.",
+    "perspectives": [
+      {
+        "who": "Flock Safety (company spokeswoman)",
+        "position": "The technology has helped solve approximately one million crimes and reunite roughly 10,000 missing people with their families."
+      },
+      {
+        "who": "Critics and opposing candidates (per AP)",
+        "position": "The cameras' pervasiveness amounts to unconstitutional warrantless mass surveillance and should be banned, defunded, or subjected to warrant requirements."
+      }
+    ],
+    "location": "United States",
+    "when": "Sep 4",
+    "sources": [
+      {
+        "outlet": "myMotherLode.com",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQ2NnaXdVVXNPQklhbW8tRnJ4RDJmRm9MT3RUb3VCTEZ6Y3hEZVFXbGM3aDNUQ2NPOWFaWjBsYmozZHhwalN4bEppenlyMkxTY1E5YnVlaGpuREtkcl9SaVBncEtGc1gwNXRxSTR4cUNIOHdhTWg3THJXcHRUSzdNTzBDZC1LeTQ4TDFuM1NmRjVDMmowektjbXY1Sk9hTXJSV1dLRm54dzZEQ0NCckxvdnB3SHNKU3VrVURhb1h1cF9qbXduUHZ2bFExb292S1FFNldUTjRzTnBvdnlQbHNWZDVzWnlsUjlGMzF5ZGx0X1JOQjcyNHRqRXh30gH_AUFVX3lxTE5oOVoxSXdsM2dwdHJ4QnRJTXBsY3lwUlhDMW5HNW9KcVZkQ3VBbWtRdVRDOHd3QkF0SEJNanQ2bUg2QzlDaldRTzNFdlN6WEZGbW1KaGQtdUZFak4xWkhaMW94ZWVlLURhN0M3Q3BmQ2xKNmFxdWVsZGhVaHN1MVc4cl9qcjBxRU9FR1luSmhfRTFvbFB5U1piMlFfT2M1bjBHSTNKcDhmaVVQajFoaUM5cXNpUkNYcGI3Q2tXU2phOXR1V2hHU3FXaFBFQ1hyRktaQ1VkTDdNZWszUzlacEczVl9SRDZ1N3BOOUQ2MFNCVHc2YWZLeWdULVJwS0FBaw?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjlKalZBeEdFN1pPZ2R1UC1fTnFpU2h1TXJSd1ZMbmplT3ROa1pyZXFqOWRDTmIzTldQejRhaEZNdklFZEFtUDZwUVBZNDhJUUtTM3ZEOEQwX0JXUkI2eDBKME52dHVtenJlTjNwdzR1dHpYODdVOElIa19IUWNmVndxZDltRE9wYVUwcGgyUmhoODV0bm9mSHRwcnlhYzl0Qk5scGNSelUxQ1FfcXBKMTBrQQ?oc=5",
+        "line": "wire"
+      }
+    ],
+    "published": 1788498074212
+  },
+  {
+    "es": {
+      "headline": "Las exportaciones tecnológicas de México superan al sector automotor y alcanzan un récord de $125 mil millones",
+      "dek": "Datos de UBS y del gobierno de EE.UU. muestran que los envíos tecnológicos de México hacia Estados Unidos batieron récords en 2026, superando al sector automotriz.",
+      "body": "México exportó $125.4 mil millones en productos de alta tecnología hacia Estados Unidos en los primeros siete meses de 2026, un salto del 57.52% frente al mismo período del año anterior, según datos de la Oficina de Análisis Económico de EE.UU. citados por El CEO. Solo en julio, los envíos alcanzaron $27.1 mil millones —un récord mensual y una tasa de crecimiento anual del 108.72%.\n\nAl ampliar la perspectiva, las cifras son aún más grandes. Un informe de UBS Global Research publicado el 3 de septiembre de 2026 sitúa las exportaciones tecnológicas totales de México en más de $163 mil millones durante los últimos doce meses, un aumento del 148% que ya supera al sector exportador de transporte del país en su totalidad, incluidos los automóviles. El superávit comercial tecnológico superó los $20 mil millones en los últimos dieciocho meses, y UBS estima que la mejora de aproximadamente $23 mil millones en la balanza comercial tecnológica de México equivale a alrededor del 0.7% del PIB en términos anualizados.\n\nEl motor es el gasto estadounidense en inteligencia artificial. Las empresas americanas están invirtiendo masivamente en infraestructura de IA, y México se ha posicionado como un ensamblador y exportador clave de tarjetas de cómputo y servidores. UBS ubica a México en segundo lugar, solo detrás de Taiwán, en la captación de participación de mercado dentro de las importaciones estadounidenses de computadoras y electrónica.\n\nJalisco es el epicentro. El estado, conocido desde hace tiempo como el Silicon Valley de México, es el principal hub de exportación. Foxconn ensambla racks de servidores de IA ahí como socio estratégico de Nvidia.\n\nUBS añade una advertencia contundente: más del 95% de los insumos para computadoras y electrónica proviene del extranjero, en comparación con aproximadamente el 71% en el sector automotriz. México está en gran medida reensamblando componentes importados, y UBS señala que la ganancia de participación de mercado refleja un cambio en la composición de la demanda estadounidense más que un salto más amplio en competitividad. La pregunta sobre la cadena de suministro —cuánto valor doméstico captura México— sigue sin resolverse.",
+      "perspectives": [
+        {
+          "who": "UBS Global Research",
+          "position": "Las exportaciones tecnológicas de México superan los $163 mil millones en los últimos doce meses, con un alza del 148%, pero más del 95% de los insumos proviene del exterior, lo que indica que el país ensambla componentes importados más que generar valor doméstico propio."
+        },
+        {
+          "who": "Oficina de Análisis Económico de EE.UU., citada por El CEO",
+          "position": "Los envíos tecnológicos de México a Estados Unidos alcanzaron $125.4 mil millones en los primeros siete meses de 2026, con un crecimiento del 57.52% interanual y un récord mensual de $27.1 mil millones solo en julio."
+        }
+      ]
+    },
+    "id": "2026-09-04-11vn9qd+g586",
+    "section": "business",
+    "rank": 2,
+    "writer": "calderon",
+    "headline": "Mexico's tech exports surpass transport sector, reach record $125B",
+    "dek": "UBS and U.S. government data show Mexico's tech shipments to the United States hit records in 2026, overtaking the auto sector.",
+    "body": "Mexico exported $125.4 billion in advanced-technology products to the United States in the first seven months of 2026, a 57.52% jump from the same period a year earlier, according to U.S. Bureau of Economic Analysis data cited by El CEO. In July alone, shipments hit $27.1 billion — a single-month record and a 108.72% annual growth rate.\n\nZoom out and the numbers get bigger. A UBS Global Research report released September 3, 2026 puts Mexico's total technology exports at more than $163 billion over the past twelve months, a 148% surge that now exceeds the country's entire transportation export sector, automobiles included. The technology trade surplus topped $20 billion over the past eighteen months, and UBS estimates the roughly $23 billion improvement in Mexico's tech trade balance equals about 0.7% of GDP on an annualized basis.\n\nThe driver is U.S. artificial intelligence spending. American companies are pouring money into AI infrastructure, and Mexico has stepped in as a key assembler and exporter of computing boards and servers. UBS ranks Mexico second only to Taiwan in gaining market share within U.S. imports of computers and electronics.\n\nJalisco is the center of gravity. The state, long called Mexico's Silicon Valley, is the leading export hub. Foxconn assembles AI server racks there as a strategic partner of Nvidia.\n\nUBS adds a sharp caveat: more than 95% of inputs for computers and electronics come from abroad, compared with roughly 71% for the auto sector. Mexico is largely reassembling imported components, and UBS says the market-share gain reflects a shift in U.S. demand composition rather than a broader competitiveness leap. The supply chain question — how much domestic value Mexico captures — remains open.",
+    "facts": "A UBS Global Research report released September 3, 2026 found that Mexico's technology exports grew 148% over the past year, surpassing $163 billion in the twelve-month period, which now exceeds the country's total transportation exports, including automobiles. UBS attributes part of the surge to the boom in U.S. investment in artificial intelligence and Mexico's role as an assembler and exporter of computing boards and servers. Separately, data from the U.S. Bureau of Economic Analysis cited by El CEO shows that Mexico exported a record $125.396 billion in advanced-technology products to the United States in the January–July 2026 period, a 57.52% year-over-year increase. In July 2026 alone, Mexico exported $27.061 billion in tech manufacturing to the U.S., a record for a single month and a 108.72% annual growth rate. Mexico ranked second only to Taiwan in gaining market share within U.S. imports of computers and electronics, though UBS notes the Mexican advance reflects a shift in U.S. demand composition rather than a competitiveness gain. The technology trade surplus exceeded $20 billion over the past eighteen months, and UBS estimates the roughly $23 billion improvement in Mexico's technology trade balance over 18 months equates to about 0.7% of GDP on an annualized basis. UBS cautions that more than 95% of inputs for computers and electronics come from abroad, compared with about 71% for the auto sector, meaning Mexico still operates largely as a reassembler of imported components. Jalisco, known as Mexico's Silicon Valley, is the leading export hub, with companies such as Foxconn assembling AI server racks there as a strategic partner of Nvidia.",
+    "perspectives": [],
+    "location": "Mexico",
+    "when": "Sep 3",
+    "sources": [
+      {
+        "outlet": "Forbes México",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUdxdkViZ2owTkdmZ2l2NXBKZnlZVjhhd0ZQLUdZdWdUOGRDS0hpbi14TGZCNFp5d1pYdHNTdzBFN1FVeHNlbTdpeF9jbnBYMWFYbmREblFLbXJsQ1lvQUVmOElsWDE0MGJwb1VDblJzNEZIdU9ESEhrMm1YNmpicnFnSEI2MzRUYWdISS1B?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "EL CEO",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVEdYcS11eFRyOWo1aTNlOC1HUndMRkVrcUVhQUFGWE5PTENVdkphcW1pVnFrNXN2UFhJNUxiYlBpdHZ1UjlMTzhkVlNiVVkxRzVhTWVGSnJQYktjbmIwUW41TVJkZFRCZGx3SlVfT2VWVEk4M2lzRUZpbTZOSE96YVVsb3NQTWd5cXFvbVZraW93MmpPeEZXWDVZUkQ5UmFRSzRFeGVwZFRFNkxPZ2NLb0hxbGplTG8?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788498074212
+  },
+  {
+    "es": {
+      "headline": "Fox News se separa de la presentadora Maria Bartiromo tras 12 años",
+      "dek": "Fox News anunció la salida inmediata de la presentadora Maria Bartiromo el 3 de septiembre de 2026, después de más de 12 años, citando una decisión de negocios.",
+      "body": "Fox News Media anunció el 3 de septiembre de 2026 que la presentadora Maria Bartiromo dejaba la cadena con efecto inmediato, sin despedida en pantalla. La cadena emitió un breve comunicado: \"Agradecemos a Maria su trabajo durante los últimos 12 años y medio y le deseamos lo mejor en su próximo capítulo.\" Un portavoz de Fox describió la salida ante Status como una \"decisión de negocios\", sin ofrecer mayor explicación.\n\nCNN, citando una fuente familiarizada con el asunto, informó que la directiva de Fox decidió apartar a Bartiromo en agosto. El detonante inmediato, según esa fuente, fue que Bartiromo reveló orientaciones internas confidenciales a la Casa Blanca de Trump, lo que la dirección de Fox consideró una violación de su contrato de trabajo. Según reportes de Status y Puck, citados por CNN y el Washington Examiner, Bartiromo había buscado cubrir afirmaciones sobre el papel de China en las elecciones de 2020, un ejecutivo de Fox ordenó al personal no difundir esas afirmaciones, y Bartiromo luego le mostró a un funcionario de la Casa Blanca un texto de esa directiva interna. El productor ejecutivo de \"Mornings with Maria\", Patrick Ignozzi, también fue destituido el mismo día, según informaron CNN y Mediaite.\n\nLos tres programas de Bartiromo — \"Mornings with Maria\", \"Maria Bartiromo's Wall Street\" y \"Sunday Morning Futures\" — están siendo reformulados. Jason Chaffetz ocupará temporalmente el espacio del domingo, según Newsweek.\n\nBartiromo sigue siendo demandada en la causa por difamación en curso de Smartmatic contra Fox News, valuada en $2.7 mil millones. Fox llegó previamente a un acuerdo en una demanda por difamación separada presentada por Dominion Voting Systems por $787.5 millones en abril de 2023, según informó el Washington Examiner.\n\nEl presidente Trump publicó en Truth Social el jueves por la noche que \"no puede creer\" que Bartiromo se vaya, la llamó \"una total profesional y una verdadera guerrera\", y dijo que sus fans \"no estarán contentos\", según Mediaite. Variety informó que Bartiromo no se fue para ocupar un cargo en la administración Trump; el vicepresidente JD Vance dijo a los periodistas que no creía que ella se dirigiera a la Casa Blanca.",
+      "perspectives": [
+        {
+          "who": "Fox News Media",
+          "position": "Fox calificó la salida como una \"decisión de negocios\" y agradeció a Bartiromo sus 12 años y medio de trabajo, sin ofrecer mayor explicación."
+        },
+        {
+          "who": "El presidente Donald Trump",
+          "position": "Trump dijo en Truth Social que \"no puede creer\" que Bartiromo se vaya, elogió sus programas como \"siempre número uno\" y advirtió que sus fans \"no estarán contentos\"."
+        }
+      ]
+    },
+    "id": "2026-09-04-15tjje8+1rcy",
+    "section": "politics",
+    "rank": 4,
+    "writer": "vega",
+    "headline": "Fox News parts ways with anchor Maria Bartiromo after 12 years",
+    "dek": "Fox News announced the immediate departure of anchor Maria Bartiromo on September 3, 2026, after more than 12 years, citing a business decision.",
+    "body": "Fox News Media announced September 3, 2026, that anchor Maria Bartiromo was leaving the network effective immediately, with no on-air farewell. The network issued a brief statement: \"We thank Maria for her work over the last 12½ years and wish her all the best on her next chapter.\" A Fox spokesperson characterized the departure to Status as a \"business decision,\" offering no further explanation.\n\nCNN, citing a source familiar with the matter, reported that Fox leadership decided to remove Bartiromo in August. The immediate impetus, according to that source, involved Bartiromo's disclosure of confidential internal guidance to the Trump White House, which Fox management deemed a violation of her employment agreement. According to reporting by Status and Puck, cited by CNN and the Washington Examiner, Bartiromo had sought to cover claims about China's role in the 2020 election, a Fox executive directed staff not to air those claims, and Bartiromo then showed a White House official a text of that internal directive. The executive producer of \"Mornings with Maria,\" Patrick Ignozzi, was also ousted the same day, CNN and Mediaite reported.\n\nBartiromo's three programs — \"Mornings with Maria,\" \"Maria Bartiromo's Wall Street,\" and \"Sunday Morning Futures\" — are being rebranded. Jason Chaffetz will temporarily fill the Sunday slot, per Newsweek.\n\nBartiromo remains a named defendant in Smartmatic's ongoing $2.7 billion defamation lawsuit against Fox News. Fox previously settled a separate defamation suit brought by Dominion Voting Systems for $787.5 million in April 2023, the Washington Examiner reported.\n\nPresident Trump posted on Truth Social Thursday night that he \"can't believe\" Bartiromo is leaving, called her \"a total professional, and a true warrior,\" and said her fans \"will not be happy,\" per Mediaite. Variety reported Bartiromo did not leave for a role in the Trump administration; Vice President JD Vance told reporters he did not believe she was headed to the White House.",
+    "facts": "Fox News Media announced on September 3, 2026, that anchor Maria Bartiromo was leaving the network effective immediately, after more than 12 years, with no on-air farewell. Fox issued a brief statement saying, \"We thank Maria for her work over the last 12½ years and wish her all the best on her next chapter,\" and characterized the departure to Status as a \"business decision,\" per Mediaite. CNN reported, citing a source familiar with the matter, that Fox leadership decided to remove Bartiromo in August and that the immediate impetus involved her disclosure of confidential internal guidance to the Trump White House; the source said Fox management deemed this a violation of her employment agreement. According to Status and Puck, as reported by CNN and the Washington Examiner, Bartiromo wanted to cover claims about China's role in the 2020 election, a Fox executive directed staff not to air those claims, and Bartiromo then showed a White House official a text of that internal directive. The executive producer of \"Mornings with Maria,\" Patrick Ignozzi, was also ousted the same day, CNN and Mediaite reported. Bartiromo's three shows—\"Mornings with Maria,\" \"Maria Bartiromo's Wall Street,\" and \"Sunday Morning Futures\"—are being rebranded; Jason Chaffetz will temporarily fill the Sunday slot, per Newsweek. Bartiromo is named in Smartmatic's ongoing $2.7 billion defamation lawsuit against Fox News, and Fox previously settled with Dominion Voting Systems for $787.5 million in April 2023, per the Washington Examiner. President Trump posted on Truth Social Thursday night that he could not believe Bartiromo was leaving, called her \"a total professional, and a true warrior,\" and said her fans \"will not be happy,\" per Mediaite. Variety reported, as cited by Mediaite, that Bartiromo did not leave for a job in the Trump administration; Vice President JD Vance told reporters he did not believe she was headed to the White House.",
+    "perspectives": [
+      {
+        "who": "Fox News Media",
+        "position": "Fox called the departure a \"business decision\" and thanked Bartiromo for her 12½ years of work, offering no further explanation."
+      },
+      {
+        "who": "President Donald Trump",
+        "position": "Trump said on Truth Social that he \"can't believe\" Bartiromo is leaving, praised her shows as \"always number one,\" and warned that her fans \"will not be happy.\""
+      }
+    ],
+    "location": "New York",
+    "when": "Sep 3",
+    "sources": [
+      {
+        "outlet": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU082eGw2eG9WWVpVZkUydVBGOU1nQjBRNXFfNF9PU2cxRWg5ODduTF9lc2RHUV9pQTdadG5Ga084bmxKZUttSDRoYXpzNjZ3V1pIMW1tQjFZaWM3LVE2c1BlWkN6b3lFTFlVTFhZY3RzQUl3d3NtcnlsT2tuQktqNTctczJrREp0aVdROGZKeVRFcEpwbnNvNFVyN3dCLTlxSGhtM2dGU3JKZGc?oc=5",
+        "line": "left"
+      },
+      {
+        "outlet": "Washington Examiner",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQODNKd0pSVWVodm5mS2IwXzFvZ2hVRjZJQ1hOajNLOXBPMjFYeGdZa3dJeTRaQWtrc254N2pnQzJnNGZwNjZsdEF4bENDR3VrS3BWQXVCUEVCd2lGbzJZVFBYclplT1dnYnlpNEd1bmhhNl80Rk1BTUZkMDd2aXlsNEp4ZE1fQ0RWY2pQTEczUzVZZktPTmFVdFJKV2s?oc=5",
+        "line": "right"
+      },
+      {
+        "outlet": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CRFM5Z2ZueFg3VlhyZ0F0QWZsNTJETjExZHBxQUlPVUx1c0hfRzRHaktpWXBXN25uT3BKc2dGOVgzMXdFTHAtbUFYWmk2MFJBTWRqdjhtTkRfek1FZUVObHpZbEJocGVvZExndmNGQUhzV2dHTlZWVlN3?oc=5",
+        "line": "left"
+      }
+    ],
+    "published": 1788498074212
+  },
+  {
+    "es": {
+      "headline": "El partido Cruz Azul vs. Santos Laguna se adelanta tres horas",
+      "dek": "La Liga MX adelantó tres horas el inicio del partido Cruz Azul–Santos Laguna para evitar un choque con la final de la Leagues Cup el 6 de septiembre.",
+      "body": "Tres horas. Así de anticipado arrancará ahora el partido entre Cruz Azul y Santos Laguna el domingo 6 de septiembre. La Liga MX anunció el 4 de septiembre de 2026 que el partido de la Jornada 7 del Apertura 2026 se mueve de las 20:00 a las 17:00 horas, tiempo del centro de México. La sede se mantiene: el Estadio Banorte en la Ciudad de México.\n\nEl motivo del cambio es la final de la Leagues Cup. Toluca enfrenta a Monterrey (Rayados) a las 19:15 horas ese mismo domingo, y mantener el partido Cruz Azul–Santos a las 20:00 habría hecho coincidir ambos juegos. Al mover el inicio de la Liga MX a las 17:00, los aficionados pueden seguir toda la acción sin tener que elegir entre un partido y el otro.\n\nEl calendario queda bien ordenado. El partido por el tercer lugar de la Leagues Cup entre América y León se juega a las 16:00, el Cruz Azul–Santos sigue a las 17:00, y la final Toluca–Monterrey arranca a las 19:15. Los televidentes con acceso a Canal 5, TUDN o ViX Premium pueden ver toda la cartelera del domingo.\n\nEn la cancha, Cruz Azul llega en el décimo lugar con nueve puntos — tres victorias y tres derrotas en seis partidos. El técnico Joel Huiqui necesita un resultado para escalar posiciones antes de que la tabla se apriete.\n\nSantos Laguna está en el último lugar, todavía sin una victoria. Su mejor actuación en el Apertura 2026 es un empate 0–0 ante Tigres UANL. El inicio más temprano del domingo no les da tiempo extra de preparación — solo una espera más corta antes de intentar romper su racha sin victorias frente a un Cruz Azul que busca subir en la clasificación.",
+      "perspectives": [
+        {
+          "who": "Liga MX",
+          "position": "Anunció el cambio de horario el 4 de septiembre de 2026, adelantando el partido de las 20:00 a las 17:00 horas para evitar el traslape con la final de la Leagues Cup entre Toluca y Monterrey."
+        },
+        {
+          "who": "Cruz Azul",
+          "position": "Llega al partido en décimo lugar con nueve puntos y necesita una victoria para mejorar su posición en la tabla del Apertura 2026."
+        },
+        {
+          "who": "Santos Laguna",
+          "position": "Ocupa el último lugar sin ninguna victoria en el Apertura 2026, con un empate 0–0 ante Tigres UANL como su mejor resultado, y busca romper su racha negativa."
+        }
+      ]
+    },
+    "id": "2026-09-04-csvqhy+y2jdj",
+    "section": "sports",
+    "rank": 3,
+    "writer": "calderon",
+    "headline": "Cruz Azul vs. Santos Laguna kickoff moved three hours earlier",
+    "dek": "Liga MX moved the Cruz Azul–Santos Laguna kickoff three hours earlier to avoid a clash with the Leagues Cup final on September 6.",
+    "body": "Three hours. That is how much earlier Cruz Azul and Santos Laguna will now kick off on Sunday, September 6. Liga MX announced on September 4, 2026 that the Jornada 7 Apertura 2026 match shifts from 20:00 to 17:00 hours, Central Mexico time. The venue stays the same: Estadio Banorte in Mexico City.\n\nThe driver behind the change is the Leagues Cup final. Toluca face Monterrey (Rayados) at 19:15 hours that same Sunday, and keeping the Cruz Azul–Santos match at 20:00 would have put both games on at the same time. By moving the Liga MX kickoff to 17:00, fans can follow all the action without choosing one match over the other.\n\nThe schedule now lines up cleanly. The Leagues Cup third-place match between América and León goes at 16:00, the Cruz Azul–Santos game follows at 17:00, and the Toluca–Monterrey final starts at 19:15. Viewers with access to Canal 5, TUDN, or ViX Premium can watch the full Sunday card.\n\nOn the field, Cruz Azul arrive in tenth place with nine points — three wins and three losses from six matches. Coach Joel Huiqui needs a result to climb the table before the standings tighten.\n\nSantos Laguna sit at the bottom, still without a victory. Their best showing in the Apertura 2026 is a 0–0 draw against Tigres UANL. Sunday's earlier kickoff gives them no extra preparation time — just a shorter wait before they try to end a winless run against a Cruz Azul side looking to move up.",
+    "facts": "Liga MX announced on September 4, 2026 that the Jornada 7 Apertura 2026 match between Cruz Azul and Santos Laguna, originally scheduled for 20:00 hours (Central Mexico time) on Sunday, September 6, will now kick off at 17:00 hours on the same day. The venue, Estadio Banorte in Mexico City, remains unchanged. The rescheduling is widely attributed to the Leagues Cup final between Toluca and Monterrey (Rayados), set for 19:15 hours that same Sunday, which would have overlapped with the Liga MX match. The time change also allows fans to watch both matches without a scheduling conflict, as the third-place Leagues Cup match between América and León is set for 16:00 hours. The match will be broadcast on Canal 5, TUDN, and ViX Premium. Cruz Azul, managed by Joel Huiqui, enters the match in tenth place with nine points from three wins and three losses. Santos Laguna sit at the bottom of the standings, still without a win; their best result so far in the Apertura 2026 is a scoreless draw against Tigres UANL.",
+    "perspectives": [],
+    "location": "Mexico City",
+    "when": "Sep 6",
+    "sources": [
+      {
+        "outlet": "Reporte Indigo",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWIxLTg2RlJsWGdIMnVsdXBSUTZSSmNtbTF5SUJaZmFRaHVKdFl4M2V6Y19MRWwwZGVPR2hiZXpHRWlENWlZcDVIbm41RFVwcmVROUlJcWlqelhHYlprdnR4RjZXa1ZQSHV1WkZienMzY2NILUtZQl9rZnJfckkxVUM0QlRBdXBqSDFzT3pmSUY1RVJJUWp6bW5OZWhZZi1ZWi05U1IwNzhsSjB4VGw4OFN4dmpaMlhLSGVvWDQ0RHdpTzlNZ2Vxc1hR0gHPAUFVX3lxTE5uX3J6ZzlZcTBjUWlXLUxhZkNhd050SUZ6dDNqNFlJTjFNazhtZDgxT0d3STdERUFTdVFwRWJFUFNkLTdEVGZVRGVxUG9aNi1EN1pVNHlzOTBCMzA3M0JDd3B4LTE5OUVnTm1BNjNudmxEbFhvM1doTHc4ZlZOS0xKSWpnbV9qckQ5MnZhNVhWLTRHTEtzU0szVDJMTEZNckx1ekVQZ3hPcUJDQ185Q3ZjNy1ldjFYck5NY3ZXLXJoMXk5YVg3bE1kZS1UY21icw?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "Santos Laguna",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXFjQlBsRWE4OTIxNWJaSkh5SE5MZGxSNERwSDFWcFZQYmFPaERhdi13aXhZbkJKMjczd0NFN05oRlppWnNScVNZbDJJTXIwbzk0MGNmR05uendZTDJtQ2REY1JTcG9YeVFLbF9nZ2hxWjNqMmYxZ3hZblg1ZHJUclloZURPMjFVeEpZQTczQ1NVVC1HSHFPUC13NjdQR0R0MEdSaVltdFZ4OTQ?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788498074212
+  },
+  {
+    "es": {
+      "headline": "Encuesta de Pew revela división entre los latinos sobre si el Sueño Americano es alcanzable",
+      "dek": "Una encuesta de Pew a casi 5,000 adultos latinos muestra profundas divisiones sobre si el Sueño Americano existe, es alcanzable o ya fue logrado.",
+      "body": "El 45% de los adultos latinos en EE.UU. dice que el Sueño Americano está fuera de su alcance o directamente no existe, según una encuesta del Pew Research Center publicada el 1 de septiembre de 2026. Solo el 20% dice haberlo alcanzado ya. Otro 33% dice que todavía está trabajando para lograrlo.\n\nPew encuestó a 4,923 adultos latinos en EE.UU. en una encuesta bilingüe de representación nacional realizada entre el 6 y el 16 de octubre de 2025. El informe fue redactado por Luis Noé-Bustamante, Ziyao Tian, Carolyne Im y Sahana Mukherjee.\n\nLa división más marcada se da entre inmigrantes y latinos nacidos en EE.UU. El setenta por ciento de los latinos inmigrantes afirmó vivir mejor que sus padres a la misma edad. Entre los latinos nacidos en EE.UU., esa cifra cae al 49%. En cuanto al optimismo sobre el futuro de sus hijos, el 63% de los inmigrantes espera que sus hijos los superen económicamente. La encuesta no reportó una cifra equivalente para los encuestados nacidos en EE.UU. en esa pregunta.\n\nLos latinos nacidos en EE.UU. también son más propensos a decir que el Sueño se ha vuelto más difícil de alcanzar para su generación: el 48% sostiene esa opinión, frente al 35% de los latinos inmigrantes. En general, el 57% de todos los encuestados latinos dijo que su nivel de vida supera al de sus padres, y el 53% espera que el de sus hijos sea mejor que el propio.\n\nCuando los latinos definen el Sueño Americano, apuntan a indicadores económicos concretos: estabilidad financiera, oportunidad económica y vivienda propia. Esas definiciones importan para prestamistas, empleadores y legisladores que tienen como objetivo a los hogares latinos, el segmento de más rápido crecimiento en la fuerza laboral de EE.UU. La brecha en las perspectivas entre inmigrantes y nacidos en el país sugiere que la movilidad generacional, y no solo el estatus migratorio, determina cómo los latinos miden el progreso económico.",
+      "perspectives": [
+        {
+          "who": "Latinos inmigrantes",
+          "position": "El 70% dice vivir mejor que sus padres a la misma edad, y el 63% espera que sus hijos los superen económicamente."
+        },
+        {
+          "who": "Latinos nacidos en EE.UU.",
+          "position": "Solo el 49% dice vivir mejor que sus padres, y el 48% cree que el Sueño Americano se ha vuelto más difícil de alcanzar para su generación."
+        },
+        {
+          "who": "Todos los encuestados latinos",
+          "position": "El 45% dice que el Sueño Americano está fuera de alcance o no existe; el 57% dice que su nivel de vida supera al de sus padres."
+        }
+      ]
+    },
+    "id": "2026-09-04-1e0s4wi+9hks",
+    "section": "business",
+    "rank": 3,
+    "writer": "calderon",
+    "headline": "Pew survey finds Latinos split on American Dream achievability",
+    "dek": "A Pew survey of nearly 5,000 Latino adults shows deep splits on whether the American Dream exists, is achievable, or is already won.",
+    "body": "45% of U.S. Latino adults say the American Dream is either out of reach or does not exist at all, according to a Pew Research Center survey published September 1, 2026. Only 20% say they have already achieved it. Another 33% say they are still working toward it.\n\nPew surveyed 4,923 U.S. Latino adults in a nationally representative, bilingual poll conducted October 6–16, 2025. The report was written by Luis Noé-Bustamante, Ziyao Tian, Carolyne Im, and Sahana Mukherjee.\n\nThe sharpest divide runs between immigrants and U.S.-born Latinos. Seventy percent of Latino immigrants said they live better than their parents did at the same age. Among U.S.-born Latinos, that figure drops to 49%. On optimism about children's prospects, 63% of immigrants expect their kids to outdo them financially. The survey did not report a parallel figure for U.S.-born respondents on that question.\n\nU.S.-born Latinos are also more likely to say the Dream has grown harder to reach for their generation: 48% hold that view, compared with 35% of immigrant Latinos. Overall, 57% of all Latino respondents said their standard of living beats their parents', and 53% expect their children's to be better than their own.\n\nWhen Latinos define the American Dream, they reach for concrete economic markers — financial stability, economic opportunity, and homeownership. Those definitions matter for lenders, employers, and policymakers targeting Latino households, the fastest-growing segment of the U.S. workforce. The gap in outlook between immigrants and the U.S.-born suggests that generational mobility, not just immigration status, shapes how Latinos measure economic progress.",
+    "facts": "Pew Research Center published a National Survey of Latinos on September 1, 2026, based on a nationally representative, bilingual survey of 4,923 U.S. Latino adults conducted October 6–16, 2025. Only 20% of Latino respondents said they have already achieved the American Dream, while 18% believe it is out of reach and 27% say it simply does not exist, according to reporting on the survey. Another 33% said they are still on their way to achieving it. Despite doubts about the American Dream as a concept, 57% of Latinos said their standard of living is better than their parents' at the same age, and 53% said their children's standard of living will be better than their own. A notable divide emerged between immigrant and U.S.-born Latinos: 70% of Latino immigrants said they live better than their parents, compared with 49% of U.S.-born Latinos, and 63% of immigrants expected their children's standard of living to be higher than their own. U.S.-born Latinos were more likely than immigrant Latinos to say the American Dream has become harder to achieve for their generation, with 48% of U.S.-born Latinos holding that view versus 35% of immigrant Latinos. Many Latinos define the American Dream in economic terms, such as financial stability, economic opportunity, and homeownership. The report was written by Luis Noé-Bustamante, Ziyao Tian, Carolyne Im, and Sahana Mukherjee of Pew Research Center.",
+    "perspectives": [],
+    "location": "United States",
+    "when": "Sep 1",
+    "sources": [
+      {
+        "outlet": "MediaPost",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOemlXS1JINkVKNGh6OTRsOFU4Yk85ek9hUzZtaFpqcDJ2QzF6ZEJMemRNbjRudk1SSjItWC1VdFBZOUtRVTV2SjEwY1lpVFYzajJrRVRUMmtQS2hFWk5ncldadjd4SWRWd3VpbEwtT1BLeEU2Um9mVnBPdGd3M190S3NxWjUxaWotNTRLMmF4MEZ3Zm93cEJGVW91WWN4QldvaVVyaElJWlVPNGx0cEE?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWER6Qy1iQVhNVzhZX1NYaGpPdUVkajIxOTRHZjVqOXJrSmpHME1HbmtDQURoaHEtMUxYY0RUN2lMZlNtUm9HRU1lTXNQVHFfNWRCbWd0WURrZ1lhVDNlRDJuTU1KNEFrLUJ0Y2JTZXNoa1R5TW81Yi1RWEZCM1dGcVNTTFM2Yjh2M2NLMTlWTDhyXzhsLU1KYXItQy0?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788498074212
+  },
+  {
+    "es": {
+      "headline": "El economista Nobel Heckman visita Argentina y respalda el impulso desregulador de Milei",
+      "dek": "El Nobel James Heckman respaldó la agenda desreguladora de Milei en Buenos Aires, calificando el experimento reformista de Argentina como 'muy importante' y el panorama del país como 'al menos una esperanza'.",
+      "body": "El economista ganador del Premio Nobel James Heckman llegó a Buenos Aires a principios de septiembre de 2026 para la cumbre 'Vientos de Cambio', un encuentro de dos días celebrado el 1 y 2 de septiembre organizado por la Fundación Libertad y Progreso, la Reason Foundation y el Archbridge Institute. Calificó la agenda desreguladora del presidente Javier Milei como 'muy importante' y describió las perspectivas de Argentina como 'al menos una esperanza'.\n\nEl 3 de septiembre, Milei recibió a Heckman en la Casa Rosada junto a la ministra de Capital Humano Sandra Pettovello y la rectora de UCEMA Carola Pessino. La presidencia no divulgó lo que se trató. Ese mismo día, la UCEMA le otorgó a Heckman un doctorado honoris causa en una ceremonia celebrada en su auditorio de Buenos Aires, siendo la primera vez que la universidad concede esa distinción a un Premio Nobel. Heckman ganó el Nobel de Economía en 2000 por su trabajo en microeconometría y evaluación de políticas públicas.\n\nHeckman no se fue sin lanzar una advertencia. Expresó su preocupación por posibles retrocesos en el impulso reformista y por la resistencia a los cambios en curso, una señal de alerta que hace eco de lo que figuras empresariales argentinas están planteando en otros foros.\n\nEn el foro IDEA Rosario, el economista de BlackTORO Fernando Marengo sostuvo que Argentina puede romper su ciclo de crisis recurrentes apoyándose en la agricultura, la energía y la minería, pero subrayó que la inversión en infraestructura es innegociable. El coponente Santiago Mignone enunció el problema central con claridad: la economía debe dejar de 'pendular'. Enumeró la estabilidad macroeconómica, la responsabilidad fiscal, la integración global, la creación de empleo formal, la educación y la seguridad jurídica como los pilares necesarios para mantener el rumbo.\n\nLa convergencia entre la validación externa de un Nobel y la cautela interna de los economistas de mercado define con claridad lo que está en juego. Argentina tiene una ventana de oportunidad, pero sostener la dirección es la parte más difícil.",
+      "perspectives": [
+        {
+          "who": "James Heckman, economista Nobel",
+          "position": "Calificó la agenda desreguladora de Milei como 'muy importante' y describió el panorama de Argentina como 'al menos una esperanza', aunque advirtió sobre posibles retrocesos en el impulso reformista y la resistencia a los cambios."
+        },
+        {
+          "who": "Fernando Marengo, economista de BlackTORO",
+          "position": "Argumentó que Argentina puede romper su ciclo de crisis recurrentes apoyándose en la agricultura, la energía y la minería, pero insistió en que la inversión en infraestructura es innegociable."
+        },
+        {
+          "who": "Santiago Mignone, expositor en el foro IDEA Rosario",
+          "position": "Señaló que el problema central es que la economía debe dejar de 'pendular', e identificó la estabilidad macroeconómica, la responsabilidad fiscal, la integración global, el empleo formal, la educación y la seguridad jurídica como pilares clave."
+        }
+      ]
+    },
+    "id": "2026-09-04-1hgkjk6+1lgq",
+    "section": "business",
+    "rank": 1,
+    "writer": "calderon",
+    "headline": "Nobel economist Heckman visits Argentina, backs Milei deregulation push",
+    "dek": "Nobel laureate James Heckman backed Milei's deregulation drive in Buenos Aires, calling Argentina's reform experiment 'very important' and the country's outlook 'at least a hope.'",
+    "body": "Nobel Prize-winning economist James Heckman landed in Buenos Aires in early September 2026 for the 'Vientos de Cambio' summit, a two-day gathering on September 1–2 organized by Fundación Libertad y Progreso, the Reason Foundation, and the Archbridge Institute. He called President Javier Milei's deregulation agenda 'very important' and described Argentina's prospects as 'at least a hope.'\n\nOn September 3, Milei received Heckman at the Casa Rosada alongside Minister of Human Capital Sandra Pettovello and UCEMA rector Carola Pessino. The presidency did not disclose what was discussed. That same day, UCEMA awarded Heckman an honorary doctorate at a ceremony in its Buenos Aires auditorium—the first time the university has given the distinction to a Nobel laureate. Heckman won the Economics Nobel in 2000 for his work in microeconometrics and public policy evaluation.\n\nHeckman did not leave without a caution. He flagged concern about possible rollbacks in reform momentum and resistance to the changes underway—a warning that mirrors what Argentine business figures are saying in separate forums.\n\nAt an IDEA Rosario forum, BlackTORO economist Fernando Marengo argued Argentina can break its cycle of recurring crises by leaning on agriculture, energy, and mining, but stressed that major infrastructure investment is non-negotiable. Fellow speaker Santiago Mignone put the core problem plainly: the economy must stop 'pendulating.' He listed macroeconomic stability, fiscal responsibility, global integration, formal job creation, education, and legal certainty as the pillars required to hold course.\n\nThe convergence of outside validation from a Nobel laureate and domestic caution from market economists sets the stakes clearly. Argentina has a window, but sustaining the direction is the harder part.",
+    "facts": "Nobel Prize-winning economist James Heckman visited Buenos Aires in early September 2026 to participate in the 'Vientos de Cambio' summit organized by the Fundación Libertad y Progreso, Reason Foundation, and Archbridge Institute on September 1–2. Heckman, who won the Nobel Prize in Economics in 2000 for contributions to microeconometrics and the scientific basis of public policy evaluation, expressed support for President Javier Milei's deregulation agenda, calling the market deregulation experiment 'very important' and describing Argentina's outlook as 'at least a hope.' On September 3, President Milei received Heckman at the Casa Rosada along with Minister of Human Capital Sandra Pettovello and UCEMA rector Carola Pessino; the presidency did not disclose the topics discussed. UCEMA separately awarded Heckman an honorary doctorate—the first time the university has bestowed the distinction on a Nobel laureate—at a ceremony on September 3 at the UCEMA auditorium in Buenos Aires. Heckman expressed some concern about possible reversals in reform momentum and resistance to the changes underway. Argentine business leaders, meeting separately, echoed cautious optimism: at an IDEA Rosario forum, economist Fernando Marengo of BlackTORO argued that Argentina has an opportunity to leave behind recurring crisis cycles by leveraging agriculture, energy, and mining, but stressed the need for major infrastructure investment. Santiago Mignone, also at the forum, warned that the key challenge is ensuring the economy stops 'pendulating' and that the direction set is maintained, listing macroeconomic stability, fiscal responsibility, global integration, formal job creation, education, and legal certainty as pillars.",
+    "perspectives": [],
+    "location": "Buenos Aires",
+    "when": "Sep 3",
+    "sources": [
+      {
+        "outlet": "calamuchitaenlinea.info",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObElOdkZZYzdxdm43RUpHbGxPRmVDX3ItSDJ4YmM3dWdIYzhXYWJaLTVnb0xuX25lNUI5bF9PazcwUThNa1BfV0laRzdwVHlETEJEeTNROWdxVVNKSVpZX2dQNVM5VlBPbmtMamd1TUs4MGxDNFY4YXBIdzNUQTJSOUJOcHNGVlAyUGtMUVltLV85LThkV2Y0ZEJVTXF3cmoxSzVMRVp1SThqX0hfWWxiNnotRWFWd0hQaS1DdFJnaW1YSTg?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "La Nación",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcmJXcW84eE5RYkJBdFJDV2NOQlpFdGpUUVBwRmhfQmw0WDlBY1pUNmRPZVNQeUdPSC12NEdvSTBLTUZ2S1FCN0lsZEtOVmhtVlBSMHRDTktyYjZaZzRlZ1MxRnVWenU2N0llYklMM2g2M0p6d0V1bkVNbmpLQzlEOVA2MnJmS05PbE9RZzZuTkRsMGdNUHNUWTNmZGVUb1ViNlR1NjFROFYyM2tOZlM1U2VyX1FXWk92MS1mUGEwbkdaMVJLQ1FDM2xmY2ZmdzJBRUg1Z0k2UzVnMXJXdjhIaDNvcFc?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "La Nación",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd2Rma2MzYVB0N1Yxdi1Ud2xNRGNscVlmSnhQVVRXbk1CNUNWdnhvOHZnMFZ2Tld3Yk9IUXAzckowcHpaYTBWNTF6TDFwR2MyY1Q2MXZSRDNPcjZGZnRSNjRwc20zaGNwVmU4RlNtR1lKOGhsS2tDTmtYSjlOdWhLelotOV9PcTBnNW16Mjh1MnVhOFdybC1QSXNzWE9FWGhPZnhBNHFMS09UYXFvdG9zR3NzVTNQQXF4WnFJRHpXalBaVkV2NlgxenE1TDB5cWdOTXJaWE1FckVXQQ?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788498074212
+  },
+  {
+    "es": {
+      "headline": "El America PAC de Musk reporta $800,000 en primeros gastos de las elecciones de medio término",
+      "dek": "El America PAC de Elon Musk divulgó poco más de $800,000 en gastos iniciales para las elecciones de medio término, con casi el 90 por ciento dirigido a contiendas por el Senado.",
+      "body": "El súper PAC de Elon Musk, America PAC, divulgó poco más de $800,000 en gastos correspondientes al período del 19 al 31 de agosto de 2026, en una declaración presentada ante la Comisión Federal Electoral el miércoles por la noche, según Reuters, NBC News y CBS News. Casi el 90 por ciento del gasto se destinó a carreras por el Senado, y el resto cubrió distritos competitivos de la Cámara de Representantes, de acuerdo con CNBC.\n\nEl mayor beneficiario individual fue el candidato republicano al Senado por Texas Ken Paxton, quien recibió aproximadamente $248,000, con gastos tanto a favor de Paxton como en contra de su oponente demócrata, James Talarico, según Fox News y CBS News. La senadora por Maine Susan Collins recibió alrededor de $170,000 en apoyo. Los gastos adicionales incluyeron $106,000 en Ohio, $91,000 en New Hampshire, $54,000 en Iowa, $25,000 en Michigan y $17,000 en Alaska, según CBS News. Todos los gastos divulgados fueron categorizados como 'PRINTING', lo que indica que los fondos se destinaron a anuncios por correo y difusión de votantes por correo directo, según CBS News y CNN.\n\nLa declaración se presentó días después de que Musk se reuniera con el presidente de la Cámara, Mike Johnson, en Texas, según Reuters. Johnson confirmó la reunión a CBS News pero declinó decir si la conversación abordó el gasto en las elecciones de medio término. 'Él ha hecho público mucho de lo que está haciendo... vamos a ganar las elecciones de medio término', dijo Johnson a CBS News.\n\nRachel Petri, directora de campaña del representante Chris Pappas, candidato demócrata al Senado por New Hampshire, dijo en un comunicado reportado por Reuters: 'Los republicanos MAGA como Elon Musk están tratando de comprar este escaño en el Senado para John Sununu porque saben que sería un sello de goma para la agenda tóxica de Donald Trump'.\n\nAmerica PAC tiene una meta de financiamiento de hasta $120 millones para las elecciones de medio término y ha contado con una reserva de guerra de $50 millones, según Reuters. Musk ha gastado personalmente más de $90 millones en las elecciones de medio término de 2026 en total, según el Washington Post. El tesorero del PAC es Chris Young, un operador del Partido Republicano y exempleado del Departamento de Eficiencia Gubernamental, según CBS News.",
+      "perspectives": [
+        {
+          "who": "Rachel Petri, directora de campaña del candidato demócrata al Senado por New Hampshire, el representante Chris Pappas",
+          "position": "'Los republicanos MAGA como Elon Musk están tratando de comprar este escaño en el Senado para John Sununu porque saben que sería un sello de goma para la agenda tóxica de Donald Trump', según Reuters."
+        },
+        {
+          "who": "El presidente de la Cámara, Mike Johnson",
+          "position": "'Él ha hecho público mucho de lo que está haciendo... vamos a ganar las elecciones de medio término', dijo Johnson a CBS News al ser consultado sobre los planes de Musk, sin detallar el contenido de su reunión con Musk."
+        }
+      ]
+    },
+    "id": "2026-09-04-16frcqg+1hgk",
+    "section": "politics",
+    "rank": 3,
+    "writer": "vega",
+    "headline": "Musk's America PAC reports $800,000 in first midterm spending",
+    "dek": "Elon Musk's America PAC disclosed just over $800,000 in first midterm expenditures, with nearly 90 percent directed at Senate contests.",
+    "body": "Elon Musk's super PAC, America PAC, disclosed just over $800,000 in expenditures for the period August 19–31, 2026, in a filing submitted to the Federal Election Commission on Wednesday night, according to Reuters, NBC News, and CBS News. Nearly 90 percent of the spending went toward Senate races, with the remainder covering competitive House districts, according to CNBC.\n\nThe largest single beneficiary was Texas Republican Senate candidate Ken Paxton, who received approximately $248,000, with spending both supporting Paxton and opposing his Democratic opponent, James Talarico, according to Fox News and CBS News. Maine Sen. Susan Collins received roughly $170,000 in support. Additional spending included $106,000 in Ohio, $91,000 in New Hampshire, $54,000 in Iowa, $25,000 in Michigan, and $17,000 in Alaska, according to CBS News. All disclosed expenditures were categorized as 'PRINTING,' indicating the funds were directed at mail advertisements and direct-mail voter outreach, according to CBS News and CNN.\n\nThe filing came days after Musk met with House Speaker Mike Johnson in Texas, according to Reuters. Johnson confirmed the meeting to CBS News but declined to say whether the conversation addressed midterm spending. 'He's made public a lot of what he's doing... we're going to win the midterms,' Johnson told CBS News.\n\nRachel Petri, campaign manager for Democratic New Hampshire Senate candidate Rep. Chris Pappas, said in a statement reported by Reuters: 'MAGA Republicans like Elon Musk are trying to buy this Senate seat for John Sununu because they know he would be a rubber stamp for Donald Trump's toxic agenda.'\n\nAmerica PAC has a funding target of up to $120 million for the midterms and has been sitting on a $50 million war chest, according to Reuters. Musk has personally spent over $90 million on the 2026 midterms in total, according to the Washington Post. The PAC's treasurer is Chris Young, a GOP operative and former Department of Government Efficiency employee, according to CBS News.",
+    "facts": "Elon Musk's super PAC, America PAC, disclosed just over $800,000 in expenditures covering the period August 19–31, 2026, in a filing submitted to the Federal Election Commission on Wednesday night, according to Reuters, NBC News, and CBS News. Nearly 90 percent of the spending went toward Senate races, with the remainder covering competitive House districts, according to CNBC. The largest single beneficiary was Texas Republican Senate candidate Ken Paxton, who received approximately $248,000, with spending both supporting Paxton and opposing his Democratic opponent, James Talarico, according to Fox News and CBS News. Maine Sen. Susan Collins received roughly $170,000 in support, while the PAC also spent $106,000 in Ohio, $91,000 in New Hampshire, $54,000 in Iowa, $25,000 in Michigan, and $17,000 in Alaska, according to CBS News. All disclosed spending was categorized as 'PRINTING,' indicating it was directed at mail advertisements and direct-mail voter outreach, according to CBS News and CNN. Reuters reported that the spending came days after Musk met with House Speaker Mike Johnson in Texas; Johnson confirmed the meeting to CBS News but declined to say whether the conversation addressed midterm spending. Reuters reported that America PAC has a funding target of up to $120 million for the midterms and has been sitting on a $50 million war chest. According to the Washington Post, as cited by multiple outlets, Musk has already personally spent over $90 million on the 2026 midterm elections in total. The PAC's treasurer is Chris Young, a GOP operative and former Department of Government Efficiency employee, according to CBS News.",
+    "perspectives": [
+      {
+        "who": "Rachel Petri, campaign manager for Democratic New Hampshire Senate candidate Rep. Chris Pappas",
+        "position": "\"MAGA Republicans like Elon Musk are trying to buy this Senate seat for John Sununu because they know he would be a rubber stamp for Donald Trump's toxic agenda,\" according to Reuters."
+      },
+      {
+        "who": "House Speaker Mike Johnson",
+        "position": "\"He's made public a lot of what he's doing... we're going to win the midterms,\" Johnson told CBS News when asked about Musk's plans, declining to detail the substance of his meeting with Musk."
+      }
+    ],
+    "location": "United States",
+    "when": "Sep 3",
+    "sources": [
+      {
+        "outlet": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZEZaSV9aS2VLVHZSSjB4cW5qeld3cjJocF9ldnd1UGRtSXZxU21xRjFreTBWanN2eXNzVDdRZlFxMFF2SUxDcnYwcEFYOVotRklseE04TzAwbG44TlNlQUFNMmI4YjBFTnF6WHNSX0J1R0V5NkZJWnN5cjY0c0NaZWRWWllaakhZQ2JKTXlZODBFbXBzZ1EtTzdFTHBHejlHSmRFelpwWEJnUHNUVDVDbURqUFJNbzZMdmc?oc=5",
+        "line": "wire"
+      },
+      {
+        "outlet": "Internazionale",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRURwNmZWbkRka2ZRcnpRNHFLd2gyUE91eFNLSnRlQ0dZbEN6a2Z2RjFMYkdOekpxTlI5OHR0OUlmcXQ3YkpaZWZoYTVNWHdDeGdDcmc3dlNfWjdFU1N2YWY0X3o4UXpoZ2NjN05QOE1rUlpXLWZZTFNzY3NTSVJCNm1FejYyZXhfSmU1S3NEU2lfZU45VEs4UHNBOUtRaXdxSDJiYjZOZFhYeGNoUEFjT3Z5eENVTmRqcmZFSVJQLWlDMVZ5WE0yX0g1RWJfX2FrZ29fMmVNRnBvYXI0cVE?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLVFGVHB4c2s3MXBlYkgyVDBjNWZzV293Wlp5eklZcnZpaWFWUlhXM253QU1qS3k5RVE0ZVVrdG5YWGZJTjFfNGpTUFIwTHJDWW12R1BvSkgwUFVOcmpPbEcyNzlqTlBuanpqT2VlMGFFSk1NX2Y3Z1QzQ1ZQNWVzMW5DMTB0SWRpLVI0dkMyTXlsbHZyeHVPWFpSeGZYRWRKTTRQMFpvLVFRanlieFJlTjZXUTg?oc=5",
+        "line": "left"
+      }
+    ],
+    "published": 1788498074212
+  },
+  {
+    "es": {
+      "headline": "La Casa Blanca lanza videojuegos de arcade para promover el control migratorio",
+      "dek": "Un arcade gubernamental nos invita a jugar en la frontera—y plantea preguntas duraderas sobre cómo los estados siempre han usado el espectáculo para normalizar sus políticas.",
+      "body": "Los gobiernos han comprendido desde hace mucho tiempo que el entretenimiento moldea la percepción de manera más duradera que la legislación. Carteles de propaganda, películas de guerra, ceremonias públicas—cada era encuentra su propio medio. El 3 de septiembre de 2026, la administración Trump añadió los videojuegos de arcade a ese linaje, lanzando cinco títulos de estilo retro en arcade.gov y promocionándolos bajo el eslogan 'Can't Stop Winning.' Vale la pena detenerse en la elección del medio antes de llegar a conclusiones fáciles.\n\nDos de los cinco juegos tienen temáticas migratorias explícitas. 'Rio Run,' inspirado en Snake, pone al jugador en el papel de un agente fronterizo—ampliamente identificado como una representación del asesor de inmigración Tom Homan—que detiene a personas que cruzan la frontera y acumula deportaciones como puntuación. 'Build the Wall' toma prestada la mecánica de apilamiento de Tetris y presenta la frontera como una defensa contra lo que el texto oficial describe como un 'asedio zombie en la frontera.' Los otros títulos van por otros rumbos: el vuelo de un águila calva sobre el National Mall y un juego en el que los jugadores llenan cuentas de ahorro infantiles atrapando diamantes y efectivo.\n\nUn funcionario de la Casa Blanca había anticipado la intención desde noviembre de 2025, describiendo el sitio web de la administración como un vehículo que pueden 'weaponize in a way that no other administration has been able to do.' Esa franqueza es en sí misma históricamente notable—la mayoría de los gobiernos prefieren el eufemismo de la comunicación pública a la sinceridad de la mensajería estratégica.\n\nLa respuesta crítica fue igualmente directa. La codirectora de Frontera Federation, en declaraciones a TeleSUR, dijo que los diseñadores 'have lost sight of what it means to be human and to care for others.' Esa tensión—entre un Estado que despliega la gamificación como normalización y los activistas que insisten en las implicaciones humanas detrás de cada dato—no es nueva. Es, con distintos disfraces, un debate recurrente sobre dónde termina la política y comienza la deshumanización.\n\nLo que el arcade deja en claro, independientemente de lo que cada quien piense sobre las políticas en cuestión, es hasta qué punto la cultura digital ha entrado en la gramática del gobierno. Las administraciones futuras, de cualquier partido, tomarán nota de lo que aquí funcione.",
+      "perspectives": [
+        {
+          "who": "Administración Trump (Casa Blanca)",
+          "position": "Los videojuegos de arcade promueven las prioridades de política de la administración, incluyendo la seguridad fronteriza y las deportaciones, bajo el lema 'Can't Stop Winning'."
+        },
+        {
+          "who": "Críticos y grupos de defensa de inmigrantes (vía TeleSUR)",
+          "position": "Los juegos trivializan y normalizan las políticas de control migratorio que, en su opinión, van acompañadas de violaciones a los derechos humanos, violencia y muertes en centros de detención."
+        }
+      ]
+    },
+    "id": "2026-09-04-11h6zgl+5wa1",
+    "section": "politics",
+    "rank": 0,
+    "writer": "santamaria",
+    "headline": "White House launches arcade games promoting immigration enforcement",
+    "dek": "A government arcade invites us to play at the border—and raises durable questions about how states have always used spectacle to normalize policy.",
+    "body": "Governments have long understood that entertainment shapes perception more durably than legislation. Propaganda posters, wartime films, public ceremonies—each era finds its own medium. On September 3, 2026, the Trump administration added arcade games to that lineage, launching five retro-styled titles at arcade.gov and promoting them under the slogan 'Can't Stop Winning.' The choice of medium is worth sitting with before reaching for easy conclusions.\n\nTwo of the five games carry explicit immigration themes. 'Rio Run,' modeled on Snake, casts players as a border patroller—widely identified as representing immigration adviser Tom Homan—who detains crossers and accumulates deportations as a high score. 'Build the Wall' borrows Tetris's stacking mechanic and frames the border as a defense against what official copy calls a 'zombie border siege.' The other titles venture elsewhere: a bald eagle flight over the National Mall, and a game where players fill children's savings accounts by catching diamonds and cash.\n\nA White House official had signaled the intent as far back as November 2025, describing the administration's website as a vehicle they can 'weaponize in a way that no other administration has been able to do.' That frankness is itself historically notable—most governments prefer the euphemism of public communication over the candor of strategic messaging.\n\nThe critical response was equally direct. The co-director of Frontera Federation, speaking to TeleSUR, said the designers 'have lost sight of what it means to be human and to care for others.' That tension—between a state deploying gamification as normalization and advocates insisting on the human stakes behind each data point—is not new. It is, in different costumes, a recurring argument about where policy ends and dehumanization begins.\n\nWhat the arcade clarifies, whatever one thinks of the underlying policies, is how completely digital culture has entered the grammar of governance. Future administrations, of any party, will notice what works here.",
+    "facts": "The Trump administration launched a series of five retro-style arcade games on Thursday, September 3, 2026, hosted at the official government website arcade.gov, according to CNN and Newsweek. The White House promoted the arcade on its social media accounts with the slogan 'Can't Stop Winning,' per CNN. One game, 'Rio Run,' is modeled on the classic Snake game and has users patrol the Rio Grande to detain border crossers and earn a high score of deportations, according to CNN. In 'Rio Run,' the player icon is an older white man in a blue tie, and when a crosser is caught, the figure appears in an orange jumpsuit and follows the player, per CNN. Proyecto Puente reported that the player character in 'Rio Run' represents Tom Homan, Trump's top immigration adviser. A second immigration-themed game, 'Build the Wall,' is modeled on Tetris and asks players to stack bricks to 'hold the line' against what the official description calls a 'zombie border siege,' according to CNN and EFE. Other games in the arcade allow users to fly a bald eagle over the National Mall or fill their 'kids' Trump accounts' by catching diamonds and cash, according to CNN. CNN reported in November 2025 that a White House official described the administration's website as 'a vehicle to push our message' that they can 'weaponize in a way that no other administration has been able to do.' TeleSUR reported that the co-director of the NGO Frontera Federation criticized the games, stating that those who designed them 'have lost sight of what it means to be human and to care for others.'",
+    "perspectives": [
+      {
+        "who": "Trump administration (White House)",
+        "position": "The arcade games promote the administration's policy priorities, including border security and deportations, under the banner 'Can't Stop Winning.'"
+      },
+      {
+        "who": "Critics and immigrant rights groups (via teleSUR)",
+        "position": "The games trivialize and normalize immigration enforcement policies that, in their view, are accompanied by human rights violations, violence, and deaths in detention centers."
+      }
+    ],
+    "location": "Washington",
+    "when": "Sep 3",
+    "sources": [
+      {
+        "outlet": "Univision",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaTJxMy1VQ3hiWW40d0d2ZDk5UVN0OEVnd0FQSWRnVkNZOVpBUjYwM1VwZ0tUVHhRMnAwbEc4MjhETElkMDhsWTlhSlA1OU9NT2pzNzcwUm8tYkFoQVlvbmxzMko0YU93YjdqSU9ENkN6MXF2dXQ3VndFdzBXNm90V0c4cG1vVmxBSTJuOGdYUVBwOW54NFJmSjBNbHZMM3BFODRuMm01TkRmQkdUVXZnTktFWjhheExuYUxWMnljTnZQRzFf?oc=5",
+        "line": "left"
+      },
+      {
+        "outlet": "Univision",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbE43M2NOTkdCVDR3a0V5V1lSdlJNZkZjZWdJbXRkREh5alRveG5uM3VpcFJ0S1JUa05sYi1zdXBDcGlSaWV1aFZPYlFWRVMtTnVfS3pDUzM1eEkyVnR0UzRRWVlnUUVDZTUzSm9aV25PRkxlalMxaXBLSTE4RmJmTWVLRXVBRDFsc1RIRmhqZDY2Ujl0UVF1dXpfYU5fMk43c1BNRkpTc3FBQnNYUVBScnphdUg?oc=5",
+        "line": "left"
+      },
+      {
+        "outlet": "El Nuevo Herald",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcjk5T2xCSFI2SDJRTmdMaGdfOFNERUtPSFpiXzNOc3dqeUxqeXZhcjZzbXJQSDZ5UGxOVUd6LXdKRG1pelh6V3ZLa1ZIR3pCWUtoQUdnTThIdnF1TVZhOHZMejd0M3FhX3A0MW9fWDJfb0lNeTZWXzJGbks3eVVZYdIBgAFBVV95cUxNNXdSeGJ1Wkc2enp1dWNhckhjUC16THJ0TXRDMFJoVGRRXzM3aGc4QnhVVjdrN2VRckV1Zk1zMmUydnR0U3ZxLUxlZW1IN0lIMnRacWFlOFhjVlpkMVhILXUtcm5xcFZpTzF0anF5NFNPVHp3elVoN1ZiVDNiVm84OA?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "teleSUR",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2MHlaaTFNdGlMX1JVVDNOM1hIS3NTWDdTWk5GOFNLaHViMEpjMERGeHJrVXc1bV9MclVBUW02QVpkSXpLV1FGWmFDSWVkWGlveGRzWTRDRVBZTl9LZHIxcE9KRGRjTHhfLV9GQzFmLWpPSVc1?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788498074212
+  },
+  {
+    "es": {
+      "headline": "Inter Miami ficha al mediocampista paraguayo Galarza en préstamo del River Plate",
+      "dek": "El paraguayo de 24 años llega cedido del River Plate hasta el final de la temporada 2026 de la MLS, con opción de compra para el Inter Miami.",
+      "body": "El Inter Miami incorporó al mediocampista paraguayo Matias Galarza en préstamo del River Plate el 3 de septiembre de 2026, hasta el final de la temporada 2026 de la MLS. El acuerdo incluye una opción de compra.\n\nGalarza, de 24 años, llega con un alto perfil tras la Copa Mundial FIFA 2026. Anotó en el minuto dos de la victoria de Paraguay 1-0 sobre Turquía en la fase de grupos, ayudando a la nación a avanzar a los octavos de final. Ese siguiente partido, una derrota 1-0 ante Francia el 4 de julio, estuvo cargado de polémica. Galarza tuvo contacto sin balón con Kylian Mbappé y se enfrentó con Jules Kounde y Michael Olise. Los fanáticos franceses le dirigieron críticas generalizadas. Paraguay cometió 13 faltas en ese partido y terminó sin una sola tarjeta.\n\nSu historial en el River Plate es modesto. Galarza se unió al equipo de Buenos Aires proveniente de Talleres en 2025 e hizo 14 apariciones, sin marcar goles y registrando una asistencia. El River lo cedió en préstamo al Atlanta United en febrero de 2026 antes de que el Inter Miami se moviera por él.\n\nGalarza llega a un club en transición. El 27 de agosto, el Inter Miami designó al argentino Cristian 'Kily' González, de 52 años, como entrenador en jefe. González reemplazó al técnico interino Guillermo Hoyos, quien había tomado el mando tras la renuncia de Javier Mascherano en abril de 2026. González jugó junto a Lionel Messi en las eliminatorias mundialistas de Argentina en 2005 frente a Perú y Uruguay. Está a la espera de los permisos de trabajo en EE.UU. antes de asumir oficialmente.\n\nPara el Inter Miami, Galarza cubre una necesidad en el mediocampo mientras González se prepara para dirigir sus primeras sesiones de entrenamiento. Si el club ejerce la opción de compra dependerá de cuánto aporte el jugador de 24 años durante los meses restantes de la temporada de la MLS.",
+      "perspectives": [
+        {
+          "who": "Fanáticos franceses",
+          "position": "Criticaron ampliamente a Galarza por su contacto sin balón con Kylian Mbappé y sus enfrentamientos con Jules Kounde y Michael Olise durante la derrota 1-0 de Paraguay ante Francia el 4 de julio."
+        },
+        {
+          "who": "Inter Miami",
+          "position": "Ve a Galarza como un refuerzo que cubre una necesidad en el mediocampo mientras el nuevo entrenador Cristian 'Kily' González se prepara para tomar las riendas del equipo, con la opción de compra supeditada a su rendimiento."
+        }
+      ]
+    },
+    "id": "2026-09-04-14cetm6+1tb2",
+    "section": "sports",
+    "rank": 0,
+    "writer": "calderon",
+    "headline": "Inter Miami sign Paraguay midfielder Galarza on loan from River Plate",
+    "dek": "The 24-year-old Paraguayan arrives on loan from River Plate through the end of the 2026 MLS season, with Inter Miami holding a purchase option.",
+    "body": "Inter Miami added Paraguayan midfielder Matias Galarza on loan from River Plate on September 3, 2026, through the end of the 2026 MLS season. The deal includes an option to buy.\n\nGalarza, 24, arrives carrying a high profile from the 2026 FIFA World Cup. He scored in the second minute of Paraguay's 1-0 group-stage win over Turkey, helping the nation advance to the Round of 16. That next match, a 1-0 loss to France on July 4, turned contentious. Galarza made off-ball contact with Kylian Mbappé and clashed with Jules Kounde and Michael Olise. French fans directed widespread criticism his way. Paraguay committed 13 fouls that match and finished without a single card.\n\nHis club record at River Plate is thin. Galarza joined the Buenos Aires side from Talleres in 2025 and made 14 appearances, scoring zero goals and recording one assist. River sent him on loan to Atlanta United in February 2026 before Inter Miami moved for him.\n\nGalarza steps into a club in transition. On August 27, Inter Miami appointed Argentine Cristian 'Kily' González, 52, as head coach. González replaced interim boss Guillermo Hoyos, who had taken charge after Javier Mascherano resigned in April 2026. González once played alongside Lionel Messi in Argentina's 2005 World Cup qualifiers against Peru and Uruguay. He is waiting on US work permits before officially taking over.\n\nFor Inter Miami, Galarza fills a midfield need as González prepares to run his first training sessions. Whether the club exercises its purchase option will depend on how much the 24-year-old contributes over the remaining months of the MLS season.",
+    "facts": "Inter Miami signed Paraguayan midfielder Matias Galarza on loan from Argentine club River Plate until the end of the 2026 MLS season, with an option to buy, the club announced on September 3, 2026. Galarza, 24, drew widespread criticism from French fans during the 2026 FIFA World Cup after he made contact with Kylian Mbappé off the ball and clashed with French players including Jules Kounde and Michael Olise during Paraguay's 1-0 Round of 16 loss to France on July 4, 2026. Paraguay finished that match without a single card despite committing 13 fouls. Galarza had previously scored in the second minute of Paraguay's 1-0 group-stage win over Turkey, helping his country reach the Round of 16. At club level, Galarza made only 14 appearances for River Plate after joining from Talleres in 2025, scoring no goals and recording one assist; he was also sent on loan to Atlanta United in February 2026. Inter Miami's new signing is separate from the club's recent coaching change: on August 27, 2026, Inter Miami appointed Argentine Cristian 'Kily' González as head coach, replacing Guillermo Hoyos, who had taken interim charge after Javier Mascherano resigned in April 2026. González, 52, played alongside Messi in Argentina's 2005 World Cup qualifiers against Peru and Uruguay. González will officially assume his duties once he receives the corresponding US work permits.",
+    "perspectives": [],
+    "location": "Miami",
+    "when": "Sep 3",
+    "sources": [
+      {
+        "outlet": "Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUFILV84NHFjZlRqRVc1Z3Bpc0VtLVFlNlRIbl9uSzlCSG0xaTVRX0lfYko4ZW9JM09pNFVnN0xTck5rak52OFM4NS0yLUpyc19qdXplZi0wdHJYcXZ3eVREM2lGZk1NSXF5NVRuemNiVGhuTnUzN25zOV9ZYXVrcGtJMEE?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "World Soccer Talk",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVTJhZnVOc1Q5NjFVX3NDd1Z0ZDVSb1I1UjlvMXRPdzRLd0dOeEJMYUd3blNwblVERGZwS1ZHNzhuV2Jyc2JTUEVNN21Vc2NaVFhjTHNLLWdLcnV6cWZSV1ExWkp1aERJVzl6SjFrcUdVSDRnNFhybG05X3BvVnk1WHlKUDhCU3lLWWJpOV9ldldQcTYyUkxSMjBQWlotamF5Q0M0aXlMVXd0UUU1QTVzbWlrUFI0Z3Bybl81YUhZUkt5RlYzbVVERnB2OXFaUdIB0gFBVV95cUxPcm1FREMzdGotMVNMeW0xbXFZVTdQNWlBSlFjNzAxc09wVm9WcXBuOTdBZ25iajNub3FFc3ZDbHN5TUx0T3FUamFIRW9tVEZlbzk4MkZrUE1TckJlcFlBUFpxYjZORy01SXl0emN5UlVoUFhyaDlWQnNXWGJKZHdrRjYwdExwLWtncWJSZThLOE5mUW1jYzNIbkNFZ0FEalNHWTZSa20tcWRybUdlRGdtcE1lY0FhUjNHQUpoSEJiVFlEWl9WT1hvVGM5MHl6MTdEV1E?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "Goal.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaU9OTEl6VEtGRFBnekNDRVRWN20tbnlYNTJnS1lva2tMZ1Q5d3BzZUpGaVVyc2Eybkt4YzZJQU5kNkJTZGJWTzhKMWNlUk9YVnhrUkQ2aFpjTC01UGM5Z3RPYUxUWGxKZER3R3ZJWFRNYk4xQkJZMHRyLXljMTRJSkgzYVQ4cFVMbklKdWdkcGVCUHFMaUFpWE5IcnB6UVAzc1UwWDFhNmRxUQ?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "LiveScore",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZzlORW1iNHlTeV9SWHQ4ZXA1SllFR0FIYUZlTWxiYlBOOHFlb191WUVRdFpPaWZZOExmMFNyVEZBRzdEc0lOM1F1ZjBxMERpLXZQS28tVEpySGNYSGUzN21iQkJjU1hGVmhPSXVqMzFzUkppRjZIOTk5akpVbU9PQU45ckxrcTcwVldrSkdxZS1GOTFUUkRoQXREYTZEc01zYlduQmQ1SkdWVUE?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788498074212
+  },
+  {
+    "es": {
+      "headline": "EE.UU. deporta a 101 personas a Haití en el tercer vuelo semanal consecutivo",
+      "dek": "El tercer vuelo semanal consecutivo trasladó a 101 deportados desde Luisiana al norte de Haití en medio de una escalada de violencia de pandillas y una advertencia de viaje de Nivel 4.",
+      "body": "El gobierno de EE.UU. deportó a 101 personas a Haití el jueves 4 de septiembre de 2026, en lo que el ICE Flight Monitor de Human Rights First describió como el tercer vuelo de deportación consecutivo un jueves hacia ese país, marcando un cambio de remociones mensuales a semanales. Nicolas Mardochée, coordinador del Ministerio de Relaciones Exteriores de Haití, confirmó el número de pasajeros a la Associated Press.\n\nEl vuelo partió desde Luisiana y aterrizó en Cap-Haïtien, en el norte de Haití, porque el aeropuerto internacional principal en Puerto Príncipe se considera demasiado peligroso para ese tipo de operaciones, según AP. El vuelo del jueves siguió a dos vuelos separados a finales de agosto que juntos trasladaron a más de 200 deportados a Haití.\n\nEntre los pasajeros del vuelo del jueves se encontraba Renan Hédouville, quien alguna vez dirigió la Oficina de Protección al Ciudadano de Haití y es acusado de corrupción, según le dijo Mardochée a AP. El Departamento de Estado clasifica actualmente a Haití como país de 'Nivel 4: No viajar', citando crimen relacionado con pandillas, terrorismo, desorden civil y acceso limitado a la atención médica, de acuerdo con The Hill. Las pandillas controlan aproximadamente el 70 por ciento de la capital haitiana, y las Naciones Unidas reportaron más de 3,050 personas asesinadas en Haití entre enero y junio de 2026, con la violencia de pandillas desplazando a un número récord de casi 1.5 millones de personas.\n\nEl ritmo acelerado de remociones sigue a un fallo de la Corte Suprema del 25 de junio de 2026, decidido 6-3, que permitió que la cancelación del Estatus de Protección Temporal (TPS) de Haití por parte de la administración Trump entrara en vigor, según el Departamento de Seguridad Nacional. El secretario del DHS, Markwayne Mullin, dijo que el TPS 'nunca fue diseñado para ser permanente, sin embargo, administraciones anteriores lo han utilizado como un programa de amnistía de facto durante décadas', y caracterizó las remociones como poner a Estados Unidos primero.\n\nActivistas citados por AP y The Hill respondieron con críticas. El Grupo de Apoyo a Refugiados y Repatriados de Haití advirtió que el país 'no estaba listo para recibir este número de migrantes', y los defensores denunciaron la deportación de personas que habían tenido TPS y vivían y trabajaban legalmente en Estados Unidos.",
+      "perspectives": [
+        {
+          "who": "El secretario del DHS, Markwayne Mullin",
+          "position": "\"El TPS nunca fue diseñado para ser permanente, sin embargo, administraciones anteriores lo han utilizado como un programa de amnistía de facto durante décadas\", y la administración está poniendo a Estados Unidos primero al hacer cumplir las remociones."
+        },
+        {
+          "who": "Activistas (según lo citado por AP y The Hill)",
+          "position": "El Grupo de Apoyo a Refugiados y Repatriados de Haití advirtió que el país 'no estaba listo para recibir este número de migrantes', y los activistas han denunciado la deportación de quienes tenían TPS y vivían y trabajaban legalmente en Estados Unidos."
+        }
+      ]
+    },
+    "id": "2026-09-04-14qgdfq+1fhm",
+    "section": "politics",
+    "rank": 1,
+    "writer": "vega",
+    "headline": "US deports 101 people to Haiti on third weekly flight",
+    "dek": "The third consecutive weekly flight carried 101 deportees from Louisiana to northern Haiti amid escalating gang violence and a Level 4 travel warning.",
+    "body": "The U.S. government deported 101 people to Haiti on Thursday, September 4, 2026, on what Human Rights First's ICE Flight Monitor described as the third consecutive Thursday deportation flight to the country, marking a shift from monthly to weekly removals. Nicolas Mardochée, a coordinator with Haiti's Ministry of Foreign Affairs, confirmed the passenger count to the Associated Press.\n\nThe flight departed from Louisiana and landed in Cap-Haitien, in northern Haiti, because the main international airport in Port-au-Prince is considered too dangerous for such operations, according to AP. The Thursday flight followed two separate flights in late August that together carried more than 200 deportees to Haiti.\n\nAmong those aboard Thursday's flight was Renan Hédouville, who once led Haiti's Office of Citizen Protection and is accused of corruption, Mardochée told AP. The State Department currently lists Haiti as a 'Level 4: Do Not Travel' country, citing gang-related crime, terrorism, civil unrest, and limited healthcare access, according to The Hill. Gangs control an estimated 70 percent of Haiti's capital, and the United Nations reported more than 3,050 people were killed in Haiti from January through June 2026, with gang violence displacing a record of nearly 1.5 million people.\n\nThe accelerated removal pace follows a June 25, 2026, Supreme Court ruling, decided 6-3, that the Trump administration's termination of Haiti's Temporary Protected Status could take effect, according to the Department of Homeland Security. DHS Secretary Markwayne Mullin said TPS 'was never designed to be permanent, yet previous administrations have used it as a de facto amnesty program for decades,' and characterized the removals as putting America first.\n\nActivists cited by AP and The Hill pushed back. Haiti's Group Supporting Refugees and Returnees warned the country was 'not ready to receive this number of migrants,' and advocates decried the deportation of individuals who had held TPS and were living and working legally in the United States.",
+    "facts": "The U.S. government deported more than 100 people to Haiti on Thursday, September 4, 2026, according to AP. Nicolas Mardochée, a coordinator with Haiti's Ministry of Foreign Affairs, told AP that 101 deportees were aboard the flight. AP reported the flight departed from Louisiana and landed in Cap-Haitien, in northern Haiti, because the main international airport in Port-au-Prince is considered too dangerous. Human Rights First's ICE Flight Monitor, which tracks flight data, stated this was the third consecutive Thursday deportation flight to Haiti, marking a shift from monthly to weekly flights. AP reported that more than 200 people were deported to Haiti in late August on two separate flights. Mardochée told AP that among the deportees was Renan Hédouville, who once led Haiti's Office of Citizen Protection and is accused of corruption. AP reported that gangs control an estimated 70% of Haiti's capital, and the U.N. reported more than 3,050 people were killed in Haiti from January to June 2026, with gang violence displacing a record of nearly 1.5 million people. The State Department lists Haiti as a 'Level 4: Do Not Travel' country, citing gang-related crime, terrorism, unrest, and limited healthcare, according to The Hill. On June 25, 2026, the Supreme Court ruled 6-3 that the Trump administration's termination of Haiti's Temporary Protected Status could go into effect, according to DHS.",
+    "perspectives": [
+      {
+        "who": "DHS Secretary Markwayne Mullin",
+        "position": "\"TPS was never designed to be permanent, yet previous administrations have used it as a de facto amnesty program for decades,\" and the administration is putting America first by enforcing removals."
+      },
+      {
+        "who": "Activists (as cited by AP and The Hill)",
+        "position": "Haiti's Group Supporting Refugees and Returnees warned the country was 'not ready to receive this number of migrants,' and activists have decried the deportation of those who had TPS and were living and working legally in the United States."
+      }
+    ],
+    "location": "Cap-Haitien",
+    "when": "Sep 4",
+    "sources": [
+      {
+        "outlet": "Univision",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ0tfeDNNemh5SW44WHFfaE9HMkF1SHBjdmlGLWVwX1pabWhlbUZJTDJtblpveVhzZTZRX3dPV0R0ckdVdzRDZ2Q0RlpkNkJHTi1HTHBhSVE0UFFqVjN4QU5Pb3NQeHFLNDhNLTJucGRiS0tqcmNBMXdTYXh6d043R0thWW1SamU4Tm9RRG5VU3ZmNTFwXzNUa2RiWWRxd2hxMHZKYzZMR21vZFVBMVZQeUJ3aEgyMmlncWh4WjA1N0tGQllkVmUteFhIa0lrV2syWmJUMV90S3BvSktnb0xCZDFoUQ?oc=5",
+        "line": "left"
+      },
+      {
+        "outlet": "MVS Noticias",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRGV6SzNIWHJlSGp0MnFIMVh1aWRSenhQX2NvS0VLTWpLRDF4TDZoTTdqaXd0dmhfSEhvdE95SHUxbnV4UDVINnI4ZUVsVkJRVFZaT1NQaEVrREFWbUZRcVpjalpXYmUwRnZYamxrWmdLYU5vZUdPbEJiWTNSd3VQVUZSNWhkXzUzMEJDM0VaUVBUYjY5Q0dZLUt3NEQ?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVFV0UEhBYlFvbHFlV2JaUklnX0d1RDh3SlZUVllMMWFOOVFNSVdqTnRiQkNzZ2gxUGR3ZGFjanIzaVhzaWN3aHQ0SXpDS1k1bVdmdndpN25xdFFJUXB0aVh0R1d5TnRvd1AxRURIMHBuLV9aN01Nc0RwRXhWNlBhWHZ4eE45Qjd2dFVN?oc=5",
+        "line": "wire"
+      },
+      {
+        "outlet": "Audacy",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTFM1Mi16VzdSSmNvQm1id0tiR19EcGZyZ2lRZkJuTnhqRFJFbzczUHNBVjJRX25HUWx4QWhRamQzbC01eFVoTjd6emFoNGJva1A1TEJiQXpYZkQ5ZTg1bEs2U3piRkZCMmNGV0VHWmJrcHVMUzl6WHZXZUFlM2pEWS1tNnBtZE5xTHFwRV9wcVZidFpWTTdQX1JXRjY2cjJERURlbA?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788498074212
+  },
+  {
+    "es": {
       "headline": "Noah Allen se va al Chicago Fire y despeja el camino de Messi hacia el récord de apariciones",
       "dek": "Inter Miami cede al defensor Noah Allen al Chicago Fire por $3 millones, y Lionel Messi queda persiguiendo un récord de apariciones que no podrá romper hasta 2027.",
       "body": "Inter Miami transfirió al defensor Noah Allen al Chicago Fire el 3 de septiembre de 2026, en un préstamo hasta el final de la temporada. Una opción de compra obligatoria se activa automáticamente al término del año, haciendo el movimiento permanente por aproximadamente $3 millones. Esa cifra regresa a Inter Miami como Dinero de Asignación General para la construcción del plantel a partir de 2027.\n\nAllen se va como el líder histórico del club en apariciones con 133 partidos en todas las competencias. Superó el récord anterior del portero Drake Callender de 118 apariciones a principios de este año. El producto de la academia de 22 años debutó el 26 de febrero de 2022 y ganó dos títulos con el equipo —la Leagues Cup 2023 y el Supporters' Shield 2024— antes de su partida.\n\nEl movimiento prepara una persecución de récord para Lionel Messi, aunque no será rápida. Messi ocupa actualmente el quinto lugar en la lista histórica de apariciones de Inter Miami con 111 partidos. También posee los récords del club en goles con 98 y asistencias con 54. Incluso si juega cada minuto restante de la temporada, llegaría a un máximo de 130 apariciones —tres por debajo de la marca de 133 partidos de Allen.\n\nInter Miami tiene 13 partidos restantes en su calendario 2026, incluyendo un partido de la Campeones Cup ante Cruz Azul, más hasta seis posibles juegos de playoffs. El calendario completo le daría a Messi hasta 19 partidos, aún insuficientes para superar a Allen en este año calendario. La persecución del récord se extiende hasta la temporada 2027.\n\nPara la dirigencia de Inter Miami, el acuerdo libera un cupo en el plantel y convierte a un activo de cantera en flexibilidad salarial futura. La cláusula de compra de $3 millones, reportada por Michelle Kaufman del Miami Herald, llega como Dinero de Asignación General en lugar de un pago directo en efectivo, lo que influirá en cómo el club gasta durante la temporada baja.",

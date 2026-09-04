@@ -1,29 +1,52 @@
 {
-  "at": 1788481987097,
+  "at": 1788498074212,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "The Missouri Times -",
-        "STLPR",
-        "Kansas City Star"
+        "Israel National News",
+        "Jewish Telegraphic Agency",
+        "Jewish Insider",
+        "House.gov",
+        "WRNJ Radio",
+        "Al Jazeera"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "MO Supreme Court allows ballot measure strengthening direct democracy on the ballot",
-        "BREAKING: Supreme Court Clears Map Referendum for November Ballot",
-        "Missouri Supreme Court puts Respect Missouri Voters plan on November ballot",
-        "BREAKING: Missouri Supreme Court Orders Initiative Petition Back on November Ballot",
-        "Missouri Supreme Court puts referendum to overturn new congressional map on ballot"
+        "US House passes bill cutting aid to colleges that participate in BDS boycotts",
+        "US House passes bill stripping federal funds from universities that boycott Israel",
+        "House passes anti-BDS measure, even as most Democrats voted against it",
+        "RELEASE: House Passes Gottheimer, Foxx Bipartisan Bill to Hold Higher Education Accountable for Hate-Driven BDS Activity that Targets Jewish Students and Professors",
+        "House passes Gottheimer, Foxx bill targeting college boycotts of Israel",
+        "Advocates decry US House vote to defund universities that boycott Israel"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vQ19YUHZObWd1REtWMzRxM3pjR3Q1WTNqakwxZzFMZWRPLW9nLWxCV3pUa1djc1kxVjFSaW5hZW9RQ2xtTzJNcEpGS1ZyNERONEpyNUtNcjFHUzNmM1pWeDlVSXB1X204X0h3TzVYZ3lkSnJRMVNCM2lkQ3Nrd9IBfkFVX3lxTE9KQWM0SWNNb3Uyd3FOQWVnMlJSbUpqb3FuOGFGWlJYeXZoY1ZINVhnYW92TDFJNHRMLTFGeEVwZk5KY3BvSG1BNkptN0hUOUowN1pCSDFZSFNWVDNEZ1dQdExsZlJ4Z0xwVU5JSkpTLWxnNFpWRGxTRG9nU0o3dw?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYW9HMlJsT3FTM0JPNkZwSnY3UHRMeU9tRjhqa2hyb0hFbnVlWENqT2lSYWdrQVpQeGlRUTNTdUtnOFJYVGhJSXlSWktnZU5BdVAzLWNjOXRrVFFYS19Bc1JsVHVqYWRTTDZWNWJkTHc1MUNMdWlPX2RCUk50am1QTDBBckZMQnkyS0JBV1pIemVDNkEteldLZU1R?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaWx0V2NQUy1CNXlSbTJlQzNkSWJjQzJKb3IzQmZ6RDB1ZGEwSjNEcTdwcVFPSlFaYW9IVzJZb0tyZnVpbHBhRWRCaXpIM2prT1BXQkNvT1Nkek9zRGJSN0NKcWpCaHA2eDdGZU52UDJEVElYUG9sNEpCdDBXWmNWNzZFcVlEZy1VZjktV2cxZGxRV21ROEtpUTBVWVVBajFsa0U4TW54SQ?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRGM0TmxiNGVHWWtxMXdHMjBrUHJvc214VVpDbjVjYk9COXJPTEt1RklRUVdIaWZDWUE4d1V0czY4RHhoT0EwYWRHUHpHMUd3aWc1M2RfRmNMcVJia19GMC10dTFuYU45WTZJRF9jaDZ4aWNvN0VYTUJBQlFES0Q0M3JpVmhkendfTG8td3F6Skl2SzFwX2ZGOTRRRjhoQzN3dkxPZDdBRy1yMkFWNDVOdHBn?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXM2d2l0UEl1blh0ekJGNEJTSUtnNXJLQ0c4bTE2d21obEJxYkpIWkM0YVFIOG9LWXBLMlREZWI1bDR1THppVXB4UldCYmdnbHEycUktRzJGM3NRaXhpcTlNeXhMbHNMa3J4R2FtWVY3dkUtcXNPMG9rdzFza3VSbm1KMW9IcXJYckhqRDV1LU9UNEZpUFd2QU56bHpuUGxjMnR4bzBjU3ZfNzctMFJCZg?oc=5"
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12VTJHbENFMFRWOXZkTzBpblIxU0U2QUh1ejczTnc2bzUxeF9xSUpoMzRGOFIxTHY4aUNWUVZydnQ2SjRNb3h5b2NIeFZrMHhGX3VqTkxqNGVvZw?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWUVDZXBZTWI1aXNpbm1teHF1aXVybnBVNDBhd2RIMjRHeTJvSEM0cUJMVmQxOHRiX1ByRG55bXpOaWYtREk5NkVWc2JrN0NEZWl4NEsxeVdRWENwcGphY0RMbWE3LXhscTlxYklKV3BrWENabkZTVDdCdklOLUFQdEVrV1czT1lYZmRMWmRLTHUtYmM5bEh0U0RIdThjM2g1YkpmSU5ZTnMxZ0ZBbkxPaGI5QThqY041YWtjM3pwSQ?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2dUX3BzSWNNdUNQVHBjRFU0WHZCZHgzN3FOaWlWQmp1aUZBYklpamkxajQ3V0hoM1JtaWJCLU5vOHBjT052cnBrbnotMksxWUoyWGhDOGZBOTg2QW5wNUx0Vi0wV3JhX1plRGFPOTNOS281NGh1bU1EelZaTGdud2Y5TE5UaENkRi16NUVESzdtN2xZTzZrUldhYXpraV81a0dmS01KWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiowJBVV95cUxQX0huOWVyMGptZ1hLZ1lkVWM5YU5LNlE5Zm1zVnpnbURobUxCQzNuaVYtWjJqekFweUZjbzhyS2N3ejZfRklILWRJMjBUU0ZIcEZwS3hTRjA1Qk9sNUJqQVNLU014WGp4cnRuRENaZS1oLVRlS1ZGbjk3QU84UF9MY1lLbWZ0d0hYNm9TMGkzZjZhSnJvWno1aFY3MEo1amxockdtcGF4VFd1MFdxb2d0aXNrUXVEVXZFZU56WFJlU0xWY0pkREtvUjE1a3dDZ2NGek1JRUlJV3hMYnJpb2kya2gxa2FvNmkzc2VyeWVrVzFiYzJuZGJxdHRRRzd4SWxTMzdHbmRIVjhwUV9XRjM4QWdBNm5fdFU4a29zd3N0QkxzV1E?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUzVOcTMya3dBaktPd3hSZ002SlFjMEdFS3N2Tm1naWlZbkNmRmRXcTBPTjMyaXp1cjdIeGx4YTBJNVBEWHdZYzNWenVOS1c0WE9PRk1kYlpjQlFEb3R5c25HeW0wUHJOWko4YUV6NVpWS1RwVDg4dUxrU3hmRzctdnZYRmQ3Wi1lNzdDSmZRQTJjY3ZBNmxsTg?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUndXOWRnQVFiQ0RURjdPc2pRd3ZjeDRuSlpiUTNQMURsQ0EyVEdQZXZUS0NLZmMtYjE0dU5PRXZDYUZ2eHA0UVRKbUloeUQ2eHBna1RibnhCN2dQdm16LTBmNjhDWXZuWmg2ZjJud0ZoZGc4VmtMWmJxQkRHeXBUM0VUdnF4cnhzRDFwZ1ctbWJVVUkzYWdydHpqQVY4XzltUnA1N21QbEkzMDdmTTU5S3l30gG3AUFVX3lxTE9SSDIwVGhBNnZ4ME5JR3pOOEhFaGdMSUZaVHZiRkpzNDNieVM4QzN0N204djVZdkVqaEdrOXhYNjV3dzVxcXl6Qkh0UGFOVnoySGhBYmZLRG8wZG85R2hseXdacHpPa1IzZ0dpQmpXYVphYWZleUFITmVmeVVfd0JFTEZSZVg5VjgwSXliSjFtUTlVV3hocGtodHRlQmJGSUd3MVV3Ti12VC15cFVZZFozVVdYclppNA?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "AP News",
+        "Reuters"
+      ],
+      "lines": [
+        "wire"
+      ],
+      "titles": [
+        "Argentina’s Milei escalates Falklands dispute, seizing on Trump comments and oil tensions",
+        "Milei vows tougher sanctions, defense push over Falklands oil drilling"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY1lNTlZYVnlEZzFmQlBIb1RlLV9oN1lVZU1XUUwwaG5LSkFfSnRXR25LaDRmbGZaUUFrR1UwUk5fUDdMMjNMWm5EX2JPZGJYWFp0SG5ndl9sVWliVXdtRnkza20wSTVsaU9yVXFwZEh4dTI2M2I5dVJaSWV3Y0UyczNRSHF6Mm1ZVHRqWVFlVVkxVnpGNDlsUUxrZmZqdFJMbERkVTVmbVFSeVdUZERTdG5JdWVhWnRHdkRUYjUzTlp4LVVRM01GcEFR?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWC12Z296SlNKWlV6Ri1jMnR0REN4SzU2TXhGUmhRTTV4NTZxU0tFZWcybU1YdjJjU1FxMUVqSzZRMFhwMjlrdVRsVG8tMXEzdzIxcU1rTEZoZ01XekhHM0Eza01aanl0QnpHWGRBNHJ1OThZbHZoMDNVR0xvcFhFQjBzdGkteVRBZW51VXAya1hLZmJaTUhBZGdWTV93djlmcFFHWHRqUmxVVXh2eWdjOHR1dEh6TkR3V08yTQ?oc=5"
       ]
     }
   ]
