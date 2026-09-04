@@ -1,112 +1,82 @@
 {
-  "at": 1788550594571,
+  "at": 1788558639745,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "The Times",
-        "MassLive",
-        "The Des Moines Register",
-        "Community Impact",
-        "Kansas City Star",
-        "whyy.org"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Massachusetts general election 2026: The key dates, candidates and ballot questions",
-        "Catch up on Iowa's wide-open midterms for governor, US Senate and more",
-        "Q&A: Meet the 4 candidates running for lieutenant governor of Texas",
-        "Who will win the 2026 midterm elections? Polls and predictions",
-        "What constitutional crisis? Hoskins and Hanaway detest Supreme Court double loss | Porter",
-        "New Jersey election 2026: Voter guides, key races and more"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxPczJrLVA2LXhiTjNzNmhTMWN0QnN5SVRuRWF3YTlSYXJMQ25ydkJhSWJ0bEUzdVU0WjF5YktvZGNFRHp1d2ZwMWh3X24zdzJYb2xMcmtlSl9lbGNJVno1R29YdWNHN2pYdGh4N2tyczE3UHVUaENhTVpieHpyeEt1WlNSS0EtTndFWXhmaEl2SDE3TkZUTGpfaWxoazF3bThpT1ZuNklSQWFHN1JjX0E?oc=5",
-        "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONS1ua1BnRjNPcGVnQk9URTFsaUh0WWVRcWNFOG1LbzZaOWdTME5tUWxrTVZpNHEwUDl2cmE2aDZxZHBKTDc5Y1R5ZUZPZm12bVE4OUpaWHJTQ2RCM3VNUFN6WElnY1NQY2dfWWg3UWJEZFNwZUZHUEtmeHJINURCVkdtYnFxMndqU0xIV00tMG5aanhhSDhXdFJnUGVJNVdabnNCWTRpaUxYNlVzOW9BMG00WXNwT1cyeG5wVjk4WkR6U3p2VTlqV1NzZzZpUkxCeFJaWHgtczFyTUkwcXZyemRxUWkxekJKRjVSbg?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRThpM2JqM00tZ3dsQ3VCamNnMUdBYVNzeWJxckpBVUhZVVBNZG1aMTlKVHlYb3BWVnd4ZmF1REJUOWxjSmIyZnlqa3FpV0lqeWJ4R1VfYWRpS1JQOExLZ3VxZ19qbVZ3LW00c1BnTHd3ME9JMTkySVRHVldwVzJCdXVYWnhNY3g0cExQSExkX18ta05FejZJZDVXRVVqRXpiZ2NBUjEtODhiQUlXdzJYcTk2N3JNRTc0OVIw?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnpCV1NDNnk4SXdjQkEzNjhGZUIwTWJhVDlQZS1NZGRnNzdDamRHR0Q3M0w4djlsT1BvZWIxaWpVakVYbk5rUHJfZkJlQ18wNlBjZmM3cEp2ekhPNG1jd09CWFJUQWVORVhxRjh2UjBuQVkydGxLd05UR3JCVEYzVXltcEpSRWVXQlVoZEdsNmJaVFM1ZTZFcERta19lVWtZZGs0dlhEMlUybGItRGwtN0xXVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RX1hZb243QjJuMHMtSDB6c3VTVXBMSWVld3c2LS1XSGhGRDNoNjYtNEdiWUdPSmF6MG44el80aGstZ18walctT1VKcDYxSEhEbExPYVo1ZGthR0JCVUN3bF9VVWlWTnPSAWdBVV95cUxNVkdUWEY0dEl0NVRaOTViQm5QYTlmeG5fRVdLNVdXWEtfa0FiNkVNb2JIbWFYN1I2TUE4LXlwZHQ1cTZoYW8zSFZoczAxZHN5aThxcDNraHZiMzJfYnNNVlllT1BpbWlR?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlaEhXXzAybnN2c3RvMXp4eXRrZ0hFRGRxaE52YlB1WGkxQzJzbmdFRldBS25GM2NPU294ZFJveHRTekhrRy1MVjg4dnpDZHdIdEMwU0JuQzdjZVNEU3dSM2dBajJfQU5hQTB1aVBMcjVROHFHTlRHQ2RJaTI?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
         "Source New Mexico",
-        "Lincoln Journal Star",
+        "KETV",
         "Nebraska Examiner",
-        "klin.com",
-        "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-        "Dakota News Now"
+        "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
       ],
       "lines": [
         "center"
       ],
       "titles": [
         "New Mexico Supreme Court denies Democrats’ push to put 2 replacement candidates on November ballot",
-        "Nebraska Supreme Court rejects legal challenge to medical marijuana",
-        "BREAKING: Nebraska Supreme Court upholds validity of state medical cannabis laws",
-        "Nebraska Supreme Court Upholds Voter-Approved Medical Cannabis Laws",
-        "Nebraska Supreme Court upholds voter-approved medical marijuana laws",
+        "'The voters win': Nebraska Supreme Court sides with lower court, dismisses medical marijuana lawsuit",
+        "Nebraska Supreme Court upholds validity of state medical cannabis laws",
         "Nebraska Supreme Court upholds voter-approved medical marijuana laws"
       ],
       "links": [
         "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMGk2M1F3ZXR4MHAxZUl1c3M0WmQ2d05zakhzMXg5TnlfeG1Qcm9wSFhTVTE1WmpWTWFfekdETkVZdV9DUmwyYWpZM05Vc0NZNzhsQkprNTltTFBCQ3pONVcyaG5DbklFeVpLcHZmNC1tVmlsZmxKS29lNkIyXzQ0Qm9QZHpzT0NtNkV3bkJ4R1FLY09EdkFWb2ZILUpZclJtZW1BUlJqR2Y3cThDYjV6VEk5eEprVjBYODNZVkF5V1poRS04RVhhemVn?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdGs3QzN1bUFMaTEtbUtxZllmVEQwV1RiSzlWUHdNbWtEbjFFclVrRFk2MUg0Y0xYT3dmRlA4dHlQU3RtTXp2MmZ0anlwNzhhOVlnclNJb3FEcURncGtiNmJZRXZSNzNLVmF6cFlJQ0h2eGI4YlJRcDFWaFlFbzIxRVY4MndWRmhpRzI3dnU4NGtxVWdTczBkMUh4UEhkWHEzRUdpRGFwYS0wNVZtTE9PeDBfMA?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbS1uWlRIOFV5bVQ5eFlZQ0tFNkRhSHIwVkRueUlabjlBMURwNmVSekVpYTBfNnRuWUVQNzJUY05sV3FJZkFQb19CLWwwdFl3QVl6aklOX0ZrMmxOMVZqdGE3Y0NXNVpKY2wzbFQ1aG9sczBTQnVLTm1KdGxCdlYxeDhwVE5OTTM5Y0dGelhQRXppSmo2di15UnJOTFFGTC1ySEdpX18wcXp3QnVPZERPMlZucVBwcFlHVnVpNnAzRndxZW5tRHVUaw?oc=5",
         "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWZyN0w2TWNYLU1IVjNWTUF0LUdsNF9NdllWbEhtdFN6LXZVLWlTSGcxRTJ4cXJLT01RUEtreG0tRUcyVUIyOVRPVE9xOHpoVEloTXpkak94b2Y2aG9kODVQMXFsUmRZemRnTV9qbkdoOElPNmxsUGl1X3dfTUpfU3FqeWtLY2JEMTJKNmc2bkEwVl9ybU1aNDBUWWl1dmwxYVE1UDlRd3E3MkRvRXA2SA?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY19NZ2c0ektMMXhlZExKb0trYTdRM0tPbUhSb1RXRFJ6cVo4NFV2X3VBQ1pqdmJ4dS04TmFPbWpWaG84SjZ3WXlaVVIwVWpQSnlhc2kzOGVRMWI3bUtVT2d6cWlldG9QZzRtQlJmMnloU05FWklPU0R0Zk5tbmRqbk9zSTNucE9LdGhndmh2b21nSUJrc201X3VyVEg?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWG5SN1ZKUTJoNURESTRlcnl1WGJNMl9OaTBzMFJabl9ZZ3FBMUJReHVtcHA2WFNjYWdYNktuXzlnRjNtTXN0UXFZb3JKTktaUEFFUncyUnRpX0NvTk5DcGprMDJZTDhYYTlUUGdOcUtCOXdONFVxZU1VT3BTLW5fUHlMU2Q3Wk9EQTRkYV9KUWRkd3c?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZmtCbnFsS2pqc0xoN3hXc0F4MGZ4VkdYdENoQzBrOWZseDJfd2VCQzlGZVllUmtIM0xwU3NkSjJwcktfYXpHYy1PQURqdGdfV2QzSUZ2VU1TeWZXVDZFZ2x6cUVfR21tdkR3NU96MmNhMHhQNFJnekdodjlscGNhNGhNbW1vMV9oOFdBMV91Wk1QNTQzODBfWGZqaGhvVTBPWVp1d0dNdDJaNXRaVllr?oc=5"
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWG5SN1ZKUTJoNURESTRlcnl1WGJNMl9OaTBzMFJabl9ZZ3FBMUJReHVtcHA2WFNjYWdYNktuXzlnRjNtTXN0UXFZb3JKTktaUEFFUncyUnRpX0NvTk5DcGprMDJZTDhYYTlUUGdOcUtCOXdONFVxZU1VT3BTLW5fUHlMU2Q3Wk9EQTRkYV9KUWRkd3c?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "wng.org",
-        "KCUR",
-        "Kansas City Star",
-        "stlpr.org",
-        "Missouri Independent"
+        "denvergazette.com",
+        "Politico"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Missouri GOP candidate planned to frame rival, FBI says",
-        "After Missouri congressional map ruling, Republicans will ask U.S. Supreme Court to intervene",
-        "What does the Missouri Supreme Court’s gerrymandered map ruling really mean?",
-        "Hoskins vows to fight on despite stinging rebuke from Missouri Supreme Court",
-        "Missouri court refuses to delay congressional map ruling, setting up US Supreme Court appeal"
+        "Supreme Court slams door on lawsuit over New York COVID-19 vaccine mandate",
+        "Confirmation of measles death gives Pennsylvania governor another chance to call out RFK Jr."
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2pJQjYwaEUxb3lybjhJS1lYMEFrUXBSdjJPX1RfejgtQ3htZk1lZlJGUnpmQjd5X244bTNWWUlGY0hZR1VldkVGeC1UTEdPNTJ3bEQtSzFDOHE3ODBPbjV4OEc2SFg2MmY0U1pBOTBmWWVlTTdjNGQzRzR2X196cGpWRlo3UjZibEdsUHA2alpkSVNQVzg5MEgtWi1aZw?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUFhlY0dUUFp6Vkh5NXZuX1gtcGFvSDlsS3hvLTZuZ19haGNMdEZkSFVzZzcwN1hvc0RrYU1pSzJ2TVRCT0EtZWpuRzZNTEtlWFB4SWlGUmxfRjlHMXhyVFhjbUZDTnc2WTRpdzF0UGdTdkpVeWNUU21sd2sxQTlXZHNtV2RSMUVSSlVabFBjNkJwLVJfMFRvblVLRFZ0bmlma3V3?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE56eDJCbVBUTUdWanRlM01VYXZWOTB4cDZkdEZvV3Y0UGFzWGM4V2cyWUk5X29ya1BNVFJ3U2JXdk5kbEpsY0ExbDBsX0swUVB5UHljZHRJSHhXUk1ONHBIYXdWT0hSSlBSQjV1YV9remtGQ0lYbElGZ1VjcTFNdw?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFhfekhXbnB1eXJNTFdxLWlhb3FJb3pfZ0ROWkpHN2N2elBqWHZaOXB0ME1yR29QWVB1bENLTnUxa2xBSFpuMWN0cm1qRjg5VlpoM2t3RFVVbDR3S2tiWVp3QU1PSEhuRlBudFBHVEk4eWhhWi1lclM0YjdkczU2UVdSNVU1S1JOQlRYTk5NSl9QSjZzR2JVOThPb09nUWk2M21tREVZcktZVDF6Tm0wa0NJT2o5Zw?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVlZOeFh2VVYtYllOT25KN2RhNDA5YzVtdFdOdU5vNy1OSnlfX0M1bWVMRDJodDBZOGgwZmxfREVjQ1VSR09hQ3VSUFMxZzZsN0p1WjM0TTF5RUotRGNmLU1IVW9tbTdaV2twVHFJZWhTYk0tdUpGNFhIbkpBLXYxRW00OUtZWFZVXzh5d2M0Wk5uMEdxMURQX1RuTk1XWjdtWklhd0VsVmpMMV9jRmxFalpmMk80cU0?oc=5"
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxORkFxSGlJQ1BLclZJYmxuN00zNWEtRzRuTnE3N0ppc2w3azRGZ1V3cVh2TGZ5RlNtUlZVOVQzdFJyNkVBUVBYd1NYaXpfVXJHcE5zQTE0ZW5UOFZoZ3dDeVhrRm5kTk9IeTM4Y0FIUGZBZG5vclJhOVprVVJLdV9WRklFS0Uwc2NFODVUaTJQNVZwajljaEJqMjc2OXQ0TnhKWmRkd1pMcmxIQTJYSXVyb0NiYnplRGs?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWjB6dkxmbDllTS1yNVpjVTdIZmR4YlRielBJdlpPcVpNcUU0NDdSVF9ENVZ3UmxJMDByaXZLdG14ekhnZXBNM1N1cExHYkR0MUQtZ09Bb0FZZlZ3OFJXcE9MbU9RMnNRUGJ1SndJWkpWOVBxbXlQWU1YVE82Ulh0eXlaTGhLNW9ubzA0bVFTTWdObEtDWUJHYw?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "Latin Times",
+        "Billy Graham Evangelistic Association",
+        "news.bloomberglaw.com"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Federal Court Says AI Child Sex Abuse Images Are Constitutionally Protected",
+        "Constitution Doesn’t Include Right to Clean Water, Court Rules"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeE8yWkdUeTlkZ3k5R0VVdGJUVVJjNkZmNGtvQ1d4bndIQzluVk1TUVkzX3BsZkhWNWYxUy1WU0N4MVNXTDloQ0JSdW9sRGgyVmlGcVluckFpRm9LTG9tY0Rla2dZZ1BzQ2lNeGd0RmxTQ0RjcDF6NnlwazhqMFc0TmR1QkJNNmhscl9XU29yWS1LOWdXQk85N2pVN2RvRmVLQW5raXJLT0FWRnI2SzcxSEJ5bWpRd3RfM2Q4MmI0eWR1UVcz?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONkZuN1Q0RGlYYmhOVmp0RzVfZEMzcXhPcVNkV3BCQzJiVkhLWm1GZUZnSzdLeXA5TnZCbDJHOWpPYXVfMUpjQ01hWDJ0c1VCVE5yMUllWElqamxMR3pWXzVXU1hPYm9WWFU5bXNoNUhOZ3BWMUFsUkJ4SFBidElPdVFSaURpODhYX2tqRmlzZTZjekV0djh5RHhuZDdLa3VvclQ2YWVtM28?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
         "facebook.com",
-        "Hawaii News Now"
+        "Clarin.com"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "President Sheinbaum Demanding the U.S. To Stop Rerouting Deported Mexicans To Guatemala and Honduras",
         "🇺🇸 Estados Unidos ha enviado a casi 3 mil mexicanos deportados a Guatemala, Honduras y Costa Rica, en lugar de trasladarlos directamente a México. Ante esta situación, Claudia Sheinbaum expresó su rechazo y aseguró que “no hay razón” para que los",
-        "Supreme Court Justice to issue decision on Clancy defense's request for emergency relief"
+        "México destaca coordinación antidrones con EE.UU. para frenar inmigración irregular"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeTJFamxCdEVhM2hfRHlSV2R5bG9oSF90ejVMODJ6dkNzMFZyb1lqLXFkeHRaUmFkYnh0UU56M0hmdTJscnFyU1lnZzNRTF9HY0FwNUszQ085YnhBcTE1MUlxbXgtQ09WZ2dXUlplWVRBOWpMbnZwTmg4RGJpeWZxMnRfck9IUWFpelVZdG15c3NqVlcyNWlIVmxJMjJ0bFNWUkU3aVh2ZkZUWlA4OVU2Y2tqM1p4Rk55VVE?oc=5",
         "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOXFYaTJqeXB5Nl9iV2c0cVkzQ1dPWFpvcjhJZ1JFTWF5VkJRY1I4RUtibTdCRDBXa1FadjVKRXFLSHdlV1Rxc2t2Q1RIQ3hURW5VX094cjdWSUdLMDZFYzFSd21teEFjbGNodEZIZkNoVGc4VjloLWpTZnFmQ0loTE9nNDRNblZWODN5RVNlRGZ6UkJJdVZsM3A4ZHZtQTh1UkFVWUVQRmR2ejVQUkpNN0thR1ZlU0RhV0RTYWhoMFItcUJHYW9PLVh6SGkzVzlSZGh5TjBrS0RmQWc?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSXBrZ2pWTWZPQ2czTjRwam5peFUzMHpCdmRBTzVpMFN2TWY2UkRGaG5yS2tMMG4tUWRRSjBhejZnRXJScU5xNjVGck9YWTBRZHpUYWktckYwRGZtODdDbXBGbnFXMXM5V3FiSTh3RFZKZ09GNFQwV1UzZHBQaC1CVzZVbVFZNkIteTZIdEZHWjBxMHd1UzFPREY4SW1zZkxrbXVTdGswVkt3amNDQUNNVnB2dnk1V3ZDaHhyU3RIcjlDekk?oc=5"
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaWFRME4wemN2cWo2R2otWjVTZGhvU19jNkRSektsTDRhMUNGSk9pYjh4bFhkMy0tZjBZZjY4d2pndjNZTTlWWFg4MDB3SVRPcEdYaTRVXzNLVXpxcGE0OHdBTXVUOEJMNDdTR0xwX2JtUkl4b3VMYU1RN1NFMFByS2tueExWMG9TRmdXMUlhVWpyMUhiWkVWRHJ0ZS1iOVRPblVudWNYTGlNOXY2bmhoUWFycWxGc3JqSXlEV003ejJWSHFwM2t4c05MSDVYUGhVZzZQcw?oc=5"
       ]
     }
   ]
