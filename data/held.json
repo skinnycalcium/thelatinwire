@@ -1,88 +1,46 @@
 {
-  "at": 1788594639858,
+  "at": 1788608543890,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "kmbc.com",
-        "Kansas City Star",
-        "FOX4KC.com"
+        "Muslim Network TV",
+        "Columbia Daily Spectator",
+        "yahoo.com"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "AG Hanaway files Supreme Court appeal after latest congressional map ruling",
-        "Missouri attorney general asks U.S. Supreme Court to block map ruling",
-        "Missouri Attorney General Catherine Hanaway takes congressional map case to U.S. Supreme Court"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUFlDZk9uRXlXTEozcm44UFdfNm5jTEJQMlhtang0Zi1CUDEyUnlOREVDWjEwVFVwbzJPakJOdUE2eXNCQ055MEhsNXh0YlFtem5wWHFTamtPRXdyN1FrUXVWU3VXQzNNWHB6RTFFWlN0NmlLd3lyMi05ZHRnNS1GODhRM3AwSWs0cFdF?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE84NlpxMU9nLUx4MTEtb3l3WDVfMjVfQzZlQmdjQ2RkNDBxMjMzRGhHMEdibUZQY2VINUh4dGtJOGxzYmNtR2x2NE5aNVRuVVBfTnpqTE5NcDBLeV81amp2LWN5VHUyRXZ5UGtTakc5Zy1kdnlNOW1yWk9zMll0d9IBfkFVX3lxTE1SbTNJZ0RaVGp6eG40RHVuY0lrVHpYZXFLVWRJSXE4UmVmbmpuZGVBZUh4dGI5aFFWZmFmWHBWSFJxeFM2b0JsQW1Xb3BtQ3d4UmFmMkZDTFpfN09hZHJXWUo2ZFhWbWNGS0JQQTRaTkJzTnNyZVplWXFQTERiUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMVdaYVZoZGR6QlJBbmpzczVVNng3cWZrM1Z0dEwzdDZPOWc1VkIzLXl2cHZsbTE2LWhoUGRTa29abG5zSEFVZENzODBwVFFHS3dHeDNFWjBtaG1GR2k4VUJfY1drRHM0MHNLaklsVGhyd2U4ZlZqdmNPVm90blVueVluZ2g0dC1RWjA4YXFRWnFpU2VfUHFVVjNydUh6bTU5cWtmRXlRYW9XV3V3R01HS2Jsc3dYLTNNTnfSAb8BQVVfeXFMTTZZN2VZQ192WUFZMmxqSENQNzBNeFVXSlpNRUtoMlotbUZZdnRhcUlSdnpnaUdBcFh3VnNObDRCVzRHLThZQ2lOVlpPV3h3Y0JaX2ZkaGthQkk5bnN1QTBUQUZRalp3cjhMUXRZMHNCMG9lNkYxQWxOQi1QeDVacXNiQUExOTZiUXAxM0JKbEstaHp1QjhROG5HeWM1TGNuLVh1Rk50N01IR0tKQTN1dTFwTkhvdkVkSzk3NXVKc1U?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "NonStop Local KHQ",
-        "Idaho Capital Sun",
-        "Idaho Statesman"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Idaho Supreme Court makes an abortion repeal ballot language decision",
-        "Idaho Supreme Court rules state officials must re-write abortion initiative ballot statements",
-        "Idaho Supreme Court: State has 24 hours to rewrite ‘unclear’ abortion ballot info"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd2NReTJrVlV6NUdIMS1LeTVmWFUxcnVZOENXa1RYa0hYeFlTbjFIUURVUEs3UUxCNXFlRlJGU2xDSG9xRlk2U2lhbEtKNlVWVEdNRm45MGoya0ZzcEJtZThxelpseHhSbGhwekRsRXJqVVRkYV9JSkQxZ1FRMjhvTUszcUdFeFQ3NnRuUU03OUR1UUozM0pNVnhFbDBzVXcwNnVKN1NXMTRtd0hxUHJGYzQxR01lbGQxeEFqN2RVTnBKMWpTZW9jTHlTaTU1MER0dllBSW0yVE5oR3dN?oc=5",
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUTlGcm9ZZjB0UnJLUFZPOGxjM2JEY0ZfSF9oSjlHVlR6QUNkT3UzVW52YXhFMmhWNG9YVkZTb2VqQzQyRy15WkRaMW83RFJjejdEQUUzMzdYTzdGZE5GdjNaTE5CaXcwam5jNl9pMEF5NnhLN3A2dU53UkUwSU9VcnBrOEFGd1JFNnZ0ZVY0SU1HMWd6aHBsekRUWXFyQUVDLWRaNDVEVUFNV1N5ZmpCS196b1dULVowa3ZQbEY5WExGSmJlMG5ZSXNldHBZZw?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVTBSYnU4Q2lsclVBeTNpRGlNdm1hVzc0enh4UC0yd3AyYVhmMEs0dzdZdmpMNDJ2d2hmaHh2cF9WSEFqMjN5eGltc1RyZGNyVmNJd3J1dXVDMmtycDFGOVZlb0pyam1JNGhXS0VUZWlIcTBBSUQtNUdHVXpzQzNGSUpZS3VtRm0zeldzREpXU19IYklLSDQw0gGXAUFVX3lxTE9QMGpWeTdsSVdROFpVZThNRWFJY19SY2xKT1NndW9SSGMxWTA1WVF0N2R4R2RfWlI2V1JZMC05Mm5jX0NxcFNOcG5YQjgzbUxKa1FfMnhCWHVXUk9wWVJMWXp2VE10R3BtbTZROVUxQUp5M2RVd19vR0dxcFFmR3BtbzRzRGpVa21vQXVMQ0t4RThmbDVoOGM?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Quiver Quantitative",
-        "Congressman Chris Pappas | (.gov)",
-        "Congresswoman Angie Craig | (.gov)"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Press Release: Young Kim, Zach Nunn Introduce Bill to Restrict Pensions for Expelled or Resigning Members of Congress",
-        "Pappas Helps Introduce Bipartisan Bill to Strip Pensions from Disgraced Members of Congress",
-        "Reps. Craig, Nunn Introduce Bill to Withhold Retirement Benefits from Members of Congress Who Violate their Oath of Office"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNS2E0NThSbzVLQjIyVXVEV3hqR1l3aHdITE5EZ1hTemwzRlVQbjFUbmJwd1pzMVpCM3lLbFdKdTV0bzZuRnhzbmYybEVnU19PeHhjNVZCQUhjWXFsaUE1M2cyeHRNRjN0OHFKckdLdlNTMWk4WFZPbEwxWkx6ekh0OTJEalg4cVp6T0RDaHJqdVR5RWFXb3p6eUFJS0EzNWNYMzBNVmFIMDZIbWFycjFOWV9vTnBVQnVKOUZkWmFnUkthUWxfc0wwZzhnM0Y5MGh6bGRnNm9SY0otNlRLejMwNVdxdGFPVHdqTFE?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ093bnVBUlhfUlhBMlB0aHJkZ3BkQXRCSDVkemk1NjJKRmRKWkJPTVh2aXZVZWowTGtfOHpPYVpXT0lVSFVVcXFlWWpsRDNMQ2ZwTDF3anY4akxVWDVGZUtDQjJHbVVncTc4VU9VbEtiUnhyZHZWNS1Ca2g3TkVYdXRIcGZwRVFOQUV0TXAxLXhUYXB4OTdkWHBPTnE0RkhfbjAyc044Q2NoMHY5QmJqa1dIajlFUUpscms4WEFrSkZYRm0xTzFybmJ3cEMyQU53amVJ?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWlaOW1Kb2dXTVlSMm1mMjhQSHdWOTNqZWNJM2VmWUUycTA1cTRtOHR5bmlOSTJCZmxMaXByWk81d1FzdGNpdWNSbmRHdElXVEdhQldvZWthQUkxZll0cWpKMjlHc21lQlFtdGl0MGhfT2pxZ2RHNDltN1FXN0wxcmhyOWtvWndsbTlkbml2S3lQcGVodTcxcE8tcVRfaG9RVk5lSDBhQXA2WmVpR2RZWmNaS1ZlbzJ3dmRNeA?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "columbiaspectator.com",
-        "Yahoo",
-        "Middle East Eye"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
+        "House passes bill threatening university funding over Israel boycotts",
         "House passes bill to withhold funding from universities that boycott Israel after Columbia rejected divestment proposals",
-        "House Passes Bill Targeting College Israel Boycotts",
-        "US Congress passes bill punishing universities that boycott Israel"
+        "House Passes Bill Targeting College Israel Boycotts"
       ],
       "links": [
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGZsbTRGLUZuZ3NtTll3OUxOUWFPTTZtZE1BMkQwV21fN1d6SmxRX2xScmZsTUtQQlBIRXQ1UGxkR3NTY2lvV0ZFMm1mT2dtdWhVeFdEdUdpNjgtcEhtR0QySktzdFJGOFdtWklYQ3pEVXB3ZW94TWJBczNiRXpEWGlrVFRfZHY4NjRBMHlya0lRdXR3T0p0dC1ua3Q1QzVX?oc=5",
         "https://news.google.com/rss/articles/CBMigAJBVV95cUxQM25tNXBSaDJpeVdfR2dnYmd4Y3BMSExrU21KUk9BcVNiaGQ5LWdnb0VsWlB1R1FCVkF5enQ3QlFjRktKVFlsbnFXQkQtajlRSXBIcDg5Y3BUTkYxbFo3ZWFkZDlWcEpxbWNUaXo5ZEowR1dBek9PVlA4aWx1TFcybHZLQ1E0YnI1b2xZZV9FRUFRMnRJWkxVNEUtbTJlc1VETW5aLXVKS0NXN29YdmdLZGVHcjVWLW1hT2cwN2VmSTM1OS1hS1lrMVFyckFEQkt1bTlzZURKWlBaaXR3NHRLaklHcjhWdEt0QlZORXp1clZDdjFRalVjMFc0Yldob3NN?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNU9ZaHFIZVhhd01tTngxRi1sS0pCSVk5cnJCOHF3UWwyLWJWd2o5aUM2ZXZVTzF0YXpnbmtwclNpa2NTRlI2Y3hqMzJzTFJEX3ZMVkNfWXZraGkxem1vZ21YVDNBM1pBRV9sS2U3R0ZZTjVYLUdkLXc0TmVDMUNXTkRnR0pTS1NBRWF4Q2Z2ZDVhVHRIa2NNWHNzZw?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUw0UU1fYjk3MjN2T3puU2NVc3E3QkE5ejBJLU91UUR2MFBJbDdwUURwaVdxVW8xZF9SdkpfMDJWelBTMFN1a2dFTVE1LXBJenZMek9DaUdtT0VPcy1XZ2lxZEoybjZNR2tZTUs0N2tMaFp2eDNoVmRaVlhqZjg0c1h3aWFsb1hzQ3htdDBzM3ZHSmZOMG9WOGZENWk?oc=5"
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNU9ZaHFIZVhhd01tTngxRi1sS0pCSVk5cnJCOHF3UWwyLWJWd2o5aUM2ZXZVTzF0YXpnbmtwclNpa2NTRlI2Y3hqMzJzTFJEX3ZMVkNfWXZraGkxem1vZ21YVDNBM1pBRV9sS2U3R0ZZTjVYLUdkLXc0TmVDMUNXTkRnR0pTS1NBRWF4Q2Z2ZDVhVHRIa2NNWHNzZw?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "The Arkansas Democrat-Gazette",
+        "KY3",
+        "kfvs12.com"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Missouri appeals block on House map",
+        "Missouri Supreme Court decision to block Republican-drawn map creates questions",
+        "Missouri Supreme Court decision to block Republican-drawn map leaves questions"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSkJ4T0VKeEpOVFI4LVdpdmk4OU5LekY1MUdPaHl6RnUtU1ZVbUpsbVBObC1xbG43bVFiQnVpNW1UWEhrUHVHbHVtbmE1TlNCelVDNkN5a0I2NHFWeEdEVjNKcWlmWHVJTV82Tl9STWNabUlBSTVzdExMSXN3S3lXUlFEREVlQnl4MzgwRA?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYUVYMy1JQmFrVGE4VWdFSExPbEdnYXRpR0loVS1JNFZpWkQyaktUX0s1WDdBNUVVbVlXS29zOUJSeWVUclVpWmgteDI0aF9wcU13ODhpVXBHYkJtNHYwQ1hvWkozdkJNM3dFcE1xd2dBNjhaa001LWE5MUJ2Z2ljajkxdWJfT1dQb0RaMkl2MS1aalR2bDA3MUFvQUFHc1d5MlV4Qk44M0Y5SzRXZW82YkhpcUU?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGpOeFRPT1laR3RWajhWZ3RxWnBhZ3V3S3ZPZGMyY0RST3loQ0xpQy1QTk9qMmVvUnpMdnp5OTJaLVdDQWxReTlhdm9QWEYzbVJZa3BpV0lmZkotbDhoTDhoTV9YeXc0NFpfVUxIdVM5TmV0M3VjRkhYd0xpeDUxa0lFd0xTNm56a1dvZC1BXzY3SnNvbVlTLWFjUkNSbmZRMWE0eGRWOUlCbkJidnoxaWJqUDMtWDg?oc=5"
       ]
     }
   ]
