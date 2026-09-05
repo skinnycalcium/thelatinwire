@@ -1,43 +1,97 @@
 {
-  "at": 1788616859559,
+  "at": 1788626991884,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "CNN en Español",
-        "cnn.com",
-        "Los Angeles Times"
+        "Muslim Network TV",
+        "Columbia Daily Spectator",
+        "Yahoo"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "House passes bill threatening university funding over Israel boycotts",
+        "House passes bill to withhold funding from universities that boycott Israel after Columbia rejected divestment proposals",
+        "House Passes Bill Targeting College Israel Boycotts"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGZsbTRGLUZuZ3NtTll3OUxOUWFPTTZtZE1BMkQwV21fN1d6SmxRX2xScmZsTUtQQlBIRXQ1UGxkR3NTY2lvV0ZFMm1mT2dtdWhVeFdEdUdpNjgtcEhtR0QySktzdFJGOFdtWklYQ3pEVXB3ZW94TWJBczNiRXpEWGlrVFRfZHY4NjRBMHlya0lRdXR3T0p0dC1ua3Q1QzVX?oc=5",
+        "https://news.google.com/rss/articles/CBMigAJBVV95cUxQM25tNXBSaDJpeVdfR2dnYmd4Y3BMSExrU21KUk9BcVNiaGQ5LWdnb0VsWlB1R1FCVkF5enQ3QlFjRktKVFlsbnFXQkQtajlRSXBIcDg5Y3BUTkYxbFo3ZWFkZDlWcEpxbWNUaXo5ZEowR1dBek9PVlA4aWx1TFcybHZLQ1E0YnI1b2xZZV9FRUFRMnRJWkxVNEUtbTJlc1VETW5aLXVKS0NXN29YdmdLZGVHcjVWLW1hT2cwN2VmSTM1OS1hS1lrMVFyckFEQkt1bTlzZURKWlBaaXR3NHRLaklHcjhWdEt0QlZORXp1clZDdjFRalVjMFc0Yldob3NN?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNU9ZaHFIZVhhd01tTngxRi1sS0pCSVk5cnJCOHF3UWwyLWJWd2o5aUM2ZXZVTzF0YXpnbmtwclNpa2NTRlI2Y3hqMzJzTFJEX3ZMVkNfWXZraGkxem1vZ21YVDNBM1pBRV9sS2U3R0ZZTjVYLUdkLXc0TmVDMUNXTkRnR0pTS1NBRWF4Q2Z2ZDVhVHRIa2NNWHNzZw?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "CNN",
+        "CNN en Español"
       ],
       "lines": [
         "left"
       ],
       "titles": [
         "Greg Bovino era el encargado de hacer cumplir las leyes de inmigración de Trump. Ahora cree que no son suficientemente duras",
-        "Greg Bovino was Trump’s immigration enforcer. Now he thinks the administration isn’t tough enough",
-        "Agente del ICE se declara inocente de mentir sobre un tiroteo y es liberado"
+        "Greg Bovino was Trump’s immigration enforcer. Now he thinks the administration isn’t tough enough"
       ],
       "links": [
         "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmtWemZxWTdDNkVpY2toVEV2QUVrSE44emRTMEkxZjltcnBFOW1RMTN0eFZWQjIzOTRKQ01DNXZ2dHVaOUJibVZrRU1mZ0ptWkRmNmZLN180LTRiYjQ2SVUxd2Z1cFFDU2E0czVuNXZOdnFBZzMtQmQ4NzBXaHh5aXQ5T3oyMmlfY3RZ?oc=5",
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zT0tBd0haenI1eHdtaXk5czZKVVo5TUw2djFZMG1vV0ZJUXBHRllvNVU5cU1Uck03NVhtY3YtQmVaUDZGSFp3VjBrcTN3dFpRVTlnSlZCNGpGbU5rX2kwYUh0QWx0SWhfSkxqX1pFTlZ2R1Jmc18yTEtR?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWWdIdTMwOEJiSUpiTi1pWjQ5eG5zUEcyMVRVdURQdUR4Y0dvQ0g1VlVPM2tvek0ySVJRT2l3VngwcmJCeHRPN2VUbi0zVElpZVBYdUlwR2hhOEJBUURBSkI3MmtMVll3bG01bkh0dE5BbjBnX3V1VnlCU0dvdmhrN2dJNmplUGhWcjc0bXZ5U0dfaTlLcnViSDJjbHF4UGxYdmZWZU5rRm9XQXplVVhCSi02Z05ZTlczcmlBU2xTT2dCRzlFcnZUaXZOM0k?oc=5"
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zT0tBd0haenI1eHdtaXk5czZKVVo5TUw2djFZMG1vV0ZJUXBHRllvNVU5cU1Uck03NVhtY3YtQmVaUDZGSFp3VjBrcTN3dFpRVTlnSlZCNGpGbU5rX2kwYUh0QWx0SWhfSkxqX1pFTlZ2R1Jmc18yTEtR?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "WRNJ Radio",
-        "Local News Matters"
+        "scotusblog.com",
+        "The Presidential Prayer Team"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Assembly Republican Leader John DiMaio calls for investigation into non-enforcement of N.J. election law",
-        "Wahab’s move to Congress leaves state Senate seat vacant until November election"
+        "Administration Asks Supreme Court to Lift Block on USPS Mail-In Rules for Midterms",
+        "Trump administration asks Supreme Court to clear the way for it to implement new mail-in voting rule"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT0gzOUNJeEI3TndoOGh0X1FRVm45ZHB3XzFjZURYRjFPalhQOUdnTmM3dGtOaWpEU0dZWkxjaDdaZVhFNm5BS2xmRUNxUEdrRzVYMTJ2WlpieVhydXB6T0N4bzZFN1loRjFta3BWdHR6aW01dVpncGZjYllYZ25GQ0oxRlhoRnY2T0JiMXUyd1F3YzdEM0p2MXMzNkVMbzhxNTEtSjZIbXlSd3pTV3NwRkdMcW1qTHRNWmpnNHNRYktqZGtk?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUlRhemxKZzVRODVNdVhqd1VvenczOEM4RlEwQ1JGUmo3MTdqYVdXWTRZVlBxWUVWQWdtcFZuZ2FmMy12V1JjQzUwMmE1TkhmZ0ZyS2ZFNG04Zmk5clptOUd3VEJfTUJiR3hzamxqUm1haU1SRWU5Z1NCXzhfR25wOXBMd1F2U3pBQm0zU1JtQ2phUkFqVThteS12cGYzcXk5Y2t4cXZOS1lOeERmaG9YdGlBaDZYYUR2OUstSQ?oc=5"
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQmpISnF3VElueHhIM0pHeVVkVWhFaDRJZGQ3ZzBfTFQ3VnZ2ZVc3azlVNVBmVl9LeE40Z0hoeW9Nc25rM0xyNnFLaEE4ekRtREw2LUZkcGJjanpqLXZsTnkxTXFaQVdNVTVHRlA0TXNEaTFnbFNEdmxfWk9YbTQwbkUwakxjUmdEYUlUZ1lZV3FlSUJLa3hLZzNkQWp4MjlYcEljZGpmejNlNXA4T2N2cFNnc2dkdFJtLU4xb2duSXdaR0NXUnNveG5UT0dWUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQenhmcVA1TWNrTW5YUDhUWGI2cElkelY4VnZRUjhTNm1aeGNoRkpYTnNfVzlFNG5DOVJHbWl0RkVYdGhVTGFRa24wMlBaUkM2VXozcWVCTFo1X2JwaTRjUEg5b3BUQXdrTEg2NkxTcU1YMkVPQmViRVZtZG9zYTBRMWpOMTVMSE9saTUtVGxPUWhuYVpXMFBlbmlIOVYwWkh4THNrZVAzbk1wTnJlV0ZtenY3VWJLR3BHVXlkNGktS3F5dllfSE0tRl8zb1I?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Courthouse News",
+        "Honolulu Civil Beat"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Hawaii Supreme Court orders new election in tied House race",
+        "High Court Orders New Election For Hawaiʻi House Race"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMVJmRHdERVM0WjFGRmRRZXZzaUN6bGd6bzdQQ0JiS25MTW0yTmxZOS1Vd2RlT1lYTEk3VXQ3bWNGTVNuZXh4Z09tTDBfdUpybWE3eko3bjR4aXZiUkZjOF9hT3loamlTMFpnMk96NTdSMUJCVExkeGM5QUtuS2ZxMjBVMFhJUDFxRy1hR1RFcUhwRU5tV3c?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVEFNWDVEUGVfM1pmQ3lLeFNSd0xoZXF2aTVGZnpTZkc5MEdDUG9sY1hMSjZBUmxnVks3RndnNkVDVUJWUEJmOU1iTjlxRnhsZTk0dVhYcE9rWHQyMkN4QWd0RmhqbGx3STNJYV9aZFp1Ni1LU3VRZjJ4VDlMdkdtbTVZRnNzcWZVN0FRRzZmaGlCNENDcVlWOQ?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Memphis Noticias",
+        "facebook.com"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "ICE publica accidentalmente datos de 6.000 inmigrantes detenidos",
+        "INMIGRACIÓN | ICE lleva a cabo operativo en buffet chino y arresta a varias personas ⬇️"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSTRrb3lteUd1Y0NDa0pqOVdBd2p2ZzRSQXdHYmVjdGJPR1dLZnVDMEk0SjdlUzhtdVhBRnlON3J5eUVJRldpQ0UxUmxuYTNhYjlOZG5rWDdmSHNzYXlpanpOUVBLVWV0UVZHVHBLMEpPTHp0Z0xFaHZ4Z1F6WUF3a0VXa3ZoN2I5U25rZFcwT0R0d2gzb2hHbFRwWEk4eHZBeE9YZ09BdEE?oc=5",
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVW1IQ3RzZGcxT2dEMjBlMkZBQUNXbHk1dEVyOENneTE0eDVNeGdBQVphQzMxNkxQSS04VXoxdlNiRGRVMnNDN2prcmFhT0NiWGlyMHNYQ1JSTy03aUp6SEVwd2t6RmI3alpiTlNTSmpTVWswajZKOWl4dHhta1pTNExmeS1SNG9reXNuT0NXN2VINnNHZ0J4Z0w1U3hIdFdoWjg5SlQzR19iYXhuYm56ODdjYWpVWUM0SUVwM3U1b0hvZmh4WkRwMjNOU3BtaHM3cE5sRE5kMDZSUHFGeTV6S0xzaERadw?oc=5"
       ]
     }
   ]
