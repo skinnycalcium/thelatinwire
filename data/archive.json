@@ -1,6 +1,211 @@
 [
   {
     "es": {
+      "headline": "El BCE y el Banco Central de Brasil exploran conectar Pix con TIPS",
+      "dek": "El BCE y el Banco Central de Brasil están evaluando si Pix y TIPS pueden vincularse, con un posible piloto en junio de 2028.",
+      "body": "El Banco Central Europeo y el Banco Central de Brasil llevan a cabo una investigación preliminar para conectar Pix, la plataforma de pagos instantáneos de Brasil, con el sistema TARGET Instant Payment Settlement del BCE, conocido como TIPS. Un proyecto piloto podría lanzarse en junio de 2028.\n\nEl Banco Central de Brasil asignó nueve departamentos internos al proyecto. Esos equipos son responsables de redactar las normas de gobernanza y ejecutar pruebas de interoperabilidad. El BCE confirmó el trabajo exploratorio en un comunicado a Reuters; el Banco Central de Brasil declinó hacer comentarios. Las conversaciones fueron reportadas por primera vez por Folha de S. Paulo, citando un documento del BCE.\n\nLo que está en juego es significativo. Pix es utilizado por 170 millones de personas —el 91% de la población adulta de Brasil—. Un vínculo exitoso marcaría su primera expansión transfronteriza. Para los usuarios europeos, abriría un corredor de pagos directo y de bajo costo hacia Brasil, siendo las remesas el principal caso de uso. El BCE clasificó a Pix como un 'corredor de divisas en exploración' para TIPS desde junio.\n\nEste no es el primer movimiento del BCE en pagos instantáneos transfronterizos. Ya ha comenzado a trabajar para conectar TIPS con la Interfaz de Pagos Unificados de India y otros sistemas de pago en tiempo real en Asia. Un enlace con Brasil extendería esa red hacia América Latina.\n\nEl proyecto tiene un peso político que va más allá del trabajo técnico. El gobierno de Estados Unidos ha calificado a Pix de 'injusto' porque es operado por el banco central de Brasil en lugar de empresas privadas, y ha citado la plataforma como justificación para nuevos aranceles comerciales sobre Brasil. Cómo esa presión afecta el cronograma —o la disposición de ambos bancos centrales para seguir adelante— está por verse.",
+      "perspectives": [
+        {
+          "who": "Banco Central Europeo",
+          "position": "Confirmó el trabajo exploratorio para vincular TIPS con Pix en un comunicado a Reuters."
+        },
+        {
+          "who": "Banco Central de Brasil",
+          "position": "Asignó nueve departamentos internos al proyecto, pero declinó hacer comentarios públicos."
+        },
+        {
+          "who": "Gobierno de Estados Unidos",
+          "position": "Ha calificado a Pix de 'injusto' por ser operado por el banco central y lo ha citado como justificación para nuevos aranceles comerciales sobre Brasil."
+        }
+      ]
+    },
+    "id": "2026-09-05-1jvkbfk+oier",
+    "section": "business",
+    "rank": 1,
+    "writer": "calderon",
+    "headline": "ECB and Brazil's central bank explore linking Pix to TIPS",
+    "dek": "The ECB and Brazil's central bank are testing whether Pix and TIPS can be linked, with a pilot possibly launching in June 2028.",
+    "body": "The European Central Bank and Brazil's Central Bank are running a preliminary investigation into connecting Pix, Brazil's instant payment platform, with the ECB's TARGET Instant Payment Settlement system, known as TIPS. A pilot project could launch in June 2028.\n\nBrazil's Central Bank has put nine internal departments on the project. Those teams are responsible for writing governance rules and running interoperability tests. The ECB confirmed the exploratory work in a statement to Reuters; Brazil's Central Bank declined to comment. The talks were first reported by Folha de S. Paulo, citing an ECB document.\n\nThe stakes are significant. Pix is used by 170 million people — 91% of Brazil's adult population. A successful link would mark its first cross-border expansion. For European users, it would open a direct, low-cost payment corridor to Brazil, with remittances a primary use case. The ECB flagged Pix as a 'currency corridor under exploration' for TIPS back in June.\n\nThis is not the ECB's first move in cross-border instant payments. It has already begun work to connect TIPS with India's Unified Payments Interface and other real-time rails across Asia. A Brazil link would extend that network into Latin America.\n\nThe project carries political weight beyond the technical work. The US government has labeled Pix 'unfair' because it is operated by Brazil's central bank rather than private firms, and has cited the platform as justification for new trade tariffs on Brazil. How that pressure affects the timeline — or the appetite of both central banks to proceed — remains to be seen.",
+    "facts": "The European Central Bank (ECB) and Brazil's Central Bank are conducting a preliminary investigation into connecting Brazil's Pix instant payment platform with the ECB's TARGET Instant Payment Settlement (TIPS) system, according to Reuters. The ECB confirmed the ongoing exploratory work in a statement to Reuters; Brazil's Central Bank declined to comment. The discussions were first reported by Brazilian newspaper Folha de S. Paulo, citing an ECB document. Technical teams on both sides are assessing the feasibility of an interconnection, with a pilot project potentially launching in June 2028. Brazil's Central Bank has assigned nine internal departments to the project, which are responsible for setting governance rules and testing interoperability. The ECB identified Pix in June as a 'currency corridor under exploration' for TIPS. A successful link would mark the first cross-border expansion of Pix, which is used by 170 million people — 91% of Brazil's adult population. The move would reflect a wider Eurosystem effort to facilitate cross-border payments, including remittances; the ECB has previously begun work to link TIPS with India's Unified Payment Interface and other real-time payment rails in Asia. Pix has drawn scrutiny from the US government, which has called the central bank-run service 'unfair' and used it as justification for new trade tariffs on Brazil.",
+    "perspectives": [],
+    "location": "Brazil",
+    "when": "Sep 3",
+    "sources": [
+      {
+        "outlet": "PYMNTS.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX3psWTcyazNGYnJoM2tkR2pUOGhTbnd3ZDhxeTFGaDA1NjNIZmhQdFh1YVFIZ3d2NEdJTFhSRFVUQlVLNFBfeG52Y1pyOWRZV0UzOE9UQURwOV92ZFp6T0QyRHd3eVhhMEFaQnlObTNsNXNza2VnMTQ2Q3gzM3FGVmZJaGdWUzc3OWxKbWdDLVZ4SHFQdXIw?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "CPG Click Oil and Gas",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVksybi01OC1UNWhJNU1oZkUtUDdHZWEzdW1zYzRSSXNPQkZqQ0VHSGFLNHVPaGVxUW9BOTFPd3lKRmFhX1o4SXlYOFIyNE8tYy1fcUtYOFlBd083Zk1ldksyOWFjLUYwZEZtZDNFaXd1czBTR0cwSTVlYWh4NFo5aXpUZ2hTVy1yOU9vOFFzcEg2TFo4SE1EN21JT1hxNXYxdmgxWVc5NTNuLWRWbUZYUUlUTUhFbjlub3RZSmg1eTdsNG54WkZRNHotQTgwQXFkSW5YT216cTNFaG1Fek5wRmlUVUI0ZzB2WTY4UzFLTklFWEc4YUprNTJ0UXBlUWUxd2JBY25sWmNQQkJxTkE?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788616859559
+  },
+  {
+    "es": {
+      "headline": "Witkoff y Kushner llegan a Moscú y se dirigen después a Kyiv",
+      "dek": "Los enviados de Trump, Steve Witkoff y Jared Kushner, aterrizaron en Moscú el sábado con una propuesta de paz, con una visita a Kyiv prevista para el domingo.",
+      "body": "MOSCÚ — Los enviados especiales de EE.UU. Steve Witkoff y Jared Kushner llegaron a Moscú el sábado 5 de septiembre, según CNN, llevando consigo lo que el presidente Donald Trump describió como una propuesta para poner fin a la guerra en Ucrania. Trump les dijo a los periodistas en la Casa Blanca el viernes: \"Llevan consigo una propuesta para terminar la guerra\", según Ukrinform.\n\nKirill Dmitriev, representante especial del presidente ruso Vladimir Putin, recibió a los dos enviados en el aeropuerto de Vnukovo, de acuerdo con los medios estatales rusos citados por CNN. Se esperaba que Putin se reuniera con la delegación estadounidense más tarde el sábado, según CNN. El Kremlin anunció, mientras Witkoff y Kushner llegaban, que Putin había ordenado no realizar ataques contra Kyiv durante tres días a partir del sábado por la noche a medianoche. El portavoz del Kremlin, Dmitry Peskov, dijo que la pausa estaba \"relacionada con la preparación y realización de los contactos de los estadounidenses en Kyiv\", según CNN.\n\nTras Moscú, los enviados tienen programado viajar a Kyiv el domingo en lo que sería su primera visita a Ucrania desde que Trump asumió el cargo, según Axios y CNN. Funcionarios estadounidenses le dijeron a Axios que el viaje a Kyiv había estado en discusión durante meses y estuvo en duda varias veces antes de que ambas partes acordaran este fin de semana.\n\nEl viernes, el presidente ucraniano Volodymyr Zelensky dijo que Kyiv suspendería los ataques aéreos contra Rusia mientras los enviados estuvieran en el país y pidió a Rusia que correspondiera, según Axios. Zelensky dijo que el objetivo de Ucrania es tener negociaciones \"lo más constructivas y sustanciales posible\" y exigió \"opciones realistas sobre cómo poner fin a esta guerra\". Su subjefe de gabinete, Pavlo Palisa, les dijo a los periodistas el viernes que Putin había ordenado a sus militares preparar varios escenarios operativos para una ofensiva en el norte de Ucrania, con Kyiv y Chernihiv identificadas como áreas clave, según Axios.\n\nEl viceministro de Relaciones Exteriores de Rusia, Sergei Ryabkov, dijo a través de TASS que \"la administración estadounidense debe tener en cuenta las realidades sobre el terreno en el asunto del acuerdo ucraniano, donde la situación está cambiando a favor de Kyiv\". Las negociaciones mediadas por EE.UU. se habían pausado a mediados de febrero tras el inicio de la guerra con Irán, sin mayores avances en las conversaciones posteriores por separado, según Axios.",
+      "perspectives": [
+        {
+          "who": "Viceministro de Relaciones Exteriores de Rusia, Sergei Ryabkov",
+          "position": "Rusia declaró, a través de TASS, que \"la administración estadounidense debe tener en cuenta las realidades sobre el terreno en el asunto del acuerdo ucraniano, donde la situación está cambiando no a favor de Kyiv\"."
+        },
+        {
+          "who": "Presidente ucraniano Volodymyr Zelensky",
+          "position": "Zelensky dijo que el objetivo de Ucrania es tener negociaciones \"lo más constructivas y sustanciales posible\" y pidió \"opciones realistas sobre cómo poner fin a esta guerra\"."
+        }
+      ]
+    },
+    "id": "2026-09-05-1j2psic+ejmi",
+    "section": "politics",
+    "rank": 3,
+    "writer": "vega",
+    "headline": "Witkoff and Kushner arrive in Moscow, headed next to Kyiv",
+    "dek": "Trump's envoys Steve Witkoff and Jared Kushner landed in Moscow Saturday carrying a peace proposal, with a Kyiv visit planned for Sunday.",
+    "body": "MOSCOW — U.S. special envoys Steve Witkoff and Jared Kushner arrived in Moscow on Saturday, September 5, according to CNN, carrying what President Donald Trump described as a proposal to end the war in Ukraine. Trump told reporters at the White House on Friday, \"They're bringing with them a proposal to end the war,\" per Ukrinform.\n\nKirill Dmitriev, special representative of Russian President Vladimir Putin, met the two envoys at Vnukovo airport, according to Russian state media as reported by CNN. Putin was expected to meet the U.S. delegation later Saturday, CNN reported. The Kremlin announced, as Witkoff and Kushner arrived, that Putin had ordered no strikes on Kyiv for three days beginning Saturday night at midnight. Kremlin spokesman Dmitry Peskov said the pause was \"connected with the preparation for and conduct of the Americans' contacts in Kyiv,\" per CNN.\n\nAfter Moscow, the envoys are scheduled to travel to Kyiv on Sunday in what would be their first visit to Ukraine since Trump took office, according to Axios and CNN. U.S. officials told Axios the Kyiv trip had been under discussion for months and was on and off several times before both sides settled on this weekend.\n\nOn Friday, Ukrainian President Volodymyr Zelensky said Kyiv would hold off on airstrikes against Russia while the envoys were in the country and called on Russia to reciprocate, per Axios. Zelensky said Ukraine's goal is to have negotiations \"as constructive and substantive as possible\" and called for \"realistic options on how to bring this war to an end.\" His deputy chief of staff, Pavlo Palisa, told reporters Friday that Putin had ordered his military to prepare several operational scenarios for an offensive in northern Ukraine, with Kyiv and Chernihiv identified as key areas, according to Axios.\n\nRussian Deputy Foreign Minister Sergei Ryabkov said via TASS that \"the US administration must take into account the realities on the ground in the matter of Ukrainian settlement, where the situation is changing not in Kyiv's favor.\" U.S.-mediated negotiations had been paused in mid-February after the Iran war started, with little progress made in separate subsequent talks, Axios reported.",
+    "facts": "U.S. President Donald Trump's special envoys Steve Witkoff and Jared Kushner arrived in Moscow on Saturday, September 5, according to CNN. Trump told reporters at the White House on Friday that the envoys are carrying a proposal to end the war, saying 'They're bringing with them a proposal to end the war,' per Ukrinform. Kirill Dmitriev, special representative of Russian President Vladimir Putin, met Witkoff and Kushner at Vnukovo airport, and Putin was expected to meet the U.S. delegation later Saturday, according to Russian state media as reported by CNN. After Moscow, the envoys are due to travel to Kyiv on Sunday — their first visit to Ukraine since Trump took office, according to Axios and CNN. Axios reported, citing U.S. officials, that Ukrainian and U.S. officials had been discussing the Kyiv trip for months, and the trip was on and off several times before they settled on this weekend. The Kremlin announced, as Witkoff and Kushner arrived, that Putin had given instructions that no strikes be carried out on Kyiv for the next three days starting Saturday night at midnight, with Kremlin spokesman Dmitry Peskov stating it was 'connected with the preparation for and conduct of the Americans' contacts in Kyiv,' per CNN. Zelensky said on Friday, per Axios, that Ukraine would hold off on airstrikes against Russia while the envoys were in the country, and called on Russia to do the same. Zelensky's deputy chief of staff, Pavlo Palisa, told reporters on Friday that Putin had ordered his military to prepare several operational scenarios for an offensive in northern Ukraine, with Kyiv and Chernihiv identified as key areas, according to Axios. U.S.-mediated negotiations had been paused in mid-February after the Iran war started, with little progress made in separate subsequent talks, according to Axios.",
+    "perspectives": [
+      {
+        "who": "Russian Deputy Foreign Minister Sergei Ryabkov",
+        "position": "Russia stated, via TASS, that 'the US administration must take into account the realities on the ground in the matter of Ukrainian settlement, where the situation is changing not in Kyiv's favor.'"
+      },
+      {
+        "who": "Ukrainian President Volodymyr Zelensky",
+        "position": "Zelensky said Ukraine's goal is to have negotiations 'as constructive and substantive as possible' and called for 'realistic options on how to bring this war to an end.'"
+      }
+    ],
+    "location": "Moscow",
+    "when": "Sep 5",
+    "sources": [
+      {
+        "outlet": "cnn.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNU82NHAyZUtQaVg0RDMyajVhdjNiZlFsaUN0RnZ5SWFDWEgyMnZYcVN2LUJDNkJOZFBnOWdDOHh2T1BPOG5SYWtROVoyd1pRVWwxVjhkNTE1X2I3MW5rb2V6Sm40TGJyRDk5YnJuTDdFMkQ2Wk1HRVlmWkxEdXVrMUdwOXRjM2RPVlFF?oc=5",
+        "line": "left"
+      },
+      {
+        "outlet": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50ck1YN1Eya2xrVTZMOGZQMlB2ckhJbE9UVmJDcXBFYzYzVGhOZEotTEVuQ1R1MElhWk5wWmdoMHg4cWR1cV9WQXNXUXlhQTFmRzRvQ3AyM1JzMWM1ellGOTExU2dFYngwcUYweGk3U3VfSGFx?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788616859559
+  },
+  {
+    "es": {
+      "headline": "La Casa Blanca lanza juegos de arcade para promover la agenda migratoria de Trump",
+      "dek": "La nueva plataforma de arcade de la Casa Blanca revela algo más antiguo y extraño que un golpe publicitario: un gobierno que experimenta con la gramática del juego.",
+      "body": "El 3 de septiembre de 2026, la Casa Blanca lanzó Arcade.gov, una plataforma que alberga cinco videojuegos de estilo retro vinculados a las políticas de la administración Trump. Dos de los cinco juegos abordan directamente la inmigración. 'Rio Run', inspirado en Snake, coloca a un digital Tom Homan en persecución de migrantes a lo largo de una cuadrícula del Río Grande y contabiliza las deportaciones al final del juego. 'Build the Wall', inspirado en Tetris, pide a los jugadores que apilen secciones del muro fronterizo mientras les advierte que 'protejan la frontera de la horda que se avecina'. El asistente adjunto del presidente Kaelan Dorr describió la iniciativa en X como 'política con la que puedes interactuar'.\n\nEsa frase merece un análisis detenido. Los gobiernos han utilizado durante mucho tiempo los medios de comunicación masivos —el cine, la radio, los carteles— para construir sentimiento público en torno a las políticas. La novedad aquí es la interactividad. Cuando un jugador anota puntos apilando secciones del muro, no se limita a recibir un mensaje; lo está ejecutando. La literatura psicológica sobre los juegos sugiere que la participación activa moldea las actitudes de manera distinta al consumo pasivo. Si ese efecto es grande o duradero es genuinamente incierto, pero la Casa Blanca claramente apuesta a que importa.\n\nLa administración presentó la plataforma como contraste entre 'una cultura de diversión y victoria' y lo que denominó 'la oscura visión socialista que los demócratas tienen para América'. Los críticos responden con dureza. Amerika Garcia Grewal, de la Frontera Federation en Eagle Pass, lo calificó de 'jugar con la vida de las personas'. El representante demócrata Ted Lieu señaló un precio promedio nacional de gasolina de aproximadamente $4.14 y escribió 'noviembre se acerca', en alusión a las elecciones de medio término.\n\nAmbas lecturas capturan algo real. Los juegos sí reducen una política compleja y controvertida a mecánicas de puntuación. También son, por cualquier medida, un instrumento inusual de comunicación oficial. La historia tendrá que decidir si Arcade.gov representa una modernización astuta, una distracción cínica, o algo intermedio — y la respuesta puede depender por completo de lo que venga después.",
+      "perspectives": [
+        {
+          "who": "Casa Blanca (mediante declaración oficial a Forbes)",
+          "position": "Los juegos contrastan 'una cultura de diversión y victoria' con lo que la administración llama la 'oscura visión socialista' de los demócratas, y representan 'política con la que puedes interactuar'."
+        },
+        {
+          "who": "Defensores de los derechos de los inmigrantes y legisladores demócratas",
+          "position": "Los críticos afirman que los juegos convierten en entretenimiento y trivializan las deportaciones masivas en un momento de verdadero sufrimiento humano, y que la Casa Blanca tiene las prioridades equivocadas de cara a las elecciones de medio término."
+        }
+      ]
+    },
+    "id": "2026-09-05-1gxzlgm+1nhw",
+    "section": "politics",
+    "rank": 0,
+    "writer": "santamaria",
+    "headline": "White House launches arcade games promoting Trump immigration agenda",
+    "dek": "The White House's new arcade platform reveals something older and stranger than a publicity stunt — a government experimenting with the grammar of play.",
+    "body": "On September 3, 2026, the White House launched Arcade.gov, a platform hosting five retro-style video games tied to Trump administration policies. Two of the five games address immigration directly. 'Rio Run,' modeled on Snake, places a digital Tom Homan in pursuit of migrants along a Rio Grande grid and tallies deportations at game's end. 'Build the Wall,' modeled on Tetris, asks players to stack border wall sections while warning them to 'protect the border from the coming horde.' Deputy assistant to the president Kaelan Dorr described the initiative on X as 'policy you can interact with.'\n\nThat phrase deserves a long look. Governments have long used mass media — film, radio, posters — to build public sentiment around policy. The novelty here is interactivity. When a player scores points by stacking wall segments, they are not merely receiving a message; they are performing one. The psychological literature on games suggests that active participation shapes attitudes differently than passive consumption. Whether that effect is large or durable is genuinely uncertain, but the White House is clearly betting it matters.\n\nThe administration framed the platform as contrasting 'a culture of fun and winning' with what it called 'the dark socialist vision Democrats have for America.' Critics push back hard. Amerika Garcia Grewal of the Frontera Federation in Eagle Pass called it 'playing games with people's lives.' Democratic Rep. Ted Lieu pointed to a national average gasoline price of roughly $4.14 and wrote 'November is coming,' invoking the midterms.\n\nBoth readings capture something real. The games do reduce complex, contested policy to scoring mechanics. They are also, by any measure, an unusual instrument of official communication. History will have to decide whether Arcade.gov represents savvy modernization, cynical distraction, or something in between — and the answer may depend entirely on what comes next.",
+    "facts": "The White House debuted an online platform called 'Arcade,' hosted at Arcade.gov, on September 3, 2026, featuring five retro-style video games tied to Trump administration policies, according to AP News and multiple outlets. Two games focus on immigration: 'Rio Run,' modeled on the classic game Snake, features a digital version of border czar Tom Homan chasing migrants along a grid representing the Rio Grande, with a deportation count displayed at game's end, per Euronews and Forbes. 'Build the Wall,' modeled on Tetris, asks players to stack border wall sections and instructs them to 'protect the border from the coming horde,' according to The Hill and Time. A third game, 'Supply Line,' has players sort food on an assembly line under the Make America Healthy Again initiative, and a fourth, 'Trump Savings Tycoon,' promotes Trump Accounts for children, per Newsweek and Forbes. The White House announced the launch on social media with the message 'Build the wall. Deport. Fill a Trump Account,' according to The Hill. A White House official told Forbes the initiative is meant to contrast 'a culture of fun and winning' with what the administration called 'the dark socialist vision Democrats have for America.' Kaelan Dorr, a deputy assistant to the president and head of digital strategy, referred to the games on X as 'policy you can interact with,' per Forbes. Democratic Rep. Ted Lieu of California criticized the White House's focus on arcade games while the national average gasoline price stood at around $4.14, writing 'November is coming' in a reference to the midterms, according to Time. Rights groups, including Amerika Garcia Grewal, co-director of the Frontera Federation in Eagle Pass, Texas, said the administration had 'been playing games with people's lives for years' and criticized the games, per Time and Euronews.",
+    "perspectives": [
+      {
+        "who": "White House (via official statement to Forbes)",
+        "position": "The games contrast 'a culture of fun and winning' with what the administration calls the 'dark socialist vision' of Democrats, and represent 'policy you can interact with.'"
+      },
+      {
+        "who": "Immigration rights advocates and Democratic lawmakers",
+        "position": "Critics say the games gamify and trivialize mass deportations at a time of real human suffering, and that the White House has misplaced priorities ahead of the midterms."
+      }
+    ],
+    "location": "Washington",
+    "when": "Sep 3",
+    "sources": [
+      {
+        "outlet": "elmarplatense.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZjBNQm1LOFZaVmRYMnM2c0tNbmtUNWdIbWstU1JpUFFLbVYzNDBNQnl1SkQ4aHkzQzhoQzJadGJHNjI4UTVUM3c2WTdwcnB6Y0RMWWFiaExaY0h3TXh3aE1nMDVVRVB3c2tSOE13RHRUYTFoVkVwOWVGZE0zX1hEbTZveDBVTWVmaUJacThkUlFJT0pOSmJNZF9QZmdiSFZDUFdIMEhNUEh0NDh5UkdYbXhCblBrejg0NWkxc2FsejF5dEpIeEluUEJR?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1cwamEtSm5NTkdQTVlJZE5obmZiM1NnbDZPS1BnbEQwbC05NzF1UEEzMFoyMWMxdWJ4SmkwSWNzanpxQjhRMk1iaU0zVXpBdjBJY0VwdVN2ckhRVGMyZlNESlU0S3hhRmJkb3BCemdxbnNZZVFNV2tGQ1FJcjJ4MERaS1Y1TlhDZWhEVVgxWWNwWjdWbGZQbjByOGdnV2h3SmhmbFhn?oc=5",
+        "line": "left"
+      },
+      {
+        "outlet": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2ZjMGhzREZNVm5VeG5uMFZiX0VFbVo1Rk1LaGY0NmNlNXpNREl1VjRYa3E1dkk0QVItZDFQSTFhcWU5YmZHZHVrTUxfNC1vaVZUdHhsNUZGWEU3Ym1xMkM5N05qdGNGODhNeUlLOXV1SUdmTGE3QjkwbWxhNS1mRmRVdlNkQXFZY3NXeTd5U1ZDWHg4UVd0YWpOdw?oc=5",
+        "line": "wire"
+      },
+      {
+        "outlet": "Univision",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSVA1XzVjSURJSGtFcnFJWE1pMHFVbVBjZkxmLXBCa0s4T1A1Tnk3N2lSaXdwTVkwQTJIRjluRTQ0c21PZFRTU0t2UVNKMjBTMFM0RW9xR0pva3p1QVZxT3FXb2YzNC1wOF9uc0Y4b1ZmWG1vMF8tNFpvVzRDLXpXeVpXb2w4Ukx4SGtjRUctNWZxU21ndlFyS1ZDc2dxQjR4dWdJU2V6bW9ib2R1ek9wckh4SHFWbzNQUExnZ0FTTjhkM2dVQ3NUM2I5YXEwV2xmZ3k0QjNZQTZ6eDJJX3V6MEd1Z2lEQkFMR2ZiWDJGM3R4M0JtS3RicS01eTl6c3hmUUVv?oc=5",
+        "line": "left"
+      }
+    ],
+    "published": 1788616859559
+  },
+  {
+    "es": {
+      "headline": "Melania Trump no asistirá a la primera convención de mitad de período del Partido Republicano en Dallas",
+      "dek": "Un funcionario de la Casa Blanca confirmó que Melania Trump no asistirá a la convención de dos días del Comité Nacional Republicano en Dallas la próxima semana.",
+      "body": "La Primera Dama Melania Trump no tiene planes de asistir a la convención de mitad de período de dos días del Comité Nacional Republicano, programada para el 9 y 10 de septiembre en el American Airlines Center de Dallas, según le dijo un funcionario de la Casa Blanca al Washington Examiner. The Washington Post y varios otros medios reportaron la noticia el 4 y 5 de septiembre.\n\nEl presidente Trump, quien propuso la convención, tiene previsto ser la figura central de ambas noches y pronunciar el discurso de clausura el 10 de septiembre, según el RNC. El vicepresidente JD Vance está programado para hablar la noche inaugural. El RNC ha descrito el evento, al que los organizadores esperan que asistan aproximadamente 20,000 personas, como un mitin más que como una convención de nominación. Funcionarios del partido dicen que tiene como objetivo movilizar a los votantes y apoyar a candidatos en aproximadamente 35 contiendas congresionales que podrían determinar el control del Congreso, según The Well News.\n\nEl presidente del RNC, Joe Gruters, dijo que la convención le mostrará al pueblo estadounidense lo que está en juego en noviembre y establecerá un contraste entre los logros republicanos y lo que describió como una agenda demócrata 'fracasada'. El evento marca la primera convención de mitad de período en la historia del partido, según el RNC.\n\nAl menos 45 candidatos y legisladores republicanos le dijeron a Politico que no asistirán, citando compromisos previos y una preferencia por hacer campaña en sus propios distritos, de acuerdo con Politico y The Independent.\n\nEl Comité Nacional Demócrata había considerado inicialmente celebrar su propia convención de mitad de período, pero anunció en marzo de 2026 que renunciaría al evento. El director ejecutivo del DNC, Roger Lau, dijo que el partido destinaría recursos 'donde más se necesitan', añadiendo que los republicanos habían caído en la trampa de desperdiciar tiempo y dinero en una convención que perjudicaría a sus candidatos en distritos disputados al vincularlos a las políticas del presidente. La portavoz del RNC, Kiersten Pels, respondió que el DNC 'no puede permitirse celebrar una convención de mitad de período, ni financiera ni políticamente', según informó el Washington Examiner.",
+      "perspectives": [
+        {
+          "who": "Presidente del RNC Joe Gruters",
+          "position": "La convención le mostrará al pueblo estadounidense lo que está en juego en noviembre y establecerá un contraste entre los logros republicanos y lo que describió como una agenda demócrata 'fracasada'."
+        },
+        {
+          "who": "Director Ejecutivo del DNC Roger Lau",
+          "position": "Los republicanos cayeron en la trampa de desperdiciar tiempo y dinero en una convención de mitad de período que perjudicará a sus candidatos en distritos disputados al vincularlos a las políticas de Trump."
+        }
+      ]
+    },
+    "id": "2026-09-05-1bstqxb+1kw8",
+    "section": "politics",
+    "rank": 7,
+    "writer": "vega",
+    "headline": "Melania Trump to skip GOP's first-ever midterm convention in Dallas",
+    "dek": "A White House official confirmed Melania Trump will not attend the two-day Republican National Committee midterm convention in Dallas next week.",
+    "body": "First Lady Melania Trump does not plan to attend the Republican National Committee's two-day midterm convention scheduled for Sept. 9–10 at American Airlines Center in Dallas, a White House official told the Washington Examiner. The Washington Post and multiple other outlets reported the development on Sept. 4–5.\n\nPresident Trump, who proposed the convention, is scheduled to headline both nights and deliver the closing address on Sept. 10, according to the RNC. Vice President JD Vance is set to speak on the opening night. The RNC has described the event, which organizers expect to draw approximately 20,000 attendees, as a rally rather than a nominating convention. Party officials say it is intended to mobilize voters and support candidates in roughly 35 congressional contests that may determine control of Congress, per The Well News.\n\nRNC Chairman Joe Gruters said the convention will show the American people what is at stake in November and draw a contrast between Republican accomplishments and what he described as a 'failed' Democratic agenda. The event marks the first midterm convention in the party's history, according to the RNC.\n\nAt least 45 Republican candidates and lawmakers told Politico they will not attend, citing prior obligations and a preference for campaigning in their own districts, according to Politico and The Independent.\n\nThe Democratic National Committee had initially considered holding its own midterm convention but announced in March 2026 that it would forgo the event. DNC Executive Director Roger Lau said the party would place resources 'where they're needed most,' adding that Republicans had been baited into wasting time and money on a convention that would harm their swing-seat candidates by tying them to the president's policies. RNC spokeswoman Kiersten Pels responded that the DNC 'can't afford to hold a midterm convention, financially or politically,' the Washington Examiner reported.",
+    "facts": "The Republican National Committee is holding a two-day midterm convention Sept. 9–10 at American Airlines Center in Dallas, the first such event in the party's history, according to the RNC. President Trump, who proposed the convention, is scheduled to headline both nights and deliver the closing address on Sept. 10, with Vice President JD Vance speaking on the opening night, per the RNC. The Well News reported the event is intended to rally voters and assist candidates in roughly 35 congressional contests that may determine control of Congress. A White House official told the Washington Examiner that First Lady Melania Trump does not plan to attend the Dallas convention; the Washington Post and multiple other outlets reported this on Sept. 4–5. At least 45 Republican candidates and lawmakers told Politico they also will not attend, with reasons including prior obligations and a preference for campaigning in their own districts, according to The Independent and Politico. The DNC had initially considered holding its own midterm convention but announced in March 2026 that it would forgo the event, with DNC Executive Director Roger Lau stating the party would place resources 'where they're needed most,' per CBS News and The Hill. RNC spokeswoman Kiersten Pels responded that the DNC 'can't afford to hold a midterm convention, financially or politically,' according to the Washington Examiner. The Well News noted that the headline 'Republicans, Democrats Both Prepping for First-Ever Midterm Political Convention' reflected an earlier stage of planning before the DNC formally opted out. Organizers expect approximately 20,000 attendees at the event, which party officials have described as a rally rather than a nominating convention, according to The Well News.",
+    "perspectives": [
+      {
+        "who": "RNC Chairman Joe Gruters",
+        "position": "The convention will show the American people what is at stake in November and draw a contrast between Republican accomplishments and what he described as a 'failed' Democratic agenda."
+      },
+      {
+        "who": "DNC Executive Director Roger Lau",
+        "position": "Republicans were baited into wasting time and money on a midterm convention that will harm their swing-seat candidates by tying them to Trump's policies."
+      }
+    ],
+    "location": "Dallas",
+    "when": "Sep 9",
+    "sources": [
+      {
+        "outlet": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUMzM0U2R1gzcG5ZSlNSZ3pkcDdqdkI5dDB5WmhoSUhqejh5c2pNMXp0OGlVM2V0bkY0WFJ3aERmX3E2Zi1SMk9MVmlFZGtNc0pBTGZfN2o5czFvMlZFQTVKVENEQnZJVlVVUHhob3lYaUc0RE80RHZOZ2xaa3pYenRDZ25HLWdNUnFFZE1KQ2daQ2RzWlRlanFaMUFVTVBJWnB3RXNhZ285R0Q2VmJxdkc1enZYTjNKQ1Q5d1prUQ?oc=5",
+        "line": "left"
+      },
+      {
+        "outlet": "The Well News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWhnZzFhTDFjQmV3N3Y1Z0t6UzZRdFdxR3FVT3dfeUo3cUdBSGFCamZsZ2dkNjB6Wk9NbWpZUEtHaWs4NXRBZ01NZXp1M0JMTnpKSWZ0TEpGUHBSNHNYc25IRmVEUDVXUjBHUE9Hd1BZVVI5Sy1hakRmczRWZjU2NVdVUVBqX05pTnBhTUhyUzF5MHJLcWZPWFZhSUdrdnNLWHNMMFNxMlR4V1J5a05NcFVHOFhHU1dNNmtDUmlpcnc?oc=5",
+        "line": "center"
+      }
+    ],
+    "published": 1788616859559
+  },
+  {
+    "es": {
       "headline": "La Casa Blanca evalúa candidatos para reemplazar al secretario del Ejército y posiblemente a Feinberg",
       "dek": "La Casa Blanca está verificando candidatos para suceder al secretario del Ejército Dan Driscoll y posiblemente al subsecretario de Defensa Steve Feinberg, según fuentes.",
       "body": "La Casa Blanca está revisando candidatos para reemplazar al secretario del Ejército Dan Driscoll, quien renunció esta semana tras meses de tensión con el secretario de Defensa Pete Hegseth, según fuentes familiarizadas con el asunto citadas por Reuters y CBS News.\n\nEl portavoz del Pentágono Sean Parnell es la primera opción de Hegseth para el próximo secretario del Ejército y se encuentra entre al menos cuatro candidatos en consideración, dijeron fuentes familiarizadas con el proceso a The Hill. El grupo también incluye a Marc Anderson, subsecretario del Ejército; Derrick Anderson, subsecretario de Defensa; y el representante Brian Mast (R-Fla.), quien preside el Comité de Asuntos Exteriores de la Cámara, según The Hill. La jefa de gabinete de la Casa Blanca, Susie Wiles, lidera la búsqueda del sucesor de Driscoll, informó CBS News.\n\nPor separado, la Casa Blanca revisó candidatos para reemplazar potencialmente al subsecretario de Defensa Steve Feinberg, informó Reuters en exclusiva, citando a tres personas familiarizadas con las conversaciones. Una fuente le dijo a Reuters que la revisión aún estaba en curso a finales de agosto. La revisión, que estaba en marcha en junio, incluyó conversaciones con senadores de alto rango sobre si los posibles candidatos podrían obtener suficientes votos para su confirmación, informó Reuters; las fuentes no especificaron qué candidatos se estaban considerando ni por qué. Feinberg es el cofundador multimillonario de la firma de capital privado Cerberus Capital Management, según Reuters. El secretario de la Marina John Phelan y varios líderes militares del Ejército también se han ido en los últimos meses, informó Reuters.\n\nHegseth dijo en un comunicado a Reuters que Feinberg cuenta con su total apoyo y \"no va a ningún lado\". La portavoz de la Casa Blanca Anna Kelly dijo que \"estas supuestas 'fuentes' anónimas no tienen idea de lo que están hablando\" y señaló que el presidente Trump aprecia el trabajo de Hegseth, Feinberg y todo el Departamento de Guerra.",
