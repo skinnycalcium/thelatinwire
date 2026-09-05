@@ -1,4 +1,50 @@
 {
-  "at": 1788565653846,
-  "held": []
+  "at": 1788578919213,
+  "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "NonStop Local KHQ",
+        "Idaho Capital Sun",
+        "Idaho Statesman",
+        "kivitv.com"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Idaho Supreme Court makes an abortion repeal ballot language decision",
+        "Idaho Supreme Court rules state officials must re-write abortion initiative ballot statements",
+        "Idaho Supreme Court: State has 24 hours to rewrite ‘unclear’ abortion ballot info",
+        "Idaho Supreme Court orders rewrite of reproductive rights ballot language"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd2NReTJrVlV6NUdIMS1LeTVmWFUxcnVZOENXa1RYa0hYeFlTbjFIUURVUEs3UUxCNXFlRlJGU2xDSG9xRlk2U2lhbEtKNlVWVEdNRm45MGoya0ZzcEJtZThxelpseHhSbGhwekRsRXJqVVRkYV9JSkQxZ1FRMjhvTUszcUdFeFQ3NnRuUU03OUR1UUozM0pNVnhFbDBzVXcwNnVKN1NXMTRtd0hxUHJGYzQxR01lbGQxeEFqN2RVTnBKMWpTZW9jTHlTaTU1MER0dllBSW0yVE5oR3dN?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUTlGcm9ZZjB0UnJLUFZPOGxjM2JEY0ZfSF9oSjlHVlR6QUNkT3UzVW52YXhFMmhWNG9YVkZTb2VqQzQyRy15WkRaMW83RFJjejdEQUUzMzdYTzdGZE5GdjNaTE5CaXcwam5jNl9pMEF5NnhLN3A2dU53UkUwSU9VcnBrOEFGd1JFNnZ0ZVY0SU1HMWd6aHBsekRUWXFyQUVDLWRaNDVEVUFNV1N5ZmpCS196b1dULVowa3ZQbEY5WExGSmJlMG5ZSXNldHBZZw?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVTBSYnU4Q2lsclVBeTNpRGlNdm1hVzc0enh4UC0yd3AyYVhmMEs0dzdZdmpMNDJ2d2hmaHh2cF9WSEFqMjN5eGltc1RyZGNyVmNJd3J1dXVDMmtycDFGOVZlb0pyam1JNGhXS0VUZWlIcTBBSUQtNUdHVXpzQzNGSUpZS3VtRm0zeldzREpXU19IYklLSDQw0gGXAUFVX3lxTE9QMGpWeTdsSVdROFpVZThNRWFJY19SY2xKT1NndW9SSGMxWTA1WVF0N2R4R2RfWlI2V1JZMC05Mm5jX0NxcFNOcG5YQjgzbUxKa1FfMnhCWHVXUk9wWVJMWXp2VE10R3BtbTZROVUxQUp5M2RVd19vR0dxcFFmR3BtbzRzRGpVa21vQXVMQ0t4RThmbDVoOGM?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZnR1MU5fYVJ1T3haVXVldVNGLW12MHZEOFNRTllYTGxMTHprTzJ1dUxHZGVNNGFGVlFDZ3BEbThuN3pvcUZLVmpwanh1UWQwRExYWldVS29sWUp1aGtqU0VvbjgtLXF3UmktcWxkTzhyQXFhV2FCSVJ2dGZveVE3dWhDbDZhQVJKSGFNMkJBelhlcUlXbkZldDg5X0VyVG9meEhN?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Columbia Daily Spectator",
+        "Yahoo",
+        "Middle East Eye"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "House passes bill to withhold funding from universities that boycott Israel after Columbia rejected divestment proposals",
+        "House Passes Bill Targeting College Israel Boycotts",
+        "US Congress passes bill punishing universities that boycott Israel"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMigAJBVV95cUxQM25tNXBSaDJpeVdfR2dnYmd4Y3BMSExrU21KUk9BcVNiaGQ5LWdnb0VsWlB1R1FCVkF5enQ3QlFjRktKVFlsbnFXQkQtajlRSXBIcDg5Y3BUTkYxbFo3ZWFkZDlWcEpxbWNUaXo5ZEowR1dBek9PVlA4aWx1TFcybHZLQ1E0YnI1b2xZZV9FRUFRMnRJWkxVNEUtbTJlc1VETW5aLXVKS0NXN29YdmdLZGVHcjVWLW1hT2cwN2VmSTM1OS1hS1lrMVFyckFEQkt1bTlzZURKWlBaaXR3NHRLaklHcjhWdEt0QlZORXp1clZDdjFRalVjMFc0Yldob3NN?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNU9ZaHFIZVhhd01tTngxRi1sS0pCSVk5cnJCOHF3UWwyLWJWd2o5aUM2ZXZVTzF0YXpnbmtwclNpa2NTRlI2Y3hqMzJzTFJEX3ZMVkNfWXZraGkxem1vZ21YVDNBM1pBRV9sS2U3R0ZZTjVYLUdkLXc0TmVDMUNXTkRnR0pTS1NBRWF4Q2Z2ZDVhVHRIa2NNWHNzZw?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUw0UU1fYjk3MjN2T3puU2NVc3E3QkE5ejBJLU91UUR2MFBJbDdwUURwaVdxVW8xZF9SdkpfMDJWelBTMFN1a2dFTVE1LXBJenZMek9DaUdtT0VPcy1XZ2lxZEoybjZNR2tZTUs0N2tMaFp2eDNoVmRaVlhqZjg0c1h3aWFsb1hzQ3htdDBzM3ZHSmZOMG9WOGZENWk?oc=5"
+      ]
+    }
+  ]
 }
