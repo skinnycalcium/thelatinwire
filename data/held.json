@@ -1,4 +1,47 @@
 {
-  "at": 1788641911492,
-  "held": []
+  "at": 1788648466806,
+  "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "UA.NEWS",
+        "Mexico News Daily",
+        "Mexico Solidarity Media",
+        "dw.com"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "In Mexico, Sheinbaum reports on security amid explosion in Zacatecas",
+        "Mexico's week in review: Sheinbaum delivers her second-year report as trade tensions simmer",
+        "Sheinbaum: US Decision to Name Cartels ‘Terrorists’ ‘Must Not Be a Pretext for an Invasion’",
+        "What is Mexico's US trade strategy?"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFVac0pFZVNyRDNYRGRxZW5Wb05iOGp6ZENTaVd6Rjc1dTE2dHVsVGM0akRMUTFST1B6Wmk0SjNodVppYURsVGZiV0ZpYjlxallCY2dtcGJ3Q3dPVzUyRkliM3BJRjU4blg3WHN3V0llUkZtcTlxR0s0ZFhnX0NGQTA0ZWoyMWdGbW8wR2ttcDNDalZNX2V4a1N5OHk2ejQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaTlValdIRWt3VTdpWnIzTUEta3VDNkp2Y0o3alZJN3VFbUhZX3Ryc09FYXpTUW5McnFmaTd0QUpxUDJGNlBjWnBGR2ZuemdjOUN5MWNGVWNkeTh0WjR3Q1FQWmlMYVo5N29jbTZDMmZ0LV9NdUlfdmlqd1dwMGp5eGlkcUFzZk9IREhIMTBJMXdoRkt6ZEQzWnlQcjZSQkV5Ulp5MDcyY0t2dDlLbjV3TGp6U2x3WjhGWTE4ZW9MV04?oc=5",
+        "https://news.google.com/rss/articles/CBMickFVX3lxTFByRnRNQWFKZHg0c3lYTDE2c2VDMXpKZFhwamoyZ2RYTnVWMklyWjF6TFU3amN2UnNfU1lvYUpwQUptWmY3aDVEVnA1SE9hY1hTUXV4ZDR0bC01U0ZHdFg3WmNYcnZwUzUyR3h3d1dmdXY5Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zTjlmMEI4YWlvNHJMamZ1VF9MWmIyV1RYTHZLeEM2OFBYWmZnVFNuWUdOWDJEV1RMcm5ZaHlZX1FTa21QN2NQLVJvTjZXRU96SWVIYnVpQlMweDY4eHlGQko3bXVqWVR3V21JMWVSOTlSdWszSHJidmxB?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "univision.com",
+        "NBC News"
+      ],
+      "lines": [
+        "left"
+      ],
+      "titles": [
+        "Cubanos y afganos deportados de Estados Unidos llegan a Guyana",
+        "Cubans and Afghans deported from US arrive in Guyana"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaXJoRXpoZlNKZzNHUnNYTEhXMHJINlhfc3BTSXhLcjlmcFdqNlRmQU4wZjI3NEFUbG1JbFdtMHU2S2xEc1ZLRU1RWWdaaEJFQl9NTG1Uc0FkMC1hRlpQb3dFRjNNNUpZcGZZMm1nbjVJQXhkbFprbE01S1ZxUlFEd1U3RnVybzFSeUhnNWZDcHJKSkhPRFFEZ3FfNktvbXdJbnlldTlpbGtUTlAxNXc?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZmtFOHo0RjE5OF9TdkNhSU13VlRKN3dhNnhLNGhwT2FpZFVOR19tMnRZNXluYmVwd3I0V1g4aDRVOWxHRmx0eDk3OG1HSkE4czRFQ0piZ3MzeGtNNVpyb0JuYUdKRE1EeFgtUmxDTm5JbHJ3XzZoMy1nZmVEZFZhOVoyTXkyVThsMjF3RTZyNG16a1pVelNXaHN4QQ?oc=5"
+      ]
+    }
+  ]
 }
