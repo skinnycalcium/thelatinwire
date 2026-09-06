@@ -1,96 +1,22 @@
 {
-  "at": 1788655240160,
+  "at": 1788671224018,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Univision",
+        "CNN",
         "NBC News"
       ],
       "lines": [
         "left"
       ],
       "titles": [
-        "Juez autoriza a ICE a alimentar por la fuerza a cubano detenido en Texas",
-        "Cubanos y afganos deportados de Estados Unidos llegan a Guyana",
-        "Cubans and Afghans deported from US arrive in Guyana"
+        "Two survivors miraculously rescued 10 days after devastating flash floods in Nepal",
+        "In Tibet, China grapples with flooding aftermath at the ‘roof of the world’"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlBhN0s4N1pDa0VoT0YwQjc2NllFWlJLNWt6VzFlekZFUC1faVBCV1lmNXJ2Q3JMRlVCZ3RSb1BYajZIcGthaU1Oa1p5Q2M2TEphNmFDYi1YVUVIc3RZUGxlYjRLTUlFUVdKdjJRM05jWFcxc1plcDFRM1NxenpfYUs1OEtISEQ4dm5MbGVTTlUxc3Bud2Q5aG5aMXVVejRuYzRQTFFqcVcwMkxTLVV5OTBpZ0F2cmM?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaXJoRXpoZlNKZzNHUnNYTEhXMHJINlhfc3BTSXhLcjlmcFdqNlRmQU4wZjI3NEFUbG1JbFdtMHU2S2xEc1ZLRU1RWWdaaEJFQl9NTG1Uc0FkMC1hRlpQb3dFRjNNNUpZcGZZMm1nbjVJQXhkbFprbE01S1ZxUlFEd1U3RnVybzFSeUhnNWZDcHJKSkhPRFFEZ3FfNktvbXdJbnlldTlpbGtUTlAxNXc?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZmtFOHo0RjE5OF9TdkNhSU13VlRKN3dhNnhLNGhwT2FpZFVOR19tMnRZNXluYmVwd3I0V1g4aDRVOWxHRmx0eDk3OG1HSkE4czRFQ0piZ3MzeGtNNVpyb0JuYUdKRE1EeFgtUmxDTm5JbHJ3XzZoMy1nZmVEZFZhOVoyTXkyVThsMjF3RTZyNG16a1pVelNXaHN4QQ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "KPLC 7 News",
-        "KFVS12"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Missouri Supreme Court decision to block Republican-drawn map leaves questions",
-        "Missouri Supreme Court decision to block Republican-drawn map leaves questions"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdzRZU1IxWk1EeDQ3R21JTDQ0QzJCTDY2WVhYMllSaDdNQ09xSkVpS2RDdkxEV0ZsUHZIbEVELWcwazBxMk5qRUxDSUVPV0U5SWpOVHBLN0tUa00ySlo3RjhkYjhhZFgtRkJ6Yk5vUEFQaGJZNjRBTWR4emhOdUctOTlpUW0zTFgzUnpfQ3NVaDBUQ29xRlVvWFhoUEppQjNyX096bTFjRFJDV29HUFM5VlA2Q29QWVE?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGpOeFRPT1laR3RWajhWZ3RxWnBhZ3V3S3ZPZGMyY0RST3loQ0xpQy1QTk9qMmVvUnpMdnp5OTJaLVdDQWxReTlhdm9QWEYzbVJZa3BpV0lmZkotbDhoTDhoTV9YeXc0NFpfVUxIdVM5TmV0M3VjRkhYd0xpeDUxa0lFd0xTNm56a1dvZC1BXzY3SnNvbVlTLWFjUkNSbmZRMWE0eGRWOUlCbkJidnoxaWJqUDMtWDg?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Truthout",
-        "Muslim Network TV"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Over 50 Groups Urge Congress to Reject US-Israeli Military Integration Plan",
-        "House passes bill threatening university funding over Israel boycotts"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVmlod3V3T3QxRlZMOXBXMlp5dk9GdmFMeldrbkM3TTV5MnpJaWRTaUw1SHNfLWN0ZHlWM1hUdUVmc0swVmZUWno3UjFGcGNjNGxRbWF3M3FEWm1ZSlFwbGJDcU5Mel93bnpNelVfMlR6MFc3elpTRkh6czJsSVZvZEg5MHBEQ2FRb2x3XzF0WWF2azNWdmN6VmV6TWE3ckw4MHhnQ3p4Z05DZw?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWGZsbTRGLUZuZ3NtTll3OUxOUWFPTTZtZE1BMkQwV21fN1d6SmxRX2xScmZsTUtQQlBIRXQ1UGxkR3NTY2lvV0ZFMm1mT2dtdWhVeFdEdUdpNjgtcEhtR0QySktzdFJGOFdtWklYQ3pEVXB3ZW94TWJBczNiRXpEWGlrVFRfZHY4NjRBMHlya0lRdXR3T0p0dC1ua3Q1QzVX?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "eciks.org",
-        "Oklahoma Farm Report"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Ag Groups and Lawmakers react to Trump Executive Order for Ranchers",
-        "Trump signs executive orders to expand meat processing and livestock competition"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlRMTU9yWVIyVUdyOGZLMW5iRGdtZksya29oN3Z0Z0RBVjQ2bUJCZ0pVemp0dXExZzR1WGsyT0lib3E5TzJxOXo2dXMxZS0yVnI0aC1Jbk5kYlpVamJ2eEFNYS1wRzlqN21Uc0pYR3pNbDhhbm9tbDI3c2E0QUJXNXoyZ3JnT21VQmR2RlhHVHlIaWZyOUtjVmFUWFlsTjZBUkhFaWYxNXJSLVFVcVhHZ3FlOWM?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VSE9DNzlsN215OEh4NW4zX0xZTlFlVXZtU1N6Vl96bzhvdmhMR2NSczVkS3Z1TThhdzZMbHZlTVFKb0M2cDNzQXRFOTlrcmRQZndDUTB3cGw4X2ZHSjVvaDJxLTZNbUhqcHAyWEZkcUZLenlockJTSE42b0o?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Courthouse News",
-        "Honolulu Civil Beat"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Hawaii Supreme Court orders new election in tied House race",
-        "High Court Orders New Election For Hawaiʻi House Race"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2Jhemw4eXNRTlhrRTNMbjVoOUZkd2ZnbGRQNVBfY3JnMzJ4UjF0dnhnOWhCdjVvMG1EblBXMGxsOVA2T0hwMzZ1Q1ZxQ1ZMdkZJRmxrR01DcnJ1ZTc5c3p3UWtQOXI1a2VhRUZQd1I3LU1sM1lVY1l1c2tGazVsV3FrZEhrTVVTSWE2NXp1c2pZdUZw?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVEFNWDVEUGVfM1pmQ3lLeFNSd0xoZXF2aTVGZnpTZkc5MEdDUG9sY1hMSjZBUmxnVks3RndnNkVDVUJWUEJmOU1iTjlxRnhsZTk0dVhYcE9rWHQyMkN4QWd0RmhqbGx3STNJYV9aZFp1Ni1LU3VRZjJ4VDlMdkdtbTVZRnNzcWZVN0FRRzZmaGlCNENDcVlWOQ?oc=5"
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTTRFeVJlSl9KSXU4ZWhzUlY1dDQzUVMyNnJPQ000VnB5dWVxbThyMlJ6ZHF1S3o4bXNiaFlQY3NudnFESzJZNktKR3pvTEJBRkNBZ0xKX1EtMWhjZ0dYN2t3SmdiWDRQd3dDbVVEZkVfWVZ6UXI2UktsamZXWm1xZnZ0OWhWcE0?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGxPbVRpM3BVTmlEOWZuemp6eW9fVDhwS0pRVzdkNzRJel9hcGp2b0NUMFJDVmZieHhlQkE3aHpod0ZuM0d3aXZvY2ZlcHViYlhqdlhjb0pEbDRKV0ZuUHNVTXhiamdJMVY0YkFHLXpoY2VtNDdwc1luQWZ2M0FlNVp5QVdiQVZ6ejZVMW1HSnFHS2FrSWw4TXpVMnBBdw?oc=5"
       ]
     }
   ]
