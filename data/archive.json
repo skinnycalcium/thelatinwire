@@ -1,6 +1,216 @@
 [
   {
     "es": {
+      "headline": "Exsecretario de la Fuerza Aérea y nueva encuesta siembran dudas sobre la guerra con Irán",
+      "dek": "Un exsecretario de la Fuerza Aérea cuestionó los consejos que recibió Trump antes de entrar al conflicto, mientras una nueva encuesta muestra que el apoyo republicano se debilita.",
+      "body": "WASHINGTON — El exsecretario de la Fuerza Aérea Frank Kendall III dijo el domingo que no entiende qué consejos se le dieron al presidente Trump que lo llevaron a iniciar el conflicto con Irán, lo que plantea nuevas preguntas sobre la toma de decisiones de la administración mientras la guerra entra en su séptimo mes.\n\nKendall hizo los comentarios durante una aparición en 'This Week' de ABC el 6 de septiembre de 2026. Estados Unidos e Irán intercambiaron ataques tan recientemente como ese fin de semana, sin que haya ningún acuerdo a la vista para poner fin a las hostilidades. El sábado, el Comando Central de EE.UU. informó que las fuerzas estadounidenses atacaron tres buques cisterna iraníes de petróleo después de que el Cuerpo de la Guardia Revolucionaria Islámica de Irán supuestamente lanzara misiles balísticos contra dos bases estadounidenses, según Newsweek.\n\nEl conflicto ha provocado la muerte de 18 militares estadounidenses y miles de civiles iraníes, según The Hill. Los combates también han agotado muchos interceptores de misiles estadounidenses, y el Pentágono ha llegado a acuerdos con varios contratistas de defensa para aumentar la producción, reportó The Hill.\n\nUna nueva encuesta del NBC News Decision Desk publicada el 6 de septiembre encontró que la proporción de republicanos que aprueban firmemente el manejo de Trump en la guerra con Irán ha caído drásticamente desde la primavera, aunque la aprobación general del partido hacia el presidente sigue siendo alta de cara a las elecciones de medio término. La calificación de aprobación general de Trump sobre el conflicto se mantuvo en gran medida sin cambios, pero la intensidad de ese apoyo parece estar debilitándose, según el relato de Newsweek sobre la encuesta.\n\nLa administración Trump ha defendido la campaña. Trump ha argumentado que la presión militar y las sanciones han debilitado a Teherán y han reforzado la seguridad estadounidense. La Casa Blanca ha sostenido que las encuestas no dictarán las decisiones de seguridad nacional.",
+      "perspectives": [
+        {
+          "who": "Exsecretario de la Fuerza Aérea Frank Kendall III",
+          "position": "Kendall dijo que no entiende qué consejos se le dieron al presidente Trump que lo llevaron a iniciar el conflicto con Irán."
+        },
+        {
+          "who": "Casa Blanca / administración Trump",
+          "position": "Trump ha argumentado que la presión militar y las sanciones han debilitado a Teherán y han reforzado la seguridad estadounidense, y la Casa Blanca afirma que las encuestas no dictarán las decisiones de seguridad nacional."
+        }
+      ]
+    },
+    "id": "2026-09-06-1py4w1o+se3t",
+    "section": "politics",
+    "rank": 2,
+    "writer": "vega",
+    "headline": "Former Air Force secretary and new poll raise doubts over Iran war",
+    "dek": "A former Air Force secretary questioned the advice Trump received before entering the conflict, as a new poll shows softening Republican support.",
+    "body": "WASHINGTON — Former Air Force Secretary Frank Kendall III said Sunday he does not understand what advice was given to President Trump that led him to start the conflict with Iran, raising fresh questions about the administration's decision-making as the war enters its seventh month.\n\nKendall made the remarks during an appearance on ABC's 'This Week' on September 6, 2026. The U.S. and Iran exchanged strikes as recently as that weekend, with no deal to end hostilities in sight. On Saturday, U.S. Central Command said American forces struck three Iranian oil tankers after Iran's Islamic Revolutionary Guard Corps allegedly launched ballistic missiles at two U.S. bases, according to Newsweek.\n\nThe conflict has resulted in the deaths of 18 U.S. service members and thousands of Iranian civilians, according to The Hill. The fighting has also depleted many American missile interceptors, and the Pentagon has reached deals with multiple defense contractors to boost production, The Hill reported.\n\nA new NBC News Decision Desk Poll released September 6 found that the share of Republicans who strongly approve of Trump's handling of the Iran war has fallen sharply since the spring, even as overall GOP approval of the president remains high ahead of the midterms. Trump's overall approval rating on the conflict was largely unchanged, but the intensity of that support appears to be weakening, according to Newsweek's account of the poll.\n\nThe Trump administration has defended the campaign. Trump has argued that military pressure and sanctions have weakened Tehran and enhanced American security. The White House has maintained that polling will not dictate national security decisions.",
+    "facts": "Former Air Force Secretary Frank Kendall III appeared on ABC's 'This Week' on September 6, 2026, questioning what advice President Trump received before starting the conflict with Iran. The Iran conflict has entered its seventh month, with the U.S. and Iran exchanging strikes as recently as the weekend of September 6, with no deal to end hostilities in sight. The war has resulted in the deaths of 18 U.S. service members and thousands of Iranian civilians, according to The Hill. The conflict has depleted many American missile interceptors, and the Pentagon has reached deals with multiple defense contractors to boost production, per The Hill. A new NBC News Decision Desk Poll released September 6 found that the share of Republicans who strongly approve of Trump's handling of the Iran war has fallen sharply since the spring, even as overall GOP approval of the president remains high ahead of the midterms. Trump's overall approval rating on the conflict was largely unchanged, but the intensity of that support appears to be weakening, according to Newsweek's account of the poll. On Saturday, U.S. Central Command said American forces struck three Iranian oil tankers after Iran's IRGC allegedly launched ballistic missiles at two U.S. bases, per Newsweek. Trump has repeatedly defended the campaign, arguing that military pressure and sanctions have weakened Tehran and enhanced American security, and the White House has maintained that polling will not dictate national security decisions.",
+    "perspectives": [
+      {
+        "who": "Former Air Force Secretary Frank Kendall III",
+        "position": "Kendall said he does not understand what advice was given to President Trump that led him to start the Iran conflict."
+      },
+      {
+        "who": "White House / Trump administration",
+        "position": "Trump has argued that military pressure and sanctions have weakened Tehran and enhanced American security, and the White House says polling will not dictate national security decisions."
+      }
+    ],
+    "location": "Washington",
+    "when": "Sep 6",
+    "sources": [
+      {
+        "outlet": "thehill.com",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdGk4SHBfNlIxcmh1d0VsaDZsOTlTeGQzOVJ4YXZWT1NxOXJwMkJyQVJ5WU1WdXhpTWs5MFctbTVOZDJ5c1R6Xzgxemd2bk4tb2hxeTlmNTlyWjBtcnZUSmozbjg3NVh6bEI1Ti1vMkFsbTFrVjAxZWhfYkU1STdVcm930gGHAUFVX3lxTE9VN3ZkVkMzNW9nVXZIaWwzbTQ3dHJQeFZ6RDdwUFNTZ1M5M3FKM3gtMEdGdUxFR01aN25FQl94MkcyYjhVVGtEZlRoaTR0OTZHZnJyRmJub21PaWEySU5rV0Jjb0xHekJTZ25kcW5tVFZ6azd3blR2SldWRzFwSHc3QXhqMS1vZw?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR1VwUnRJSXBOSmxHeFJzWWpET1ZnMXpEbGdCV2duNWdMOWgzS29YVTNhY0ZkbncwN1ZUUWNobnFRajNXQnphZXBGazA5LWJnZnBBbU9Hc05WN1k4NWZVdmVUdDRCZ3FDXy1nTVBVX2NGX3hEOXJFS0doOC1MdDlJQ1I3cTFLdWRVd1M4bmFLMGp4c2J1d2loZFB6V0FHVEZyU0RrVVhvWUtrR04zd3BsNExhcGpoTXMxSlpn?oc=5",
+        "line": "left"
+      }
+    ],
+    "published": 1788711471252
+  },
+  {
+    "es": {
+      "headline": "Las declaraciones pasadas y asociaciones de El-Sayed generan escrutinio en la carrera al Senado de Míchigan",
+      "dek": "El candidato demócrata Abdul El-Sayed enfrenta preguntas sobre sus apariciones en eventos de la DSA, declaraciones pasadas sobre la movilidad social ascendente y su asociación con figuras públicas controvertidas.",
+      "body": "LANSING, Míchigan — Abdul El-Sayed, quien ganó la primaria demócrata para el escaño abierto al Senado de EE.UU. por Míchigan el 5 de agosto de 2026, enfrenta escrutinio por declaraciones y asociaciones pasadas que críticos republicanos y Fox News afirman contradicen la imagen moderada que proyecta su campaña.\n\nFox News informó que entre 2017 y 2020, El-Sayed participó como orador en seis eventos organizados por capítulos de Democratic Socialists of America, incluido un evento de recaudación de fondos de la DSA en 2019 donde fungió como orador principal. El-Sayed le dijo al Wall Street Journal en julio: 'No soy técnica ni prácticamente de la DSA.' Sin embargo, organizadores socialistas lo han descrito como 'un amigo de larga data de Detroit DSA', según Fox News.\n\nDurante un episodio de mayo de 2023 de su pódcast 'America Dissected', El-Sayed citó datos económicos para argumentar que la movilidad social ascendente es el doble de probable en Canadá que en Estados Unidos, según múltiples medios. Su campaña de 2026 publicó un anuncio en agosto enmarcando su candidatura como una lucha para 'reconstruir el Sueño Americano', según el sitio web de su campaña. Fox News y críticos republicanos han señalado que las declaraciones anteriores socavan ese mensaje.\n\nFox News también informó que El-Sayed apareció en un mitin de campaña junto al streamer de Twitch Hasan Piker, quien ha afirmado que 'América se mereció el 9/11.' El-Sayed le dijo a Fox & Friends que se opone a esas opiniones, declarando: 'el simple hecho de aparecer con alguien no significa que estés de acuerdo con todo lo que dice.' El vocero de campaña Cole Wozniak le dijo a Fox News Digital que 'nadie habla en nombre de su campaña excepto él mismo y los portavoces de su campaña', y la campaña señaló que el candidato republicano Mike Rogers tiene sus propias asociaciones controvertidas.\n\nEl senador Bernie Sanders respaldó a El-Sayed el día en que lanzó su campaña al Senado. Las representantes Rashida Tlaib, Summer Lee y Alexandria Ocasio-Cortez también figuran como sus partidarias, según Fox News.",
+      "perspectives": [
+        {
+          "who": "Campaña de El-Sayed",
+          "position": "La candidatura de El-Sayed es una lucha para reconstruir el Sueño Americano para las familias de Míchigan, y sus asociaciones no reflejan las posiciones de su campaña."
+        },
+        {
+          "who": "Fox News / Críticos republicanos",
+          "position": "Los vínculos de El-Sayed con organizaciones socialistas, figuras de la extrema izquierda y sus declaraciones pasadas cuestionando el Sueño Americano socavan su intento de presentarse como un candidato moderado."
+        }
+      ]
+    },
+    "id": "2026-09-06-1ocrzkq+g4d4",
+    "section": "politics",
+    "rank": 1,
+    "writer": "vega",
+    "headline": "El-Sayed's past remarks and associations draw scrutiny in Michigan Senate race",
+    "dek": "Democratic nominee Abdul El-Sayed faces questions over DSA appearances, past remarks on upward mobility, and his association with controversial public figures.",
+    "body": "LANSING, Mich. — Abdul El-Sayed, who won the Democratic primary for Michigan's open U.S. Senate seat on August 5, 2026, is facing scrutiny over past statements and associations that Republican critics and Fox News say conflict with the moderate image his campaign is projecting.\n\nFox News reported that between 2017 and 2020, El-Sayed spoke at six events held by Democratic Socialists of America chapters, including a 2019 DSA fundraiser where he served as keynote speaker. El-Sayed told the Wall Street Journal in July, 'I'm not technically or practically DSA.' Socialist organizers, however, have described him as 'a longtime friend of Detroit DSA,' according to Fox News.\n\nDuring a May 2023 episode of his podcast 'America Dissected,' El-Sayed cited economic data to argue that upward mobility is twice as likely in Canada as in the United States, per multiple outlets. His 2026 campaign released an ad in August framing his candidacy as a fight to 'rebuild the American Dream,' according to his campaign website. Fox News and Republican critics have said the earlier remarks undermine that message.\n\nFox News also reported that El-Sayed appeared at a campaign rally with Twitch streamer Hasan Piker, who has claimed 'America deserved 9/11.' El-Sayed told Fox & Friends he opposes those views, stating, 'just because you appear with somebody, doesn't mean you agree with them on everything.' Campaign spokesman Cole Wozniak told Fox News Digital that 'no one speaks for his campaign besides himself and his campaign spokespeople,' and the campaign said GOP nominee Mike Rogers has his own controversial associations.\n\nSen. Bernie Sanders endorsed El-Sayed on the day he launched his Senate campaign. Reps. Rashida Tlaib, Summer Lee, and Alexandria Ocasio-Cortez are also listed as supporters, per Fox News.",
+    "facts": "Abdul El-Sayed, the Democratic nominee for Michigan's open U.S. Senate seat, won the Democratic primary on August 5, 2026, according to Fox News. During a May 2023 episode of his podcast 'America Dissected,' El-Sayed cited economic data to argue that upward mobility is twice as likely in Canada as in the United States, per multiple outlets. El-Sayed's 2026 campaign released an ad in August framing his candidacy as a fight to 'rebuild the American Dream,' according to his campaign website. Fox News reported that between 2017 and 2020 El-Sayed spoke at six events held by Democratic Socialists of America chapters, including a 2019 fundraiser where he served as keynote speaker. Fox News also reported that El-Sayed appeared at a campaign rally with Twitch streamer Hasan Piker, who has claimed 'America deserved 9/11'; El-Sayed told Fox & Friends he opposes those views, saying 'just because you appear with somebody, doesn't mean you agree with them on everything.' Sen. Bernie Sanders endorsed El-Sayed on the same day he launched his Senate campaign, and Reps. Rashida Tlaib, Summer Lee, and Alexandria Ocasio-Cortez are also listed as supporters, per Fox News. El-Sayed campaign spokesman Cole Wozniak told Fox News Digital that 'no one speaks for his campaign besides himself and his campaign spokespeople,' and the campaign countered that GOP nominee Mike Rogers has his own controversial associations. El-Sayed told the Wall Street Journal in July, 'I'm not technically or practically DSA,' while socialist organizers have called him 'a longtime friend of Detroit DSA,' according to Fox News.",
+    "perspectives": [
+      {
+        "who": "El-Sayed campaign",
+        "position": "El-Sayed's candidacy is a fight to rebuild the American Dream for Michigan families, and his associations do not reflect his campaign's positions."
+      },
+      {
+        "who": "Fox News / Republican critics",
+        "position": "El-Sayed's ties to socialist organizations, far-left figures, and past statements questioning the American Dream undermine his effort to present himself as a moderate candidate."
+      }
+    ],
+    "location": "Michigan",
+    "when": "Sep 6",
+    "sources": [
+      {
+        "outlet": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa3M3VVNLMnN6VTZxVlRNRlgtSFdBendxaEFXUGRGUGlTczNXZmtpZ1pYdjUyU1FNZkxmNm9oSHNfcmpaaExKck92RXJXOUxLTmpsd1ZnYWpHTXlPQ1BSalBsdHpSbklaZEo3M25DelNHQ3R3RFlqQWtnRWtIbUpNVXJWZGRmLUd4YS0xRHp4VjVpbWdnUklObTV1V2ZCSVQwU043QkwtQ0dRalpqelVlanVCUFRHQ0E?oc=5",
+        "line": "left"
+      },
+      {
+        "outlet": "Fox News",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa3ZjbHkwZ2NqaHpzSUJhWHEwaFNENE9xd2UwVERLRFlpSlZkc3MwQUZLMk9DRi1GQWpoRTRodWlDZlZLSDJ2RVZtcXpuMWJhQmd6TWtUTHllMWhwNFlUc1FyVmY4MDBzSlplTEVEeXJUT2pOMGJHeVRRVmF0Z2NDZWxtWHdTQkh4MHdWaDRFUnFJQTdMcFRoM3dhdDhHWFYzREpnY0pxQjAwUW4xamVFQTQtTS1ZZ3ViYUJUeGpoS3kycG_SAcgBQVVfeXFMTzNKUHVqUXFMMWUySk1UeDJmcVRvOThyMFNEZUp0SzRCZHgzVlJWaVhuQWNGd3F5NkdKVE9nNHhjX2VaX1NOVUJUeHNTcnc3dXRTT1hnUHFlMUhvNkdkWW9pMm4xRWhBOS1TMDFKc0otTXREbnhIT0lPRHNYalhjVF9pWkh2ZGNpb3hUVG5sSWtabHBPdGljUUFUc3c1a2lXS0dkaU1vNUNrRGtjTUlvU1RGbG9PWThwMWEydHhpbG0wbkk4MS1OTWs?oc=5",
+        "line": "right"
+      }
+    ],
+    "published": 1788711471252
+  },
+  {
+    "es": {
+      "headline": "Witkoff y Kushner visitan Kiev por primera vez en su esfuerzo por la paz",
+      "dek": "El puente diplomático Witkoff-Kushner entre Moscú y Kiev resucita una arquitectura diplomática que no se veía desde los primeros días de la guerra.",
+      "body": "El 5 de septiembre, Steve Witkoff y Jared Kushner se sentaron frente a Vladimir Putin en el Kremlin durante más de tres horas de conversaciones a puerta cerrada — el primer contacto directo de este tipo entre los principales negociadores de la Casa Blanca y el presidente ruso en meses, una pausa que el Washington Times atribuyó a que la guerra con Irán desplazó a Ucrania a un segundo plano. Al día siguiente estaban en Kiev reuniéndose con Volodymyr Zelensky, completando un recorrido que, sea cual sea su resultado final, marca un cambio estructural en el compromiso diplomático estadounidense.\n\nVale la pena examinar la simetría del viaje. Putin describió la situación ucraniana como 'no simple' y pidió a los enviados que transmitieran sus saludos afectuosos a Trump — un lenguaje ceremonial, pero no carente de significado en la práctica diplomática. El asesor del Kremlin Yuri Ushakov calificó las conversaciones en Moscú de 'útiles' y señaló que los estadounidenses habían 'preparado seriamente', una frase que, en la cuidadosa gramática de los comunicados oficiales, indica al menos respeto procedimental sin comprometerse con nada sustantivo.\n\nTrump dijo a los periodistas en la Casa Blanca el viernes que Witkoff y Kushner llegaban con una propuesta para poner fin a la guerra y sugirió que había 'una buena posibilidad' de éxito. Ese encuadre deposita un peso considerable en una sola visita. Mientras tanto, un gesto limitado acompañó las conversaciones: Putin ordenó una pausa de tres días en los ataques rusos sobre Kiev a partir de la medianoche del sábado, y Zelensky dijo que Ucrania reciprocaría pausando los ataques sobre Moscú hasta el lunes. No había ningún alto el fuego más amplio en vigor.\n\nLa presencia de representantes de Francia, Reino Unido y Alemania en Kiev añade una capa de coordinación aliada de la que carecieron a veces los acercamientos unilaterales anteriores de Estados Unidos. Zelensky escribió en Telegram que Ucrania sigue siendo 'constructiva' y tiene propuestas listas.\n\nSi esta ronda de diplomacia produce algo duradero depende de interrogantes que un fin de semana de conversaciones no puede responder. Pero la arquitectura — acceso directo de Estados Unidos a ambas capitales, presencia aliada, pausas simbólicas paralelas — constituye como mínimo un andamiaje más serio que el que ofrecieron los meses recientes.",
+      "perspectives": [
+        {
+          "who": "Zelensky",
+          "position": "Zelensky escribió en Telegram que Ucrania 'siempre ha sido y seguirá siendo constructiva' y está 'comprometida a poner fin a la guerra', con propuestas listas, según CNN."
+        },
+        {
+          "who": "Kremlin",
+          "position": "El portavoz del Kremlin Dmitry Peskov anunció que Putin ordenó no atacar Kiev durante tres días, mientras que el asesor del Kremlin Ushakov describió las conversaciones en Moscú como 'útiles' pero no ofreció confirmación de una reunión de seguimiento, según CNN y el Washington Times."
+        }
+      ]
+    },
+    "id": "2026-09-06-167ri6u+176f",
+    "section": "politics",
+    "rank": 0,
+    "writer": "santamaria",
+    "headline": "Witkoff and Kushner visit Kyiv for first time in peace push",
+    "dek": "The Witkoff-Kushner shuttle between Moscow and Kyiv revives a diplomatic architecture not seen since the war's earliest days.",
+    "body": "On September 5, Steve Witkoff and Jared Kushner sat across from Vladimir Putin at the Kremlin for more than three hours of closed-door talks — the first such direct engagement between the White House's chief negotiators and the Russian president in months, a pause that the Washington Times attributed to the Iran war pushing Ukraine to the back burner. The following day, they were in Kyiv meeting Volodymyr Zelensky, completing a shuttle that, whatever its ultimate outcome, marks a structural shift in American diplomatic engagement.\n\nThe symmetry of the trip is worth examining. Putin described the Ukrainian situation as 'not simple' and asked the envoys to carry warm wishes to Trump — language that is ceremonial but not meaningless in diplomatic practice. Kremlin aide Yuri Ushakov called the Moscow talks 'useful' and noted the Americans had 'prepared seriously,' a phrase that, in the careful grammar of official statements, signals at least procedural respect without committing to anything substantive.\n\nTrump told reporters at the White House on Friday that Witkoff and Kushner were arriving with a proposal to end the war and suggested there was 'a good chance' of success. That framing places considerable weight on a single visit. Meanwhile, a limited gesture accompanied the talks: Putin ordered a three-day halt to Russian strikes on Kyiv beginning Saturday midnight, and Zelensky said Ukraine would reciprocate by pausing strikes on Moscow through Monday. No broader ceasefire was in place.\n\nThe presence of French, British, and German representatives in Kyiv adds a layer of allied coordination that earlier U.S. unilateral outreach sometimes lacked. Zelensky wrote on Telegram that Ukraine remains 'constructive' and has proposals ready.\n\nWhether this round of diplomacy produces anything durable depends on questions that one weekend of talks cannot answer. But the architecture — direct U.S. access to both capitals, allied presence, parallel symbolic pauses — at minimum constitutes a more serious scaffolding than recent months provided.",
+    "facts": "U.S. envoys Steve Witkoff and Jared Kushner met with Ukrainian President Volodymyr Zelensky in Kyiv on September 6, their first official visit to Ukraine as part of the peace effort, according to the Washington Post and NBC News. The Kyiv visit followed a meeting with Russian President Vladimir Putin at the Kremlin on Saturday, September 5, where Witkoff and Kushner spoke with Putin for more than three hours in closed-door talks, according to CNBC. Following the Moscow talks, Kremlin aide Yuri Ushakov described the discussions as 'useful' and said the American representatives had 'prepared seriously for this trip,' according to CNN. At the start of the Moscow meeting, Putin asked Kushner and Witkoff to pass on his warm wishes and gratitude to Trump, and described the situation in Ukraine as 'not simple,' according to CNBC. Trump said at the White House on Friday that Witkoff and Kushner were 'bringing with them a proposal to end the war' and that 'there may be a good chance we will do it,' according to CNN. Putin ordered a three-day halt to Russian strikes on Kyiv beginning at midnight Saturday, while Zelensky said Ukraine was prepared to halt strikes on Moscow through Monday, though no broader ceasefire was in place, according to CNBC and NBC News. The Washington Times reported that the Moscow meeting was the first official diplomatic discussion between the White House's chief negotiators and Putin for months, after the launch of the Iran war put Ukraine peace talks on an unofficial hold. A first round of U.S.-Ukrainian talks wrapped up early evening local time on Sunday, according to Zelensky, as reported by CNN. Representatives from France, the UK, and Germany were also present in Kyiv, according to CNN.",
+    "perspectives": [
+      {
+        "who": "Zelensky",
+        "position": "Zelensky wrote on Telegram that Ukraine 'has always been and will continue to be constructive' and is 'committed to bringing the war to an end,' with proposals ready, per CNN."
+      },
+      {
+        "who": "Kremlin",
+        "position": "Kremlin spokesperson Dmitry Peskov announced Putin ordered no strikes on Kyiv for three days, while Kremlin aide Ushakov described the Moscow talks as 'useful' but offered no confirmation of a follow-up meeting, per CNN and the Washington Times."
+      }
+    ],
+    "location": "Moscow and Kyiv",
+    "when": "Sep 5–6",
+    "sources": [
+      {
+        "outlet": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUF9BT1NzbENzSURjVk0tcURDWnlITXBBT0JCT2V2eFRuTnE2djBkZkhzS1JoQU1IdmFVZlBIYlg0WVV4QzJMUEluUDZMTlAwOHBfZVBzR0tMQ2hHZFJ3YW5oSjEzZG1CWEpXbjBlNXFmMFl6WWxRNzZQa3dtdUdIRldKN2F3ZThfYWpwNUFoQ0tvamVKYU1BMzJGUzY1amdsZUdQelQ3bjUyVjFRWmc?oc=5",
+        "line": "left"
+      },
+      {
+        "outlet": "New York Post",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR2Z6SVZfcnJqd3RKczQ2bVBvOUs3blFHMjBpdUlJb3dqMHNWNU04dDROV2hwRGRhUlBvaUdpNXo5c2xKNERvZDRGVFpHazhMLV9PY19hNzVrWW1IY2hIZ1VObTJlUWppRTd3eG9NUFBjbHRpMFZ6aG9iUFZFam5WMW11d3pEY05PeXNJVDlTTm5rNTRFaUF6RWNNV2N5c0k?oc=5",
+        "line": "right"
+      },
+      {
+        "outlet": "Fox News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQVhqX1NlSVIxUEp6MXBWeHFLSEVBbU1rN0tRX0d4OU9ySEVtVzV3Snl0LU03bGxicDdXd3BQNUNOZDNBazhHNFhENnVTTlppQm9CS1IxMVNkcWZZejl2ZGgxQ0pnelhWSFpRb29iczRzVVQ2WEFyWlJ5dkNGLUdVUVNGaERtaGNGaE51WkE0U2JBdHVkZzhDYldEdk11UdIBowFBVV95cUxQY253dVJNSkdfNXlHdVNaMjJMRmNkNEctVmhnWFdOdkEtLVNYQTItZ2dOWWZGc3l6X3p4WlhQaW9IZG1IclFybGgwQmtzMzc1XzNLSG85WWc1SDlaQUp3ek1mcUtTRWh6VFpmQ2hjUHhaNEZ1UndDNEE2Tl9acldhb0VVdS1IQVliVFJXUDVoUk5IX3Y4LWhLaUxVd1JtM3JqeGp3?oc=5",
+        "line": "right"
+      }
+    ],
+    "published": 1788711471252
+  },
+  {
+    "es": {
+      "headline": "ICE emite citaciones judiciales a migrantes que no fueron procesados completamente durante investigación de CBP Home",
+      "dek": "ICE está presentando citaciones judiciales para aproximadamente 445,000 migrantes liberados sin procesamiento completo, mientras la app CBP Home de la administración impulsa salidas voluntarias.",
+      "body": "WASHINGTON — El Servicio de Inmigración y Control de Aduanas de EE.UU. (ICE) ha estado emitiendo Notificaciones de Comparecencia ante tribunales de inmigración para migrantes que fueron liberados por la Oficina de Aduanas y Protección Fronteriza (CBP) sin haber sido completamente procesados, un grupo que el senador James Lankford (R-OK) señaló en una carta de febrero de 2025 al Departamento de Seguridad Nacional que sumaba aproximadamente 445,000 personas al 29 de enero de 2025.\n\nLa brecha se remonta a una política de CBP instaurada en marzo de 2021 conocida como 'Notificaciones para Presentarse', mediante la cual se instruía a los migrantes liberados de instalaciones fronterizas con sobrecupo a llamar a un número 1-800 para presentarse ante ICE y continuar su procesamiento. La investigación de supervisión de Lankford encontró que CBP no comunicó la política a ICE, dejando a los migrantes afectados sin notificaciones judiciales formales.\n\nPor separado, la administración Trump relanzó la antigua app CBP One en marzo de 2025 bajo el nombre CBP Home, reconvirtiéndola para facilitar la autodeportación voluntaria en lugar de citas de asilo, según el DHS. El DHS ha declarado que los migrantes que usen la app para partir voluntariamente podrían ver perdonadas sus multas civiles y recibirían un vuelo gratuito y un bono de salida de $2,600, según un comunicado de prensa del DHS citado por CNN. El DHS ha señalado que los migrantes en situación irregular deben salir de inmediato o enfrentar consecuencias, y que CBP Home representa una vía legal e incentivada para hacerlo.\n\nAbogados de inmigración afiliados a la Asociación Estadounidense de Abogados de Inmigración (AILA) han advertido que las salidas procesadas a través de CBP Home podrían quedar registradas como remociones estipuladas en lugar de salidas voluntarias, lo que podría resultar en una prohibición permanente de reingreso, según firmas de derecho migratorio.\n\nDos senadores de EE.UU. enviaron una carta a la administración en julio de 2026 exigiendo que el DHS suspenda las multas relacionadas con el programa de autodeportación, argumentando que la administración había 'abusado' de su autoridad estatutaria para 'asustar a los inmigrantes', incluidas personas con presencia legal o solicitudes de residencia permanente pendientes, según CNN. Los demócratas del Comité de Supervisión de la Cámara de Representantes han estado compilando un registro público de posibles irregularidades en la aplicación de las leyes de inmigración como parte de una supervisión congressional en curso.",
+      "perspectives": [
+        {
+          "who": "DHS / Administración Trump",
+          "position": "El DHS afirma que los migrantes en situación irregular en el país deben salir ahora o enfrentar consecuencias, incluidas sanciones económicas, y que CBP Home ofrece una vía legal e incentivada para partir voluntariamente."
+        },
+        {
+          "who": "Críticos del Congreso / defensores de inmigrantes",
+          "position": "Dos senadores argumentaron que el DHS abusó de su autoridad estatutaria para asustar a los inmigrantes, incluidos aquellos con presencia legal o solicitudes de residencia permanente pendientes, y pidieron que se suspendan las multas."
+        }
+      ]
+    },
+    "id": "2026-09-06-1aotgx6+1l3p",
+    "section": "politics",
+    "rank": 5,
+    "writer": "vega",
+    "headline": "ICE issues court notices to migrants not fully processed amid CBP Home probe",
+    "dek": "ICE is filing court notices for roughly 445,000 migrants released without full processing, as the administration's CBP Home app pushes voluntary departures.",
+    "body": "WASHINGTON — U.S. Immigration and Customs Enforcement has been issuing Notices to Appear before immigration courts for migrants who were released by Customs and Border Protection without being fully processed, a cohort that Sen. James Lankford (R-OK) said in a February 2025 letter to the Department of Homeland Security numbered approximately 445,000 as of Jan. 29, 2025.\n\nThe gap traces to a CBP policy instituted in March 2021 known as 'Notices to Report,' under which migrants released from overcrowded border facilities were instructed to call a 1-800 number to report to ICE for further processing. Lankford's oversight inquiry found that CBP did not communicate the policy to ICE, leaving the affected migrants without formal court notices.\n\nSeparately, the Trump administration relaunched the former CBP One app in March 2025 under the name CBP Home, repurposing it to facilitate voluntary self-deportation rather than asylum appointments, according to DHS. DHS has stated that migrants who use the app to depart voluntarily may have civil fines forgiven and receive a free flight and a $2,600 exit bonus, according to a DHS news release cited by CNN. DHS has stated that migrants unlawfully present should leave immediately or face consequences, and that CBP Home represents a legal, incentivized pathway to do so.\n\nImmigration attorneys affiliated with the American Immigration Lawyers Association have warned that departures processed through CBP Home may be recorded as stipulated removals rather than voluntary departures, potentially resulting in a permanent bar on reentry, according to immigration law firms.\n\nTwo U.S. senators sent a letter to the administration in July 2026 demanding that DHS halt fines related to the self-deportation program, arguing the administration had 'abused' its statutory authority to 'frighten immigrants,' including individuals with lawful presence or pending green card applications, according to CNN. House Oversight Committee Democrats have been compiling a public record of possible misconduct in immigration enforcement as part of ongoing congressional oversight.",
+    "facts": "ICE has been issuing Notices to Appear (NTAs) to immigration courts for migrants who were released by CBP but not fully processed, a category that Sen. James Lankford's February 2025 letter to DHS said numbered roughly 445,000 migrants as of January 29, 2025, who had not yet received an NTA. CBP instituted a 'Notices to Report' policy in March 2021 to address border facility overcrowding, under which migrants were released and asked to call a 1-800 number to report to ICE for processing; Sen. Lankford's oversight found that CBP did not communicate this policy to ICE. The Trump administration relaunched the former CBP One app in March 2025 as 'CBP Home,' repurposing it to facilitate voluntary self-deportation rather than asylum appointments, according to Wikipedia and DHS. Congress's House Oversight Committee Democrats have been compiling a public record of possible misconduct in immigration enforcement operations, including actions by ICE and CBP, as part of ongoing oversight, according to the committee's website. DHS has stated that migrants who use CBP Home to self-deport may have civil fines forgiven and receive a free flight and a $2,600 exit bonus, according to a DHS July news release cited by CNN. Immigration attorneys, including those affiliated with AILA, have warned that departure via CBP Home may be processed as a stipulated removal rather than voluntary departure, potentially resulting in a permanent bar on reentry, according to immigration law firms. Two U.S. senators sent a letter to the administration in July 2026 demanding that DHS fines for failing to self-deport be halted, saying the administration had 'abused' its authorities to 'frighten immigrants,' according to CNN.",
+    "perspectives": [
+      {
+        "who": "DHS / Trump administration",
+        "position": "DHS states that migrants unlawfully in the country should leave now or face consequences, including financial penalties, and that CBP Home offers a legal, incentivized pathway to depart voluntarily."
+      },
+      {
+        "who": "Congressional critics / immigration advocates",
+        "position": "Two senators argued DHS has abused its statutory authority to frighten immigrants, including those with lawful presence or pending green card applications, and called for the fines to be halted."
+      }
+    ],
+    "location": "United States",
+    "when": "Sep 5",
+    "sources": [
+      {
+        "outlet": "memphisnoticias.com",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPU3pkalc3MXRzWDREMUpNQWZhc3FVTXdBWjhMSWV0c2R3WVYxY0FPdjFVMDNaajMtTThQSkphaFJkRjFXQzFOeDlWR0xMZ1VsS0wxMGNMQXBTT3pReV9KMkFfa0NYTzVPdWZkOVROUXA1ekhCQ1R0VGUtLU1jWURLY0VWbE9ELTYtcG1QVjhCemJPWUxiMFNhVHdsV1YwZmJxdzdoRllOS1dBanJHbXN4Z3NMc0V3dUJXMFJuQ0RuQk5Ib3hQc3pZZndkMmRnQWRtZTBCY0NzUVM5WDlVSkNTOXh1alBXOW8yVzB4NGEyQXRYTWM?oc=5",
+        "line": "center"
+      },
+      {
+        "outlet": "Univision",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUkdKTHE4Y2tLMXk2MDlCZW9NMjBjekdHakxtb1ZnZGNwMnFlYVZySEpRX1l6UWo0ZHh0NmFtSjlmVnJsMmFUd1Vxakx6WGpoSTZocEdjQTJzWDRISUtrZnBDUnZwenRqTTd2TUFZZUhaMXE2ZlVDLThVcnVVWEl6TzZ6ckRCb1JBbGF5empNSXEwUjdPTXVsM09JcGhMOVhZQ3JIYnVKcHVnSTBILXA3NlhpcDlqXzlYVDN3OUtwQkdUMHlIS1hJQmhVSXpZVGlIYXRJd1pLMktJRlZ1S2N2ckxn?oc=5",
+        "line": "left"
+      }
+    ],
+    "published": 1788711471252
+  },
+  {
+    "es": {
       "headline": "Argentina marca 1,000 días de Milei con resultados económicos mixtos",
       "dek": "La inflación se desplomó, la pobreza bajó y el riesgo país cayó marcadamente, pero el desempleo subió y el empleo formal se redujo durante los primeros 1,000 días de Milei.",
       "body": "El presidente argentino Javier Milei cumplió 1,000 días en el cargo el 6 de septiembre de 2026. El hito arroja un balance de avances notables en precios y mercados financieros, junto con un aumento del desempleo y una reducción de la fuerza laboral formal.\n\nEl número más llamativo es el de la inflación. La inflación mensual se ubicaba en 25.5% cuando Milei asumió el poder el 10 de diciembre de 2023. Para julio de 2026 era de 2.1%, según el Índice de Precios al Consumidor de Argentina. La inflación anual cayó de 211.4% a 33.8% en el mismo período. El índice de riesgo país de JP Morgan bajó de 1,923 puntos básicos al inicio de su mandato a alrededor de 491 puntos básicos al 4 de septiembre de 2026, una señal de que los mercados de bonos consideran que Argentina tiene muchas menos probabilidades de caer en cesación de pagos.\n\nLas cifras de pobreza mejoraron. Datos oficiales muestran que el 41.7% de la población vivía en pobreza en el segundo semestre de 2023; esa cifra bajó a 28.2% para el segundo semestre de 2025. La indigencia cayó de 11.9% a 6.3% en el mismo período. Algunos especialistas han cuestionado la metodología detrás de esas mediciones.\n\nEl panorama laboral es más débil. El desempleo subió de 5.7% en el cuarto trimestre de 2023 a 7.8% en el primer trimestre de 2026, según la Encuesta Permanente de Hogares del INDEC. Los trabajadores registrados totalizaron 12.751 millones en mayo de 2026, una caída de 0.9% interanual. El tipo de cambio oficial trepó de 390 pesos por dólar al final del gobierno anterior a aproximadamente 1,529 pesos al 4 de septiembre de 2026, tras una devaluación inicial a 820 pesos en diciembre de 2023.\n\nLa actividad económica creció 2.7% interanual en junio de 2026, medida por el estimador mensual EMAE, aunque el INDEC señaló una amplia variación entre sectores. Si ese crecimiento se traduce en más empleos formales será el número clave a seguir en los meses por venir.",
