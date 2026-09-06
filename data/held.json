@@ -1,10 +1,10 @@
 {
-  "at": 1788727881625,
+  "at": 1788734714956,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "VOI.id",
+        "voi.id",
         "latintimes.com",
         "Kursiv Media Узбекистан"
       ],
@@ -25,19 +25,37 @@
     {
       "section": "politics",
       "outlets": [
-        "Mexico Solidarity Media",
-        "Mexico News Daily"
+        "Star Tribune",
+        "Fairbanks Daily News-Miner"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Work on the Mexico City–Guadalajara Train Begins in 2027, Sheinbaum Announces from Jalisco",
-        "MND Tutor | President Sheinbaum’s 2nd annual report"
+        "Readers Write: Gloria Steinem, Wendell Berry, the ballroom ruling",
+        "The Supreme Court’s ballroom decision is about more than the ballroom"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Dc0E1emVLMmZEN3FHXzFBNE51Z3k3VlY3ODJLb2NEUUtrTWI5NDg4dE9oVzVuRFJiSHBZRlFrOFA1OEhBTVV0bzNLb1A4Tl9QUGRfMTJDVF9LSmd3U1FOTU5OQlk?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oaldCazZWa29Ya2hiS1RCVEpvWmVFdVl4bUtwV1A1TU5vam1vSDNxQUtVYnRJRXVueXo2M3M4N2tiejZxRldReW1SQU55am40RktLRS1DcThTNW5ZWUF1Y3c3dU5QcS1WbWNwNWg1M25OTmRrUEhhY3pjMFZkUQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOXVQSEQzd3NhYTlULXR0ZW1jbGQwQUh0T3FYb0dFRG9SMkdfY1UwTG5jbU1VMHc5blhSc01LcmtFUG1BSkx3aE9jTUJ4Tmp3VmtvYmp1d0c4YUMwcDkzeDJrZDVER3RUNnplNDgtQVluU2tlSnZNTnNId3o0dHB6QlIyTzdUMG0zcWdTZm9zNmZNRVJTa0VjY2RnU2F5V1BlWEE?oc=5",
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZHdLUHdfZ2UzYUJmcXNNd0ZtRXBoRmp6RGxWWWt1RHJiQzFPNG96UEZKSHZmc3JZOGJ0YU1EQWJBY3ZRbTA2MnlPWVBGM1ZLeDAwV2JxSVAzdVlEdTk5Y2ZEajRoalhCaEg3VWx5aUx1akVPZWRhYWFiR3lOWXpoeU05VS10R1ZxNkhnVUotcFAtaGlTLVdobkNaRm85Qll0QTRXZ3ZUYXZTSUFCX1RMaGJFUUlRcUZoM3dTVHhrcVpoblFIM1p4dVRKMXhYRU8weWViNjZVSDRGSFZMbG5fVnNrY2pqUU9Z?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Fox News",
+        "Washington Examiner"
+      ],
+      "lines": [
+        "right"
+      ],
+      "titles": [
+        "Energy chief pushes back on scrutiny over Strait traffic: 'Why would we be lying?'",
+        "US disputes Iran strike on Navy ship trying to enter Strait of Hormuz"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zM2dIdkFlVWN0VGE3YmlPLVNrUzFFOXVIek5ldGJfWUNYNGFlUW5zVFVYdldxdm5Dbm9tcTFsWm5UNGhadWt1NWRGaXFwQkx6bWZsMENB?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHF2aGZrUWtzaXA1YmNxUk9hV3p3bHBxX1NsLXFZWHJkWnpXeFA1VmNmYVZ1NjF2NGNkMl9oTGppX0VNbXN2QUtZamwzdXBzSWxIYjVKZW9MVzZXV0VXNGlpY2JaV3dBLURmQjV5ZDE5U0laNlQ2aWVxUFNmSEhMQlMzeDJORUJ6ZkxzdDZoMnpXVi1IeWlab1hZa3pDclRjM0E?oc=5"
       ]
     }
   ]
