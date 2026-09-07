@@ -1,27 +1,34 @@
 {
-  "at": 1788811097491,
+  "at": 1788821141755,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "newspressnow.com",
+        "KY3",
+        "KMBC",
+        "Marietta Daily Journal",
+        "Straight Arrow",
         "News of the United States - NOTUS",
         "KOMU 8",
         "KCTV",
+        "Independent Voter News",
         "Missouri Independent",
         "SCOTUSblog",
-        "democracydocket.com",
-        "STLPR",
-        "KMBC"
+        "Democracy Docket",
+        "stlpr.org"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Missouri AG trashes state Supreme Court ruling in federal filing",
+        "Nation watches Missouri’s redistricting battle as US Supreme Court considers submitted arguments",
+        "20 states ask U.S. Supreme Court to intervene in Missouri congressional map case",
+        "Missouri AG's office trashes state Supreme Court ruling in federal filing",
+        "Attorneys urge Supreme Court to reject Missouri map request",
         "Missouri Group Asks the Supreme Court to Let Former District Maps Stand",
         "People Not Politicians responds to U.S. Supreme Court map appeal",
         "Activist group asks US Supreme Court not to grant stay in Missouri congressional map reversal",
+        "Missouri Politicians Tried to Override Voters. The State’s Highest Court Said No — Twice",
         "Missouri AG trashes state Supreme Court ruling in federal filing",
         "Missouri organizer urges Supreme Court to leave ruling in place preventing use of congressional map expected to benefit Republicans",
         "Gerrymander foes urge Supreme Court not to revive GOP map in Missouri",
@@ -29,10 +36,14 @@
         "People Not Politicians files brief asking SCOTUS to deny request for stay on map ruling"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNmttU0hYaXZFRGlqN0RwWHprY0RmR0lVeHY2UGFlVThYM2pPSUJOQXI0a0gwWnRNai1tRW5aYVFWdDZzUTZMSjR4OHNaX1V2NDFyY05iWmhUdS11Zlhqa1NOSjItTjNVeGFXZkttaU8xaGl6NDNIS3AzVFZQLWJvY2dQOTg2Yk9QWlNjd3BpcVptZDBoTlNtUUEtTGRVSTdrRDVNSmRieHJuSjNBV1R6aUFpNmwybC1WSC1FOE9aaWR3UE9aUnBLRzBNN2g4TE5HTGd1OFJpMkthMDdBYkdEYlltVnBTUDc2Q0tNdjdnaElkVHpT?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS0V3QW1IUVZqdkpJeVdlS3kxZXYyZHo5QV9yRk8telNWZUxnOEpSM2U5Zmh3ZHRkbFROa1luRHZkUXhGeDVJdmFWbkJreHRkMUhTV3MzZUlLZmppVVoxaElvSkhuS2M5SU9FaXp5R3hCWHk5QnhQSS13czRRdkNRVlF5cUhlTHZRcy1sYU9mSFc1YzVHZ2FLeXJibWtQdEF2MkVud29RVWFmcVQ2YjJOeHRVTmVKUFc1ajFocFBTM0FSd9IB1gFBVV95cUxNa016OHgyZkJwUnFIV2ZwNGtYek0zclkxQUV1V2E3eHM3cTlETGxnLV9zMEZ3SS0tZ1VSOTJQdmJ5LWEwQnUycHNIVGpwbXo3Y0tsWFVRcE9PMVlPRWtadGxZZ3liamFKN3dHR1ZoTzFKd1BoOENtMG5MeXVxUnF0dUhhZjJxTDRZQ1pORDdMQ2FWc3ZHNFVQbFp3Ynh3T0EyT0xUblJTaVVyMGtYZmF2UldLZDFEUFdtdmV5WDJLdnR3eG1lUmh4S0UzU2ZLSGx2RERCekx3?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd2dURU4wNmRqcmdnc3k1aElsQk5ZQXY5czRKWEExV3B5V2pYa0hLSEtsZVNya1QwbHNPUFlSUElPRnRFaE84aWt4MFNkaUFBV2ktemh1TDRPb2tDMmhTZTgxVFM0emVfLXRGcVVSSXl2cWV4UmZtS3BqWWJ2TlhidjN0RjNhQWdCX3pjRC1rREpPMTBEeTItRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaEY1ZTRucUt5UXp5X1IwN0JOamJGT19WdFVqeUk5VzR0cTNMbjJtMkFjc1E0djIyZ0NBYUNQbGJZaUg0OV9EaGJrbHBGQlB5WV9vOFpRTFBxdGtRcXNTRFBSdFFJa3RjbVd1dWo2V0dOVXRiSVFEbUlLOHlTdGVvNVhRc2pNanpBVnJpN0FIOEZZYUJjUlVURzYtdFJlazRNeWE4dlRRMzIyNEtEcU5zdVV6Y0p3MllSNEtad0NUMTE2anpJUkVMRFdyUzNuNk5PUEVoTGF5Zk9aLVlkekM1MnVCa0lqNVI3RVgycFJpRVo?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVWptejVCa29RVWlibTQ5VlZ1MFRHUG1FRk9Gb2xadVd6WWJwa0Q5RFZLbXZMandWTk8wMGVWY1BsM0JaSzhIODdyaDJOWDBNUDQ4SHA1T1ctV0s4TndzbE9NSjNvVUduTUdZVkVnRWJOeUw2cnk3MzUwUTRpdVRlTm5tS2xFQQ?oc=5",
         "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMFNiaXNIU0ljN19OMGY4UExoNE51ZC1Sc0lXajRfcEJpVzNVcDhVWkxxTEZuNWkzVTMxa1ZsdnNKNTloT09tTnRQdlFmU3hNVjlHU3BrWTMxd0tUd0dDTWJ3Y3k4dWFGV2RuRHhkNkVaNEdZNVMta0plNm5tVDVtSEZIZXkwdw?oc=5",
         "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN2hla1ZFenpacWxvajltblZMZXFpWHd0cW5pcFJ4T3NZNzgwVFl0U2pwSk1sWHhINU9XV21SYUVoWk5PX2NIVmVDU2l1WlcwYnQwQ05CcFRFaVlsNTYyTHFDSnNQeldhajZrNV9KRVpOMHRQV2lMYzRYMWNzN1M0RWZoRlFIdVJoNGI1cWFRRmhLUWxybVNuV0JfdUttNVJuclE5Wm1vOWhUX2s0c2p5Wjgzbm5QbGEtZGpVTVZlUEwySWpNVllkVG1qX2wtdXk0UEQzV0NYU2JGbnBKN2c?oc=5",
         "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3dBcGFXSlE1a1hweS1DYjh2U2RhNmY5RXVWZTFwbVpGU0hGeDFJTGt4TG5tVUp1eE5lRVFzR2k1ZklUUU1Udkp1RWRlX2lHZEJrMHhucHRfU1VfUFBRU3dhUWV4SF9VQUJoU3BRX1dGS3R3bWlRU09wZE94ZFlBZlk2dnQzMjVIbzJXUzFEalJpb0FuMUNkUmpiWnZfMmZ4dXI4bGlVcEFNdHA0bC1Fc19QTjFsWElDWjFFaEZn0gHSAUFVX3lxTE00TjFBaHFTWTRuUjFxRndCbjU1VU5jYnVxbm9DVTRPR0tuOWJiMWNQVEVuR0FwY09Ic1NGMHI4bTNEWVlwcEk0NDBsZUY0eW1fVFQ3bnRyS0NFTkUxbVpVT1dfR19iSEZQWnlyZVd1VTZVa1hial9iTXI3SklFVXhjYWk4S2JRQWkxUm9TNWc0RVNXVFlGaV9rYk5RSWFCWUFSX1hDelhGVVFHbURLckhFcFhPcHlEQVg3VWxkcms5bHk3SGd3RDN5VE9HVDNYNDBhZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1ZEYXZrekJ6SjJEeFF6UFlDbVAxSU04V1pFTXNIWEdvd1VITWNmaENKU0lLN2JXRHc1aVBsWERQX3ZpYWFhMXdFZ0Noek5pRWNoS1JuTWRmbUx0NzgwYnlQMmw3aXkxMzFLQVZueWxDbnRXRXF6WnJFMkdzcldDQkhPVkZfVDdFUEJtOTlJdU1TUXp2bjBGM1NxbUZuay1yOUE?oc=5",
         "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd1YxeWZRQmROWXZTLWdKRzVCdUxkZ0pCZ2g1cFZWTHBnalZXbkFtajFaSldKWVhlUUZPTkdWQ21aSUlsaEx5MlRkeE5sazJKQU9zbzVYZnJfRG83UjBQRkE1Uk1QX1JfWmROX3lWM2Nocm5UMEFBM2xNNFBmMjVWbENjMmktUVJ2Y2FWZFVDRlVfYndaUGkzeEx1cTFGUzBPM3RzLWt5N0dXVnR3?oc=5",
         "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZTB4Wi1scGhqcUpWc2V0RmI0RThFUFNnR1J3TC1PQ0hvT09qc2NhaG13UFNRR3BWOURXTWxNMkJHZUNFbWhSOXZ5RUxWOWZOMGFfR3dpeE5HNzBqM0FadG1VN0JhSl9VQnR2Ny1nMjhnTHNQZGEwampoY2I2VFZaT0kyOG13TXVOdWVGNHN6alltUkI3cTVNdEduM09pR0VIOFRBS2RCY1pEYkxNVXJCLTNuMUNwQ0JzOVEwVGRVTjRJTTJIOWNqalB6eS0?oc=5",
         "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTXROOTNQbjllczMwN2M4aDlXZ0xndEZlbDc0N1loY3pSTzlkd0NxdDFmQWZiNmJBZ0dkS2N6RVRqTkcyRzRLbHlXeHpLRFRVb2NTbVp2TnJtbGU2X1RnWkVUbklWQ042aGE4bWNiZ3ZhS2FKYnNsRlg1ei1IRTI5OHRQa2N2cFEzOWs0V1EwSTR6Z21NZnlwOWJlSEg5enAxNmx6RnprUnY5SzMxaDhrUFk5RlU?oc=5",
@@ -44,23 +55,48 @@
       "section": "politics",
       "outlets": [
         "UA.NEWS",
-        "Anadolu Ajansı",
+        "Mexico Solidarity Media",
+        "aa.com.tr",
         "Mexico News Daily"
       ],
       "lines": [
         "center"
       ],
       "titles": [
+        "In Mexico, Sheinbaum backs water infrastructure projects for Guadalajara",
+        "Sheinbaum Responds to Trump: “Mexico Is Not and Will Not Be a Colony”",
         "Mexican President Sheinbaum defends the country’s electoral system",
         "President defends Mexico’s electoral system amid warnings from former Colombian leader of manipulation",
         "Mexican President Sheinbaum criticizes PRI-PAN rapprochement and comments on Sinaloa plant",
         "Sheinbaum criticizes PRI-PAN alliance and addresses Sinaloa ammonia plant pushback: Monday's mañanera recapped"
       ],
       "links": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcWxIbndZTTM1YmFGcURaN3hCT3NMZnpwWl9yWl9YRnV1SkhJQXkwUER1SEZGbElfZXZfWVlIMzlpQjhTOUdMZmZ4ZElrekNoYXp6SlpFVndIN1JFRzFTVkRFdHZTQjZmVGo4SVJRSGNyTEtWcERrbndSQ3VyV0tsSDhBV3BQeURxRjRzT1VmYV9pbEtQWC1jNU9hZ2xWRDlYQ2ZYcGszeVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MZ3hEMy1qWGJGU2RuaXRPRXZYeVV1QUN3QUxEQng5aGQwckxjUTdpdUNCQ1RrQ1FqbDVPY0hZWEdmbTFsQ2ZmTmtSWWU3blQzTU1ZLVd1QkotZnV5WjRBa1Q0Ml9CZDFyMUw4?oc=5",
         "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlZtWGwxWkNHdzlZWVA4UWVZamNpaUtTQ0kwZE1pdzBqY19wOU5tNV9DdU1qUnZYTkpDZkY0M2FzdWhwTUtfVno1b2dSYjBtR3ZNVW1RcXF6bW1FRFJ4cUxjcV9HdXNYREZhNVZXTTBfT2oxLUFMeDBRN0NvOGZPV1VjbG5tci1TQ3kxWk1tVXVfYm1v?oc=5",
         "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaDEyc3pxd1BDcWpPN19Rek1kSXBzRUNtZmFqWFR5bGtEb0NvQ1k0TmNueXkySGczVkRHaWkzUnd3azE1VFZPc0xlMG4zdTR0eTJEOWJnbmMxc2M1WHRlSTVXcnA4VHVuS3l2aFc1T29zVkFkUXdTcGtyeXEycEdJTlVhd2JMNHVkSXF2WHVCSUdTRlRKYktMU2ZfRWI5OHdsbDFmd3pxZkt0bVJlZVMwRlBsY2FYVDRYeVpHSEIzTEFEYWlLUkV1dFU2cUwwVlJiaUpHR1h1dC05NVZL?oc=5",
         "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkt3NGRjM0pqTFJVNTJQZzlpUERZX0pweW9WaDFCeWlYNUJOd3hQQ3ZCRnRsRnNCS3MzZDlWczYwc1BDTWNsYzRaaGo5WUVod3BDUGZBUldoNXZKYnlKNDhsR21uVzYyRE5BZS1KUVlWQ3B1RWNEYUN6MEtrSGVHUkNrYXlmWGlQUWI5aEkxbXNDaFNLWVJyeVJISndFaXNRd1AzSmRUalJiVU1FNHNFYm8tRzNRcWRkUWFqQzJwOENURzQ?oc=5",
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOE1TYnpsdk03d3BWLWozZ0xkWXJyLUhNalRTOVI3SUtEd3RYVmlSRUJJSlZaZElaQkFtbmltUldHUzJja2RRNDMzS3kwOUhJdHNKM0hrVEk4N3BfSjd0MHBDMHluQ3NnSXpTeVFNUW9LbjBEdWVYdXVqbVctbFhnRVNOM1Y4S3U2UVhzWVUyQ0ZtLWlaandKanYtcVI2aUpfSnRoQQ?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Fox News",
+        "New York Post"
+      ],
+      "lines": [
+        "right"
+      ],
+      "titles": [
+        "Prosecutors drop Khalid Sheikh Mohammed confession appeal to protect 2028 trial for alleged 9/11 mastermind",
+        "Prosecutors to head to 9/11 trial without mastermind Khalid Shaikh Mohammed's key confession",
+        "Rudy Giuliani calls for Mamdani to skip 9/11 memorial ceremonies: ‘It offends me’"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3g4ZzRDY2owQUUyMDE2VTlsVHUxbU4yNjMxZnZrMjRYUDNHY0VBcGVmVTU3Y1VVOTk2dDlQWnNVaTdTb3pLTDJXZ3h6YmxDRXhya201YkJYdXdIb1JPcVZkSnY5QlNfdDRvTzQzeTRkTFRXdkR5RzY1NlpUR3FTN2d0U3pMdDNfS0txT0ZNMmNrUDZEdTZ5UnFSdlpsTUswM1dEQXcwMklNeDQ1aDBJTks1YndlcEJ2T1cyZ3NPRVZxa1BFdlHSAcsBQVVfeXFMTUMybVBib1M1THdFb1BXQ0hNTmNqRGl3ajZPdDZPOUgzLWxheWc1cHl2WFBNNF9ycUtOV2NGWTNRZ2VDT3g3aWdPOXUtVm5zRldvUDRDdUpGZ3I2STFRbWVxcjhMamZIU1Bob0tURk8xSW1SWlpsWENMSUNvOWI1UmlNS003YV9GYlVIU0oyWV85SUZvQnVQZkR3amxGOVd0cE1KUFp0NlJ1MWg1VU5OZnozcExFTDVadlN5U1ZuRGE4MjYzdWJFeHhKQlU?oc=5",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQzQ0clNhS1pyaTFiOHkyOG4wN2lXTjZNMHJzX3dIaWo4cmFyR2lJLXFhV2M4ZTA3WHNzaVZOLUVJWkhidGhJYzhpbGVGXzlDbVNzYnBENndEWnAtYVdpSmNLRjlld2NIZGg1dmQtOTh6UXdSS195LUFaZC1MSG0yaDd3cFJNWkpnQl9URmd3NmVvdFZvSEVtQjJSaFdHaTZabGd4MFk0dWIzeWZEVlZEVHBzeWFaTGxwQmVsUGtZNTM0eXREc3J1bUdn?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXRPVllqdkk5cEVyUDV4SFZsN0Nzek81T0VZWHNyOWhSUVBQQ0Y0dU9sVllqS2h2cS0tNkhPdm5rUDJXSWFRdk5nV0JCZ2N0aVdMWkNodTBFX1FTZWtsb1BTc3NZMzVueUlfYTdlZ2E5OHQtcXRWUWE5cVNoTE5pTkdFbVRTQnlVTUZsTUNPLUx0cmVXaGxralJVNU5Ga2YxZk5VbERkUHFPNHhfVDE2bFo5YThEUWlz?oc=5"
       ]
     }
   ]
