@@ -1,61 +1,40 @@
 {
-  "at": 1788734714956,
+  "at": 1788741887632,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "voi.id",
-        "latintimes.com",
+        "KTVB",
+        "Idaho News 6"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Idaho Supreme Court approves revised ballot language for Proposition One",
+        "Idaho Supreme Court approves state's revised Prop 1 ballot language"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVjBpdTBTM2dzLVVGRUdnU1piSWoxSDJDWFlPMnA1TW9XSDhJVEIycnV1T1dub1hhR1RRTEF6Tk42ZTBjcEpFamZOMVlMeDB3UXB1VllBbU12YU5kTFlzQWJ1SzNuR3pMQVR2dmxobTdEbzFmdG5qQTNuTkpxci1ZeW1oZktfdHRCQzdGVjJTREt6RkxybndqeHMxMEZYa0stYkIzS0NQYTM2cVNxYjJWZmVvem5fd0NLQS1zb3dzSkNDeFJ5S0tWenJPTWV0MHM1OFZ0Nkp6SkdkNjVycllVTzFLVnVwY0U5b21lUGRnSjh5ellG?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxONlNtYVJTTVozWUpVdUZxN05pV01aSFZFbkVPT2NBWGkzRHIyZlp6MVdJMl81cDl4MjZYLWtSeng3R0xaWGtoLThLQXJONl9SQVZPdGxneUt3VEp4OE5lbGtjaWRtOWR3TnBYU1lUcVk3Rk9pT1JIUEhCbk5kR1FtOW93b1JfbG5wcnhJT1RMU1ZlVGM2dXk0WTFB?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Latin Times",
         "Kursiv Media Узбекистан"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "South Korean President to Visit Mexico, Mysterious K-pop Group to Be Brought Along",
         "Korea's president is bringing a mystery K-pop act to Mexico — and fans are already guessing.",
         "K-pop group to join South Korean president in Mexico"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5tQmN3b0hURWdGZVVjMHVQZEJlN1MxTWF5YW5nc21ibE11aGtNR2RkMWhrS0FBeTBscFdKTml5bDFabkHSAUJBVV95cUxQRXN1LW5SZUFjelNGR3RHcEN3cGx0TGdQUlJCeUkyRVNfOGlZSjM3SFExRHREQnFtem5FMVN2NHRJeEE?oc=5",
         "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQjMzcVJocHlWNC02b1ljLWVLa25NUEN1ZXZfeE5EWVEwLWZEbW42VHZFMjVuUy1oWDYxU1ZEQkxWMkV4UEI5VGc3VzRmcnk1OGdlN3YwRHMwcGFhME9WQW1mU0c0Y0pjbmdZVWpUV0pwRGVNYVJTMWx1aUNTMzY0b1AtNVl0cXltamhtSmFvb1RvUkhIazdUMUJBeDZwYVBWeXhuZVo0ekFxTUIxVHoyTXp5c3E?oc=5",
         "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUnl5M0swdzRjb21WVTEzUEJHcnVTUjNBQ3lWQ00tOHZLREtQZHFHb3hjREVDbW1ZdVlLZ2xKT09ESzZYT1U3aWdxVDJzTEE0RHRhVFZWQmdRZXFqeVE2YzJiYVg1UGV3ckRMVVlZV3lKVENpMGZkVHcyQ0o0eEprMnJEeEpZSzJBcEFFYlhxM0F1b0hPekJEcUprR0NZRi05MFdHcm1qYw?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Star Tribune",
-        "Fairbanks Daily News-Miner"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Readers Write: Gloria Steinem, Wendell Berry, the ballroom ruling",
-        "The Supreme Court’s ballroom decision is about more than the ballroom"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOXVQSEQzd3NhYTlULXR0ZW1jbGQwQUh0T3FYb0dFRG9SMkdfY1UwTG5jbU1VMHc5blhSc01LcmtFUG1BSkx3aE9jTUJ4Tmp3VmtvYmp1d0c4YUMwcDkzeDJrZDVER3RUNnplNDgtQVluU2tlSnZNTnNId3o0dHB6QlIyTzdUMG0zcWdTZm9zNmZNRVJTa0VjY2RnU2F5V1BlWEE?oc=5",
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZHdLUHdfZ2UzYUJmcXNNd0ZtRXBoRmp6RGxWWWt1RHJiQzFPNG96UEZKSHZmc3JZOGJ0YU1EQWJBY3ZRbTA2MnlPWVBGM1ZLeDAwV2JxSVAzdVlEdTk5Y2ZEajRoalhCaEg3VWx5aUx1akVPZWRhYWFiR3lOWXpoeU05VS10R1ZxNkhnVUotcFAtaGlTLVdobkNaRm85Qll0QTRXZ3ZUYXZTSUFCX1RMaGJFUUlRcUZoM3dTVHhrcVpoblFIM1p4dVRKMXhYRU8weWViNjZVSDRGSFZMbG5fVnNrY2pqUU9Z?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Fox News",
-        "Washington Examiner"
-      ],
-      "lines": [
-        "right"
-      ],
-      "titles": [
-        "Energy chief pushes back on scrutiny over Strait traffic: 'Why would we be lying?'",
-        "US disputes Iran strike on Navy ship trying to enter Strait of Hormuz"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zM2dIdkFlVWN0VGE3YmlPLVNrUzFFOXVIek5ldGJfWUNYNGFlUW5zVFVYdldxdm5Dbm9tcTFsWm5UNGhadWt1NWRGaXFwQkx6bWZsMENB?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHF2aGZrUWtzaXA1YmNxUk9hV3p3bHBxX1NsLXFZWHJkWnpXeFA1VmNmYVZ1NjF2NGNkMl9oTGppX0VNbXN2QUtZamwzdXBzSWxIYjVKZW9MVzZXV0VXNGlpY2JaV3dBLURmQjV5ZDE5U0laNlQ2aWVxUFNmSEhMQlMzeDJORUJ6ZkxzdDZoMnpXVi1IeWlab1hZa3pDclRjM0E?oc=5"
       ]
     }
   ]
