@@ -1,25 +1,48 @@
 {
-  "at": 1788829130917,
+  "at": 1788846666114,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Mexico Solidarity Media",
-        "UA.NEWS",
-        "Anadolu Ajansı"
+        "Independent Voter News",
+        "Missouri Independent",
+        "newspressnow.com"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Sheinbaum Responds to Trump: “Mexico Is Not and Will Not Be a Colony”",
-        "Mexican President Sheinbaum defends the country’s electoral system",
-        "President defends Mexico’s electoral system amid warnings from former Colombian leader of manipulation"
+        "Missouri Politicians Tried to Override Voters. The State’s Highest Court Said No — Twice",
+        "Missouri AG trashes state Supreme Court ruling in federal filing",
+        "Missouri AG trashes state Supreme Court ruling in federal filing"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MZ3hEMy1qWGJGU2RuaXRPRXZYeVV1QUN3QUxEQng5aGQwckxjUTdpdUNCQ1RrQ1FqbDVPY0hZWEdmbTFsQ2ZmTmtSWWU3blQzTU1ZLVd1QkotZnV5WjRBa1Q0Ml9CZDFyMUw4?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1ZEYXZrekJ6SjJEeFF6UFlDbVAxSU04V1pFTXNIWEdvd1VITWNmaENKU0lLN2JXRHc1aVBsWERQX3ZpYWFhMXdFZ0Noek5pRWNoS1JuTWRmbUx0NzgwYnlQMmw3aXkxMzFLQVZueWxDbnRXRXF6WnJFMkdzcldDQkhPVkZfVDdFUEJtOTlJdU1TUXp2bjBGM1NxbUZuay1yOUE?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd1YxeWZRQmROWXZTLWdKRzVCdUxkZ0pCZ2g1cFZWTHBnalZXbkFtajFaSldKWVhlUUZPTkdWQ21aSUlsaEx5MlRkeE5sazJKQU9zbzVYZnJfRG83UjBQRkE1Uk1QX1JfWmROX3lWM2Nocm5UMEFBM2xNNFBmMjVWbENjMmktUVJ2Y2FWZFVDRlVfYndaUGkzeEx1cTFGUzBPM3RzLWt5N0dXVnR3?oc=5",
+        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNmttU0hYaXZFRGlqN0RwWHprY0RmR0lVeHY2UGFlVThYM2pPSUJOQXI0a0gwWnRNai1tRW5aYVFWdDZzUTZMSjR4OHNaX1V2NDFyY05iWmhUdS11Zlhqa1NOSjItTjNVeGFXZkttaU8xaGl6NDNIS3AzVFZQLWJvY2dQOTg2Yk9QWlNjd3BpcVptZDBoTlNtUUEtTGRVSTdrRDVNSmRieHJuSjNBV1R6aUFpNmwybC1WSC1FOE9aaWR3UE9aUnBLRzBNN2g4TE5HTGd1OFJpMkthMDdBYkdEYlltVnBTUDc2Q0tNdjdnaElkVHpT?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "UA.NEWS",
+        "aa.com.tr",
+        "Mexico News Daily"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Mexican President Sheinbaum defends the country’s electoral system",
+        "President defends Mexico’s electoral system amid warnings from former Colombian leader of manipulation",
+        "Mexican President Sheinbaum criticizes PRI-PAN rapprochement and comments on Sinaloa plant",
+        "Sheinbaum criticizes PRI-PAN alliance and addresses Sinaloa ammonia plant pushback: Monday's mañanera recapped"
+      ],
+      "links": [
         "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlZtWGwxWkNHdzlZWVA4UWVZamNpaUtTQ0kwZE1pdzBqY19wOU5tNV9DdU1qUnZYTkpDZkY0M2FzdWhwTUtfVno1b2dSYjBtR3ZNVW1RcXF6bW1FRFJ4cUxjcV9HdXNYREZhNVZXTTBfT2oxLUFMeDBRN0NvOGZPV1VjbG5tci1TQ3kxWk1tVXVfYm1v?oc=5",
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaDEyc3pxd1BDcWpPN19Rek1kSXBzRUNtZmFqWFR5bGtEb0NvQ1k0TmNueXkySGczVkRHaWkzUnd3azE1VFZPc0xlMG4zdTR0eTJEOWJnbmMxc2M1WHRlSTVXcnA4VHVuS3l2aFc1T29zVkFkUXdTcGtyeXEycEdJTlVhd2JMNHVkSXF2WHVCSUdTRlRKYktMU2ZfRWI5OHdsbDFmd3pxZkt0bVJlZVMwRlBsY2FYVDRYeVpHSEIzTEFEYWlLUkV1dFU2cUwwVlJiaUpHR1h1dC05NVZL?oc=5"
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaDEyc3pxd1BDcWpPN19Rek1kSXBzRUNtZmFqWFR5bGtEb0NvQ1k0TmNueXkySGczVkRHaWkzUnd3azE1VFZPc0xlMG4zdTR0eTJEOWJnbmMxc2M1WHRlSTVXcnA4VHVuS3l2aFc1T29zVkFkUXdTcGtyeXEycEdJTlVhd2JMNHVkSXF2WHVCSUdTRlRKYktMU2ZfRWI5OHdsbDFmd3pxZkt0bVJlZVMwRlBsY2FYVDRYeVpHSEIzTEFEYWlLUkV1dFU2cUwwVlJiaUpHR1h1dC05NVZL?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkt3NGRjM0pqTFJVNTJQZzlpUERZX0pweW9WaDFCeWlYNUJOd3hQQ3ZCRnRsRnNCS3MzZDlWczYwc1BDTWNsYzRaaGo5WUVod3BDUGZBUldoNXZKYnlKNDhsR21uVzYyRE5BZS1KUVlWQ3B1RWNEYUN6MEtrSGVHUkNrYXlmWGlQUWI5aEkxbXNDaFNLWVJyeVJISndFaXNRd1AzSmRUalJiVU1FNHNFYm8tRzNRcWRkUWFqQzJwOENURzQ?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOE1TYnpsdk03d3BWLWozZ0xkWXJyLUhNalRTOVI3SUtEd3RYVmlSRUJJSlZaZElaQkFtbmltUldHUzJja2RRNDMzS3kwOUhJdHNKM0hrVEk4N3BfSjd0MHBDMHluQ3NnSXpTeVFNUW9LbjBEdWVYdXVqbVctbFhnRVNOM1Y4S3U2UVhzWVUyQ0ZtLWlaandKanYtcVI2aUpfSnRoQQ?oc=5"
       ]
     }
   ]
