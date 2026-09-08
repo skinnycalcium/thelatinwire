@@ -1,52 +1,79 @@
 {
-  "at": 1788892188061,
+  "at": 1788902515248,
   "held": [
     {
       "section": "politics",
       "outlets": [
+        "ABC17NEWS",
+        "Spectrum News",
+        "Kansas City Star",
         "Missouri Lawyers Media",
+        "KQ2",
         "Missourinet",
-        "The Fayette Advertiser",
-        "Межа. Новини України.",
-        "Davis Vanguard"
+        "The Fayette Advertiser"
       ],
       "lines": [
         "center"
       ],
       "titles": [
+        "Attorney general calls Missouri Supreme Court decision 'blatantly unconstitutional' in brief to high court",
+        "Missouri waiting for U.S. Supreme Court decision on redistricting",
+        "Missouri’s congressional map rests with the U.S. Supreme Court. What to know",
         "Missouri asks U.S. Supreme Court to revive Republican-drawn congressional map",
+        "People Not Politicians asks U.S. Supreme Court to deny congressional map appeal",
         "Missouri Congressional Map Fight Heads to Federal and U.S. Supreme Courts as Ballot Deadline Arrives",
-        "Missouri Supreme Court puts congressional map, Amendment 6 on November ballot",
-        "Missouri Supreme Court Blocks Republican Redistricting Map Before November Midterms",
-        "Missouri Officials Seek to Bypass Unanimous Court Ruling on Congressional Maps"
+        "Missouri Supreme Court puts congressional map, Amendment 6 on November ballot"
       ],
       "links": [
+        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWE5Jem1XaGkxc3FyVk9tMDg4NFQzR0NqZEsxdlVOeGJON2pZbWZBdGpwU1o2TEw3V3g5UXd1UWpPTzBPTzhwdHlidXM3c0Q0ZDl0Q3N3OGdhYjlDXy11aVg1enZSUFJvWkJPNnY2VjM5NkN1WUJwaUdGdzdqYmg4LU04MkZidmh3U01pZUozejJWTlJ4alVIVDdOYzJoZHUtX2ZybEpqbElCYng4YkdXV0ZVejgwNzAtZk5lMjg1UUd4ZmJSc0dKTUMtanhmRUJVTWVrenZUV20tNjA0U3hkT0xiVUVZM00?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYlphMHNJS0dqeHlkanJTbXFsc0owTTdmNG5MeXp2bkMxamNDYzRhVHdCcjlZZENhZF9TV093dVhkRmkzN293R3lXX2FiMlZOZzBOeUJJS2lwXzNfZGV0WlctVm1PTUhTaDFYY1RBNktIT1h5MVNUb3liZDFINXFEUFZmcHJ1RDZVZHJNY2I3bi1Ka25pcDZWOThZZUE?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFekI1VlFia19ac21MQ2dBWHo2OW5fbzlsX3Y5cW5zbzVnOFBWUUlWTHJMXzN5OUg3clZhNWxzckF3WG02a2NfY1FHT2NEdWNKZkhlLW5KRTAtNS1MVHZaMXFpbkhFNmI4N1NlRlZic0VVN3N1U0IxVjJtZnFaUQ?oc=5",
         "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZnBCVWFHcEdWWjN3SUI4NWJKbUIyekNPaXhNMGxxV2ZpQTlyTDk0MzduTVRXcUJvbTFHVmJEM1Z5dEliTWswS0l6R1plS2Y4WGc5RjBEMnQ0ZzFsaUxROV9Qb1RUR1RfX3pjWVU0cXgxYnNlQlNWei1GWU94UUUzTEs1Tk5EQjBra1l0dEVGN3hYX1RYcnc?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeU1UMnpLeENCTGVrV1RvaFhEOUVCMU80SnhrVFlmNHFyOUlGY2UyaDctQ2cxUVpkRUIzazZDLVFjSGtETTZ5a3AwZEtuYnhJcU1pdlBTRWxucDVEa2Y3dTlrbjZ1bVdhSUd4Q2lLbWtzZ3JlWjZydU5pNVR5Wk03WlFVNUQ4eW1MTTVtb0loNEZ2cW9GYnVQNFFOR0JnLUh0OFAxak9QelVMUERPVWhreElQTXBlNnJxeF9FSnd4R25GUXZWOXc?oc=5",
         "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMTM3bzVuT0NMUTRJdXlpMUlnYndmZFQ1ZkFPek9mbERmcU1MNkVrM2dUM0FJU3RnTm5BZUkxUkxGYU1OS2FlTzgxemt2dmxRQ0lxS0xWbTRzRll2bExuOGJFQVB6WmpLRGlpLUhoam0taXFiUlk0S0VBMW1TdlRob21RQ2U3THRJaC14ZlRiUmZoZVpYbkJ5LXB1YkNrTHVSZ0swNWdsU04wMXk2cGlWSWpUM0twYjhrX3FZNTR2Y0R5QTJnRkI5UzZlN29ZWm10TTdTTjR3?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNjNKNGYtQ2hsYWdyd1d3ME5UMHJ1M2pWSjlYaXd4Nmp6ZUNnV0U4Mng3T3N1NGtoWUE3WFZNNFVBdW44bHR6dTNBYTA1c3hoVWxGZno3a3JoWXp2dUdneE02X1dvT0lMVzVuLU1zQmNROXFrLTNBRG5nS0FrRjhQbmxoT1pEdVhNQjNNdm5XczFNMDNiSWZla3VIYkFkWG5JZnNtSkRUaWtCQnVEUU5rTEdfaERFZld5V3YtTGhORE41Ykk?oc=5",
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UdF9zTEFmSGFOb09MRTg4Rk5QSldUVmpDMFJSaHQxOFlTNFVRUzdnQUxnOVY0TGRjdzVxbFo0OXRyeXE0alIycS1FbVZ2aFA5V1pGR2Y3dkNOeG9YMkRRN1BkN3NTNlhhTG93?oc=5",
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTFByQjJEODZiOXY4cUp3LXRQUlo1U2NsUUpqdlB1WjJ2Yk1PdHdPMjJNUWY2WXdvRzktaWRwVGtpNlZmM1ZUVHJlbTR4UmtLSnh4LUVnM2ZUNUdhVkJuT0FtekZEMHVBVVpuNnl1SHM5bzJEUTV0?oc=5"
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNjNKNGYtQ2hsYWdyd1d3ME5UMHJ1M2pWSjlYaXd4Nmp6ZUNnV0U4Mng3T3N1NGtoWUE3WFZNNFVBdW44bHR6dTNBYTA1c3hoVWxGZno3a3JoWXp2dUdneE02X1dvT0lMVzVuLU1zQmNROXFrLTNBRG5nS0FrRjhQbmxoT1pEdVhNQjNNdm5XczFNMDNiSWZla3VIYkFkWG5JZnNtSkRUaWtCQnVEUU5rTEdfaERFZld5V3YtTGhORE41Ykk?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "The Hill",
-        "Floridian Press",
-        "Axios"
+        "The Detroit News",
+        "calonews.com",
+        "Floridian Press"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Democrats make sharp gains among Latino voters in battleground districts: Poll",
-        "Republicans Lose Latino Voters Across House Swing Districts",
-        "Exclusive poll: GOP's gains among Latinos fade in House battlegrounds"
+        "Jocelyn Benson leads John James in governor's race, poll finds",
+        "Latino voting trends point to a potential 'swing vote' for the 2026 midterm",
+        "Republicans Lose Latino Voters Across House Swing Districts"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWtnUHo2WHJmZXhFalhSVVRqZDdyU0htWlU2cXdYQXFwVmg4andhbWdGaW4tNnhaS1AteFRGYm00Y3pWTUMyYlM3QnB2djBqbkNOU1cwcWcyNTRtdXJ1Z1JtcWdraHBqQnloVk0xalhHYWZjSC1PejgzcFpJSVRVdlJLQ2ZHRzJ3RXFGYWVBbmhlMVgzQmd3M25WM2FvZFHSAaQBQVVfeXFMUFJhelJ2cmt3LVYwUG5sTnpoYmFIR2luWVNCQnRzYkptOW5mcVFEb2JzRGFGNjNjVGJTaHZpaVFuQ19ud3dlYjc4N3hBOFRxMWFIU21YckhlMHU1Wk82bEg3WGFCQ0NxT2kwNnp4N0tVYzhFQVdaOVJJNjFYcHo1WTBKRnA4SkZWX09XcUVXQWY5WTRYSEt2YndNdkx1T3RyS3A4VWg?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNHJ1R0hLU3Q1RmxFeE01RnVGU2tLNlB3WnN6dDZHQi1FVDcySEt1cVBvM2tGY0ZPVlE5VFR2RFFLM2lPUlNsdU1ud2NEVTFnUFpvaWoxZllVNU9TNlZaY2loQjc0ejlwRGR3My1hVVY0QXRla1J4bG5MV0lxdGlEYlN0b0ZMalFKd3N3WDBJR2RhSVZCNmVEWkN0OA?oc=5",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmMk9UZWFTNTdkU2tfblc1eU5KYkVpZFM2Y09OY0V5emlXWWdKSlM1VVVhN1FGeDdaUksxRFpPaVNpTXhNSDBVamY0andJQ3Q0SmhmNHpRZUFjVENhOWpzbEFNN1piQTg5djg5c2dnQUNzX2Y0RVE0?oc=5"
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLTFrX01ib2RzQ1hmbEl1RVZVT0t6a1p3Vkd4MXZSTGF2MUw0cXpJaUJYYmZYVTNibWVraF8zTUc3UTA4VTZNS0dWLWlaMG83emdkTDNETHZaTTg0N1F4S0gxRmlpUnlPQVlUcUY0U2NuUWY0bG5wODd4UmlNOTEzU0FIVmo3by15WXowWlhocnVBS0xfRl9rNFZYeGpKQVVzdENiNmVsMi1vQ2lQSEVVY192cEZlNnlmamJRMg?oc=5",
+        "https://news.google.com/rss/articles/CBMigwJBVV95cUxQenZRTmU1b2dGTmRWb1p3UUVvU3VUTjdfMDUtNnY5NlRBYS1ZX2lLN000Zl94NE5CT2ZzV19WSGppbWE2eUZYeTZrUHJlTVpPQnlqSUoyVllYLUpfUExVcUdYemV4S3JTd01ZNlprNHN0TFA5RjRBZEFGZ1NwVmFMYk5kY1Z6am00d1VONFJ6ZDZPeGUzYlZ3TVk3RjRreEVtWTREenBxdlJJa0E2MFIzejdpeEktV0NyQ001RDdCUzNmVl9Xem1tdlVxRmtjTGZtMTFYQUtHeGlCd2xpcENwTVpacTQzd1R3QUlxdzJLZUltYzZtbE0wM3NmSmRJOGJudnZV?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNHJ1R0hLU3Q1RmxFeE01RnVGU2tLNlB3WnN6dDZHQi1FVDcySEt1cVBvM2tGY0ZPVlE5VFR2RFFLM2lPUlNsdU1ud2NEVTFnUFpvaWoxZllVNU9TNlZaY2loQjc0ejlwRGR3My1hVVY0QXRla1J4bG5MV0lxdGlEYlN0b0ZMalFKd3N3WDBJR2RhSVZCNmVEWkN0OA?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "KATV",
+        "Missouri Lawyers Media",
+        "KQ2"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Arkansas Secretary of State joins Supreme Court brief on voter citizenship verification",
+        "Missouri asks U.S. Supreme Court to revive Republican-drawn congressional map",
+        "People Not Politicians asks U.S. Supreme Court to deny congressional map appeal"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT2VleFI4V3VQcFdaaDladS02OTEydmNLY3FmRGRUNGxpWXZ2VWJwY280bm9uaGFFVHdVMURVMS1nUzVSQnFJUmVQc2VmNTdKVGZicDhKc1ZERFpyc3hpUXJSTFhGNjNkZTZYbWNQWjAzTl9ZQk1NVVJYSjA0c2o5NWRseFJoUWRjRWF0allsTVk2ekpkVzNUVXM0T1ZIVl90OFNkeG9DSXdZYmlJTmJXVFdNc2xFQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZnBCVWFHcEdWWjN3SUI4NWJKbUIyekNPaXhNMGxxV2ZpQTlyTDk0MzduTVRXcUJvbTFHVmJEM1Z5dEliTWswS0l6R1plS2Y4WGc5RjBEMnQ0ZzFsaUxROV9Qb1RUR1RfX3pjWVU0cXgxYnNlQlNWei1GWU94UUUzTEs1Tk5EQjBra1l0dEVGN3hYX1RYcnc?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeU1UMnpLeENCTGVrV1RvaFhEOUVCMU80SnhrVFlmNHFyOUlGY2UyaDctQ2cxUVpkRUIzazZDLVFjSGtETTZ5a3AwZEtuYnhJcU1pdlBTRWxucDVEa2Y3dTlrbjZ1bVdhSUd4Q2lLbWtzZ3JlWjZydU5pNVR5Wk03WlFVNUQ4eW1MTTVtb0loNEZ2cW9GYnVQNFFOR0JnLUh0OFAxak9QelVMUERPVWhreElQTXBlNnJxeF9FSnd4R25GUXZWOXc?oc=5"
       ]
     }
   ]
