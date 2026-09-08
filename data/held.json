@@ -1,28 +1,52 @@
 {
-  "at": 1788879485191,
+  "at": 1788892188061,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Cryptonews.net",
-        "CoinGape",
-        "CryptoRank",
-        "bloomingbit"
+        "Missouri Lawyers Media",
+        "Missourinet",
+        "The Fayette Advertiser",
+        "Межа. Новини України.",
+        "Davis Vanguard"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "CLARITY Act: Senate Republicans Warn Crypto Bill May Fail Next Week",
-        "CLARITY Act: Senate Republicans Warn Crypto Bill May Fail Next Week",
-        "Can the CLARITY Act Pass? We Asked 5 Top AI Models to Predict the Crucial Sept 15 Senate Vote",
-        "Republican Senators Say Senate CLARITY Act May Fail in Vote Next Week"
+        "Missouri asks U.S. Supreme Court to revive Republican-drawn congressional map",
+        "Missouri Congressional Map Fight Heads to Federal and U.S. Supreme Courts as Ballot Deadline Arrives",
+        "Missouri Supreme Court puts congressional map, Amendment 6 on November ballot",
+        "Missouri Supreme Court Blocks Republican Redistricting Map Before November Midterms",
+        "Missouri Officials Seek to Bypass Unanimous Court Ruling on Congressional Maps"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Lc0t1RzhUVGRzS1EzSEFHbDA4eUpzTHZqZlY2Z1pGeTR0VEgzWVVKMEZPdUcyS2YtWFotTEk3TnFkVnlZam55OWZsNDBrclVnU285SENR?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDQ1QUtES1FLSHRjRV9Sb0p6LTFZVWQ0V212clV0aXZNY2JHRmVEbUpxOE12amctVGxKSWJtWjdBcG1Wcl8wNFRrbi00R0tSbVRBZVZrNEJialZiQ29DOFZsVjlWWDNhbWNOTkRCWlBFWkNqVkluMlU5bXJhbmpvOC1oSlM2RWJxc1NWNVNiOUk1QQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNzRpYl9NZF91N2h1ZXVYTFpCYWc2cG16eWdOYTd4cjF4V3VUYTFfT1Bka3R1ek1scHl4M2xqcTBCbUJJWWpUV2hVUk14bG1MVEU0R3o2Y0RMcU1DaUZ6dVhRUDQ1WVZZTzFHY2pOQnY0NGctbDdvUk5kZWhHS2ROY1Z4UkZXU2ZmR05hSUtzOG1nSzl6SGRPcTlvRjZ1MXRZbFZjeTNrWlA2MmZJV3ljaGl3WHJNUi1mYkR5SXJya2taWDlacXRudWh3?oc=5",
-        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0ySjR0cTIxa192WXNtXzF1NFBkMXpPemhiTjM5cnZ2Tlg1N2VEeHlLNk9MNkJwSGdIYUMzakxwdWpvMVczY01sdkVMVWNmTTFOejFhdw?oc=5"
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZnBCVWFHcEdWWjN3SUI4NWJKbUIyekNPaXhNMGxxV2ZpQTlyTDk0MzduTVRXcUJvbTFHVmJEM1Z5dEliTWswS0l6R1plS2Y4WGc5RjBEMnQ0ZzFsaUxROV9Qb1RUR1RfX3pjWVU0cXgxYnNlQlNWei1GWU94UUUzTEs1Tk5EQjBra1l0dEVGN3hYX1RYcnc?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMTM3bzVuT0NMUTRJdXlpMUlnYndmZFQ1ZkFPek9mbERmcU1MNkVrM2dUM0FJU3RnTm5BZUkxUkxGYU1OS2FlTzgxemt2dmxRQ0lxS0xWbTRzRll2bExuOGJFQVB6WmpLRGlpLUhoam0taXFiUlk0S0VBMW1TdlRob21RQ2U3THRJaC14ZlRiUmZoZVpYbkJ5LXB1YkNrTHVSZ0swNWdsU04wMXk2cGlWSWpUM0twYjhrX3FZNTR2Y0R5QTJnRkI5UzZlN29ZWm10TTdTTjR3?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNjNKNGYtQ2hsYWdyd1d3ME5UMHJ1M2pWSjlYaXd4Nmp6ZUNnV0U4Mng3T3N1NGtoWUE3WFZNNFVBdW44bHR6dTNBYTA1c3hoVWxGZno3a3JoWXp2dUdneE02X1dvT0lMVzVuLU1zQmNROXFrLTNBRG5nS0FrRjhQbmxoT1pEdVhNQjNNdm5XczFNMDNiSWZla3VIYkFkWG5JZnNtSkRUaWtCQnVEUU5rTEdfaERFZld5V3YtTGhORE41Ykk?oc=5",
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UdF9zTEFmSGFOb09MRTg4Rk5QSldUVmpDMFJSaHQxOFlTNFVRUzdnQUxnOVY0TGRjdzVxbFo0OXRyeXE0alIycS1FbVZ2aFA5V1pGR2Y3dkNOeG9YMkRRN1BkN3NTNlhhTG93?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTFByQjJEODZiOXY4cUp3LXRQUlo1U2NsUUpqdlB1WjJ2Yk1PdHdPMjJNUWY2WXdvRzktaWRwVGtpNlZmM1ZUVHJlbTR4UmtLSnh4LUVnM2ZUNUdhVkJuT0FtekZEMHVBVVpuNnl1SHM5bzJEUTV0?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "The Hill",
+        "Floridian Press",
+        "Axios"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Democrats make sharp gains among Latino voters in battleground districts: Poll",
+        "Republicans Lose Latino Voters Across House Swing Districts",
+        "Exclusive poll: GOP's gains among Latinos fade in House battlegrounds"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWtnUHo2WHJmZXhFalhSVVRqZDdyU0htWlU2cXdYQXFwVmg4andhbWdGaW4tNnhaS1AteFRGYm00Y3pWTUMyYlM3QnB2djBqbkNOU1cwcWcyNTRtdXJ1Z1JtcWdraHBqQnloVk0xalhHYWZjSC1PejgzcFpJSVRVdlJLQ2ZHRzJ3RXFGYWVBbmhlMVgzQmd3M25WM2FvZFHSAaQBQVVfeXFMUFJhelJ2cmt3LVYwUG5sTnpoYmFIR2luWVNCQnRzYkptOW5mcVFEb2JzRGFGNjNjVGJTaHZpaVFuQ19ud3dlYjc4N3hBOFRxMWFIU21YckhlMHU1Wk82bEg3WGFCQ0NxT2kwNnp4N0tVYzhFQVdaOVJJNjFYcHo1WTBKRnA4SkZWX09XcUVXQWY5WTRYSEt2YndNdkx1T3RyS3A4VWg?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNHJ1R0hLU3Q1RmxFeE01RnVGU2tLNlB3WnN6dDZHQi1FVDcySEt1cVBvM2tGY0ZPVlE5VFR2RFFLM2lPUlNsdU1ud2NEVTFnUFpvaWoxZllVNU9TNlZaY2loQjc0ejlwRGR3My1hVVY0QXRla1J4bG5MV0lxdGlEYlN0b0ZMalFKd3N3WDBJR2RhSVZCNmVEWkN0OA?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmMk9UZWFTNTdkU2tfblc1eU5KYkVpZFM2Y09OY0V5emlXWWdKSlM1VVVhN1FGeDdaUksxRFpPaVNpTXhNSDBVamY0andJQ3Q0SmhmNHpRZUFjVENhOWpzbEFNN1piQTg5djg5c2dnQUNzX2Y0RVE0?oc=5"
       ]
     }
   ]
