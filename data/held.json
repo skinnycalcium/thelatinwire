@@ -1,4 +1,35 @@
 {
-  "at": 1788954996960,
-  "held": []
+  "at": 1788970849065,
+  "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "The Journal Record",
+        "NewsCord",
+        "Hindustan Times",
+        "CCN.com",
+        "TradingView",
+        "Stocktwits"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Crypto industry, banks battle over Senate’s Clarity Act",
+        "Senators John Thune and Cynthia Lummis Push CLARITY Act Ahead of Senate Cloture Vote: who 12 outlets blamed",
+        "Will the Clarity Act pass? Crypto firms and banks battle ahead of Senate vote | Business News",
+        "CLARITY Act Faces Senate Defeat Next Week as GOP Senators Warn Ethics Deal Is Stalled",
+        "XRP Ripple and the Senate Vote That Could Shape Crypto Market Rules",
+        "CLARITY Act At Risk As Ethics Standoff Threatens Senate Vote Next Week"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeGlWODBweEw3MU5wdG9ZQVhyVUxJTFRxS196V2hfZnRTa09feVkyQ0FYZDlJYXVuejE3RkdCZnpiYzdzS21JRUdWQ1g5aTNXdmswRTlvbG03YTZxdEdtcGFzWl9PVmhFZEtjUWpsZ0N5TlJmRGRURGF2T2pEVDBOWHFqV2ZfXzdHT3BBNVF3?oc=5",
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeFYtN1lpcXU1Y0JZUTZLVEUtYkF2TV9DdDk4MkNnbjN3OE5ja2M2ZE1PdFlhd1FBSDBSOUw3SlBtdGEyaExmY1FNalllbFNSanVhTE1Yak5DQkFSM1RkenJRN0FCeHBCZzd6eDZwSDFRT0xGUGVaS3hZdVd0a1kwTkVBbmJFQjZWTThZaVNSRmJqWnFhYk9fdFltaEFERWdORVdZSjkzTEMtT3BTTnVmSmxEUElpaU92WG15UU0xQWxLb2I3dGV3WHJXUjZ2TE1JT0xWM2g1N1lLaGhwUTd0c3FBdVhqNmJs?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWVpVdnAzZ21Udk9jc2c5UWpQOVd6d3FKejBVWjN6cWJuVGlReWgtOUhZTmNsb1BBY3g2dVpnSGs1YnlDelhRSENFYkNxbk04NEhZejVoWUUwenlFMDN3WEI0ekZXaUZabFY2U0xFbGhfUEF3MkIwejB2NGpqaHpicndad1NTLTFVNGI1bG5YTVFidEM4N1N0a2ptaTJrbnd0YW45M1J3UVZtUk5WOE9KZl9aektHSVRXWFEtM0h3U0hTR3FoZGFBVmp4NTBCbE8xaGJZ0gHYAUFVX3lxTFA0b1M4MDFuR1U1VkFRbDQxYVh4anRzYkZfYVpFSXpQeXYyMEJTYnlQQS1icDFYQTZ0dkU4Vm90cmlxN1BZSllic29Wd2NuaHF4azRYSVZxNDBabGdVXzJSb2VNQ0N6TzNFcjQ1TUJCQVRBeUZXOW9Na3liNVJPcFJyREpmNDZ6dnNLWVRlQUR3aDlyRnd0U045Q2pKZjB5OE1yRGpTeU5GZnlNZzhWRFJQWnhGZmZtZDRvT04tM3p5MTNMbk5ncHFzckpsVTFJV0N2QS1JUFBhVw?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT1JKZkJYNkEwcW5CR0RmbkhRajlvb3k0b0NvWDkybEQzVnpNRkFNMzNXOUptRHZ6cndUUEFjcllCcDJhTWlxYTAyLTNZX1R2eDJWclM1U0h5SUs3LXo1dkN5UnhZS0d2c24yUVVfNVRycFhadTcwb2Z4cnNCT0hNLVJYQ0JuN0hZRXdRVWdtYnZvOVE?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXpBeDA1LUFWU3diVnFFNEVsSmlIVkh0c25DUE9pODlwM1o0UEtkYkRjS2tSV2pCV3FLWHktZDJqRklMeTN4Wi1KZ1o2bXRlOE96OG5DbUVYX2hVRGRBMEhEWGZITkotNVE4XzFMcHVUNW00ZnhPY0x5cm1jOGFzQkVMZGt2eXVUeGh0bEVyUXI4T2VHc0JlWkZOX0VpbWdCeWExYU9Wd1NTUVNaNUVnbENxZVhTSG15NEhFd0pRMW5fbFo5NHlr?oc=5",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxObVgxSkhsY1NnXzhQX2lab1FQUXNJOElTQ3BQalJBZ0tqcGhqRGhjMEhzOXdjWTN5NDRqOWNZdmNORm14Wlc4SlhTeE9wc0lFem5vVXhxMjBsU1dSV2hHajBoaEFzNVlTUFRjN3N0VzlBcUZ4VklKd3l0WWQ5NUxHbjVZVkVxdThES1V4bGlmcmtNYnJ6M3g5NFdRVFVuREl5dVBjMFJQZnVSdHBpZzJ4bm5nbDUwVy1MN0N4UGdBOFYwU2lSZHpLZHVYM2RPT2s?oc=5"
+      ]
+    }
+  ]
 }
