@@ -1,14 +1,60 @@
 {
-  "at": 1788990655757,
+  "at": 1788997971612,
   "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "BenefitsPRO",
+        "PYMNTS.com",
+        "Nebraska Examiner",
+        "KETV",
+        "TradingView"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Bipartisan House bill targets AI health claim denials",
+        "Clarity Act Faces Sept. 15 Make-or-Break Vote in Senate",
+        "Supreme Court sets Sept. 30 arguments over validity of K-12, collegiate sports ballot measure",
+        "Nebraska Supreme Court upholds Evnen’s denial of Democratic Party challenge to Senate candidate",
+        "CLARITY Act Passage Tumbles to a 14% Chance: Is the Senate Vote too Little too Late?"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRm1DSTZlckx4N2Y0RzQwNUQxcEJ3ZktqTWJNbUJwVElYYjBHdXFpWndrYlF6OFc1aFRORUdoTHA3ZVctcElYbGo3cFY3YTd6eVQyck5oc29tZnRMZlhLdTlmSmgzS0ZoXzVLalJ4UzZZanJobS1fYlA4Y0VzVG5ka1RId2ViNy1pZ3BCa0o1MWdqa2c0QnhnNA?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUnFkWkpVMF9YQUxFTGt6dTRIdnBNd0ZETEl1QzAtdnU3NzF0Y19EYk92T3pPTWhMQ1lhRU1ySWdOdFd4TXR4NUo1eE9Ia2o0eE1mWUlscEYtT3o4eGFJTDFSN2NvZFBiWjFoLWpTVVhFcUt2LXFUcG5Pa0ZPVUpSVld5aE9MOUFSODdKcy1MT0tHLVk?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZG5kQjV1OTZHU2pkVlVyakd0X3ZsN0Y1RGR6Yjg3ZHprMFBCcE1Kd1lJd2c4SFdjQ0NjRlBfOHRNY2UtbGNFRmhENUVvWnVKdld5UDFoSWtYTHhZWnJ1T1FrYWdhLUZZc1dyTl9rQnV3ZjE4SEQ4aUtxNGF0ZjFweW1ET0EtUVhzeF80a0swck00MlFYMzFHNGlFNVA0ZmV3V1U2WVNLZW5kVDdvUWUzRDZLYzhnX3NDdFhBZWVlT3JKeFY4NTBtTEtsVFg?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2NhN0FoRTVJc1NROXl6a3U2Qi1scHd6Nk91Z3JaSHRlcldkbEFXWnpZWWFoT1RmQnF3bkdCa1R6NmVrT0ZoNGExNHJXQmF1akhqQ0Q2WWJ1ano0c0REVWgtSF80eG15MXBXTXh4MTJjcEQ1QWUyaXRGc0J2Nl9sUFZWTzh3VmNkY2RCYUZNdnFIMDB6MHZJ?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOWp6a3o0YjBfNld3Q013Y0ZMeUJ1UmVZcnRQeVlleFN3LUctay1KaTVYLXNXRDY3Y21idXBnczcwZFpHNVFtVm1Ia3J0T0xfaXdRWDhoVWYxejQzdHZveUt2TE5wTkY0V2pUdDNadlNWVXU4N2U3OFFQX3pwVkJMcFNFWjZrRVM4aFlYMV8tY0xDTVpEZGN2VUw1R3B4b1hwMVhuRlBhdGFtVTNERjdDMEVPTVBpNzJvdGNURnp0VVFaSXRZY1RhaV84bW0zejZBYkhRZGU5bw?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "The Hill",
+        "Atlanta News First",
+        "11Alive.com"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Live results: McKee fights to hold on to Rhode Island governor’s mansion",
+        "Hispanic political group endorses Rick Jackson in Georgia governor’s race",
+        "Rick Jackson earns Latino group's endorsement for governor"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQay1QdDZZQ0NDemhJcTFLdWFoX2w2dlkzcDBuSC00ekVLNnh5RFlhN2o0V0FTLXpHYmdEaHhjNzZaMTFZVk94TllIOGtUNUhrT3BEbHNnbGRfaHB6eFlTVGxtMWV5ZTlYWk4tSkswdGlPU2tsdjBWenVmSXlFaXgxSFBKcjBPaW1fMDVLSndEbmhTZlHSAZgBQVVfeXFMTUFTcjh1TTRCOEJJVkpmeWhYYVkwaEx0ZW1pR1pKdkpuWGlUNU5GbThfdjFnaTNWenNjdGlpemduTklJSGk2VDByRG01V1dFVlE0RC1JeVpJT21WWGRMOUZod3ZWYVQyWWhWMzZOTkVGRUswVS1GVkM3S0ZEdG9xUnZYRl82NmtsR0dteWhuNWhuVmpTaGYzeHQ?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYndqUWZqcHBUZTdCY1VXVWdJQ2Vnbm1TZXVLSGNYd2NVVk5oUWt1UzNvY3ktdlJYZTk4YVV1ZjV5a21vazlQc0xUZkw1ekVFS25udnNfVFUtYjZyX2wyUFJoVXZLNmJTZV94R3dBejBhNU9wb2pBbUF4Tl8xeVNSdmV0U2F2eFFvdnJFYnI4aE1nN0lzMkNvOVZxVzhlM0JZTzkwaG5YRl9DOVNMOEhvV0txLV_SAcgBQVVfeXFMUEdveFdUaHZ5YzN3N2loY1VhS3dPSlRGOXRzR3NXMXduU3d1MW9KMnl0MDI2RzdoaXhuRFJSalZzTXBpb2Y1RTd5aVNJWm9LWGdvVVdzd25mWTJjMFdvRmVraWFic1ZnYUgza05BVVl5ZVptTS13LWt4RTBoQmxFTXVLbXBVXzdQTmNpT09XN250dWk1V3FGT3NpbXUyblZDNjBGYWZZSTJ0clc1RVlEcmNNeFh2UTJ5aXQ4c001a2szV2I4MFQtS3Q?oc=5",
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdW5vSlZOcVV3QmU2ZF9rWUZPUFVYVVpxUzN4aWo0cVVqN1JONmkyRTBIZUZDUmQzcE1lRWxqQ2F5c3ZMeXJpVllRUHgzT1NERHBfY3Z4SmYtVTQ5c0ZCblFTQXJGanNLMnNicjlOdFhkbnJYY2Q0bWFZc1RoOU5LOHVyaWx6V0hFa3pDMTl3bF9JNFdwTHY4ZldkRnRGZHR5SUVDSGRjdWF6cU5VSlBjdXBYU0x6RmNyWl9fcmMxTGw1dHBpSDNmaS1CSXFhODNxSkJHSDRiaDQ2b0hQMTl3VVlSd0lWVHR2?oc=5"
+      ]
+    },
     {
       "section": "politics",
       "outlets": [
         "Michigan Advance",
         "Interlochen Public Radio",
-        "Sault Michigan News",
-        "Bridge Michigan",
-        "Upper Michigan's Source"
+        "Sault Michigan News"
       ],
       "lines": [
         "center"
@@ -16,37 +62,12 @@
       "titles": [
         "After backlash, Whitmer says EGLE must consider Michigan Supreme Court ruling on Line 5 permits",
         "State regulators to review issued Line 5 tunnel permits after MI Supreme Court ruling",
-        "'State must consider impact of recent Supreme Court decision on Line 5 Tunnel Permits'",
-        "Gov. Gretchen Whitmer rethinks Line 5 tunnel permits, ramps up shutdown pleas after court ruling",
-        "Michigan reviewing Line 5 tunnel permits after Supreme Court ruling"
+        "'State must consider impact of recent Supreme Court decision on Line 5 Tunnel Permits'"
       ],
       "links": [
         "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNzFCSHVQd1dYNEQ5b1Q1R1JsRWJ5VzB6RmxTd2hxLVpfRVNnbmRlSjRDRzJqSUlZOFM1MU14YUpFSEE0c29xT05TY3pHNktCLWdtcGVJakoyVkdwcmJpdDhLWnBoY3AzTjUwMDA4M2J4R3ZYRnlXeUI1R1JqNEg4RFVUb2hjVGtCaUk5Nk84QXBYZFZvcVBJYTRpWHhXNkU0a3lSaGw1MGdkSUt1Nl81eGUxbVVQQml3V2gwNThCWGhNNUZBcE9ySkFJMUlBTlE?oc=5",
         "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORVVMNkt4TVB2V2wxczA3Q2pzQXpDN1lRNTdIaXVGZkppcHFHZXdqRndidmFITFFQMEFfZEFqbE9uVHRaRG80YVVINHV4RmpiVEJIUTdsaWJkWFo0cHhxQ25YUEZXc1Z2Z1hrYmsxcUE1TkR0Rm02RE5ib1JEWWloSW9NWlNwa0lZcWd2dF9xLTdfdnVrUGNLaFp4WXMwaTBheGR1T3ZFZURzdGVGMC1Nd0J3bFlVa0RZS3hSTHFMZGcxcTFMSDNudnp0aERoMzhNS2VaM2FTVkdQcVdC?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFdlMm1GaW50RHR0el81RGdFbW5pTWpyVzAwX21yNHB6dUYxa3FXWVZwdGVmU29pMmp1a20wZnBiT0VOUHRUQUt3ZTNqNkN5RWZuUkdTamtKQjRBMmZmOXdSTzJJai11YUhDa093WGNxMmltc1hkMDVvZjgzY0FVT0dtU215UG5oaDl5aFU4QVJxWmRaNDNMOXVpalB0dy1LRXd1eTZpM0sxLVJCZWRuZ2xfUnFFVXNNeHE5T1loTHBtWEZIOU16R0NB?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSkN6M0NEanhuLVZCSjlxMDEtOEIwRHJmcFZHLUVVbmdnNC00TldodlJKeWpxOENYTjlaWjI5X09RUUR0dlNOOVgydHVIMFRqbnhBWi1fcXBGS0Y2WlpoZUl6SWhNck9iT0haMWpUdmIzUXkzLUc3RExXSTQxWTBGU2ZiWHk2SmZZLWRPeUNyNGZDejNqWERyYk0xV3NPbER3MXczSFlpUkhSM1BSVWRiZi1TM1dRVjdnREJhc3Z5Zlh6Tk1tRmc4Z2xn?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVE9Ja1pYc2ktUW1sem5DRm5QR2JsNHluR0hsM0hmSy1FeldwNGJia0tHcEl1LVc0bFRIaF9EUl82WUNrUERrSnNTWE5KaUx6VFVBWGo1Q2xScW1HOXhvbmd0QVlYbWN6RmJYNEs5T1V6eW9KMU5uQjhmZHV6VGdkdnlUdVE3Ry1WVkhnR19RcWNHZVhnNFN4UHk3SGhib2N1dkN6WHZGNGJRWVpRQ0R2NHNCYWNaNmvSAcsBQVVfeXFMTjd2T0ZPeFlpbEpiVGpxOTg3TTEyUDFzMWpGWDZFWDlLWEQ5LWFkeWdfRl94cm5ueG9vU2Z1UDdmdG5nUzlMZFVUUDREQ2J1aHk4VFJud2tRSEY2WUg5Z1hYb1BjN0dyVEc3YVIwQW9IVlk5MGRmU3BBRXlvbjZiaGVyUjhWRVUtVTB6U1V4V0V3dFBnNEJzcDlUX2h2VXBQZ0loRU5LUThlUkRHUTNudnVmYm1VZXlKUnFic1VrWjR4S25veFBjWlVGRjg?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Carolina Journal",
-        "ABC11 News",
-        "WRAL"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "NC Supreme Court to decide if Jackson can pursue suit against TikTok",
-        "North Carolina Supreme Court hears TikTok appeal",
-        "TikTok argues case alleging it harms young people should not be heard in state court"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFNPdWlSQ3h5YURuSE5TRDRnaHdTSGVsYXB4SnUzQVRDaWZ1eGZxQ3NTdi1RMEtSSVp4TEh0bnluUlpOU05oLVNKRU5XX2owdDBSSks2U0stdkx4TUdZZkNJNG5xSy1NdXFqU1ZKMGlTaVZ0ZUs2eEVGazdiX0NWNUx4c2FFZzMtbE9OaVBReTVHbXJxdm9KZXdRVE1MOXE4VHZJ?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYU0yanRoSXViWl82b3VmSmZtQkRkNU96VjJabkpGc0o3WDFlMTBfWHFOSzFFMGNybmlnLTB0aVQxcmJrQ2Frc1otaHFpbHRzTW5xd3o3eGdXUFFTY0I1anJka1p0SXZqR1BhWnJidlktcnlOUzhDd2drUDlxcGxUZm81WXBZMGM10gGOAUFVX3lxTE5GVG5sRUtGX0g3MnFabVNsZndsQzc4TXFXSzAtdTZtSXdrdkNFZzhFRDhsVFpIX0ZseU8xRV9tZUtOX3RMN1BnVVJKZ1FnVWpiU2RMQmt0MkhIY3ZSbTNLb1k2UEdXVExZVjNSZEtYWHEyV1Uzb1BuODVwM1VQYUFsXzhza3dZTFZMdEd2VVE?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVnU4blN3NnFKMnV1Y3NKYWtoVWJPX0stZmc1ZEk0Uk9xbVkzTy1pQ29QS3BZOHlGR3JOd3o0RW9haXlIbjNqTFRHRndNNktzNHJmODBMaHdhU2VFcHpMNjRBWGI2X2lJa3pSMUwtRWJtYzlVcUpvR212cXhyeG1PeHU3d1JxZkNyODkxYjUyX2tUOVBwYm1iZFNxZkY?oc=5"
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFdlMm1GaW50RHR0el81RGdFbW5pTWpyVzAwX21yNHB6dUYxa3FXWVZwdGVmU29pMmp1a20wZnBiT0VOUHRUQUt3ZTNqNkN5RWZuUkdTamtKQjRBMmZmOXdSTzJJai11YUhDa093WGNxMmltc1hkMDVvZjgzY0FVT0dtU215UG5oaDl5aFU4QVJxWmRaNDNMOXVpalB0dy1LRXd1eTZpM0sxLVJCZWRuZ2xfUnFFVXNNeHE5T1loTHBtWEZIOU16R0NB?oc=5"
       ]
     }
   ]
