@@ -1,60 +1,52 @@
 {
-  "at": 1788981736055,
+  "at": 1788990655757,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "PYMNTS.com",
-        "TradingView",
-        "NewsCord",
-        "Межа. Новини України.",
-        "CCN.com",
-        "Stocktwits"
+        "Michigan Advance",
+        "Interlochen Public Radio",
+        "Sault Michigan News",
+        "Bridge Michigan",
+        "Upper Michigan's Source"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Clarity Act Faces Sept. 15 Make-or-Break Vote in Senate",
-        "CLARITY Act Passage Tumbles to a 14% Chance: Is the Senate Vote too Little too Late?",
-        "Senators John Thune and Cynthia Lummis Push CLARITY Act Ahead of Senate Cloture Vote: who 12 outlets blamed",
-        "Crypto Industry Escalates State Lobbying Ahead of September 15 Senate Vote",
-        "CLARITY Act Faces Senate Defeat Next Week as GOP Senators Warn Ethics Deal Is Stalled",
-        "CLARITY Act At Risk As Ethics Standoff Threatens Senate Vote Next Week",
-        "CLARITY Act Faces Setback: Thom Tillis Reportedly Warns Bill Could Fail Without White House Ethics Deal"
+        "After backlash, Whitmer says EGLE must consider Michigan Supreme Court ruling on Line 5 permits",
+        "State regulators to review issued Line 5 tunnel permits after MI Supreme Court ruling",
+        "'State must consider impact of recent Supreme Court decision on Line 5 Tunnel Permits'",
+        "Gov. Gretchen Whitmer rethinks Line 5 tunnel permits, ramps up shutdown pleas after court ruling",
+        "Michigan reviewing Line 5 tunnel permits after Supreme Court ruling"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUnFkWkpVMF9YQUxFTGt6dTRIdnBNd0ZETEl1QzAtdnU3NzF0Y19EYk92T3pPTWhMQ1lhRU1ySWdOdFd4TXR4NUo1eE9Ia2o0eE1mWUlscEYtT3o4eGFJTDFSN2NvZFBiWjFoLWpTVVhFcUt2LXFUcG5Pa0ZPVUpSVld5aE9MOUFSODdKcy1MT0tHLVk?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOWp6a3o0YjBfNld3Q013Y0ZMeUJ1UmVZcnRQeVlleFN3LUctay1KaTVYLXNXRDY3Y21idXBnczcwZFpHNVFtVm1Ia3J0T0xfaXdRWDhoVWYxejQzdHZveUt2TE5wTkY0V2pUdDNadlNWVXU4N2U3OFFQX3pwVkJMcFNFWjZrRVM4aFlYMV8tY0xDTVpEZGN2VUw1R3B4b1hwMVhuRlBhdGFtVTNERjdDMEVPTVBpNzJvdGNURnp0VVFaSXRZY1RhaV84bW0zejZBYkhRZGU5bw?oc=5",
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeFYtN1lpcXU1Y0JZUTZLVEUtYkF2TV9DdDk4MkNnbjN3OE5ja2M2ZE1PdFlhd1FBSDBSOUw3SlBtdGEyaExmY1FNalllbFNSanVhTE1Yak5DQkFSM1RkenJRN0FCeHBCZzd6eDZwSDFRT0xGUGVaS3hZdVd0a1kwTkVBbmJFQjZWTThZaVNSRmJqWnFhYk9fdFltaEFERWdORVdZSjkzTEMtT3BTTnVmSmxEUElpaU92WG15UU0xQWxLb2I3dGV3WHJXUjZ2TE1JT0xWM2g1N1lLaGhwUTd0c3FBdVhqNmJs?oc=5",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHWkdzZHhKRFdXSDcxb3NQSW05NUVrdE1sdTVLRDl1R2FmMW1TcXl1eklHbThBbFpjNFZ6RnRQM0NLYkd1eVl3M29LSXFpd1VxOTFtUnhWZ2FEVWduNldKZEUwYmZHSWlXcmNEZ0ZDbw?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT1JKZkJYNkEwcW5CR0RmbkhRajlvb3k0b0NvWDkybEQzVnpNRkFNMzNXOUptRHZ6cndUUEFjcllCcDJhTWlxYTAyLTNZX1R2eDJWclM1U0h5SUs3LXo1dkN5UnhZS0d2c24yUVVfNVRycFhadTcwb2Z4cnNCT0hNLVJYQ0JuN0hZRXdRVWdtYnZvOVE?oc=5",
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxObVgxSkhsY1NnXzhQX2lab1FQUXNJOElTQ3BQalJBZ0tqcGhqRGhjMEhzOXdjWTN5NDRqOWNZdmNORm14Wlc4SlhTeE9wc0lFem5vVXhxMjBsU1dSV2hHajBoaEFzNVlTUFRjN3N0VzlBcUZ4VklKd3l0WWQ5NUxHbjVZVkVxdThES1V4bGlmcmtNYnJ6M3g5NFdRVFVuREl5dVBjMFJQZnVSdHBpZzJ4bm5nbDUwVy1MN0N4UGdBOFYwU2lSZHpLZHVYM2RPT2s?oc=5",
-        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVkdsd0F0ZGdkUnNKbmxOaXVlU08zNkhUNDVGUVRBNFI1OGl3ZDduVzdSZmhxZ1BKUWY0bXhzaGUxLTV5RGVxbUJ4clZzU3Ywc1EwOG1hbDR2VExJN1RhNDRFMi1BZHF5dUdvcmgzLVc1SFp1aFVfT3hVNjJSRmdZWHByRzlJZXVEenNuaElVNTVxeWVPZ2dveFVkWEx1bDNXX0lKMGZ6aXRyandNRm1BQWNyUm9NV1lkRDBtXzROelRlcDYwcFdzdU9ZUEhpcEE5Mk04TFl3ZFAzOVJHVDgxMDhlNkN3SGtyMWx1OTRPOWJ0bUdsM3c?oc=5"
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNzFCSHVQd1dYNEQ5b1Q1R1JsRWJ5VzB6RmxTd2hxLVpfRVNnbmRlSjRDRzJqSUlZOFM1MU14YUpFSEE0c29xT05TY3pHNktCLWdtcGVJakoyVkdwcmJpdDhLWnBoY3AzTjUwMDA4M2J4R3ZYRnlXeUI1R1JqNEg4RFVUb2hjVGtCaUk5Nk84QXBYZFZvcVBJYTRpWHhXNkU0a3lSaGw1MGdkSUt1Nl81eGUxbVVQQml3V2gwNThCWGhNNUZBcE9ySkFJMUlBTlE?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORVVMNkt4TVB2V2wxczA3Q2pzQXpDN1lRNTdIaXVGZkppcHFHZXdqRndidmFITFFQMEFfZEFqbE9uVHRaRG80YVVINHV4RmpiVEJIUTdsaWJkWFo0cHhxQ25YUEZXc1Z2Z1hrYmsxcUE1TkR0Rm02RE5ib1JEWWloSW9NWlNwa0lZcWd2dF9xLTdfdnVrUGNLaFp4WXMwaTBheGR1T3ZFZURzdGVGMC1Nd0J3bFlVa0RZS3hSTHFMZGcxcTFMSDNudnp0aERoMzhNS2VaM2FTVkdQcVdC?oc=5",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFdlMm1GaW50RHR0el81RGdFbW5pTWpyVzAwX21yNHB6dUYxa3FXWVZwdGVmU29pMmp1a20wZnBiT0VOUHRUQUt3ZTNqNkN5RWZuUkdTamtKQjRBMmZmOXdSTzJJai11YUhDa093WGNxMmltc1hkMDVvZjgzY0FVT0dtU215UG5oaDl5aFU4QVJxWmRaNDNMOXVpalB0dy1LRXd1eTZpM0sxLVJCZWRuZ2xfUnFFVXNNeHE5T1loTHBtWEZIOU16R0NB?oc=5",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSkN6M0NEanhuLVZCSjlxMDEtOEIwRHJmcFZHLUVVbmdnNC00TldodlJKeWpxOENYTjlaWjI5X09RUUR0dlNOOVgydHVIMFRqbnhBWi1fcXBGS0Y2WlpoZUl6SWhNck9iT0haMWpUdmIzUXkzLUc3RExXSTQxWTBGU2ZiWHk2SmZZLWRPeUNyNGZDejNqWERyYk0xV3NPbER3MXczSFlpUkhSM1BSVWRiZi1TM1dRVjdnREJhc3Z5Zlh6Tk1tRmc4Z2xn?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVE9Ja1pYc2ktUW1sem5DRm5QR2JsNHluR0hsM0hmSy1FeldwNGJia0tHcEl1LVc0bFRIaF9EUl82WUNrUERrSnNTWE5KaUx6VFVBWGo1Q2xScW1HOXhvbmd0QVlYbWN6RmJYNEs5T1V6eW9KMU5uQjhmZHV6VGdkdnlUdVE3Ry1WVkhnR19RcWNHZVhnNFN4UHk3SGhib2N1dkN6WHZGNGJRWVpRQ0R2NHNCYWNaNmvSAcsBQVVfeXFMTjd2T0ZPeFlpbEpiVGpxOTg3TTEyUDFzMWpGWDZFWDlLWEQ5LWFkeWdfRl94cm5ueG9vU2Z1UDdmdG5nUzlMZFVUUDREQ2J1aHk4VFJud2tRSEY2WUg5Z1hYb1BjN0dyVEc3YVIwQW9IVlk5MGRmU3BBRXlvbjZiaGVyUjhWRVUtVTB6U1V4V0V3dFBnNEJzcDlUX2h2VXBQZ0loRU5LUThlUkRHUTNudnVmYm1VZXlKUnFic1VrWjR4S25veFBjWlVGRjg?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "The News Journal",
-        "The Daily News | Texas' Oldest Newspaper",
-        "Conduit Street Blog",
-        "The Lufkin Daily News"
+        "Carolina Journal",
+        "ABC11 News",
+        "WRAL"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Did the SAVE Act pass? Senate's next move could be key ahead of 2026 midterms",
-        "US House passes funding bill to avert government shutdown before midterm elections",
-        "Congress Averts Government Shutdown, Delays New Federal Grant Rules",
-        "US House passes funding bill to avert government shutdown before midterm elections"
+        "NC Supreme Court to decide if Jackson can pursue suit against TikTok",
+        "North Carolina Supreme Court hears TikTok appeal",
+        "TikTok argues case alleging it harms young people should not be heard in state court"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPemxXSHBhTXdGcnFRZXhWaHF3WGI2ZHVqWXRUaFhCWkpMd0oxRTg3QndCVmZnbnV2azZBTWhMQUpSZ1haeE1hVWhaZjdZT0ZtNGJITW4yRHl3RXl5eHQzVUg4cXBjd0hwRHB6bkNmTmxUZzFHNEI0NE1HbldqNmROYlJpV1BIZmlyNUJzS0JPSHpWeFBzX0pGR2RkU1M5cjFxZDdXV2dCeGN2TnhRRTBWSDJqWV9ycnlCRzUtd1dwX2Q4Z2R2MVpKQ2xRREJ2S3JseUlnclQwY2k1ZHBfT2hvcUpFSVY2dzNOUk01ajhkTTRvTXM?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUDFaZEpKalJYQ0tKSzhqOFJ2Q3NDU044T00ydGxQN0dpZWUzSFhjRlczdG1OUUNtMDg0WUJNcW51TXd2WjVuWXJFeUtPcURUWmJoVVM5bW4zSHdQUm9yMkFhaFdsS3pmODJYT25Udks5UldSeWxVV2t4cEpRNDlrekNpRWkxMlJ0eG1Fcy1hcVhIRGtnVFZHaFBEUFBTNHdIUWxCdkV5VmxPbTBvQ2tGSXJuMTFFRVlfM1hENGFoajg5LVNQQ2xLdGVIZkx4a0RvaHRKWHN3c29YRl9aUldLMmJFS25iTTNzWXNfVlY1WXNCLWhOZXlrck5reUxQUFpzNkkyeFV1aWI?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGVURjBVQUFlc1BId0NzMUo3WW1jV2ZxUHpXdG5SVzk2Ym1UQ1VvRFpFdzVPeVFFdUVyTTlnckdnY3RXYTY1c0VJM09LZ21iREczQWF3cjFyNmplRExobTZBVjJWaks5M1Axd1FJZU1FaWdqU1RnMHZBNEI5YXBQVjJ0RW5EU2dJZU9kY0JjZ3lVN3FaR1pZRHc5a0RpTUlUb0NvRFBXSm9LUzlka2Y4R0xqcElVdw?oc=5",
-        "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdVVlVDJJS01HMDFkRDlRS1BEUDd4S3k5UXFVNFRvcFFlNjNZdngwTnZEeGdsYThuU0JzQm12UVZORXFJQkhkNHROMl9fNGdVQzZ5eEh6cWdWLVJzQmIwbDZTMlB1YzFMUldpRi1HUU52Q2pwLXZTR0R2eEotQ2VTamhlZUVVMTlpYl9naXVpV3hhZ25qc2Z6a1F5Z0Q0ZnJWRXVGdXNZZXFoNTZBeV92NU1OYTRuY2FKNkEzcjdBNnQxWFVreGpWN2NLTzhaXzlMVUEyWm5pYkhpcVRLc254WF9GZktUSk1MNVdTYmdlTlBfUk1LUFZUU3pYdkZZMFVJV21pMWdGalZCMHBs?oc=5"
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFNPdWlSQ3h5YURuSE5TRDRnaHdTSGVsYXB4SnUzQVRDaWZ1eGZxQ3NTdi1RMEtSSVp4TEh0bnluUlpOU05oLVNKRU5XX2owdDBSSks2U0stdkx4TUdZZkNJNG5xSy1NdXFqU1ZKMGlTaVZ0ZUs2eEVGazdiX0NWNUx4c2FFZzMtbE9OaVBReTVHbXJxdm9KZXdRVE1MOXE4VHZJ?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYU0yanRoSXViWl82b3VmSmZtQkRkNU96VjJabkpGc0o3WDFlMTBfWHFOSzFFMGNybmlnLTB0aVQxcmJrQ2Frc1otaHFpbHRzTW5xd3o3eGdXUFFTY0I1anJka1p0SXZqR1BhWnJidlktcnlOUzhDd2drUDlxcGxUZm81WXBZMGM10gGOAUFVX3lxTE5GVG5sRUtGX0g3MnFabVNsZndsQzc4TXFXSzAtdTZtSXdrdkNFZzhFRDhsVFpIX0ZseU8xRV9tZUtOX3RMN1BnVVJKZ1FnVWpiU2RMQmt0MkhIY3ZSbTNLb1k2UEdXVExZVjNSZEtYWHEyV1Uzb1BuODVwM1VQYUFsXzhza3dZTFZMdEd2VVE?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVnU4blN3NnFKMnV1Y3NKYWtoVWJPX0stZmc1ZEk0Uk9xbVkzTy1pQ29QS3BZOHlGR3JOd3o0RW9haXlIbjNqTFRHRndNNktzNHJmODBMaHdhU2VFcHpMNjRBWGI2X2lJa3pSMUwtRWJtYzlVcUpvR212cXhyeG1PeHU3d1JxZkNyODkxYjUyX2tUOVBwYm1iZFNxZkY?oc=5"
       ]
     }
   ]
