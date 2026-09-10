@@ -1,31 +1,30 @@
 {
-  "at": 1789059619253,
+  "at": 1789069318715,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Wealth Management",
-        "Pluang",
-        "blockhead.co",
-        "CoinDesk",
-        "CNBC"
+        "IndyStar",
+        "starcitytv.com",
+        "Indiana Capital Chronicle",
+        "WTHR"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Senate Crypto Bill Faces Uncertain Future Next Week",
-        "Coinbase partners with Moov to boost stablecoin use in community banks ahead of Senate vote on crypto bill",
-        "Coinbase's Armstrong Says CLARITY Act Will Clear Sept. 15 Senate Vote, Dismisses Dimon's \"Regulatory Arbitrage\" Attack",
-        "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
-        "Coinbase CEO says clearer U.S. crypto rules are coming — with or without Senate approval"
+        "Indiana Supreme Court rules Deery winner in recount case",
+        "Indiana Supreme Court rules in favor of Deery for District 23 candidacy",
+        "Outcome of 3-vote Indiana Senate recount now with state Supreme Court",
+        "Indiana Supreme Court hears arguments in Republican primary recount",
+        "Indiana Supreme Court takes up Deery-Copenhaver recount dispute"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzFUZTJuSUExVzg2aXpCUTZrd3I4RGVqTmdpdkpRYV9tM1pPWUZWU19aNHFNLWJVb2cwU3F5a3lQTWVPWTdqZGFFQmlUbGdVVjJzOTFxenJlSG0yV0dnRDMtRG5nekFwV0w2Z3RBdThYcDNxOHFMNDJmUFBSUUwxbkRKZnhYTldNUzFTUFB2aWJxdzFtZnpvN3dsaXA?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUpmQlVkWEJ6bElia3BySTdSLXBLdTFvWmRSVjI2UjNkTkdWTVBibENWdDd6V1Z6dC1kcnRmRTZhNjZxYkVPSjNjUFBIZmZFaklhVEJPUlFESVZfQ056OHR6UmlkenYtVXU3WFhRbmttZDczcjF3VTc5WEM1NktISjdJd0NIVnBfZHduQm5SSms3d2ZaMFZyeHdyQkdFd0pmVGhVMldzN2JHaXBuTVR2cUR3?oc=5",
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMHhpZDhxX205SWpKUWpqNVdvc1pBU2s3c2VLdHg0c0Mxa3FfZ1pGVXBRZWZ3b05ER093SzM3T20tanVWeUlDUk9qSHlaZ3lGMk5FMVFFb2NzRzVkWUpYdE9WVmhmdEZDcnlscHNMcnRlSWRFSVl3bHF2TFRDNzZQY3g0QU9uZ091ZlpHOUdNM1pmRUUzcTVUdVBETzVOTXlCSktjaWpRYS1QMFE5blMwVXcxMXE3c0xSZnExWGxRVHpOUzIyRHAzSWZWTURFdjByRGNDaHhJclpUX05ONU9kNHMtRQ?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcjZkdk12TmV4MU5mNnM4QVZVS29Da3lYNDdwVGxzYTVuS0tJME9pcnhWTVRxRDlNMzdwTzRXOXpUbDFvSzhXbEkxczFRRlhzaFlfT3A3NlZjbzI1M1VIN2dYTWhfRHhXQVltUzVTNXllb1JLVGZ1R243dnc1MWpVdkl1X2lDVnI1S3djaURQbVRHemp4aHplYk1iWWdIaGRNQmhPdE1nazlkcTd5a1RpUldB?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbzVReHZBRmlRRGZXWjVQUm9RMGdfM2RZdmQxN3ZTamVCSFpuUGFyV3R2dFRtR1lEZDFuaWQwb0JhbmFJcnk1WjJKd19TUE92QnRBX2x2Nk9WQ0h2TGwwR0ZkUXNRZm5FLVZFek50SU00TjMtWmRIQkhQSC0wWlpSOHdJa196TzJDVDVQdW84d2JuTkRkeHZkR1E1TUpQdlFFbm5xMGtobklaa0pNTzZ4ODlnRElmVTVpb0gybzNWMktDbnlvVXfSAcsBQVVfeXFMUHFHWEZFd254N3Y4NUJNSm5JTi1kb29aVko4UUFMbnB2VmFtWmZsUWRJMUJtdUxjN0Z4S1pJWEFRMTVXLU5kYmZEY3JqaUU1WnF5M05qNHhzNGRWVlpqbUE1UlhxcWwzMUh6X05QQnFhcko3ZWJhOFdjbnliazVxMERUTmhma2lUV2hsZGU4OGRHRndaNTR3WTBkMlh4bi12UVNJWFA0V0x0R3FOTzVLcmRqdEFaR2RZX3k4TWZPU3lxa1JUaGFBd2VKZm8?oc=5"
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVlJSLVlULTR4YWx4Y0VnbDcwX2xVbHBBSW1qM2FvTEpWWXViWmU2OTdVVTBacnRCZ3Q3MVYzeWE4UHA2WGJNTG8zWkcwTXZjLUxTUUNXZHhLZnBGV2lrZ2NhXzhUeEhKNFQzUXRpb3ZJMnRTU3BZY3J4bHpjeU1MS1lTWldYVEZ1SWxCNm5mOEVYb2ZoSEZFMDdqWVNwc2Jkd3dKVlJqZkhPazNaMk9HVTl4UVhFVzQ4NWowQU1keldwXzA?oc=5",
+        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdXc3MWxJclhENTlBU2FZZTVja0dneUEtVm5JdE1TcThhSzJTU3dTbW1mMk0tMGZjUUdfT3ZWTjRRRklVZ29qZXlqY2NRT2JTOElSY0RYdUNGdm5Ib0l4ejhhVDMxZTRiNldXeXRVTDZSUGJVNTEwaGxKNmpabWwwY3lveGN2cFVHQmFOQzVwNzJjQXk1TlRiRTdZOUFlWDBnRHVFQ0RSVU9VaXBmUmJwUE9vS0x2UDV4SWtNRVhNYVNISXdpb1Q4SEpDSHV5bUdzOWMtNGt3RThVczFxajhBVWJLRXZpRHFVTUdrSTFTbGZpMXBU?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMExZZTBCTDZHTHNneVFybUVzeWNaejhHLWtab3Z2REVmM0pqSHZMVTRDQWtPSFVrZDQzMWJGS29mdVRMWmFPbUROQnI0TGwtdy1LTHBVZlNvUDVwS1Y5STh3UXV4R09tajFCVV9OQW5lejBIS1dia0s3MU1FX2dhSGJHR1V3WjhnZEE0YjRpb3Nxb25SQ3JzQkdRenRrcExSLVRHZXM5QTB4TWoxSFpsbDZFUFdCTTZF?oc=5",
+        "https://news.google.com/rss/articles/CBMizgJBVV95cUxQd1B2bnpEYlFRNk9VV0JEaEpPNUd5ZVZfZWhhVUNaQUFoLVg1NFZtb1Z2YnlwbVp3cWxmaHR0Y0ZqTXNKVlg3WDlBbDRicGR1elNtb3JRTWFDeXhCd2FvZktQQm1jcUwyQ1k1eU5Xd2EzcWpSZkJ1bWZPOHdRQVZPWGdkQ1JaSzZUS3pTZUg0djF4cjFOWENYWGRiZncxU0loYkhGQWtkRHE1c240OUwxeHRrNFNSelEtcHVsWnp2X3hxSFQ3SUE4ekJTdzZ4WlVabjY4RXNwMmRRN2l4eTRrZ2k3b3ZiM1ZvRTIyVGFjZHVVRmY5b0h6X28tRVBXRUhUeXU3MWdId0FtZW9iQ0tNbGRhd2huMzFqa19oR2NrTURQTk43dXBmclQtVm5iMXljUWM0UnFISXdsenE2Z2ZmaU04d1otNjVaalRaQ1Z3?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa3VkTE1HLVV0YjZ5WFhzd2NRUmJQZ1BZOG54YUlhR2RPSXlYQ3FrRGEwWWNCY1hvdlNpSWZ5cjJ0eTZNTTZ1NVBRNW54UWh3emlTdnpobFpCN2hLenQ0S0ZMal8zaUM4Y21JNFdsVFJYTmxnSzRrNDFzNlBYa3dqZ1ZVbnZ3eTduZFJmYXotNl9RME54ZE1UWTVMaEZyQVBRcHpZUmQtMTE5LWhDc19xWnZTcWhBSXpwWHR3dFh0MXA3UlVYQm5hWEVHVENncGlGZC0yU2dWcDlTdw?oc=5"
       ]
     }
   ]
