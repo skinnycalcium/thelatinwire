@@ -1,73 +1,67 @@
 {
-  "at": 1788997971612,
+  "at": 1789011432419,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "BenefitsPRO",
-        "PYMNTS.com",
-        "Nebraska Examiner",
-        "KETV",
-        "TradingView"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Bipartisan House bill targets AI health claim denials",
-        "Clarity Act Faces Sept. 15 Make-or-Break Vote in Senate",
-        "Supreme Court sets Sept. 30 arguments over validity of K-12, collegiate sports ballot measure",
-        "Nebraska Supreme Court upholds Evnen’s denial of Democratic Party challenge to Senate candidate",
-        "CLARITY Act Passage Tumbles to a 14% Chance: Is the Senate Vote too Little too Late?"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRm1DSTZlckx4N2Y0RzQwNUQxcEJ3ZktqTWJNbUJwVElYYjBHdXFpWndrYlF6OFc1aFRORUdoTHA3ZVctcElYbGo3cFY3YTd6eVQyck5oc29tZnRMZlhLdTlmSmgzS0ZoXzVLalJ4UzZZanJobS1fYlA4Y0VzVG5ka1RId2ViNy1pZ3BCa0o1MWdqa2c0QnhnNA?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUnFkWkpVMF9YQUxFTGt6dTRIdnBNd0ZETEl1QzAtdnU3NzF0Y19EYk92T3pPTWhMQ1lhRU1ySWdOdFd4TXR4NUo1eE9Ia2o0eE1mWUlscEYtT3o4eGFJTDFSN2NvZFBiWjFoLWpTVVhFcUt2LXFUcG5Pa0ZPVUpSVld5aE9MOUFSODdKcy1MT0tHLVk?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZG5kQjV1OTZHU2pkVlVyakd0X3ZsN0Y1RGR6Yjg3ZHprMFBCcE1Kd1lJd2c4SFdjQ0NjRlBfOHRNY2UtbGNFRmhENUVvWnVKdld5UDFoSWtYTHhZWnJ1T1FrYWdhLUZZc1dyTl9rQnV3ZjE4SEQ4aUtxNGF0ZjFweW1ET0EtUVhzeF80a0swck00MlFYMzFHNGlFNVA0ZmV3V1U2WVNLZW5kVDdvUWUzRDZLYzhnX3NDdFhBZWVlT3JKeFY4NTBtTEtsVFg?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2NhN0FoRTVJc1NROXl6a3U2Qi1scHd6Nk91Z3JaSHRlcldkbEFXWnpZWWFoT1RmQnF3bkdCa1R6NmVrT0ZoNGExNHJXQmF1akhqQ0Q2WWJ1ano0c0REVWgtSF80eG15MXBXTXh4MTJjcEQ1QWUyaXRGc0J2Nl9sUFZWTzh3VmNkY2RCYUZNdnFIMDB6MHZJ?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOWp6a3o0YjBfNld3Q013Y0ZMeUJ1UmVZcnRQeVlleFN3LUctay1KaTVYLXNXRDY3Y21idXBnczcwZFpHNVFtVm1Ia3J0T0xfaXdRWDhoVWYxejQzdHZveUt2TE5wTkY0V2pUdDNadlNWVXU4N2U3OFFQX3pwVkJMcFNFWjZrRVM4aFlYMV8tY0xDTVpEZGN2VUw1R3B4b1hwMVhuRlBhdGFtVTNERjdDMEVPTVBpNzJvdGNURnp0VVFaSXRZY1RhaV84bW0zejZBYkhRZGU5bw?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "The Hill",
-        "Atlanta News First",
-        "11Alive.com"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Live results: McKee fights to hold on to Rhode Island governor’s mansion",
-        "Hispanic political group endorses Rick Jackson in Georgia governor’s race",
-        "Rick Jackson earns Latino group's endorsement for governor"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQay1QdDZZQ0NDemhJcTFLdWFoX2w2dlkzcDBuSC00ekVLNnh5RFlhN2o0V0FTLXpHYmdEaHhjNzZaMTFZVk94TllIOGtUNUhrT3BEbHNnbGRfaHB6eFlTVGxtMWV5ZTlYWk4tSkswdGlPU2tsdjBWenVmSXlFaXgxSFBKcjBPaW1fMDVLSndEbmhTZlHSAZgBQVVfeXFMTUFTcjh1TTRCOEJJVkpmeWhYYVkwaEx0ZW1pR1pKdkpuWGlUNU5GbThfdjFnaTNWenNjdGlpemduTklJSGk2VDByRG01V1dFVlE0RC1JeVpJT21WWGRMOUZod3ZWYVQyWWhWMzZOTkVGRUswVS1GVkM3S0ZEdG9xUnZYRl82NmtsR0dteWhuNWhuVmpTaGYzeHQ?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYndqUWZqcHBUZTdCY1VXVWdJQ2Vnbm1TZXVLSGNYd2NVVk5oUWt1UzNvY3ktdlJYZTk4YVV1ZjV5a21vazlQc0xUZkw1ekVFS25udnNfVFUtYjZyX2wyUFJoVXZLNmJTZV94R3dBejBhNU9wb2pBbUF4Tl8xeVNSdmV0U2F2eFFvdnJFYnI4aE1nN0lzMkNvOVZxVzhlM0JZTzkwaG5YRl9DOVNMOEhvV0txLV_SAcgBQVVfeXFMUEdveFdUaHZ5YzN3N2loY1VhS3dPSlRGOXRzR3NXMXduU3d1MW9KMnl0MDI2RzdoaXhuRFJSalZzTXBpb2Y1RTd5aVNJWm9LWGdvVVdzd25mWTJjMFdvRmVraWFic1ZnYUgza05BVVl5ZVptTS13LWt4RTBoQmxFTXVLbXBVXzdQTmNpT09XN250dWk1V3FGT3NpbXUyblZDNjBGYWZZSTJ0clc1RVlEcmNNeFh2UTJ5aXQ4c001a2szV2I4MFQtS3Q?oc=5",
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdW5vSlZOcVV3QmU2ZF9rWUZPUFVYVVpxUzN4aWo0cVVqN1JONmkyRTBIZUZDUmQzcE1lRWxqQ2F5c3ZMeXJpVllRUHgzT1NERHBfY3Z4SmYtVTQ5c0ZCblFTQXJGanNLMnNicjlOdFhkbnJYY2Q0bWFZc1RoOU5LOHVyaWx6V0hFa3pDMTl3bF9JNFdwTHY4ZldkRnRGZHR5SUVDSGRjdWF6cU5VSlBjdXBYU0x6RmNyWl9fcmMxTGw1dHBpSDNmaS1CSXFhODNxSkJHSDRiaDQ2b0hQMTl3VVlSd0lWVHR2?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
+        "Native News Online",
         "Michigan Advance",
-        "Interlochen Public Radio",
-        "Sault Michigan News"
+        "Interlochen Public Radio"
       ],
       "lines": [
         "center"
       ],
       "titles": [
+        "Michigan’s Governor Pulls Back on Line 5 Tunnel Permits",
         "After backlash, Whitmer says EGLE must consider Michigan Supreme Court ruling on Line 5 permits",
-        "State regulators to review issued Line 5 tunnel permits after MI Supreme Court ruling",
-        "'State must consider impact of recent Supreme Court decision on Line 5 Tunnel Permits'"
+        "State regulators to review issued Line 5 tunnel permits after MI Supreme Court ruling"
       ],
       "links": [
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUjhwZDl3bWtBT015Nk5RT25lMTROSkRKWGQ1bnk2MXJMSFMxQ1JvVGlIdWtXaFhXdUVKQklDekY3RTN2RHU3VVNXWWx2el9VdDlqUU5YN1VVenIyaTE3ZTZicDdQVEs0TnJKbzVBX0d3eElQNXozTDdSbTExbURnT0tWWnY2ZG5DNUtLMVRPSzNQSkJMY3JpYm13WlVlTHNMRjZWa2FLQTg4SkEzdEpn?oc=5",
         "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNzFCSHVQd1dYNEQ5b1Q1R1JsRWJ5VzB6RmxTd2hxLVpfRVNnbmRlSjRDRzJqSUlZOFM1MU14YUpFSEE0c29xT05TY3pHNktCLWdtcGVJakoyVkdwcmJpdDhLWnBoY3AzTjUwMDA4M2J4R3ZYRnlXeUI1R1JqNEg4RFVUb2hjVGtCaUk5Nk84QXBYZFZvcVBJYTRpWHhXNkU0a3lSaGw1MGdkSUt1Nl81eGUxbVVQQml3V2gwNThCWGhNNUZBcE9ySkFJMUlBTlE?oc=5",
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORVVMNkt4TVB2V2wxczA3Q2pzQXpDN1lRNTdIaXVGZkppcHFHZXdqRndidmFITFFQMEFfZEFqbE9uVHRaRG80YVVINHV4RmpiVEJIUTdsaWJkWFo0cHhxQ25YUEZXc1Z2Z1hrYmsxcUE1TkR0Rm02RE5ib1JEWWloSW9NWlNwa0lZcWd2dF9xLTdfdnVrUGNLaFp4WXMwaTBheGR1T3ZFZURzdGVGMC1Nd0J3bFlVa0RZS3hSTHFMZGcxcTFMSDNudnp0aERoMzhNS2VaM2FTVkdQcVdC?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFdlMm1GaW50RHR0el81RGdFbW5pTWpyVzAwX21yNHB6dUYxa3FXWVZwdGVmU29pMmp1a20wZnBiT0VOUHRUQUt3ZTNqNkN5RWZuUkdTamtKQjRBMmZmOXdSTzJJai11YUhDa093WGNxMmltc1hkMDVvZjgzY0FVT0dtU215UG5oaDl5aFU4QVJxWmRaNDNMOXVpalB0dy1LRXd1eTZpM0sxLVJCZWRuZ2xfUnFFVXNNeHE5T1loTHBtWEZIOU16R0NB?oc=5"
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORVVMNkt4TVB2V2wxczA3Q2pzQXpDN1lRNTdIaXVGZkppcHFHZXdqRndidmFITFFQMEFfZEFqbE9uVHRaRG80YVVINHV4RmpiVEJIUTdsaWJkWFo0cHhxQ25YUEZXc1Z2Z1hrYmsxcUE1TkR0Rm02RE5ib1JEWWloSW9NWlNwa0lZcWd2dF9xLTdfdnVrUGNLaFp4WXMwaTBheGR1T3ZFZURzdGVGMC1Nd0J3bFlVa0RZS3hSTHFMZGcxcTFMSDNudnp0aERoMzhNS2VaM2FTVkdQcVdC?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "El Paso Times",
+        "WTNH.com",
+        "Anadolu Ajansı"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Working with US, Mexico arrests reputed key La Linea leader 'Pepa'",
+        "US, Mexico target cartel money as prosecutors expand cases in West Texas",
+        "Mexico arrests cartel leaders in high-profile border operation"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaHlvMWtXcjRjVnVsSDkwVm42aFVXOWhFWjBlcGJUT3JrUGJFZmZBazA0TEhVWGdxcnVSTmlCaXAzNnZzWF9Wd2xvVERHX29DSDlCRDF4TlpHdHhrc0d6MVpXZWdxaXhhbmwwc2F2QWVrSnZkbXowWEtSeWdEODN2ak1fR0FUTWJ3ZG1SN1VZTkNqQ3ZtRGRiUjMzUDFrMG5Vdy04amhrSWM0NWFGYVgwZDR1aDZDVHljNDhYM2x4NVByMzNsMC1MQUhlSEg1WGFVNnBQeWYxd3c?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZFJNdloycHkxRXo0cmFSdUdqd05tMGZkUzZwTks1WkRyc3VJNEJsQkZ3cjI5cVFnazNiVHR4dVZ5bnJFU1dWVXpNRG9tV3ZUR3hZZTZIckRtZnRQTFZ3bFRtUDB2TEMyNU1hQl9fN1ZiMGpHdlhvcmFUYXNwbzg2bl90SXc3aUJFSWo4UkZuczdTdUdYSXE1dC14N0tJeXpENjgzVWotRkkydEFYSEl5Znhn0gG3AUFVX3lxTE9xTDFFR2dXc01nNk1ZS1VyTi1KaEt6bGM5MGZDN1hubU0zX0FaWlM3YzhWRHBjb01udmVlQ2FJYlp5NTFncHhidVV5d0JETlo3Y0pOUmpPXzUxck90V1BJbTExdTBWT3NXZndTYm05NlhtRFhjektYc0ZEaUxmdG5PLTNWcTJaWmg5WG9EM1Fwa0tvcVhIZzZtMVZCMU1zVzVMY3ZZdkgyMDF4NVRfbHVwRjJsS3NRNA?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYzRXVFBpUk82STNYb0EyRkJtVFgydENCUHFoNkhUVlZCNW5BWjByZVk1bUx3MkNORUwzZnR1dzhnUjV2d2dyRjAxTmtIcmZ5VndOZ0VqckEwQjE1UmhTRUN2ODNmbzNwelN2U1BjejNQSEE2X0dYOWtrWDR0TjNxdXZtakJtZHQ0RkJlclNzdl9FNUt2T0RoN2IzVnBCVmt4ZThERHMyZw?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "KETV",
+        "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+        "thewellnews.com"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Nebraska Supreme Court rules proposed Lincoln city charter amendments will be on November ballot",
+        "Nebraska Supreme Court rules initiatives to change Lincoln elections must be added to ballot",
+        "Smithsonian’s Leader Announces Retirement Amid Political Pressure Over Exhibits"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQmlTTUNLSkR1SjRpMEZKTjdxMHhiMEI5LS02c1hDcmlTWGNVdGxDTHZvTG5XSWk5YnExMmZyMDhaUzNlUmhWWFlIQl9JSHZtdG9ud190OGpGMnJOazg4OU84aFNZYWFyX3pEN0RZbEo0bV9ma1dYazNGYXI4Q0V2VUZxLVAxbzVPY3hsWGxVZm8?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUlJGb3g4Y051Y1BLbkx5WFRRSU1ZclI2bkduNWpCcHBGRmxVZWllZGNCMlNjbW9oaUUzTUl3UE1qR3d4X3o1R0dOTTZ6SXVfSTY5YjVta196VDRsX2dkLVpJV0xfdUpqdWFxQnd2MW56dnc1YU4wVWx5MEtJUk9fVVlldXdwa2FPN2hOYUZHd2Y2QUNONi1hVXNYbl9fNzBwU2NYRzVvS1A0aG9TWUpkTFFLSFo1bm9kYnlXOEQyVdIB0wFBVV95cUxPbDZ5bWVFSzJ2dFBJVllzV2tkME9hemZQV2pUQjNiS2NtTjdLbnR2V2xwQ2RzYVFIeTJKR2dDcEVmSXMxNGxLTzUtMTg5aVpUSFV0bERfRUN4bWhMRHI3SnBMVVBlRENYa0xvU0RMSENOalJ4Ty1MNUVaZFRHQkNBaXVLQnBzcjlHLWsxVnVHQ1pPLXdNalBuZ3RGTWt2ai1TSjF6UWNlTkxPdno1NVV3OEZvWFQ0M1J5OTg5aGxVVUwyRXV3VUYtTXIxLWRSbVZVZGt3?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLUJzMVJ3Y2gzUDh2TFRvdGM3dGlxWjBzcjl6RVplV2dXMThnUWxtQmU3Y1NqUE16QUExblI0UjJQeDAwZFRNa3NBdVgyX2VFbi1qTjdQWUhSR3publZiYzB5UlNBczh1eTk3MjVBWG5ROWEyQ0dYUWN5bHdWajdBRklqLXhNbUI1MVpDa0lVUXRLY2pxbkRNeFlJbnpfdkhEZldOU2ZrT1R4Z3B3dUxSb0dGaVFBZw?oc=5"
       ]
     }
   ]
