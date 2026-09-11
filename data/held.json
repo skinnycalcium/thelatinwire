@@ -1,40 +1,76 @@
 {
-  "at": 1789084349336,
+  "at": 1789097711259,
   "held": [
     {
       "section": "politics",
       "outlets": [
+        "indianacapitalchronicle.com",
         "Fox 59",
-        "Indiana Capital Chronicle",
         "IndyStar",
         "WTHI-TV",
-        "ipm.org",
-        "The Indiana Lawyer",
-        "Yahoo",
-        "WTHR"
+        "WISH-TV",
+        "theindianalawyer.com"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Spencer Deery back on the ballot following Indiana Supreme Court ruling reversing recount commission’s decision",
         "Indiana Supreme Court rules Sen. Spencer Deery winner in 3-vote Republican primary",
+        "Spencer Deery back on the ballot following Indiana Supreme Court ruling reversing recount commission’s decision",
         "Indiana Supreme Court rules Deery winner in recount case",
         "Indiana Supreme Court overturns recount, restores Deery’s primary win",
-        "Indiana Supreme Court rules Sen. Spencer Deery winner in 3-vote primary",
-        "Indiana Supreme Court rules Sen. Spencer Deery winner in 3-vote primary",
-        "Indiana Supreme Court rules Deery winner in recount case",
-        "Indiana Supreme Court overturns recount result in Republican Senate primary"
+        "Indiana Supreme Court declares Spencer Deery winner of District 23 primary",
+        "Indiana Supreme Court rules Sen. Spencer Deery winner in 3-vote primary"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaUdFekVVektYTFhEdWhOUjBMVnBSQTdhRUwzOEc2UGVveUxONGpnd3ZfbGo5Uy1uRDJET2E5UDNndzV4RkhuSlV3Zy0tMFRXaERiM3hoelVVS1drNVZKR1dQZzlzNk5EcVdaTm13THJjdnd1SFlFcGNYM2V2Mk5raDd3TWxkbEh2RTU0UlFkQ0k3UUFhUEhtYkQ1MXRXU1JPemdLRlFZUmhQcTM2MGVxcHRNaGFJR1RqZXZBVFVxVDdKenUweElycm00RFBCNHRnOUxnT1hKQTRBcmPSAeABQVVfeXFMT09tRHEwRDEwWVppVF9KQXFFRWt0RWprVGxyM0NVdXQwdXZlQmJnQXlLdlljNXc1NGdPUUh3VUZ1c1ZPR3dwTUNfZ3BzS2hLQlA1VFNEWUFQNGNuM3FfbWdqNHdIN2dzMFdiZS1manhycUNZcGpDVDJuakhVaUM2Q2dvcE1FYVF0OFUxRXdSVnE2NXE0U2kyYi1waE13UTM4S0dNSk1PY2pEYlE5UlNWMnl2V1paajRuSXNjVU9WRTRvTDBnXzVEOXNFcGNkYkRhblRtaUMzSVp6UHVDcHd3Rk0?oc=5",
         "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMExZZTBCTDZHTHNneVFybUVzeWNaejhHLWtab3Z2REVmM0pqSHZMVTRDQWtPSFVrZDQzMWJGS29mdVRMWmFPbUROQnI0TGwtdy1LTHBVZlNvUDVwS1Y5STh3UXV4R09tajFCVV9OQW5lejBIS1dia0s3MU1FX2dhSGJHR1V3WjhnZEE0YjRpb3Nxb25SQ3JzQkdRenRrcExSLVRHZXM5QTB4TWoxSFpsbDZFUFdCTTZF?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaUdFekVVektYTFhEdWhOUjBMVnBSQTdhRUwzOEc2UGVveUxONGpnd3ZfbGo5Uy1uRDJET2E5UDNndzV4RkhuSlV3Zy0tMFRXaERiM3hoelVVS1drNVZKR1dQZzlzNk5EcVdaTm13THJjdnd1SFlFcGNYM2V2Mk5raDd3TWxkbEh2RTU0UlFkQ0k3UUFhUEhtYkQ1MXRXU1JPemdLRlFZUmhQcTM2MGVxcHRNaGFJR1RqZXZBVFVxVDdKenUweElycm00RFBCNHRnOUxnT1hKQTRBcmPSAeABQVVfeXFMT09tRHEwRDEwWVppVF9KQXFFRWt0RWprVGxyM0NVdXQwdXZlQmJnQXlLdlljNXc1NGdPUUh3VUZ1c1ZPR3dwTUNfZ3BzS2hLQlA1VFNEWUFQNGNuM3FfbWdqNHdIN2dzMFdiZS1manhycUNZcGpDVDJuakhVaUM2Q2dvcE1FYVF0OFUxRXdSVnE2NXE0U2kyYi1waE13UTM4S0dNSk1PY2pEYlE5UlNWMnl2V1paajRuSXNjVU9WRTRvTDBnXzVEOXNFcGNkYkRhblRtaUMzSVp6UHVDcHd3Rk0?oc=5",
         "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVlJSLVlULTR4YWx4Y0VnbDcwX2xVbHBBSW1qM2FvTEpWWXViWmU2OTdVVTBacnRCZ3Q3MVYzeWE4UHA2WGJNTG8zWkcwTXZjLUxTUUNXZHhLZnBGV2lrZ2NhXzhUeEhKNFQzUXRpb3ZJMnRTU3BZY3J4bHpjeU1MS1lTWldYVEZ1SWxCNm5mOEVYb2ZoSEZFMDdqWVNwc2Jkd3dKVlJqZkhPazNaMk9HVTl4UVhFVzQ4NWowQU1keldwXzA?oc=5",
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxNREN6MFNHUlBhVzVnMjlQQ1pBOUFoSC0yWXZySFYtemdBZ3pYRFNTY21vZ2ozUVhvQjBjN1RuRU1xZmIteFgyWFBfSE5aOFRIUkZoQk9vWUM4b3hQdFMzeVcxN0xyV3A5WHU4dGZoSTBaXzlOM2hZWUpyd243dGhaM1RPQlE4TThvX3NfUlhCZDVnbERfNFNLSTB0aVRpa0RNM3lvUtIBuAFBVV95cUxOWjVCdWFfel9NWFh5VzdtUUdCblNuSHZFVUZ5Yms2czBrZTFNVC1nTFduYm81c3BfX0Mzb09iQ3MyeTM3cThpMWJmRDB1RzREdnVINC10T3pTYkMzaElvakQydjBBZ0lLamdGYi0wVnNYTV9meHJ5ZTFFaHFMcWlhSTByT0RjVW9URC1xMXB0UkFZekFKQWdHSGUyNlNYLUdqazR5OUVBaHZyNFl5dkU4NGhKb2ktLUtU?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb09rSEZ0bWFQR0xKZTM2RE1SQVFidE1sSVdSTnJNdmxSZnVoNGxSbkdTcDR1T3N1Q3ZUNjNoV0FIX0FRS1hKeU1DRWF0dXNJMHBENlY2RDVwbmFsYUJpNDVNLU4zNmUxNTBHeU1jQlEwdmdzQkVIY2xTNlloRm1ucHFqb3ZiYmk4dl92d1g5em9sbk5EQ1NuaXdBN2JEQ0RQNGNZ?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNDZfcXNhZmt3QXlrMnJwd0U3SVhOc2pvTEkxbXY2X0FoMUY5VWhvQkhfa3RTaWtNZHZxcjBoZWhxSWlNN1FhVExHakd3bGFnZTd0aTJrSnprNzMtRXJJSkkwU3E4WjJxUFhWQUVzOUNSTzlvdnVVZ2VpSnhNS3dBNUZDbFZ2OUZWTlA0R1ZpeXc0UWJ4NXQ0eWlhaWhsaVExaHVBZWpZZzRFc01EOF9sZkhOMnlIX1owR0EzcnpCcnlNcV9U?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTlwUzRoMVlMbUtzRGRMYk1PR2pXeWg3SkczbEFKaC1VVjdGTXZDNXN6TG05cERwaTNDaWJORzBGdEM0N1VINjBpeUJGUExqX2x1Zlpyai0zNFZZanplNjZTUkZmRWpRNGNVaDduaXBqbVlhNlVvNF9QSXFxTGgtTnQyeVBiQ2IyNGRaUmFxUUx2d0FKcXpBcA?oc=5",
-        "https://news.google.com/rss/articles/CBMizgJBVV95cUxQd1B2bnpEYlFRNk9VV0JEaEpPNUd5ZVZfZWhhVUNaQUFoLVg1NFZtb1Z2YnlwbVp3cWxmaHR0Y0ZqTXNKVlg3WDlBbDRicGR1elNtb3JRTWFDeXhCd2FvZktQQm1jcUwyQ1k1eU5Xd2EzcWpSZkJ1bWZPOHdRQVZPWGdkQ1JaSzZUS3pTZUg0djF4cjFOWENYWGRiZncxU0loYkhGQWtkRHE1c240OUwxeHRrNFNSelEtcHVsWnp2X3hxSFQ3SUE4ekJTdzZ4WlVabjY4RXNwMmRRN2l4eTRrZ2k3b3ZiM1ZvRTIyVGFjZHVVRmY5b0h6X28tRVBXRUhUeXU3MWdId0FtZW9iQ0tNbGRhd2huMzFqa19oR2NrTURQTk43dXBmclQtVm5iMXljUWM0UnFISXdsenE2Z2ZmaU04d1otNjVaalRaQ1Z3?oc=5"
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT2Z4WGNsb3J1RHJGUFJheHpIbl9ZX2dVNmFBZXd1SHFzRlY2bVYxWDdGZG5JdllTR3ZSTG1lN0FPSmV1TWJxTUhmYmdWQkpPNDI2alV5Y252SDBadmhaRGRaclR2bHRnRDYxZ0hGc1pfYkhTVXhSc3VKMHpPcmR0RVdn?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNDZfcXNhZmt3QXlrMnJwd0U3SVhOc2pvTEkxbXY2X0FoMUY5VWhvQkhfa3RTaWtNZHZxcjBoZWhxSWlNN1FhVExHakd3bGFnZTd0aTJrSnprNzMtRXJJSkkwU3E4WjJxUFhWQUVzOUNSTzlvdnVVZ2VpSnhNS3dBNUZDbFZ2OUZWTlA0R1ZpeXc0UWJ4NXQ0eWlhaWhsaVExaHVBZWpZZzRFc01EOF9sZkhOMnlIX1owR0EzcnpCcnlNcV9U?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "The Boston Globe",
+        "WGBH",
+        "Cambridge Day"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Brownsberger victorious in election recount, keeps state Senate seat after challenge from Wu-backed Lander",
+        "Brownsberger beats Lander in recount, holds onto state Senate seat",
+        "Lander concedes to Brownsberger after razor-thin state Senate recount"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWh4d01KMTZlSG9UcjZrUS1Wd28xLWRMZElZbjJpaVQ0clJLWVU2VTBkZnduWmE5MmxNT0VKTWVfc3JRZnVFaXF3NTF3d0ZNU2Z5azVyWFRPNGp5aWhIYTJVbWRRcy1uSHoxdXVSSUk3eWhWejlseTM5Z1J5UVdPeGNGUzB1RzJqdjB5bmhsQ1V0VHN6RzB3QmF5SQ?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd3M5ZVZBSGlTekNVOTlSLVVmVE9sMHFJa0lTb1RkN2t0V3JlMzJROFBzTW1PWmF6TVhEUVJNNEpud1c4VjJaWFUyZ2I2SXNKaGNLa1RHTUZsdWhWYW9OYlNCZHBvVk5oMjI4eDNBaEd0OENqRnF5cnFXQjExVkpBcDhNdV8xRWZFSXBWWGI5bkUxbEFyQUVZZTRWVkU1NW9tSGVOaURocHFtUTdWQzdQWg?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWtTRzQ5WnJQdUVOVTBkNDJWVTZmQTU1WDRydVBCZXYxSVYyZUllSDV0al81VnJRWUVFS3BhUDdVcGtjbllZUjdqUk9oaDJzUXJ1UlI5MXhCZzZrTHluMTJJU2Uya3hIQ2tsd3o0ZDh1M2lwUmxoTVh4UmtpWVYzQ1lMa0s1bjd1LW5j?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Valley News Live",
+        "InForum",
+        "KFYR-TV"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "ND Supreme Court hears arguments in Fargo pipe organ case",
+        "North Dakota Supreme Court hears oral arguments in Werner Kunkel case",
+        "ND Supreme Court hears oral arguments in overturned Werner Kunkel case"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxORkJ0TXRueUpkOFduUVJUeWFuWWFBTGVhR09YUEZrTFBqUjItQnlmZi1oRFVudXkwODZkS1IwYXNkeXpSc0pjSG9DaVdIUU95RWw5T2lrQkozVW1BWnR5aHZkNDAzUGQ2aVFnYjZXWGlPOUEtMDA1aTZ1QVlFT2hSNjVJdzlMNmZHRzhIR0s5UkpUU1d5OGtOdzBteEpJUdIBsgFBVV95cUxQV3JQc3dIV3JQSXdpUUltdXZrLUxDVmlkQmVlLTI3LVF5ZGVndDM2MUN4SGs5VTRoVUYweHFDVlpVX040MDJxY19yNHlGNnpkWGRpeUk0TVJvTG1DdGMyODZ4alVUa1BCMURlcGVjbU1UNi1qQlFxX2FxRGZOUkpHS3BiWUw2WnBzZHJJMnJsdDd1aDdUbTNPR1dQWmpJMHhJQUZaVy1YRk9aQkk0d2VjX3d3?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdXAxck84OTV2aGM5M1V2bDNVYTJlZlpaUXNGdVFlOW95WHUwUTJKN0o2clJYSUNDcGRORkk4RjdPWEdoYkxxeXBadFJjcUFRVTlVQnNWMVpwOGtCbHdJWnd1cVgzVXl0MWZVdGpDRWZldDd2YVNNZDA3WmNZVzRacnEyYzFkbWpCQ21rTXFfZFhGbzZBVUhtSVdsa1ZVN3dSOUt0RzlhVmpBZUhqVjUwaA?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWjROSlN2U0VmMVgwdXI1dFZqeHhlaUVORlJLLW1KRGJYWjRjOHplTTJ3dktRMzhydWtwc1VYWVpUYmVTMV9lcWNlXzUtV2NEQTJ0VnpjRHhqQXBZOFd2M1ZqR0JoQU1qUFpBREFGSTR6MC0xSURoeEdSc2E5WUhZR2hmN3hjV1pwRkUzdEZTb1J5ekRVUmlWZ2VzMHY1bkVwMzdJbdIBuAFBVV95cUxPY0RvbEozSXcxZUw4eVRCVkhmdmVXOWZuZzVoV0tsdnJKRWgzc3A3MzNNbksxYXRnUzdrc2tNS1RDeHpsRlNpU1ozUGdyMXRwVFR4UWgzNWk0cTFfWUpsa3RkalE5YV9nZFRGbGFYMklkVlh6SXJzck9tWlBYd05ITDZ2N2xDejJsb09VanZ0bVBxeERqRDNfZWF4UzE4b1hXR1M0X2xMelIyNFhWQW9acDlBTldCQ1Ja?oc=5"
       ]
     },
     {
@@ -42,10 +78,7 @@
       "outlets": [
         "KRCG",
         "Missouri Independent",
-        "KMBC",
-        "ABC17NEWS",
-        "stlpr.org",
-        "FOX4KC.com"
+        "KMBC"
       ],
       "lines": [
         "center"
@@ -53,42 +86,12 @@
       "titles": [
         "Missouri Supreme Court holds Secretary of State Denny Hoskins in contempt, then clears it",
         "Missouri Supreme Court finds Denny Hoskins “was in contempt” over congressional maps",
-        "Missouri Supreme Court: Hoskins was in contempt; contemptuous conduct purged with new order",
-        "Missouri Supreme Court finds Hoskins was in contempt by ordering use of new congressional map",
-        "Hoskins agrees to use 2022 congressional map as Missouri Supreme Court finds him in contempt",
-        "Missouri Supreme Court finds Hoskins ‘disingenuous’ about 2022 congressional map use decision"
+        "Missouri Supreme Court: Hoskins was in contempt; contemptuous conduct purged with new order"
       ],
       "links": [
         "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR2pNRU02eTZuX01TOEhnOHpHRlFsLXpHQlh4Zzd2WnNJcDVISVVhbE9xQ0VhTm9DRXpoVEhVODkzZ3JFUXVsVThZdk5SUnVZbmJHMkYzYmRCT2ZydVJncmlZdHU4Mm9PRDVpSl85eHYtTGJZU29JYWxMeVpwSldkYTY3X1BIS29NZDhkclhvUVlLTTNKTG1KUEhuZ2xBR2h4MGc?oc=5",
         "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZUpoZVhNNlh3SzEyQ2dxRklFbmVCVndsQUE4N3RXa055Q2xXZjBXZEJzbGQ5NWRmWjJ2WkxZdkdfNlRrV2VLbnBSOVNZNGJ3Sm1HUE9PWG5UWVRFX2Z4ZGRaQzJQckFqSUVzT28xcUlZcmxjNzF6S2dVb21PUXUzUWR3REJoNU5MdXpDMm82QlZ2MXFFb2x5MS14V0hhQ2JUdXdfQmxGMk82SUptUFU5bk9Gbms0VkQ4Uml3UWxxWVM0YTQ5?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaF9XSTlSZldtclpTdFhzcjAxUVBHbXZGZC1uUU4zN1hXbm1qUXhzdDQtOXo2a0t0dHhGX01idGU0cG1naGFTV0FXN2pvVVFRYldQcVYtVGFHVVllQ19BbkNSMHI1SU53R21lNjBnN05zV1A2U08zV0FIV1lmWmRadmY3ZlY4YXdLWlNFYXprZ1QtZU1XWnZ6XzlB?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQlRHMXlWWTdDQWlRMUU2NHc3MmNoUGQzVURzVmRfSlB2SHBmQVFVREhXblhDS1hxZ25obURxbkFzcEdtRkxOWnhEQ2ZJM0hUYUFUUVZfbFlUNS15azdwWFpSNHlRaWVFMGtJWDJJNVFCNVd0cGRnd1c2ZDhxVDhsQUdVbmhaOTJ3MURnRTdhdjRpODRHNk04LXZua2lJUTZxeF9LSDRYbHYxVGt3RUo3eFU2Vm1xWG5lVi1XVDczdWlHQWVwZmd3ZWlaZmxpaS1ydUREdGVCQ3I?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaHNzYzk1ZXBXaHFoVXRndEp3RjhwOGtjTGcyUExXZk56YmdpU201dUlHTnpTOXg1bUFXeHk5MFU1dXNYVHNMc2QtdWpwWEk1akV6elhNWlY0MEZLMC1vMmV4Y044Z2JfeW4ycnZQNENFaEljM0ZyWFNpSFp3ZS1nSmg1aEFNZWRINmdPS3JfUWtQWlBvX0dPQnNGWkRXTXBSNXAzeTAzU2paMWFpanFOVw?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOUFqNGxvczJ3bmNhZzNjdzl3V3NrZFlmMUtfejd2LVdHNUpyM19RRnpBdmJvclA2TWRteUg5Yzkta21YLVd3aTd5dTU3TG1yMk5LQmxPZGpCRjlPNV9YbXF3enlnU2NZSWJpdGlCb3RSY0lvaC0xUDJzT0ZsYV84OEJaclloVm53cEZrbERyaGZYRDQ3Vmc40gGcAUFVX3lxTE02QkJleU04NmJhRnFPbjdJZlF6RG1wb2VRSFpxbWw3RDhBS2g5QkxLXzVPNU1qN2M4RG12bEVUU0xFcEhrQlBocVAtUW44cEVPTUtqdDJzaVJvTjRCRHp1MGV1NkltQUxaekpJX1R6cXpKaThzVEttbTdKbWU1ZzNxc01WZnd3VHVuVDN0QjBWc2c3bXFpXzZOR3E3Zg?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "SCOTUSblog",
-        "The Well News",
-        "KMBC",
-        "Law Commentary"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Supreme Court grants request to prevent Missouri from using congressional map expected to aid Republicans",
-        "Supreme Court Blocks Missouri Congressional Map for Midterm Election",
-        "US Supreme Court grants emergency stay, sending Missouri back to 2022 congressional map",
-        "Supreme Court Blocks Missouri’s New Congressional Map Weeks Before Midterm Election"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZWdiajJLMExmZ1lPTkdvSWFFRHBwU2NMUk9LREY4WWU1TVI5SzBFQllyRkxveXJsdFdfT3FjaVpmSVQ4YU9ZOE10d3Vrb3BwZ2diSWRTQU8yOVhDd3FWNnVKNlMwaHRqQUlwX2dab3d4dWlJSlc0S3g4bnN0aDZwRVJ2TmRQX0NtV3dqS3R2Q2ZsMXU0T1pHTjRJb3k1U3RrYUZFYnlwOWc0QkdxZ0xMX0tEYUVUckRiX0hGTmMzc3lBX2lUSkRDTU51SGI?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2ZTWWs5ZTRVUzIxTmFaS1Q3aEFuSldVTDlKN3NLaGcyVXVGeHpWeVp4bm1fS291eXVMQ2VaQ3dnMGtuQUpqWXg2ak9tQ2JlZkZkX3lQZ3VPdWlwNnJ2ZXhMVnJvSHQwdWExV1dSTnN6MndTU0dXc0M5YnNRQVdpeUozenI3UVU2MkFNTXgwREJQTmhPTzdibWVkNFFjSFNONmNKTGw2Zzg5NVhRUUlFWGxn?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR0syZDVjdUVaSnJhMldtbHFoUHJzUWhkNlhWUUtvSTRkb01oTGZBbjh2bWVFbEhyMWh2WW5sbTFraVFYQnNzcTlneG9XVHdkRy1ySTJ3Q0ZvbnZQd3g3eU5oVExuN1dXcVV3dnRTOGFpTVZScGJsdnl2WmttX0M1Skp4RUlUZWZIVEVDRGlESkY?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVG1YeDJmeDJQM181c2c1eTdETFg2ZUdjMWRyQmhqelNzRXhqOVFnSmFsNlp4aElYWFZGNDJ0UlU5U25wZXVIeDZpaWhaaTR6SlFCSHh0NW9jX19NM0RWR1BSaHBYRE9ZYTh1N29pcWQxTnZGMjZVMVBIaFR0QVpUOFRpVGdZMjJuTmZTZ1hWeWgwNEdZX2RhQVJIMA?oc=5"
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaF9XSTlSZldtclpTdFhzcjAxUVBHbXZGZC1uUU4zN1hXbm1qUXhzdDQtOXo2a0t0dHhGX01idGU0cG1naGFTV0FXN2pvVVFRYldQcVYtVGFHVVllQ19BbkNSMHI1SU53R21lNjBnN05zV1A2U08zV0FIV1lmWmRadmY3ZlY4YXdLWlNFYXprZ1QtZU1XWnZ6XzlB?oc=5"
       ]
     },
     {
@@ -110,6 +113,27 @@
         "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNWdISU1sMlZfOWFFbW12b0wxMTc0a2RJY3lBVWdMYmFQcE9WRThhSUVzMkVNTjJaM1VhQ1dDRVFOcFZrWUhiYkQtVWl5MUthWlZGVlg4Yl9henhmQzNtTGpUMk9jQWo3WXpLUEZ2YkR2TDlkbWtlZjRvV05DWU5ITEdVZzFtVDhaWnU4dm1wM2JOOG1uMmN4RjljNEF1SDhiSVhiM1hKWVFoMW84NU9GdHo3LUFUZWg0MkducmpnMWxmbDhSTmYyRzdnN0NfWFRRM1YxcHh5WW5rY1BNSXgySVhSMUhuQQ?oc=5",
         "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX1FFMndnWEJxTWRlaGNOUkdqRXFRdHFtTGx2UjF4QWx3Q2pJeFVuOGUyYVFnUS13aV90LUFGTU4yTkVpYldrM0lQZERwa3M2SGp0ZlBsVzA0NXBmMVJLMmNIVGJXLWRDeURtSjFMb1RqLVBtLXJyT2FVdUk4UDhDNDFvNmx1cXprRHhYOEdXbTA4TVIzR0xzZ2RySQ?oc=5",
         "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMF9MVUh5bXhfWllqYk9raGQ3Ukd1ZUR2M2JZc1dOYkN3ZjJqaHpFWHV0MlQtZERybldkZ1pGYVRITzNkUkZGclBzckhTbVhHdk16TUlTZk11emQxNlpRZUhIMFJMU0htTVBDRV8tUzBEVmIxNGtxS2FHb3Rfa3RGeTdMS3piSnZGbkdQeWRMWm1razVqV3d5dE4tM09UbFZ4b1BXRmN5UzNLd21yV2JyTFFUdHh1b0FyYUE?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Missourinet",
+        "Kansas City Star",
+        "Democracy Docket"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "U.S. Supreme Court decides fate of election map; Mo Supreme Court schedules Hoskins contempt decision for this afternoon",
+        "Hoskins found in contempt of court; reverses himself on Missouri’s gerrymandered map",
+        "Supreme Court blocks gerrymandered Missouri map for midterms"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS2x3NWJWSTNBRTBxQTU5Zk1qZUZPOUJXN2lEMW51SkI3TVhwRmwxWDl4aXVxdlFWODJCaXRINThpLTl3X2NSVUE5bURzSGNKelRsVFlvUHlNWjRTN0NfQVdrNk9HU2d5d1kwWVZmdjNxelpaWmFEN2NsMTFVeDhPNjZhY3QwcHpMS0RDeFdFbzhZRkhKRWVuT0tiVEFXS0NrNEtfNW1LaUszcWFyRW9mWA?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuaFJCQmRLaXprRHBxTE1lenlKOEJMc3ViX205akE5M082OERDMllpNzlFZmFfREFhMDhTYk5oNUFwWmdBZlBJems4bElZY21GcHZ3VDcxNkxDbUxQNVRYNHJTRXpJSHFWbk4tWUk1blN3NC1xYjhBUHU3aU9md9IBfkFVX3lxTE9NMEFOVGNKWEZrQU4xVzliLUoxVXk0dDRTR2N0NWZWdzg3LUZ5dlJIUTdKQmRYLUFpYXJMM1VZaWVVbzdYWndVQVZtYVA1dDIzOFNxR3F1dXB4VnlFMzdFN0RFbkU1WEx0c1NvaFh2TEV1UUlxWkVyUmZFWHlyUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmVlMEpRS0FTWGxwMUJKMnFSMHF0QlhkS3hpQWZyMkhWY2l2YlpCc0k5aW00OV9DemdIOTMtcjNSbVBCN2NOQ2hMb25nTGdsMEE5ZS0ya29vOWV0MFB0MlBsRlo4VXBKQThCbUY0ckhsMzVKcWt0UU5rRDRENmVKWDVmOVVBTER5ZnVfQ3hEb0lCVGtyWHlScGV2WTA5a1U3Sm4xVlk1Q2VnMzNNTVJrcVFNdGFoV1dxMkJv?oc=5"
       ]
     }
   ]
