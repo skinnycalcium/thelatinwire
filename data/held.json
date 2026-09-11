@@ -1,16 +1,33 @@
 {
-  "at": 1789114759835,
+  "at": 1789131459419,
   "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "CryptoPotato",
+        "forklog.com",
+        "blockhead.co"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Senate Republicans Update CLARITY Act Before September 15 Vote",
+        "Republicans Update CLARITY Act Ahead of Senate Vote",
+        "Senate Republicans Release Revised 630-Page CLARITY Act Text Days Before Sept. 15 Vote, Still No Democratic Support"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2hvbzZleE9zbm5Hd3ZrdTBVNmNTV0pndS0wdmgxWlpHQjNqbEVEbnNuU2VOY3Jlb0dram9EMEJCVEc4ejNBdGJTc3QyV1BuSVNqM2xpRDBzRWpoakxlcUlINVlydlgwR29TTEwzTkk2dElrUzFQUmZ0UXY3SUktMkRQaThRZmRtS1lmQXpWNXJUQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQkN0U0Nia1pBenpuRk44QzkyQjdaRTdjVG5GVE5LUG0yRjIxRm5QTi1jdnNON2N5Q3FDVUdFLWMzd0pTUnVzU0Y4TWx6QW9PWFZqZ0lPUlRUSzhLN3h3azVvNThSWHd5R29YQThwa3FNV2VPa05hMS01SHpzUFJweg?oc=5",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaDQzcU9SNmJVS3R5dDBDdlVkNnhFR1BMNTY5dUp2Y1FSQkczTDQ0UUc4MkNSVGZGUUEtWHdydC0zYlZRT0p4cF8zc3d5ZDVRaktMSjlvdVdQeHdCT2VUaGlpa2pIUERybjBZOWU5QWtVOE5GamtfelFTTm1vTWJwZnhxSHZjREtVSERzNGZVcXp1RktMajMzYXQ5eTlNZFc2TWczMjdqT1NGdTBxQ3hsZGFLR1gzOE9xemt4VE9qelVJZkNPRXpablVKSDhlbVpuRlhVU29uYXM2cGs4X0RxTnlRZUI?oc=5"
+      ]
+    },
     {
       "section": "politics",
       "outlets": [
         "the indiana citizen",
         "Indiana Capital Chronicle",
-        "IndyStar",
-        "WTHI-TV",
-        "WFYI",
-        "Indiana Public Media",
-        "The Indiana Lawyer"
+        "IndyStar"
       ],
       "lines": [
         "center"
@@ -18,104 +35,12 @@
       "titles": [
         "VOTE TO BE RECERTIFIED: Indiana Supreme Court declares Deery winner of SD 23 GOP primary",
         "Indiana Supreme Court rules Sen. Spencer Deery winner in 3-vote Republican primary",
-        "Indiana Supreme Court rules Deery winner in recount case",
-        "Indiana Supreme Court overturns recount, restores Deery’s primary win",
-        "Indiana Supreme Court declares winner in contentious Republican primary race",
-        "Indiana Supreme Court rules Sen. Spencer Deery winner in 3-vote primary",
-        "Indiana Supreme Court rules Sen. Spencer Deery winner in 3-vote primary"
+        "Indiana Supreme Court rules Deery winner in recount case"
       ],
       "links": [
         "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeUU1N2VZNTkyMHJ2MXhfRlZnWWxvVUMtdkZsRTBnRVRUU3pheXFucDFrMnR0VmZGVmJZdUNPS1dENzhqbFF2ak5Qc2JNUDNkdWt2aFdxdm1WRUlid2VCWmlIRk04eDNyMldlRjdYaDh3S3VnbER2TDZzWXN4bTBqdkU1VVl6cDRnS2NDTVdXdHFRb2p0RF8xMXdLYldkbkdaTmZyblZYelF6OElxYTVOWnA1UWZQZw?oc=5",
         "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMExZZTBCTDZHTHNneVFybUVzeWNaejhHLWtab3Z2REVmM0pqSHZMVTRDQWtPSFVrZDQzMWJGS29mdVRMWmFPbUROQnI0TGwtdy1LTHBVZlNvUDVwS1Y5STh3UXV4R09tajFCVV9OQW5lejBIS1dia0s3MU1FX2dhSGJHR1V3WjhnZEE0YjRpb3Nxb25SQ3JzQkdRenRrcExSLVRHZXM5QTB4TWoxSFpsbDZFUFdCTTZF?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVlJSLVlULTR4YWx4Y0VnbDcwX2xVbHBBSW1qM2FvTEpWWXViWmU2OTdVVTBacnRCZ3Q3MVYzeWE4UHA2WGJNTG8zWkcwTXZjLUxTUUNXZHhLZnBGV2lrZ2NhXzhUeEhKNFQzUXRpb3ZJMnRTU3BZY3J4bHpjeU1MS1lTWldYVEZ1SWxCNm5mOEVYb2ZoSEZFMDdqWVNwc2Jkd3dKVlJqZkhPazNaMk9HVTl4UVhFVzQ4NWowQU1keldwXzA?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNREN6MFNHUlBhVzVnMjlQQ1pBOUFoSC0yWXZySFYtemdBZ3pYRFNTY21vZ2ozUVhvQjBjN1RuRU1xZmIteFgyWFBfSE5aOFRIUkZoQk9vWUM4b3hQdFMzeVcxN0xyV3A5WHU4dGZoSTBaXzlOM2hZWUpyd243dGhaM1RPQlE4TThvX3NfUlhCZDVnbERfNFNLSTB0aVRpa0RNM3lvUtIBuAFBVV95cUxOWjVCdWFfel9NWFh5VzdtUUdCblNuSHZFVUZ5Yms2czBrZTFNVC1nTFduYm81c3BfX0Mzb09iQ3MyeTM3cThpMWJmRDB1RzREdnVINC10T3pTYkMzaElvakQydjBBZ0lLamdGYi0wVnNYTV9meHJ5ZTFFaHFMcWlhSTByT0RjVW9URC1xMXB0UkFZekFKQWdHSGUyNlNYLUdqazR5OUVBaHZyNFl5dkU4NGhKb2ktLUtU?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMF9MVUh5bXhfWllqYk9raGQ3Ukd1ZUR2M2JZc1dOYkN3ZjJqaHpFWHV0MlQtZERybldkZ1pGYVRITzNkUkZGclBzckhTbVhHdk16TUlTZk11emQxNlpRZUhIMFJMU0htTVBDRV8tUzBEVmIxNGtxS2FHb3Rfa3RGeTdMS3piSnZGbkdQeWRMWm1razVqV3d5dE4tM09UbFZ4b1BXRmN5UzNLd21yV2JyTFFUdHh1b0FyYUE?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb09rSEZ0bWFQR0xKZTM2RE1SQVFidE1sSVdSTnJNdmxSZnVoNGxSbkdTcDR1T3N1Q3ZUNjNoV0FIX0FRS1hKeU1DRWF0dXNJMHBENlY2RDVwbmFsYUJpNDVNLU4zNmUxNTBHeU1jQlEwdmdzQkVIY2xTNlloRm1ucHFqb3ZiYmk4dl92d1g5em9sbk5EQ1NuaXdBN2JEQ0RQNGNZ?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNDZfcXNhZmt3QXlrMnJwd0U3SVhOc2pvTEkxbXY2X0FoMUY5VWhvQkhfa3RTaWtNZHZxcjBoZWhxSWlNN1FhVExHakd3bGFnZTd0aTJrSnprNzMtRXJJSkkwU3E4WjJxUFhWQUVzOUNSTzlvdnVVZ2VpSnhNS3dBNUZDbFZ2OUZWTlA0R1ZpeXc0UWJ4NXQ0eWlhaWhsaVExaHVBZWpZZzRFc01EOF9sZkhOMnlIX1owR0EzcnpCcnlNcV9U?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Bitcoin Foundation",
-        "CryptoPotato",
-        "Crypto News"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Clarity Act Gets New DeFi Rules as Senate Faces Crucial 60-Vote Crypto Showdown",
-        "Senate Republicans Update CLARITY Act Before September 15 Vote",
-        "Clarity Act adds new DeFi rules before Senate vote"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV0pCRkV4MVpDLUVrUlJXeVBiZ2FWRlhZc1FyaFBDU2lEMVkwREpGLXJRX19TVEo1QWxRcmRaVjdEQ0VvTkNxc1RVRjI4cFRod0VoNEYydWR5RThpWmlJQW55ZnZwakdBckdmcnpRekJOejJwNmcwWUpGOUliVU5PMUVldG84SklEaHdkUlRGX1cyVGRhWUFFRTBENV9CS19sVHNVVDFjSkYwSXRYcWZraEJxT1FxSnNTVVczcDJic0dSbjk5?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2hvbzZleE9zbm5Hd3ZrdTBVNmNTV0pndS0wdmgxWlpHQjNqbEVEbnNuU2VOY3Jlb0dram9EMEJCVEc4ejNBdGJTc3QyV1BuSVNqM2xpRDBzRWpoakxlcUlINVlydlgwR29TTEwzTkk2dElrUzFQUmZ0UXY3SUktMkRQaThRZmRtS1lmQXpWNXJUQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kU19nWDMzSDBOSUtrUTBKUEZiODJGT2NSbUtNekx5aWd6UHdKdXdvUkx2Q1NrdjIxdHozYjBIVGZZWHFMM2FmUUpqaFBWcmxlUGRYaXN1dlM5aTdSVlNQTUV1ZVBwVktscFZSVVRleU5ITTJ4cEYzbFZUOA?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "The Boston Globe",
-        "WGBH",
-        "Cambridge Day"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Brownsberger victorious in election recount, keeps state Senate seat after challenge from Wu-backed Lander",
-        "Brownsberger beats Lander in recount, holds onto state Senate seat",
-        "Lander concedes to Brownsberger after razor-thin state Senate recount"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWh4d01KMTZlSG9UcjZrUS1Wd28xLWRMZElZbjJpaVQ0clJLWVU2VTBkZnduWmE5MmxNT0VKTWVfc3JRZnVFaXF3NTF3d0ZNU2Z5azVyWFRPNGp5aWhIYTJVbWRRcy1uSHoxdXVSSUk3eWhWejlseTM5Z1J5UVdPeGNGUzB1RzJqdjB5bmhsQ1V0VHN6RzB3QmF5SQ?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd3M5ZVZBSGlTekNVOTlSLVVmVE9sMHFJa0lTb1RkN2t0V3JlMzJROFBzTW1PWmF6TVhEUVJNNEpud1c4VjJaWFUyZ2I2SXNKaGNLa1RHTUZsdWhWYW9OYlNCZHBvVk5oMjI4eDNBaEd0OENqRnF5cnFXQjExVkpBcDhNdV8xRWZFSXBWWGI5bkUxbEFyQUVZZTRWVkU1NW9tSGVOaURocHFtUTdWQzdQWg?oc=5",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWtTRzQ5WnJQdUVOVTBkNDJWVTZmQTU1WDRydVBCZXYxSVYyZUllSDV0al81VnJRWUVFS3BhUDdVcGtjbllZUjdqUk9oaDJzUXJ1UlI5MXhCZzZrTHluMTJJU2Uya3hIQ2tsd3o0ZDh1M2lwUmxoTVh4UmtpWVYzQ1lMa0s1bjd1LW5j?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Valley News Live",
-        "InForum",
-        "KFYR-TV"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "ND Supreme Court hears arguments in Fargo pipe organ case",
-        "North Dakota Supreme Court hears oral arguments in Werner Kunkel case",
-        "ND Supreme Court hears oral arguments in overturned Werner Kunkel case"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxORkJ0TXRueUpkOFduUVJUeWFuWWFBTGVhR09YUEZrTFBqUjItQnlmZi1oRFVudXkwODZkS1IwYXNkeXpSc0pjSG9DaVdIUU95RWw5T2lrQkozVW1BWnR5aHZkNDAzUGQ2aVFnYjZXWGlPOUEtMDA1aTZ1QVlFT2hSNjVJdzlMNmZHRzhIR0s5UkpUU1d5OGtOdzBteEpJUdIBsgFBVV95cUxQV3JQc3dIV3JQSXdpUUltdXZrLUxDVmlkQmVlLTI3LVF5ZGVndDM2MUN4SGs5VTRoVUYweHFDVlpVX040MDJxY19yNHlGNnpkWGRpeUk0TVJvTG1DdGMyODZ4alVUa1BCMURlcGVjbU1UNi1qQlFxX2FxRGZOUkpHS3BiWUw2WnBzZHJJMnJsdDd1aDdUbTNPR1dQWmpJMHhJQUZaVy1YRk9aQkk0d2VjX3d3?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdXAxck84OTV2aGM5M1V2bDNVYTJlZlpaUXNGdVFlOW95WHUwUTJKN0o2clJYSUNDcGRORkk4RjdPWEdoYkxxeXBadFJjcUFRVTlVQnNWMVpwOGtCbHdJWnd1cVgzVXl0MWZVdGpDRWZldDd2YVNNZDA3WmNZVzRacnEyYzFkbWpCQ21rTXFfZFhGbzZBVUhtSVdsa1ZVN3dSOUt0RzlhVmpBZUhqVjUwaA?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWjROSlN2U0VmMVgwdXI1dFZqeHhlaUVORlJLLW1KRGJYWjRjOHplTTJ3dktRMzhydWtwc1VYWVpUYmVTMV9lcWNlXzUtV2NEQTJ0VnpjRHhqQXBZOFd2M1ZqR0JoQU1qUFpBREFGSTR6MC0xSURoeEdSc2E5WUhZR2hmN3hjV1pwRkUzdEZTb1J5ekRVUmlWZ2VzMHY1bkVwMzdJbdIBuAFBVV95cUxPY0RvbEozSXcxZUw4eVRCVkhmdmVXOWZuZzVoV0tsdnJKRWgzc3A3MzNNbksxYXRnUzdrc2tNS1RDeHpsRlNpU1ozUGdyMXRwVFR4UWgzNWk0cTFfWUpsa3RkalE5YV9nZFRGbGFYMklkVlh6SXJzck9tWlBYd05ITDZ2N2xDejJsb09VanZ0bVBxeERqRDNfZWF4UzE4b1hXR1M0X2xMelIyNFhWQW9acDlBTldCQ1Ja?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "KRCG",
-        "KMBC",
-        "Missouri Independent"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Missouri Supreme Court holds Secretary of State Denny Hoskins in contempt, then clears it",
-        "Missouri Supreme Court: Hoskins was in contempt; contemptuous conduct purged with new order",
-        "Missouri Supreme Court finds Denny Hoskins “was in contempt” over congressional maps"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR2pNRU02eTZuX01TOEhnOHpHRlFsLXpHQlh4Zzd2WnNJcDVISVVhbE9xQ0VhTm9DRXpoVEhVODkzZ3JFUXVsVThZdk5SUnVZbmJHMkYzYmRCT2ZydVJncmlZdHU4Mm9PRDVpSl85eHYtTGJZU29JYWxMeVpwSldkYTY3X1BIS29NZDhkclhvUVlLTTNKTG1KUEhuZ2xBR2h4MGc?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaF9XSTlSZldtclpTdFhzcjAxUVBHbXZGZC1uUU4zN1hXbm1qUXhzdDQtOXo2a0t0dHhGX01idGU0cG1naGFTV0FXN2pvVVFRYldQcVYtVGFHVVllQ19BbkNSMHI1SU53R21lNjBnN05zV1A2U08zV0FIV1lmWmRadmY3ZlY4YXdLWlNFYXprZ1QtZU1XWnZ6XzlB?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZUpoZVhNNlh3SzEyQ2dxRklFbmVCVndsQUE4N3RXa055Q2xXZjBXZEJzbGQ5NWRmWjJ2WkxZdkdfNlRrV2VLbnBSOVNZNGJ3Sm1HUE9PWG5UWVRFX2Z4ZGRaQzJQckFqSUVzT28xcUlZcmxjNzF6S2dVb21PUXUzUWR3REJoNU5MdXpDMm82QlZ2MXFFb2x5MS14V0hhQ2JUdXdfQmxGMk82SUptUFU5bk9Gbms0VkQ4Uml3UWxxWVM0YTQ5?oc=5"
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVlJSLVlULTR4YWx4Y0VnbDcwX2xVbHBBSW1qM2FvTEpWWXViWmU2OTdVVTBacnRCZ3Q3MVYzeWE4UHA2WGJNTG8zWkcwTXZjLUxTUUNXZHhLZnBGV2lrZ2NhXzhUeEhKNFQzUXRpb3ZJMnRTU3BZY3J4bHpjeU1MS1lTWldYVEZ1SWxCNm5mOEVYb2ZoSEZFMDdqWVNwc2Jkd3dKVlJqZkhPazNaMk9HVTl4UVhFVzQ4NWowQU1keldwXzA?oc=5"
       ]
     }
   ]
