@@ -1,99 +1,91 @@
 {
-  "at": 1789403787355,
+  "at": 1789418212156,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Yahoo Finance",
-        "CryptoSlate",
-        "CoinMarketCap",
-        "Investor's Business Daily"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Latest CLARITY Act draft includes 126 changes ahead of Senate vote",
-        "Here’s what’s new in the final CLARITY Act before Tuesday’s Senate vote",
-        "Senate Republicans Release 'Final' CLARITY Act Draft With Ethics Rules Intact",
-        "Clarity Act Odds Jump Ahead Of Senate Vote. Trump Agrees To Ethics Changes.",
-        "CLARITY Act Faces Tuesday Senate Vote: Senate Republicans Release ‘Final’ Draft With Trump-Backed Ethics Deal"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPazVEbWZZdVByQVZ3QmNpQnQtU0ZpdDZSQ3AydTFla01hR19SRkRoaUlOaTF6ZGNUNGQ1TUZ4SGZaU1FYdlRaS1FDQkpzUk9KTDE3eHJBazExQUs1bl9OaHl2VFZfbUt4bGlaaTdKLXZZZTl5Nng3anZWcW16b1N1bmZMTU5vck0?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVWszU3BYbUFrdjVjbnkzR3ZZR3p1S21UTnFWaDQ4WkJ3cUpZYmlxakE5WFlIREpvcjY5UTY3S0xKN3hCa2ZIX3ppMmlkNTY1eURLdnJ6aVVxR00zckJIOHFIQlJtdHBZeXJ3VkJYT25FanY0c1dIcGtHUkF0ZmZ0VnRMckRoLUhWY3hNeUZNRG9VeTNHdDlmRw?oc=5",
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUkNiUzVvMGZiU0huNktHYkkxWjVTMUE1QmF6OFFhcjVMcXg4RXY5N041QUNzTGJrMEZzTVpfellTRm5MakFQMWRsRVkyY1p1eTllNTg3OUttZnBoUFdkcExzZ3NnNTJBUEFHNXFreXBvOWFoOTd3YlBFYzJibFYyclFvUDBZRFFROGpQNE1MSXJjQkZxc2tRX1V4Mmx4TW80bGd5a0hoYVBGdjBWSHVQeEo2U2JFVHVD?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1ppWnpqaGF3eG9xTEhOX25naGRmZWNxUG9CeVJLNnB6aHhSLVo0MVVieFFZT1BIUi1ZNVM4RHIxRTRjT0ZlRld4cEJyakRZVTB4aHdvSWdfTmhheFdzMzhMbUJIelcwQ2xMcDdQdktBcFhpc0o4X3BrcloxQWpIeV9IX3ExN25XWjg0c3FCTzhXMkktOG5UcFpVTkVGVzRYYmRFbWtmTlVVeWtNX2Jmck1nd1lkNTg?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxQSDJ4WFZNWmo5c0NyMUJ4ZUN5T3BHNXYzZzZoSHVsLXBWamgwUmQyZ0FCQVVUYTZuaGlzRkhMaHNjM2NQMHhQdUpIYk9nd0taRUROeE1xa3JVbEFIbm9rOGR1a1V3cDNlZmtGdlAtUlhBdmR3MVRJSWFUYmVqM3NzZDRXR2NlaHNfQTVqMnFmd3YyUEZ4Nl9QWnBPQzBqZw?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "CoinDesk",
-        "DailyCoin",
-        "CNBC",
-        "CryptoSlate"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
-        "Crypto Markets Brace for CLARITY Act Vote as Polymarket, Kalshi Odds Rebound",
-        "Clarity Act faces make-or-break Senate vote on Tuesday as crypto industry pushes for bill",
-        "Trump concession sends CLARITY Act odds above 32% before make-or-break Senate vote"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdU1mMElEaTA2WFZsNW55UVNxbi1JM2o3blNoSnZkSDVLMGozX3pKOWhwSVJnVEhienowblp1Y2trOTVDYWdRVmotREZHSFNzaExaTDlBdWlRdmlxNHNXX2M5RW5KZU5Ja2xHU3RTRENxdktFdXNtUXdUTTJJRHRVa3poWjFUWEpQQ2FieDlUNERkUU9fR3E4VEY1MkEyVHNNc2FLRVkwNlFSZkNLUmxoSG9BUmYwYnl6dmpjU2xKQWZQQ00?oc=5",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sNzdnZ2REX19leVpOekNXR09QTklCcWxmVGJYRVR2SC03RFRKUHQ4NXNabzg4N2hEdXlreWM2NDRESUVpdWxBMGNPZkltN1BUR29zNDl2RXQwVXplVlFCQzdTWV8tbjV1ajhBaUpwYw?oc=5",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxONk8wYkc3Z3BtOG4tYVlGRjRzWmE2NEhrb29KTWxrdE5tMTZwS3pweWcyZUhYTHgxeDh4RGhwWW5DZzZuSmNwWXhhTVVJdHlMSE1YQVJ3ZmpyR0JNbDRXa1JWbV9tWjhwX2FiNld0VzhGVS1SWUV6RkhNYTNCbHF3c0JQTV_SAYoBQVVfeXFMTlVMOFJ2TW9JTUEyUWJvVVVWTjVWdmJSX3htNGhfUUg2YWF0ODRnWmQ1bzRMMlB4dHhzVFFWQTBmdzZPaUlhOE1UUG1WVVlISUppSWhhdDc1NDdJVkdvTzlzZThoN0Q4YVRrUVVpclE3NVpqTEl0cTRCbE85VkRmbVNQUGVJY3Jxdm9n?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3JpVTZLakwzVnZIamdzVE90RWpjakREY3RIZ1NlanNMdGdzMmtodnpyT3hFVktRVGZEZlptU2MtZHdTU1UwYW42bG9EQ1VEUkFDRmpLMUYycWNod01IQ0dLbE85dzZZRGZDVl82V1Fqa09RUmZ0YW5tMVlVMW5fSGgzNnVyRkdPc2pzaUZlQjZ4cUtDQUJnWHdCcW5JamplM2EtWVgtUnJOdw?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
         "The Block",
-        "Investing.com",
-        "CoinDesk",
-        "DailyCoin"
+        "financemagnates.com",
+        "Yahoo Finance",
+        "Investing.com"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "NY Attorney General James leads bipartisan push against the Clarity Act ahead of initial Senate vote",
-        "Key crypto stocks to watch ahead of the Senate’s Clarity Act vote",
-        "Trump agrees to ethics concessions ahead of key Senate crypto Clarity Act vote: AP",
-        "Trump Agrees to Crypto Ethics Rules Ahead of CLARITY Act Senate Vote"
+        "White House crypto adviser feels 'very good' ahead of Senate Clarity Act vote on Tuesday",
+        "18 Attorneys General Challenge CLARITY Act Ahead of Senate Vote",
+        "The CLARITY Act faces key Senate vote on Tuesday: What to know",
+        "Key crypto stocks to watch ahead of the Senate’s Clarity Act vote"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcXNqWjF5ajZpX3prazRDZ3Etb0l5MDhhejhNU09oQm1vNHl3RFpkclNPWDFmQXRXdFRYbkVCVFBidWJGV0lvYUxmRVlGTm5GXzhRYmRZbkFFZnd6cWl2S21Cb0hyUVNLdk9uUmdmd1NzQlozNzdnUzlDZ2NGbHRNX2ZyYndlWmZPLVB0S3I0a0ZLYlVMWkFXRUczZWdwRzFYNjdWRGlxRTVmenI4VEh6a2tIVEctbVF2TFk5REx0WVhTeEswSXM5V09pMHlYeEpmU05fOE9R?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQME9Ya19hMndWZjlGMGh6TnVJZ21rVUcwZWJLUmNoQmtlUGtzY0h4NzVWLWVlcWpTeHlMTTdEVTU1X0VZakxxNDFnZWNHOVZzeDJ5ZWVGX0ZnNzN4Sm9yYXR2WHBuVE5ZZDVFcjNFbUo3MGxRdFVWOTBvVnBBTkRya3lPUTNUbU5jZDU1N3VhX25rb3RVbGs2MnNoaE5fVVpDQ3dmQ1FCT05oZlBDVmFCajRZdjdlOWtZeVpSTVJKd3YxLUtF?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeDNwNEU3bnpraFN6WDRTZGpnajBBRmNXcGpyUUlJVElma3JlM3E5ZE5YUGdpbjhyVHpnV0NIamJjdEZfZHY0dFVWVkdQM1J6MFJsYThoMzRVd1lhSEpGSVR0emFEVXpibmRTV0ZCaXM4TGxlZUlmTjdwQVU5VVFqTi1kRlh1R0JOWUdEYmlHRHg3ckZRMU9ENWlFSDBpN2EzMWJrUWZFYTY1QzNlc0lQcnpzSWJjUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vSFV3OGdyWEh4S0psd0Z5ZXMteGNCZFNOMlBJT1BZRks2TjZIdEhwSHRJUFdmOElSTy1FNEVuRzlUTWttOTA5aDNxTmZRTVpCX1NIc1MwOWdzVEc4Q2tuT1B4bFFVcGhyWUxSSzNMQzYyQU40?oc=5"
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbzZLNTlvVFpsWVBMRGdFUWR2ZFVodElDYTJVaTlZNVphOEhlM0FCeERucUJ4cldia01LcHRZbEFaRHZ5cl9GejlISlpjZkkyZ1FFU3ZjTTUzcXhfbU8tcGR6UzgxMUY1UXBpVlB3ZlBqRExmOXhwUU9rUXBJcDRQNVJBM3NCYTZSYjhjQ1F2VFI4Z1p0a2szNjY3N3FtUGRoa2VKWU85bGw0QnRoV2tOVTJGSjRBZkl4WE1LQ01xQk1aQm9tSkwybXBEN3hvZHNFMHRsRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc2VKVjFJb2lyVUdqeHN0Q0FKU1BxWUJmN0tLcmVfU0hDbjRoQTQ0RDJGTzUxU21fa092LXNLR3IyVE9Dc0VrSVMxVG1CbGplRVJ3em1pRVp5STUxeWNUSi1kX21taHY1N0hlLXRKNGtYQlRYLTFMQzZRTW1TTGJpaTR6dlliSDZtcW9BS3FDSTZtOXd5bFBCQjdHcXE3dmwxM19kRDh4bW5KeVByWUl5Y2k2Wnd6cndYU0FzdVRBcw?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTzhtd3dOU3lSMEFhM3NMdUIzWklobFVOVnIxTi1OSW9uOHprRFVUM0ZaUEpUdm5seldxVklrMnU4d0RoU3F3dlJ6RFRHZXEtWUEzQ3U4aXpUeXlVb2ZraTc5cVdFVFdob0cyRHJQSFRkbVNiTS1RNWMyNnFGU2ZnZw?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQME9Ya19hMndWZjlGMGh6TnVJZ21rVUcwZWJLUmNoQmtlUGtzY0h4NzVWLWVlcWpTeHlMTTdEVTU1X0VZakxxNDFnZWNHOVZzeDJ5ZWVGX0ZnNzN4Sm9yYXR2WHBuVE5ZZDVFcjNFbUo3MGxRdFVWOTBvVnBBTkRya3lPUTNUbU5jZDU1N3VhX25rb3RVbGs2MnNoaE5fVVpDQ3dmQ1FCT05oZlBDVmFCajRZdjdlOWtZeVpSTVJKd3YxLUtF?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "WSGW 790 AM & 100.5 FM",
-        "myupnow.com",
-        "WJRT ABC12"
+        "finchannel.com",
+        "Investor's Business Daily",
+        "CoinDesk"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "MSP Removes Names from Sex Offender Registry Following Michigan Supreme Court Ruling",
-        "MSP: MI Supreme Court ruling leads to removal of more than 20,000 names from sex offender registry",
-        "Michigan sex offender registry shrinks by 20,000 after court ruling"
+        "CLARITY Act Heads for Crucial Senate Vote as Democrats, Republicans Clash Over Crypto, Trump Ethics and Bank Stability",
+        "Clarity Act Odds Jump Ahead Of Senate Vote. Trump Agrees To Ethics Changes.",
+        "Trump agrees to ethics concessions ahead of key Senate crypto Clarity Act vote: AP"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSkQzRllBR0JKOGwtU0NoV3VyTDZrQTg2MG5qOVN4M3JkSC1NLUpXXzZURnF2T24tMTBLcVJRWFVseFN4QXg2VURaYjRNZW9qMlFWUm01eVlNXzVqMjM4eE9QS1dSaEJNYXVGVFB0NXNmT1hYWU9hbUVYdFdGaWg1WFI5ekM3M3FNR1REZ1ZhYjA2OF9JS1pZa2pzOFloMzdmRHNYNWlrTHZEdw?oc=5",
-        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa0E4UGRSUk13aTFUV29QSk40THN5eUNGUlZOTVFaS0FXWW9QVE5BaHJlZ0V3RFBLYzJ5eHFiaEpBZ1BJZGVVV0U4Z3FhYkRtcTVSODRRY2t4U0pPOTZSdHgxenZtVy1BVS1KVlFydFhlQjJtOTBMRzhPOWxLQ1BrcXQ1WVhOQVZrTW1zWk1wOWpuNWhLOUpmVUk4MV9QZ0g2ZTI1R2FsVTZyQ2xCTGVhZVNMSl92LUhVQ1Q2cU5KMkZZTm1UaGdpS1hwNVZqbmQtQlFCMm5fSjh2RnZfYTNtaVZsMmZJNFlELXdidnl6M2RrZTFsWmc?oc=5",
-        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWVlobW9fTFcwYnVrUWhXWnJtQUxicE1MUERYZ1E5NHJEQnNudWZTM1ZYb3o2cmdCcGFYckxoaHhRSWpmRHI5NXg1b1BpYWpZelRtNG5hSTFVNVU1NERxdkRmckNuNFZhaTFyel84c0lzdFQtLWZzdm5rUXpLMzRtQ1VnSGRLOUQyaDFLeEZVMGE4ZjBMNHpEbnpMWV9FQkZ1aHdnWlRpZ1docUFucTIxaFRjSHR6NVRJbGl2S0ZtaHJBZHhQTl9TaWRNclFaRFZqTTNLSjVUSWNnRmZ6aDhyRm1WdlQ?oc=5"
+        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORXFNUUhtWks3LTlSc3c3ODJGdW9INFlPM2UxMXUtSFQtTGxoS1R6U2syOEdvamtxTjV1UHVUSWRNZmJQVGRRY2pDQXdwckc4dzd2MWxGb2RTNnotX01uTkJ3SF9TZS1KbW1CVTdrSVFIMjRqZldWdjE2cmNYNG00TTdNUzRqQVBqaDNRTFBRa3BBX2VzVE9vRFJKT2c1SU8wYWhYd1RDdlc0M0s4YzhYVWtpWnlCaUhBX2FISEd1QU1DMVJGLXdETUdXLVRodnpfNkpzdEtFX2VFeS0talBkOV9WTXFoR1FUYURjUkZoNUg0RU5HVmVwMVNB?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1ppWnpqaGF3eG9xTEhOX25naGRmZWNxUG9CeVJLNnB6aHhSLVo0MVVieFFZT1BIUi1ZNVM4RHIxRTRjT0ZlRld4cEJyakRZVTB4aHdvSWdfTmhheFdzMzhMbUJIelcwQ2xMcDdQdktBcFhpc0o4X3BrcloxQWpIeV9IX3ExN25XWjg0c3FCTzhXMkktOG5UcFpVTkVGVzRYYmRFbWtmTlVVeWtNX2Jmck1nd1lkNTg?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeDNwNEU3bnpraFN6WDRTZGpnajBBRmNXcGpyUUlJVElma3JlM3E5ZE5YUGdpbjhyVHpnV0NIamJjdEZfZHY0dFVWVkdQM1J6MFJsYThoMzRVd1lhSEpGSVR0emFEVXpibmRTV0ZCaXM4TGxlZUlmTjdwQVU5VVFqTi1kRlh1R0JOWUdEYmlHRHg3ckZRMU9ENWlFSDBpN2EzMWJrUWZFYTY1QzNlc0lQcnpzSWJjUQ?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Star Tribune",
+        "Alpha News MN",
+        "kare11.com"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Minnesota Supreme Court rules Twin Cities suburb can use paper voter rosters in November election",
+        "Minnesota city wins Supreme Court case, granted authority to use paper voter rosters",
+        "MN Supreme Court rules that Oak Grove can use paper voting rosters"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbC0yeWVWN0VqNmxSNmVkWk9TZjl5cXphZVh0UU1xY1VBM003ZkNXN0VlNFpZdF8yWFRsVXlKckhNcGN0R1V0MUhjYURGaUFIdzU2eWFYZ2ZGaGdCSlYxV05UcDVfUXZBUVZBZ2x1WlRsZWltVXl4Q04tb3J1QmtuWXM4VEx6UndvdmthYw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEM2TlpRUXJ1WFR6ZzhzNG4wWG1wTzBiWVlOQklTYXI4RS1HNXc2UThWaXFXbDh0V1BRMk5OazdCTmJzMEFaX2ZBRWIwbUpWX0RENGJ1MjNPai01VFZDME5DbzFJRHRnSEU0TkVKTHhhUUZqSmJVZHdFX2ZsVWJtNmRLbDR1S09RVjBuZzBJOUVQOVJmdDBQcVhwWDFfUExEVEJKd3NNQmgyZw?oc=5",
+        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNakVmUFZPMHZnaHAxTFNjbm03cm5jYWc4WnpUbWhwcHdSQUVPVDl4bVROSjlOOFFGZnotV0lkZmtZY0VTNTBHMUhRVkxJa0JWS0daLS1ETTF5UFhhNERlQzNVYmV3UGdLc1c4SGhqV3RZV2FKd1ZaT0Z4VWswU3FDeEdydnpxeF9NY1FKUzZ5bjBTWklESThINWw4ZDljYkN1QlprZG1aLTd0eEd4MWtZTE9fOVFHcVlfS1Z4ZktUd3hBT0gxdUQyTUZucl9FelhjZnBhNVc4SE4zSDlFSHNPdGFEeEZ1dGRHbzA2LVdwcWxiOUE?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "The Defiant",
+        "finance.biggo.com",
+        "mezha.net"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "XRP Leads a Broad Crypto Bid on the Eve of a Senate Vote and a Fed Decision",
+        "Ethereum Stalls Below $2,550 as Fed Decision and Senate Vote Loom",
+        "Bitcoin Recovery Faces Fed Rate Decision and US Senate Crypto Vote"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWjFaU0Y4RUcydUlkemxNUEFITFI0VXVEZVhHemdRNy1wX2FpU2V3MU1oeERwSmR3aFNXV1lZVVlxR0VmdmVleGNIdkZpNWJXMEZwQlRwZEVXdENYX1VSNUpfTEhQNUswTXlSdnJ6ZXFvSzdiTXI2bmpPQTY2UTRBa1BnT2poNFYtdFRKN0FxSVgzWVl3NVF6QXJBUnVqSGM?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE81bEpTN2N3UlZhX2lMZnlKWlBSNEt2eEVSdTJMRWduOWo3RmNDbFlySElmdkNRd3UySUVwWGRudU9ibVJxSUQxeWJBSXlTbHRpWmV6bG5WcVNHcVU0TlVCY2tzMUZGTld6Y3RPdTNLV3N3U3FzMHc?oc=5",
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5czRrQ0NRTkZ4YXVJYlhBMlZBRkI4NExzNWVDcjQwMkRhOHNWckswcGctRFNPYWRWekZWNDBuanZ6S2kzWV9Ob3lEOGktb3J3WUZmQWU0d0prZFlTMHpHcjdqWW1xX01yRnhJ?oc=5"
       ]
     }
   ]
