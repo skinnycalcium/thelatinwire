@@ -1,28 +1,37 @@
 {
-  "at": 1789428611350,
+  "at": 1789437101857,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "USA Today",
-        "KVUE",
-        "WCYB",
-        "ESPN"
+        "WBAL News Radio",
+        "The Owensboro Times",
+        "Yahoo",
+        "LEX 18 News",
+        "news8000.com",
+        "WKYT",
+        "WYMT"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Protect College Sports Act nears Senate vote. Why not everyone wants it passed",
-        "US Sen. Cruz's 'Protect College Sports Act' nears US Senate vote",
-        "Supporters Push for a Vote on Protect College Sports Act",
-        "Ted Cruz expects Senate vote on Protect College Sports Act soon"
+        "Sen. McConnell plans to cast his first Senate vote in months— here are some votes he's missed",
+        "McConnell says he will cast first Senate vote since June fall",
+        "McConnell says he will cast his first Senate vote Monday after June hospitalization",
+        "McConnell says he'll cast first Senate vote since June fall",
+        "Republican Mitch McConnell says he'll vote in the Senate on Monday for first time since his hospitalization in June",
+        "McConnell returns to Senate to cast first vote since hospitalization",
+        "McConnell confirms he will return to Senate to cast first vote since hospitalization"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONlFnSEthUHhhNjdhMEdGTjdfcTZSbkR1blp1aVB1cDRxS2pqeVVUdGpRTHV6X0xZMmZ3XzZpZ2xSMW1zdGNGWnV6NXI1Qi1GX1Rnd1VsREsyMHZJSVNiQkYycHdBay11SzZUX1pLYlNuWFRDdFBMd1l0a0J6WFVFUUd1TENuS3BDRVNZYy03N1JtbVN0R1h6U1hwcGFCeXFMQnN6UHRJTWdSWmFUQzZOdGFidTdyd1FkSHRBQnczY1BYbHoyZjUzQmRmV3hOYlYzUi1QaHo2TmJhdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGNzVVVUcHdSd3FZMTlEM3NnRDYyV2ZCQnlmSms0bG1kNXNwMGhkVmJOVHhZUWZ4NS1fX3lXQ0ZaVGpBdnczMzk4WEVEN3U0RjVhamlzbzlWazBQaWtoSm9qdkFXRTZUZUQxMThoNzZhRDVKbWhQOTR0NWxLa2djYXJUZzlNdkNSajQtTU93UFpGQjQ2bV90X241WHF1SF9CWklnQTQtYWo4RGNqVVdBSVJnMVkzX3lLeHVuaVQ0a05tVUtfTE5TZ0xHNA?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSjQwNkd1Zi04amktX0xfRzVuVTFYWnU3SDJXM0hYNUZYV19hc2IweXRlUjlrVjVfc2RGR3o0ZktUemx3VUU3d0ljSXQ3Y2N5NGlnU0hmaFY5SWRHMUNfZzBfck5WSEJfWHczaEg1YlVQVlpoVFBSRUJwZFZxQnFtRXV0bGhPUS1JSVFyWmFLX2d3aGNYM1ZRSEY3UFkwbmFpTnlPb3E1SlVkaGhRUjRrMV9B?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTFaZUgtSlFBU2V1dFo5VUhqd1JuNFBaeTBEdmVuMW1Zdktadk02S0V4X3c5V3ZIRXFZNC1aMlZiak4xcmRIRjAxVFJuSC1OUHIwb0lvb3VZNHNXTFRzSDZOZFEzazBhWVlGOVFpMW9OOUFqX3lMbURuRW41NUMxSlYzQzJOcVUtR3VmVWlieWJVYjZYRUdtekdZRjh6X3JkZlhPZkJWbkoxQ0Y2MEFaM2VkSUlscDJxQVBFbkVn?oc=5"
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWklvSTBLUE9nX2dFV0hraHF0RUVmbTVIN3ZSVThmbmR3WXJ0NHRCT3BXU2NNa2gyTHpqaHZyZFVzOTJjOG1FUmozUG1zUTc1NDRiR0xERVNUejVpRjlLUGNrUjQyeEJ2Q203dUxQdEUzdnM3ZUhDbjgyZVFUemxZX0ZROUx1NnZwWGJETlBCMFRXNDFDbWZNUzQ4TXNLQTZFQ29CaURDOV9fZHhkbkxMeg?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWTBRRlBFci1Zb0Y5UjNOXzZMdW95ZDA5SVllWWg1MjM1ajFUaWhnRFdlb0hzZWxqek1rQnRhRWloSlh5NXlyX044ZjQxNWpQekEyZDNuM2Y5OXRWNzkwUS1IdHlRSDh5NGNEOFhrYV9MQ3FCc1o0VnN0UVhxbmxxMTlLWi1xdzVkYm9MTmREZzBYdnZLTmZMaEk1YVE0bUN4TFJVOTllX0hEQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWGh6dWFwZU1lbkMtVkhROXlzejVqVVR0R200RjJOOEpzTTFCMlRHWW1vd0lkZ0IwWWJuc3BRNFZEVVNxQWtQVnRmX0xBcEZTSDZ1VTJsbV9wVWtoLXVBMWVReE1hams0Q21kRFhJcjdhREVVUkVVV1ZfSW11R0FuLWt2cEx5S3NyLVpZY1hlZWk5RVUyOEtF?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPemFCc2w0Mm9telA3Ri0taEtDOUEtLTZidUx1SEJwTkk4akR2aFFOMEZvSXREdmNuenZfT3JTcTZfN3VROVQ1bVQwU0VGMmJTeHZRUGp4T0xMWm5MQWxjV010ODZzZXoxeTFjc3hYUWdjc3M4QTlSNzBCaGlyYU9rZWZicFQ1aHZ2TnBmVDE5OHMzWUNRTkw4UW5aSGZXZFdHNDUtRERn?oc=5",
+        "https://news.google.com/rss/articles/CBMingJBVV95cUxQZFotWWhOSnZGZ2pibnRyNU5xcS1yWjlheklJTWVDODJMNkR1ZW4wY1JsbWFoV2lkWW1SRk9XcFI2LVdEbU9MZGc5N0ZaQnpSeUZWcHg3ZUpqclREcUZVUzg2UldmWXJOczdIclg5Qld6anpGOG1jelNBS0VtVlROSkdwOU1qeDJDdzVKdW9qRzVVU0s4UGRLVWlweTFRdVdtTmh3YWdncjhDeDdKNG9WbFlzZjkwMG9aYXVQby1CS2N5LXBpbHRrV2ZvTlNoUVpZcVpJOW0tRjRpeVVIVFBPSWNzNlpLUHpCMWpwUHVKTkM2cHNxV3lSTDF2a1Z4M0V5UjUtb2hOTGgxUW5nZi1nMWY1S21ZZE82dnJzanFn?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGhTWkdUbEFhbEV5SjZjNGtZNkpVckZCQVNCYVM1WnFINWhXZF9KY3JSNm1USGZxWnBoS19YazFuanBvRXJuTzVlQkVORjlLZ0hyWGpDZzRNcHlrUXhLQnJoTWlpcW02Ykl5ZTdHOWJwWTJaTFpaM3k5THhBa3Z5SVh3NlJVcEs3emlicW5ycUFCMVktZHk4UmFiZkNIY1hYYkx1Z0ZpNEhzUFFNVmlRLQ?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjdDRWYzczlGOE95ZVFKbkhRaWN0UVBIYW5KQl9TTmwtU1BYaU1ZbjNKcm9yNzJMemlaWXVHdVBJVFJYYWxkMXljOTZCRS1EQVNiS2h1X0NGNVBXT3hrdXFqblBwa2FSeGdHeUc4N0l6d3BucXk3enVWVm9UaFNjaTV3dkRkbW5vY1FNRmtZUUpvZy1KeWx4SzJLTEIyMWlrSTFMRDRNWWM3NGplcW1jOQ?oc=5"
       ]
     }
   ]
