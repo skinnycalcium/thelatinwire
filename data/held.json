@@ -1,38 +1,4 @@
 {
-  "at": 1789437101857,
-  "held": [
-    {
-      "section": "politics",
-      "outlets": [
-        "WBAL News Radio",
-        "The Owensboro Times",
-        "Yahoo",
-        "LEX 18 News",
-        "news8000.com",
-        "WKYT",
-        "WYMT"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Sen. McConnell plans to cast his first Senate vote in months— here are some votes he's missed",
-        "McConnell says he will cast first Senate vote since June fall",
-        "McConnell says he will cast his first Senate vote Monday after June hospitalization",
-        "McConnell says he'll cast first Senate vote since June fall",
-        "Republican Mitch McConnell says he'll vote in the Senate on Monday for first time since his hospitalization in June",
-        "McConnell returns to Senate to cast first vote since hospitalization",
-        "McConnell confirms he will return to Senate to cast first vote since hospitalization"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWklvSTBLUE9nX2dFV0hraHF0RUVmbTVIN3ZSVThmbmR3WXJ0NHRCT3BXU2NNa2gyTHpqaHZyZFVzOTJjOG1FUmozUG1zUTc1NDRiR0xERVNUejVpRjlLUGNrUjQyeEJ2Q203dUxQdEUzdnM3ZUhDbjgyZVFUemxZX0ZROUx1NnZwWGJETlBCMFRXNDFDbWZNUzQ4TXNLQTZFQ29CaURDOV9fZHhkbkxMeg?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWTBRRlBFci1Zb0Y5UjNOXzZMdW95ZDA5SVllWWg1MjM1ajFUaWhnRFdlb0hzZWxqek1rQnRhRWloSlh5NXlyX044ZjQxNWpQekEyZDNuM2Y5OXRWNzkwUS1IdHlRSDh5NGNEOFhrYV9MQ3FCc1o0VnN0UVhxbmxxMTlLWi1xdzVkYm9MTmREZzBYdnZLTmZMaEk1YVE0bUN4TFJVOTllX0hEQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWGh6dWFwZU1lbkMtVkhROXlzejVqVVR0R200RjJOOEpzTTFCMlRHWW1vd0lkZ0IwWWJuc3BRNFZEVVNxQWtQVnRmX0xBcEZTSDZ1VTJsbV9wVWtoLXVBMWVReE1hams0Q21kRFhJcjdhREVVUkVVV1ZfSW11R0FuLWt2cEx5S3NyLVpZY1hlZWk5RVUyOEtF?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPemFCc2w0Mm9telA3Ri0taEtDOUEtLTZidUx1SEJwTkk4akR2aFFOMEZvSXREdmNuenZfT3JTcTZfN3VROVQ1bVQwU0VGMmJTeHZRUGp4T0xMWm5MQWxjV010ODZzZXoxeTFjc3hYUWdjc3M4QTlSNzBCaGlyYU9rZWZicFQ1aHZ2TnBmVDE5OHMzWUNRTkw4UW5aSGZXZFdHNDUtRERn?oc=5",
-        "https://news.google.com/rss/articles/CBMingJBVV95cUxQZFotWWhOSnZGZ2pibnRyNU5xcS1yWjlheklJTWVDODJMNkR1ZW4wY1JsbWFoV2lkWW1SRk9XcFI2LVdEbU9MZGc5N0ZaQnpSeUZWcHg3ZUpqclREcUZVUzg2UldmWXJOczdIclg5Qld6anpGOG1jelNBS0VtVlROSkdwOU1qeDJDdzVKdW9qRzVVU0s4UGRLVWlweTFRdVdtTmh3YWdncjhDeDdKNG9WbFlzZjkwMG9aYXVQby1CS2N5LXBpbHRrV2ZvTlNoUVpZcVpJOW0tRjRpeVVIVFBPSWNzNlpLUHpCMWpwUHVKTkM2cHNxV3lSTDF2a1Z4M0V5UjUtb2hOTGgxUW5nZi1nMWY1S21ZZE82dnJzanFn?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGhTWkdUbEFhbEV5SjZjNGtZNkpVckZCQVNCYVM1WnFINWhXZF9KY3JSNm1USGZxWnBoS19YazFuanBvRXJuTzVlQkVORjlLZ0hyWGpDZzRNcHlrUXhLQnJoTWlpcW02Ykl5ZTdHOWJwWTJaTFpaM3k5THhBa3Z5SVh3NlJVcEs3emlicW5ycUFCMVktZHk4UmFiZkNIY1hYYkx1Z0ZpNEhzUFFNVmlRLQ?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjdDRWYzczlGOE95ZVFKbkhRaWN0UVBIYW5KQl9TTmwtU1BYaU1ZbjNKcm9yNzJMemlaWXVHdVBJVFJYYWxkMXljOTZCRS1EQVNiS2h1X0NGNVBXT3hrdXFqblBwa2FSeGdHeUc4N0l6d3BucXk3enVWVm9UaFNjaTV3dkRkbW5vY1FNRmtZUUpvZy1KeWx4SzJLTEIyMWlrSTFMRDRNWWM3NGplcW1jOQ?oc=5"
-      ]
-    }
-  ]
+  "at": 1789456920091,
+  "held": []
 }
