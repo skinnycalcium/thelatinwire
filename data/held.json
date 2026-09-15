@@ -1,4 +1,41 @@
 {
-  "at": 1789476547979,
-  "held": []
+  "at": 1789493479083,
+  "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "India Today",
+        "Arizona Daily Star",
+        "Gulf Coast News and Weather",
+        "Sun Sentinel",
+        "Traverse City Record-Eagle",
+        "WSLS",
+        "Durango Herald",
+        "Oskaloosa Herald"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "FBI chief Kash Patel faces fiery Senate hearing over Trump, firings, conduct",
+        "Patel defends FBI record in contentious Senate hearing",
+        "FBI chief Kash Patel faces off with Democrats critical of his leadership at Senate hearing",
+        "FBI chief Kash Patel faces off with Democrats critical of his leadership at Senate hearing",
+        "FBI chief Kash Patel faces off with Democrats critical of his leadership at Senate hearing",
+        "FBI chief Kash Patel is set to face off with Democrats critical of his leadership at Senate hearing",
+        "FBI chief Kash Patel is set to face off with Democrats critical of his leadership at Senate hearing",
+        "FBI chief Kash Patel is set to face off with Democrats critical of his leadership at Senate hearing"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeVRfajB5a1Q0dkVKem5WVEw0NWlSREV6VURmdXBUSXNTbjlQdUViVVR5Smw1Z1c5SjdMbkNYb0FkZTJDTTR2WElISmRnMXNlMml1ZDFpamVsdU5fWFVxb2VlY0ZZZElYaGJ5cjAzaDBJWkpwU1lkb3lQNkRlRVRwUFRMbWpNcmZ0anFRTENzUy1odTIzY0dYRUFuQjY3NGFkWWdwTEd6NTdxMlNOWU9rRGoyMHR4ZkowQ0NkaEY1dWdMUGN6WGVMOS03cmVMZ9IB0wFBVV95cUxQWmdKWGQtOTNrYWpheTRzSHlpSER3NUp6MnA5MFZ5Z1o3X0M3Yzd1Zl9oUDRWSVVxOXVvSXhnYjBYSzJEWmdTS3pBRzR0SGJiZXBPc1dsMWhScGp2RlQ2MTlxSGZOX2t2eUE3RXNoMF83R1RxWUtJY1VQaVBRamNjQnhUa2RnVlVOMDM4MmZYZzQ0dzYwNFc2UVpYUHVJTHdVRGdtcTVVSTRkdVdlQXYwRkEzQ1FXQmo4amNFSEt0N3VCREZ2YndKM19PR1RLQ1VTczg4?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KenBWRjdPcFRuMEkxZjVDSklPRFBUZmtpWU5hNkNLYjRvQ1ZucFNkQ2QtaW5fYU5VbGlpQXVuel9NUUpMNmlkejg3NFJDNkptOTh3S0JoMmNBNFdRSUg5Xy1sdVJLZTJpa3MyWFFWN3E3OGI2dDVN?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUXAtS1dPWXhsaV80NF9JUTBZV1RFYnFyRHF1NHY5ZEtVRTc0SHNLVmNnV0FPR284NUJZb29MREZkb2wwTHZUNTFJZ0pPS0tGYmhpT3BVam1hQ202YzJoSEpUdFJJRFlrVDl0X3d3c25GTW5ueUlXdnhaODV3SW9jcEJmS0xBaTl4VlU0?oc=5",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSGhGSmVIcFY1clZhNVZaUkp1ME04SG9JZUFBaU5RMzNXNlFnYmlmbUExRGg3OFVzWGRtd1o2aUFqTVZZa3pOdTZYUV9IRHR1RkFabVlNbVdhc3hQVzRaazRZZXJFVGFuNV9YN3lKWjBycnBUNEQ1VzJBRjg4NDJQSDBRNGpvQjlkcnNMY2ExMnowamdfVTN0WHJnTFFZVC1IdmUxTWZTUnhJbTJScmpQV2lrQ0dnZXdRTWpMVGY5Q2pRN3VPV2Z1amtXVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMikAJBVV95cUxOY200V1hLSUVfS0dQZ0pVU2VIMjFqWVhTaC1KS3Blc25heVZiU0FJMmw4SXZIYlFROEctdHF5UkZUcHJTX2FaNkFuN0ZfeHF5dXF1RndUM0ZjU3ZsSWx6QjVmSVBmY0E1ZUhlRmtybWJ0blUxYTJYQm5Rdk84ZHV4Ty1BZkp0WUI4bjBCMExFSUNlNW1DbHpiaGtwSzMxTkRQbndkX2R4Q1Y3eXlGS2xOMDRHTDd1N0plRWRJcG10Vy05dllnY1NKSXJGYlFFcWU1Nnh0ZzFmWEZEMklLZEp0eEF0a3RKdlNYV0xKZzhmZ0IyQk1KSXpiN0dlSnNqTnE1OTRzQnJXcFlaZ0x6cWNWbg?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPM0xmWnBFcHI2bERvRE80dG1PenZQMnFsWGlzaDZyU0tadE9uUm9zWFRrUGIzbXQyTFNjeHJ5LTJQcm52eTYta3hxcDBlWGRYRDRsZXZoS1ZFdlFGd2FORUFVdWFWSUNnVWF3dDRVRlZ0WGFrZUFDTkZ4bVRZS05SbFhTSE52RFhGTDJIbnp0MG8wMXppVm1ycy16QkZ5dEg3TGJuT3JaZUZfMmc1cUZTalpKcGpOX2M0Q3JtRF9HQmdPV09IbXA3S2lrdGVZZXYyMC1ESHNBREFUVzJKSFo4?oc=5",
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOHRQSVh1b3JsSG9CUlJkbXZ2cVJiM3E5Zkg2aVJBUC1fVnFVd0NjMXhjZ3dLMjZCbnZUZUI2S0xCaDA3LVVjajM0eXllRlljMjFXM1FIVmstRkZUNV81VnZEUS1RQVFtRk9oZ2FsdzA4ZEJEdDJHQktPR3pmUXFmaWh0QWt6MVQ2RnB5TEFGRlpXVkpnNDJtUVhXSUtDekpGYkdMd2U2Vjc2UFNLdWs4TGJwanBxWWVFX1V4eUdMT0Z6dHN6X2FOc2xaNHZURUJjakhDYlhRak50VWYwcm5FY2lVaHNXZlZIMGc?oc=5",
+        "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVVFHWHljQ1NUZXhyNGV6OUtyNGc4akY1WHJIaEx2V2k0VXRsY0FGMGpSczhZSjlCME9tSjQ1QS04RC1MMGo5SXBDRVJFeUd1ODZDeE9RTkg1cVp5Z3MxbzZsUkp3SGtfVDBSQ3ZmWl9xZHNRQlZjSDg1eFFhUE4tbTJuSUpidTJhS2lrQ2xzMDN3ZnBZQy1jYVFRd2dGaDhWbWV3eHBLSmZjTlZwemU0Y2dLdnd0c3B1c2N4cTBVSmRySEJuU29LWTd4dmpNT2M5QnJBYkQ2MmlFZlh1TVJKY1BsOGZuREdoRHphUWhTNkpCOHVSdkpwbUtFejBPa3ZCT2hvRVhlVQ?oc=5"
+      ]
+    }
+  ]
 }
