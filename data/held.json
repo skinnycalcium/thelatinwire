@@ -1,4 +1,131 @@
 {
-  "at": 1789504023353,
-  "held": []
+  "at": 1789513584798,
+  "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "wjactv.com",
+        "WEEK | 25 News Now",
+        "Western Mass News",
+        "WIBW",
+        "WSMV",
+        "K8 News | Jonesboro, Arkansas",
+        "Upper Michigan's Source",
+        "KFVS12",
+        "WKYT",
+        "KFYR-TV",
+        "WCJB",
+        "WWNY",
+        "WNEM",
+        "AZ Family",
+        "ABC7 WWSB",
+        "WTVG",
+        "WLBT",
+        "wect.com",
+        "WBTV",
+        "KOLD",
+        "Axios"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Clearfield officials discuss Supreme Court decision to block USPS mail-in ballot proposal",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Supreme Court blocks Trump mail-in ballot rules",
+        "Trump's USPS mail-ballot rules hit a second roadblock as Supreme Court weighs case"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMijgJBVV95cUxNS3R3SWdyUFBZVlI0ZzBwZWVwZ0g5MnpIT1VaWTFFSkwtc05UTGNac0FBZGx6d21EdzM1VDJqQjV4SGpseHN2WHppeHhnb1FEOFptMEF3QndUZlNfVEhES2JIcGpEVUFVcVNrZ1VBWlp3cDFQZ0ZfeG0wOFJKVTduTlpaN1paSUw1ODdsVVVLMjVEVXVmbVc3TFlKbFVjb3BGdmNqQ09PTXFQNkhjTF9ubWtGaGRvNlUtUXl1TlZWYzJfTWZqbzJ5ajd4RzZTTTB6cjdvNEJCcE1zRV9TS2ZGMmt5OEtDS01FX1dTaV9NbnJmSlBqQmJqRTVwNDk3ZUs1Y096N21CV1BSc3FOQ0E?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT2lHNFJiLTJleWhkMk5maEM1RDU0b3ZaUU81bW05LVdMMldENGdIU003ZUZnSXota1VvQ0ZQSjNqbjVHTUt3cHJTRG9VcnktMFF3SktHZ3VtOW93UTNtSUl4UVl6a1JhMDRYZWVjOHNlTk9wc1ppWGd1Q0xLTFhUajIyRHpKcFlDRDhVdjR1VUJOanpRWFE?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQLUc3THhZUl9LT21hUS1EQWhEMV8wejkxRi1TY1ZSRjc0blpCbHhMWFF3R01Hamh0WkZTRkk4UVlhaTZYWjB2bmR3dDhKTHBUbUVlVWdUQ3lDbXQxOGJfN1dORlQ1VjhZUjE3OE1UOUVmekV1OEVjM0xTcTlBOFA3UWE0XzU1UDVLR1FuOThYdFloX0pEdDVqVFAzTTFvdw?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2lITl9rZzZaaE9pTkNFSmdQNmkwcXZVMXFjWTdvTk9rVXZoYkp2SThjWjRGbE1oMy1uXzU2Q1k2T0ZidVRpd2hnUXFxODEwblNVRkJiNXVYcTFQVG1qUGpWV0pibWRjcGVYVmpGRFl0Wi1GOWYtZTdwYzVrbUR0bEExRmJUdGlrX0ptcDd4Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMmljelpfbkZfcWZlLXI0MzNDSzkxbi1sTkg5TWkyelU3R00zRldYUVFCYjJVeG4yUWw0UEREalUyXzBMbHpuemEwTWU0NU1ZT0lsTFJOMXJENDZOdW5PdVpUd0IwUG5qelVTeEpRaXd1ZWtZdGRDQWJvV3RJVGdkdWsyN1d0RGptQUJmRkdSRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbC1obXBIa2VmMmcycTcySktNekZqeTJKY09MOE9ibE1wT1FtMy1JNmRkbTFucHBQUWZUaE00dTFfOFYtTkRfSE9wR0lTNFBwdnZqRWg3V2xvSnVEYUtVZnRmN2xhVlFrS2hLcXBvUjlpeTRLYTQ4TzVvNG94ejRMaTVQRWxiM3pabkc2bHUwYzU?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWFmaWVsOUlhdDkxTUg3N1NMUVkzVmJCUzFCMGoybEtfUWZPb05XNkdQNUFBYzF2RENOLXhKNVhNc2ljdTdFaThIWUhPaWppSzBZQ2dLZWhRUU1zN2tSWlVSN3ZXSmEtUk9xU0FwUUJrMzRGX2VERUtOY2ZpZUZDOFZYRVZsSks2S0UtMWFIOFhKcUtGVWt6cGQyYlpzMTlsYzlTNQ?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzJTZW0xb1BYWUxTaGwwQ3k5Tk5FN1g0VUk2blIwZFA0TjZ6RXpIYVNicjQ1WE0wWERkS0U4TnVLWldnNDZVU1MwZHQxakVrN045VXZ2WXA2T2Q0Yng3dmNfLXdaWnRYaVc3NEZaZVdEaXlMQ284NU5zRl9ZRnBUTXF4VWcxQml6ZDg4aloxODhHUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3R2YXhrcGZ2YnJlYjlBWC1feWRIeGxsQW83MDVzQWtyQWpLVWlnSGlIaEhyVjloR2hkdmxFV2tMQnYyS3h6V0c0OFI5NmRTRVZ5ZlRWX041bXM2WFpiOVAyZGhZTDlwc0xGaUVua1dveEtHeUVwWS1LdFVVN3otY0ZNMXhkbWxuME1UWGZDQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM3c5VDVaRksxUC13TGQ0VUJlZzdJZU9XZ0haWFdFYVg0c1RqNVYzZ19ZM2sxODIxeXpVZEJya29RZ2tETFdXbXhtQ0ttZ0pRTlhnSjZaaGdIdDhlc3BITldKUDFZbl95Mm1NLVlGMlY3bmozT29jc1hXMW9uZWdMb01naG5fQXhHLXZIOWE3MFFHZw?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ1lTUzBwUUFKcXBWUGUzb0dXalJKZTBVSlc0WWdXLXAwQ2NvNlhFcGpwS3ZTWUNEWmNGdVhrdUNaZmVOV25Tb3lma1hVOGJuOWt4NVZ3NVc4ZUdSUEhzakp5YzhqeHZ1XzJjWDVyejU2SnJyR3hoMjA3TE9OVWFMaUZIRUdTel9PcnBvOW56UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMDVJZHR4SlZZYnJEeU1hM3BjaUw5VUt6UE9XbW4tNjg3bGUzY0VyR3c4anRzb0NpaGxlblNjTlVMZzExWllYc3dxY1dmZFd0R0k0bjhhZjlpcEg2UXVLbUZrSEhkOVY2cDQzd3ZiZGNNd05LeFRvSHBpYVMwdmFYcFhaZldMRUdJY3lOaDIyMFlkdw?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnJFdkx5Q2NORngwdWkxUjltMGdVQWF3d3BaOTVzWXRlM0FoRW9uUFlMWkwxc1FabEtuWTBJd2tUSDhPVUVWa2tvQ1hDWUs5RTNVbndkRlVMZTAwQ004QzVGWlV5RzZfTk1KQzc2X2VEMl8xRmxwaEhjcG0zZkctRHNWTlpYVzRZUm5VTTlvcw?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYUpQRWxaanY2SXNPb3drbC1HZnJ3Y2RXcnBoT0tPWDZ5Wi1ja2ZUS2N5dThPODBwX2FuMUNpT1V5OXNqWTNMQVRfU1M0ZE5HakYwdXN3eU9FaUFvLTJrREtwMnpQd0Zqb0hiNXpPaVhydU1EWFIyaUdvazJvTEhlX3V6MnVEN3l2S0w4TUZvR1BZUDFX?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbEZLLXpmOGZ3dmdxRjVvSUhaZmFVb2t5N1FYWnVDWjZJemdLNGtGcEs4TG9MMy1fV3RKME1PdDhheWhRX1dJUFd5azk2cFNyWFJEZ2pnY3dFNnA3WXkzMzJtZTdSSTFvWDNEbU5uNHZ0aldsTEhwczdDSnJTcm5SNC1rc0l2TjBXamVUN1pNVUJCYjVfVXBr?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQXNROWJvM2FaNVY0WDQySENtS0ZDUXNOalVfeVdwbTA2U0hCeDJaUFFJbE9IM2RYbEdtRmdpLWVsMmMta0xvT1NKTWNqVVQxMUVZTDZHam13b0Zzdjlwd0dCOU1sQjFjdHNhenJ5dFJ6OVZ5dkNoc2lwdW5qemZrYWZWM1hKamxWbV9rUmFERHE?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbUpQYk5HWEx2MmhhY3A1di1GU2JQSU1SYjlxUDhuTnpGZlUzcXFYcUlRd2xxS2ozakxPa0tCOVJHTmQ1QTNYQ3NBaW9BR3lVV3RueEljNXBiNGRXQzJsRWY3c3lSU2FGaDFqR00zdzc4XzRaXzRqT2FLRE0ya3dMODVSQnp6NTU5ZXM3bExORQ?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3VKS2R1NGtJX2NDVThDdWdGZDlhQjlHeXhjbC14WnhaZW0xNm15dTlaU0dDdGJOMmRVTEpBUzJ0b2plWDVZbmk2amc0REM4UkUzSTdSY2RoeTZJUkNueE5kSmhwbnpYSWI5M1RiLVFkZnBndU1MQ3pOdElaS0xXaHFPaTVLX3BRRVdCbjNPdw?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWE1SV2FaZGZpTURZWEFNdVNoSFVkbFlOX3V1TEpXZ2NHalE1SUdBcjBwTW1MQ0NjS2xhTTRISjRiRVlYMWpxVDI1RkhrYzg3ZWszSWdUTEZvbmg5VzZ3eVotR2hWT0lWU2Z3dUFDYkJmam5ySWJmeEJiWHcxWUZ0RTJySVZzR1NSSTJiUl9mTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNkNiUVRXTnBaN1NYemhxUFJUUWwwSC1ScExHSEQtYVhvZjM0N3VHNWRrd2JJUHM2N2tmLXp4aTJocGZiVUNYbVB1VDVNOG9CSzI3amk4VHpyVFdGamoxRGZITVNHWE9XLThQaEZKU2NiV2J6YzF6dWZyc0ZrMVQ4eWJZX3kwVjlwOFZQVGM3VQ?oc=5",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFY2kxU2x6a1M5OUtfWlk2a2ZMZmp0NVR3MEhVXzFCZk85NHJCT0pXWVluTFc4WHdYU3lwOTQ4MVQ4UzU2WTFtSUdRVXRyeG9fRktOSG5uWkhIdmRiS0o2eUg0akN3eXhodDRvRTBfYkNRNFE?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "FOX 7 Austin",
+        "WSAW",
+        "WNEM",
+        "Ideastream",
+        "spectrumlocalnews.com"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Supreme Court rules against mail-in ballots",
+        "Wisconsin Elections Commission praises Supreme Court's ruling on mail-in ballots",
+        "Ballots being printed, prepared to mail out in Genesee County after Supreme Court ruling",
+        "Cuyahoga County election officials applaud Supreme Court ruling on mail-in ballots, emphasize transparency",
+        "Maine’s top election official praises Supreme Court ruling on mail ballots"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nRUg1NXJobDVkNW9STm5Gcm5oR1l0dzZfNzllblllMFJNb21JNHV4aEhPN2dwenRkd05NZWNSVUN1QnZmNExJSG9ZcnRlcWRzaE9ScU1SNzRmUmI2RzBFR01td9IBaEFVX3lxTFBZc20zQWprQ2lEWUplalN4akktSnJxS0djZEVHQUFWRjZpQmQ2YjVSLUF4T1hnWkU3VVFybXRobHV0dXNEZnc2N2Z4d3B3VlRwRzRYT1lvSDJMUG43cVR6eGtTSnFhb25N?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUURHZDlQUU5mb2pUYVFKZVY4S1gyMEdYT19oZFhVS3B4VjdFd054QWdMdzRpYkNvNTJaVUJYZXZ3TWNJQzJneUlFTHg1cWRxWGdLQXBwS0IzdmZvQmVxLXpLOVcycEExVmtZR2VPRWFNTjI1RnhwWE5BZjFQUEd6N2Z1NWVEMlBHWUU1Q1Q1ZGFsNmt5U19kY3Ixc2ZGSmhibVlPWmlTbGZzd2k0NFZjRmt3c1kwZw?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVdTYmllZmk4VTRjbnlYOUJ5dkxTUXVTTlF1Vi1TTnZXRWxLVVNGU0tMTWlwSVU1WUJVWFlkZUtRaHBHZW9NZFItb3ZHUU5oNUxaYUlBU0VJVjhpTWhzTFdfMFdkYk5fTURtN0Vnd2xWS2NWNVBvSmZiWG5tVk83b2dqUHNGYmtNTzhYZTZDei16MnMxRnZnZTNyRkNLNTY3TEVnVXVnUHh4VVdGOXhrZUhwMTDSAcgBQVVfeXFMTzNBS0JaRmVrNzhJWnU1TVpHRTVqeEx1bjFSQmFMZDRNUWduXzNJdEs4UHd1bWNOeDRLZ3FlUEVxS2tNMUtLbnlKNXQyZ3ZSWTNZQVp1eHpfck1CTzNCbjZWT1Y5QzNqV0xJWFpZNFVvdmw2LXhwVFVpRnhMdWRKWU9ua3phWXdzdnUwUHUzRWVFWVpaWTBtb2JWMWRsVENKTEFFNVpDZWtRV21IbjNnTHR3Q1h0UHpKbDRvdWE4V1l6NUNsZDV1cS0?oc=5",
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeHpPU2xITV9XLUl4MkxFdkJhNHJ5ZUxfTnNqcllzTFVoNlJsSGVhcktXRnd4WHpzclQ0VVE2TnVxT0VoSk5vVERDeFFTa1QtaU4tbGoybUV1VlJ6WlJlTzl1S1BTMFYzaFFBbFc5OTB5b0dfS1FtMVUwZU9EbHdpUGRDN0dCWEVVRjdxOXVXSTJnS29Vc0xYclNkRXFEcUVzVWh0bWhQMGZtWWVKUC1zWXJKS3FmUW9kYXd5ZmprSkUyNXcxNXktY2lCUV9Fc1NMdVA1dElRQUx6eFpBWGY1VGwxMXdidXhONWFHTGFzNGVsRDZDWnc?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY3JqMnd5TWdhSEdDV0tXbzNBenl6VDFSV3RMR2lzTFBRLTNCdTM0NTY0LUxQQV9qcHFkOTlmclc4dThiaGJJdmJMdXVxeTFQaWhJbjRReUloNDY2MGxaZHk0NDlsRjVDaDROZzNPX2hjSUlhWlF1RkU4WGp1YU9MclZB?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Sports Business Journal",
+        "Axios",
+        "ESPN",
+        "Oskaloosa Herald"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Protect College Sports Act passes key hurdle in Senate",
+        "Senate moves forward with college sports bill",
+        "Senate votes to begin consideration of Protect College Sports Act",
+        "College sports bill clears first major hurdle in the Senate"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV0FwMDdTdHQxU2RIS09TajktcEdYbFpVRHhUVjJ3VklEV2hhTFpGUktKaE44SlNab2pDbkQtZmkyOERlMEVlZGlfcEZjSVhzd2V6dU1iZGtzYlZJVjFOWVVodFE0SFRzX1Nrc2h3MHhBcWxNS3ZRNUhwRmdaT3NId0tmOHp1TTFqQmZBVUVXdHE3dnlvR1dRVDBscUpSVjl6X0pxcC1uNDJua1pOYi13YS1scw?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTJ2NGFQRjZNZXd3UmRaUXFJNmctM2d3UlRiM1NmNjdpOHpUVFJ4QV9vTGRxWDJhZkZYVUdYYk52QmlhWVF0ZEVRQnVOdjRyRGxOdzhrUm5VTldDYUJyNzYyaEN5WDhhaGhhV09DTURhRVBfN1g4dmlLcHJOZVY5WlI0bjB4YnNGQ0xyUXU1VQ?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV2lYcERiSkQ2c2dsLVhCV1NSSlo1X3VMazM2OGZQdUk0aWt4QXFfVzdEVDFsWjN0a3I4em9QTlVZU1FFZExHdkxVM2pLT1lwcDFkVG16bzIzbTV0QVU1M2lDR0w4SlVDZU9iX0dKOU9QUmFlM1ZveDZCVEZsX0lzS0l5WXFESXVHS3FkeHJZaEstd0s3WW9jVWlkS1F1RzhMbTNFWXd3Wk1SVEhRV0k4Qnl2S090Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQnJCTjRULS1KeFNMcWtVd2xIekhuQV9BSVZYSU9nTUJsbFVsUTlKd1JfYXBWQmlWWXplR0QyM291NHdicXAzUFoxZzJpU2tEQW01WnZJU2xvaUtOQmIxU1pUODJvLWU1RWlQSU8waEF5Z0ZiME1sbUgtTE0tZ2RKVXlIdXlYRld3SmFVRWpSYnA0ZlU3dldVaHYwbEpUd0NUUUVFeS1IZmtaSmcyYUo0M0l4MUlGeDlwS3ZJMmdYdElmT2d3Yk40Q1hwaW45WXVOTGFFSWFESzhkMkp5X0RIcTFKWUp4TnFvcVpvc3cxYw?oc=5"
+      ]
+    }
+  ]
 }
