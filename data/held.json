@@ -1,28 +1,70 @@
 {
-  "at": 1789560382084,
+  "at": 1789577839501,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Radio Ink",
-        "SeafoodSource",
-        "Rural Radio Network",
-        "Radio & Television Business Report"
+        "whig.com",
+        "inewsource",
+        "The Hill",
+        "Time Magazine"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Radio Celebrates as House Passes AM For Every Vehicle Act",
-        "US House passes Illegal Red Snapper and Tuna Enforcement Act",
-        "House passes AM Radio for Every Vehicle Act",
-        "US House Passes AM Radio For Every Vehicle Act"
+        "Raoul praises Supreme Court decision blocking Postal Service mail-in ballot rule",
+        "supreme-court-trump-postal-service-mail-ballots",
+        "Supreme Court’s mail ballot ruling brings giant sigh of relief to Trump critics",
+        "Trump Criticizes His Supreme Court Picks Over Mail-In Ballot Ruling"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcmV6OUp2SWdhQ0p5cDBVOHMwNUluTnAyV0E3VzA2b1pDYTBIZk5CZ3dTWmZiRU9hZEh4aHQwaF84TkVfN0JWdHJuV21vRGJEM1dOemR6YkN4d2t4aThPVTJvTmpkRy1TeXlLd2tNMlM2NG90dmpmNVhpVHhBQUtuQjNR?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHRGMl9QNGhOYUYxU2lCRVJzS212OVBhZXEzdXcwSHpDX1JyWWJjRzFlZ25xRFIyd0MzQkNzTFhLM09pX2dqaGh1SXdtYmRBVG9hcHA1T2ViQThqZHFzdFdGLU8xeDAxZTNJZEV6Nkdud1F6d1JMeVRYTV9MTWFUU2Y1NHg3N2hHUXZPaEFTZDloVk5COHlCUF9oNA?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWTYySmIyelRQbDBheDRvQUFyWEM3UzJOd2ZxX0RQakF5OHBralU0YzVTcEJ1aFQ3OE5pdkNOR2Nmbmh0TUZRUDZuem1sNzhBanpreUxQcUhkdUQ2OU5EQUloOEQ0MnpOTEFZT25URGxBWi1MTGpCODlCWER0VGhvSi1B?oc=5",
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTE53QjU5WE5IUm9jaVdrOXZnSVlVbnp0djhOLTVDQ0NGTnpycWxGRWJ1QnlETGRlczZwZXc1ZDByT2lvMEVjMzdUaUJwNnRPS3gyWjA5MktXZ3JnX0x1SFE1aGxQYjlpT2tkWnV0NnU0OVk?oc=5"
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVHJDdDdOWXlPRm9EaWpWa1UzTEpOUTZ4RHNxbGhuXzEzTnA3UTNIZnRHalVLNFJqN0xSc1BoRkNmV3cxbzFMRmJoQkJ6Qk9LcFI3NE80cDllRlkxdERQWmdTOEpzN08zUnJOVm11ZWswOUh4TWVwTHh0Q1dHWGtMazQ1ZFdhVWtqRUsyYlNwck43LTNYak1KNGxjRTI3amYtckVySmk4dFd1OTY5U1E?oc=5",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT19PamNzUk5PeVU0bHA1b0MyTUZzUXF0UXM5UUV0TEtuSFBRMHBQX0d3cE5Wcm5jbzNKb2hDZElLaERiWDBCTlZxZHoxTEdXX1lVaVdPd2diOEVINlVaTXJNbnRqSnF4Z29IUktCcW1odWVvbWhuX1J4RTBiN25IVjRZbUY0TjNNbFE?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxPSkV4akNXQ1lIcFg4TWg4aXNyeFZ1cDdwMkh3cHVOdTBKX2NfMURFRnBMMVAwSTZjZzhWMnFkZ2hBcjlPWnpuc2ZVRHgxNHRpanM0Ykx0cHdMLXlXVkgzNFNweEJqYm8taHZacDRsYU4tOXhQWUtfQzY5NEcyUEljSjVhZFZLMlRjTW5kS3JnSEdRZmM1MlQzemRhTFFNZw?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yNDFUeHBKckRWdWQtRWttV3VOU1dNV1U0eG80WElJUDQxMGktNlpzbUVNNWVFa0t5S0MwVzUyeVhObDJWcDBlU0JYalN5TkdrY3ZyaG5YX3c5X0VxWUp4RnVJRXRaTll1VEtTRUQ1ZF9qX3VEMmNOLTJ1RXRNZw?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Axios",
+        "ABC7 Los Angeles",
+        "WHAS11"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Senate moves forward with college sports bill",
+        "Senate takes first step to overhaul college sports system",
+        "A sweeping college sports overhaul bill clears early hurdle in Senate vote"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTJ2NGFQRjZNZXd3UmRaUXFJNmctM2d3UlRiM1NmNjdpOHpUVFJ4QV9vTGRxWDJhZkZYVUdYYk52QmlhWVF0ZEVRQnVOdjRyRGxOdzhrUm5VTldDYUJyNzYyaEN5WDhhaGhhV09DTURhRVBfN1g4dmlLcHJOZVY5WlI0bjB4YnNGQ0xyUXU1VQ?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUHZpdUswd0htR2laem5XcXZsQjRyc2pjem5jZGRtMGV4d1loUWRkM01sc0pDdk1BSUNndk05T2tjQjU3VkxoeU9idDRlaGp2SDNWY1BmV2hUWTlaWGN5OXI2NXowYXBWWFNvNUVJT09EMTE4SWJFeWNNNGRLaU1YTVJDVEx6SUFnZF83d09WakY?oc=5",
+        "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUlRYZy1wdDdfMkVCQ0tvQWNObTNXWWc2QXREMTNzWXlMRlBSSGoxMHgwUGkxS3ZJMnc3NTBOMkZGUVdlMkJtZmxMTS1zZjBQeXA5bC0xNDFFRU1JUDRtajNKRUNSNUZLUjlObDcweGJWRkpPbUx0dmhyZjN4QmpCWnk5MDU0d1FIWlMxTjkxaHpia0dIaVp2V3Z2U2VlRUtEWnV4TENiU1R1eTctN3QwaDY3akVYclNTbnc3endjRW9FQi1oRHZnVmVJR2FNLU1TcHRRaE1fY3RMaE9ZMEFnQlc1NWNQYlZyZUVnWDBNajFHWlFyQ1RLcW5HUC1aZ0JteUx2b01Kcw?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "WV News",
+        "Congressman Mike Johnson (.gov)",
+        "Quiver Quantitative"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "House passes AM Radio for Every Vehicle Act; Senate action still needed",
+        "House Passes AM Radio for Every Vehicle Act",
+        "Press Release: Frank Pallone’s AM Radio for Every Vehicle Act Passes House"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWkZyb1lhd3VsOUk2dGUwUG9qd0F1QzZyTVo2ZHRDMWRneUt1Q0dBSW52SUFGTDRHbHk0T1hBRjE3SV9RcmJDX016Qjl4YTE3SG01Q01jZ3Nka0txem5xZGx0M2wta1lXR19IazhyaUk3dDJrV1RqMFZwSldsNEptUm5HeXFJRTRLRWktNnNLb3llYnBoZ3NFYmpLRjV0TndPbUFNZE55dWtBU2xGbFFzSDhIR1E0MVNCQ1dId29QYjZaalFYQlZFUl82UnJ1aDBlLUJnRXRjY1cwbmtCaWt6a3p1YVFwNXdfQ0dr?oc=5",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE92TGpjSldjOXdXMXk4bjd4a3NGODIwMHMzMnBRZnROM2MxdXhuTFhiREFwU1o0eWxWTU5tVVlDMDRiMkk5bEFwUm4wM2JHWl9Ra3BsenN3SkczQmxJYmM3bUJIQ3lPV1d4am9menN6OFdwMVl2ZkdpbktR?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlZEanU5MERmN1NOdVl5NUpFanRVSks5Q0ZiS1BIcHpLel9wb0l6R3RyR196cUVXR2tUYUxHcUlNRkJkS2FnWmw0emhJdjAyNUNGZzBYTHR3OUYtUlQ3V0RQTjZDN2M0TkJpeUdPc2J4R3NGamF0NDU5ZnlUMVZ1Nnc2bTRoSHBqSEtHVmVSWXZTdHlqQVUxTkJXU21jZ2VCYkNMc25LTUdGYUJ6TGxMRnd1emViVDRW?oc=5"
       ]
     }
   ]
