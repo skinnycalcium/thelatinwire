@@ -1,4 +1,29 @@
 {
-  "at": 1789540386633,
-  "held": []
+  "at": 1789560382084,
+  "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "Radio Ink",
+        "SeafoodSource",
+        "Rural Radio Network",
+        "Radio & Television Business Report"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Radio Celebrates as House Passes AM For Every Vehicle Act",
+        "US House passes Illegal Red Snapper and Tuna Enforcement Act",
+        "House passes AM Radio for Every Vehicle Act",
+        "US House Passes AM Radio For Every Vehicle Act"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcmV6OUp2SWdhQ0p5cDBVOHMwNUluTnAyV0E3VzA2b1pDYTBIZk5CZ3dTWmZiRU9hZEh4aHQwaF84TkVfN0JWdHJuV21vRGJEM1dOemR6YkN4d2t4aThPVTJvTmpkRy1TeXlLd2tNMlM2NG90dmpmNVhpVHhBQUtuQjNR?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHRGMl9QNGhOYUYxU2lCRVJzS212OVBhZXEzdXcwSHpDX1JyWWJjRzFlZ25xRFIyd0MzQkNzTFhLM09pX2dqaGh1SXdtYmRBVG9hcHA1T2ViQThqZHFzdFdGLU8xeDAxZTNJZEV6Nkdud1F6d1JMeVRYTV9MTWFUU2Y1NHg3N2hHUXZPaEFTZDloVk5COHlCUF9oNA?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWTYySmIyelRQbDBheDRvQUFyWEM3UzJOd2ZxX0RQakF5OHBralU0YzVTcEJ1aFQ3OE5pdkNOR2Nmbmh0TUZRUDZuem1sNzhBanpreUxQcUhkdUQ2OU5EQUloOEQ0MnpOTEFZT25URGxBWi1MTGpCODlCWER0VGhvSi1B?oc=5",
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTE53QjU5WE5IUm9jaVdrOXZnSVlVbnp0djhOLTVDQ0NGTnpycWxGRWJ1QnlETGRlczZwZXc1ZDByT2lvMEVjMzdUaUJwNnRPS3gyWjA5MktXZ3JnX0x1SFE1aGxQYjlpT2tkWnV0NnU0OVk?oc=5"
+      ]
+    }
+  ]
 }
