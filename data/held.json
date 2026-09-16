@@ -1,38 +1,4 @@
 {
-  "at": 1789521987682,
-  "held": [
-    {
-      "section": "politics",
-      "outlets": [
-        "Ottumwa Courier",
-        "The Journal Gazette",
-        "The Independent",
-        "abcnews.com",
-        "Bozeman Daily Chronicle",
-        "News From The States",
-        "news.bgov.com"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "A sweeping college sports overhaul bill clears early hurdle in Senate vote",
-        "Sweeping college sports overhaul bill clears early hurdle in Senate vote",
-        "A sweeping college sports overhaul bill clears early hurdle in Senate vote",
-        "College sports bill clears first major hurdle in the Senate",
-        "College sports bill clears first major hurdle in the Senate",
-        "Bill to set rules for college sports clears first procedural vote in US Senate",
-        "Senate Sets Vote on College Sports Bill After Crypto Vote Fails"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMihAJBVV95cUxNejkxbnZrNU1PeHY0eUF2TDZOeERvTzFzMnZlbjlIWUROaHV6SkNHU1R2aGJQUTBOMWwwb0xHcElqZ3JTVjhRLVBMTTIycmlnemEtblI4Tm5CYVhQbGZ4YzROWndzNXFtdUNXcTN1OW5fekxtNkQyUERud2tBUkFqVWYwemoxeW9ZNEp1SHpaMUV2TXZkVElFMEdmTlcwa1VJMGEtdjAxSGxOLVBGcGh0WGVheE1tTVpmOHBOek1XVzAyNlA4WE10U1E4UXdRUlBBQkxoR3VGNWthWmlRNHNOTjZCLU0tWkRNTkdEbWFDUEVVSmJveDFZSUowNlFfV0wyRlBwdQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOb0dvUmlfVWM4MFFIbjd1alI0LW54dC1YdFlVUG0yWDFWQmUtc0E4amRxQWMwZmZybm5nVUZmUXZvS1NMRTRuLWVOa3RhdUpTaE9lMHpUbVZTQ1h3eXRaYU9MMHplemlKTUlpVDdxUWNGZUZBNjdJWk5wcEJLaldRV2dic2RCOUJhUW15clE5aXpYR0xJZGJtX0hIeFVpcy0tRmZOcTF4SlVaZmNQUmRTbk9pOXJ1ZWJSeTdRMTM4Z1lSdW9XN3h6YlBHMnZDQm9kZVJHZERJOERvOW8xN3J5eVM2SmI5WnNVdWU3RFB3ZFFCVDRrbllvdm5KUkNndw?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS200NHNsTl9wa0d3cTJ3R1FhZzlwN29hOHpZQTdkeXRDOWFranN1SnJBU1pSRDJwanZJRVJnWk9ZTXRsVzFjaHpaRUg4bHlXazlVR3Zyb0poU18xbmhSZ0dEY0lDaFFkMXBuOF9MTDNiOEZJd24zaXh3RjlkNTE0alNPZDFoNTB4LWc4bmpuNTlBWUNabS1CZw?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWWFsX0JWSVp3a2RmQkRoZlFERDdveWJqZzdXRXl4QmhDeEtlMy1qSjhxa3VJZ0xWSGJkUnN3RjgwNElJVFY2dWtEWDhQWnNsVWtKQXJXZVA1a3JyTndlUTh5bG9reDJBNDFncEF2OHFBOW5maXV4Z0tVM0FaUzBka2NNczF4NDk3YktTdzZKWWl2ZDTSAZgBQVVfeXFMTWRqZzN5Rk94bjBZWUZuWDJvNGQwMzYycjBpZ0dEZU8zTTdiRGU1cmJFV2hVRmF1cERoeWRwZ0NRcUw4amxieWw1QU0xZWIzYWtmbFh2NTJ0S0VWTmNSTEU1N213TVBIZ25kRy03cGxzYWIyTm5ZVmt2aDdRdFVwUktaMGFmbkFOdEcweTA2RFJxdGtLUGpON1A?oc=5",
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZW40Q1NzSzJOVWh2OGpiU0FfZGg4NmZmMko1ZTN5enhBUHJEcDNUb285aE5Bd0NIbmtFbEtYTjNyeGlMMlMwMzZHbmU0aTloTHRzUjlFN0taSUlnTUFHenVCM3c3ZE43OVA2eUF3M0kzdi1ISXhTSjJaODcwcExETHViVlkwTWQtSm9VUWFVa2xiV1BYMkJlX3dMMmN0UG9wUEtIRVdTOWw4dmNOT18wMndtNjRNMllLcTQyb3FobFBNaVE5YnFEdklFc2tyYmVxVm5mQ3JIZmNYVzduMk5HTVE3cFFiZnlHNFRBSE1wbHc?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMXVKY3U3WHdfLTFLa2F1WXhGRmpNWGhpaFZfMFJXSWpOMmE1RmR0RVJhRmN4R2xDQ0QxV0VDbFpIci1DUExIMURuMGFwbDhZT1kxSXg4TTZLRjk3QTBBaldDUUpkYW9jd2NwWlNHWm9SVkRCWUVXUGU0RTFkQlRaZWV5U2QxMkhBalMtM1hFbUh5TTdubmk1SzUyS0pDRGlFQ1NrTEx5WWJQT3dHbTZ3?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFhhN3lzalVFT1FBQloxRHZnZl9panpGamRIX1FhdC1JN1B1WkZRWWJfcWFBcmZDeUVMYTFIem1KTEpwdGw3bm01dVFUSWJaNUJkVEhObmJHT2dQVFRCX2hoZ2JDTGM5RnN5OThwVHl4emt5Z1RtVTB3NmtKRzktZExUMVJPbmhIcTlaVGxTc0RuOGZMTHpVbzhQRzNaNWtjV0hPTEpRS0dBbmd0V0lURA?oc=5"
-      ]
-    }
-  ]
+  "at": 1789540386633,
+  "held": []
 }
