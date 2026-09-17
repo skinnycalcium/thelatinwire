@@ -1,28 +1,31 @@
 {
-  "at": 1789599069346,
+  "at": 1789607289106,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "WQAD",
-        "weareiowa.com",
-        "WKYC",
-        "WTHR"
+        "WSAW",
+        "FOX6 News Milwaukee",
+        "Milwaukee Journal Sentinel",
+        "Wisconsin Examiner",
+        "Democracy Docket"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "US House passes 3rd war powers resolution on Trump's actions in Iran",
-        "House passes War Powers Resolution for the third time amid Iran war. Here's what it means.",
-        "House passes War Powers Resolution for the third time amid Iran war. Here's what it means.",
-        "House passes War Powers Resolution for the third time amid Iran war. Here's what it means."
+        "Wisconsin Supreme Court hears congressional redistricting cases",
+        "Wisconsin Supreme Court weighs in on maps",
+        "Wisconsin Supreme Court justices hear challenges to congressional maps",
+        "Wisconsin Supreme Court hears challenges to congressional maps",
+        "Wisconsin Supreme Court hears challenges to pro-GOP congressional gerrymander"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMigwJBVV95cUxPb3NDNzFvbVhNdlJzb3Z6b0t4dGJVNlU3Z3pKaE9EY0tuNVU5YTBsRDI0SHVoN05ZR3ZaLW9acmZxMzFZcTd4QURjLVJuUVpwTS1OOVd2dWl4V2lLTzYwSG1hVHFPQ3U2NDREOW5BQ3M2Ymw0OVV0bWpQU0pOdjduV1BSZGdiZjZXdWV4dWF2Y2dwLWF0Vkxld1NrdGpvdzE4ODJnTkpSUW54eEZQbmtMaThKcmpOTlI1WjlLVzdDVHg5LW5zV0RxaDhEaHc5UDJLUnpoQmdBWXFMdVNqU2t4dTBRUkNEOVZuUUM3d3pLc2gtaHZzT2xQR0kxRXNaWFA3eDNz?oc=5",
-        "https://news.google.com/rss/articles/CBMijAJBVV95cUxNT1VLSEZzZXJJLTlVTHBqTkZmWVlpZXZtdktETi1lWFctdFRxdnY4Q05oY1EwRTdXMkRQSndIeEZWMkNSVUFNSjBoQWZabDBtNWZBcm5GYXByWXFSZDdZTlFCYUllNlB5UTJiVTl6U0VPMTUzV2hCTXFBYjQ0Z3VaMEt4Vm5PV1gtcU9kVE43Q3NIVkQySFlDcEJUYmtad21aMTNjVzdNUXlkZG5sS3k4ZzZOVDdFWGFhN1lCSHJ5RTRySkZBY1NXOHhlOEhBd2lsM1MtaExMQl91RUlaamh2NnN4NmVzLWpONlliTlFBM1hKQXBLN2xFaTIzUTh5YlFMSEFSNnRCN3Y4SkMx?oc=5",
-        "https://news.google.com/rss/articles/CBMihgJBVV95cUxNYmZnM2h3NE1LU1pQamJSend1TzZlc3djRkQ0aTVLUEUyLV9yVko3VmhDM05xQlRfRVhNcWZ2a0ZLcjIzZDJ0TlZrR3p6X0lVTFFJSlJORDJaVWdyYlc2TFN3Y2lqbnNNRlZ4blR3dlRscnNIS2s0RG4zSl9oMUhlSVRyS3Q5M09sVWx0Z28yTk9jVjJrdXZqbkRkamdRaF9ySlRyTDRLdmJsV1lGSVN3ZVVRX0JoR2hhN09DZkk3OXNfaGRWVU9jQ1ZYQ2d2XzFmNzlZdGFLUmdIUWIweEhvYkh6Mk5GS2g5VUdBa0NabERjX2pCQUR3d0c4UDZCZ0llRFFycjBn?oc=5",
-        "https://news.google.com/rss/articles/CBMihgJBVV95cUxObmlTRUpOeWwtcUlPT1FiZVk5TnpVMWxkSkphbFgwMkJvVXptVy1mUFc0Z1dHaTBMOC1zS29zeERueVEtTUFKeExNWE1scGdUOGVTM2plNTBoQU1vNlBrelNZeld0UmF5SWUtMl84d3pEZV9EV202WXJNcjVoSmVBTTU5eEFMSS1vOGRDZERUaTFOX3gxNGYyb1A3M19yMS1Yck51TF9GVzdPVHJQXzFPRGJLbC0wbWNmYWVOUGMxMEZHeTN3MGplQjh3aERSQU9zNlVfRWdEbWxYODNfNWp3RVFqd0RYeXlVOGM0NGxFM1JwWElfLVhERmpPc3ZNS2NIdGtmVkJR?oc=5"
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbEpjVGQ5dF9qVU5HRDNra0JmMmEzeXFaX1hsRjV1TllMOUpSdVYzcHFhT0hWM295SjA5b0JfWXZYWUhHOWdxeHIzQm1KRFNRaVZHT1l3ZWNjQ1hHWUFPaXVRSXZheGF2OEJOTmlwcXN5bk5PZWJabXR4eWVrSU1zUEJUUmRMeUJfUUlFdl8xZDJocHJDSTBBWnFEN1TSAbABQVVfeXFMT0Q2UlFPbUVsX2hhZlJaTXBWUUJ1WGhSQVlmY1puN2QzNDYwcXpSMVZaWnhvVENENjRuRERSMG1qWmpIUzI0SG9QSHRhVllpWlc1UXgtaXd4NHY2RG5JNTlWSlFZTDVBenIzc1BmaG9SQ3hmTkNSckE0bnlWamlfVjJSZWNUY18yNlpjWGV3aWJYeUxjbXdUdlhwUmhJQ29oQzBnU0x4R0Y1ZkMxc3B4U2Q?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQW0xcVdhQkJ3UWZFeVN5V2E5Ulh4WVVlRV9ZTWl3TGl0UDFYaUlxTExUX2dJU3hKZlEzWjJZTGYydURpSU1zRHZCSE1pZ0tKX2VYeW9XYWF6anA5UFNKR3V5RDJiT3JGV0h2RUF5UnhIR2FZM0xENkRuQmlpTkM4c3o0WdIBiAFBVV95cUxPZnB3RUdERlN6Y2dMQkNibm1NMGR0WFJHLW1KUEtQSTMzT191T2VMYlhWaVZDLWJsMlBQLWZScjZpclg1RjNWS0w1UHhpX0Jnb3F5WVR1WjVvbU54SmpjUGZ6eVhDc1NOc0JuTUJpN3ZFNklnZmpIeXBxV25wYjFDRnNkdkZlMFJo?oc=5",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMWhZMnRhNDRFN2NlWmpXXzVwTm8tZHlkZVY4ZXNJLURhWTR2dGlJbk1fZ1JRdFVjU3dKTlZaRkkzMndiTGFhTU9aampsWndkQjJITkJBLVZuV0ppOFhuLUtFOF90cW1PYmVxNThlUmdYa242cVlCTnhSeTdHR014NmxDOWtBVW1fNlp5ZUo1Rzl0YUhBeWxvOXBGMUJXdHJzc19HZ1ctUUR6LVZRNHItdU1TS3BBWjRUdTJtVU9sclBNU28tSC1WU3NZUHRUaEl5S0dvR2hXajd3MkI2NkJrbGdPNA?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEVGSGR3SnJGZEg2dW1kTGVQWEI4QTFtLUpjbWhDQW8zYlFjSEdzbXFtcm1lc0dxQWotZWMwMUVnYXJ3OHpReTF6ZjEtaFFoZzBMVlJpT3lQbXM1R2FBVnJpbWJabG9UczBKYUxNTWxYbkZVWmFLazgxOFlDWVRObHJzN2o0azE3NkNyT1VaaFU1ZDNHTnpPSFVDQXRmVWlDS0RxZVNwYw?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3I2ZTlhSlRaX29kQWlUcUYtcGtnNnB1REhBcDlIOEdSZWtZQzBLMWlQN2hzWHVqTTVDNXNPNWlqbkRLbHhhS2pfSWJRZHhfU0VidVA1V1ROMldBSHZQWmt1RzZZRVFFUElrMzhnWWRmWG1rX3c4WG5YaEtYQlpBWm1ZNTNlcl9JR2lYdkRnLWlZUlpjZlItT3haT0lMUVhCa3F3V0d4dWRleFdydFJSN0FTODlwemg0akxad2ctbw?oc=5"
       ]
     }
   ]
