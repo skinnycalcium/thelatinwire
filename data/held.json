@@ -1,64 +1,79 @@
 {
-  "at": 1789672665352,
+  "at": 1789683683748,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Alabama Political Reporter",
-        "Alabama Daily News",
-        "WSMV",
-        "WAFB",
-        "FOX Carolina News",
-        "WDBJ7",
-        "WFSB"
+        "USA Today",
+        "Currently.com",
+        "RTL Today",
+        "The Hill",
+        "Межа. Новини України."
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "House passes Tuskegee Airmen post office renaming bill",
-        "U.S. House passes bill to rename post office after Tuskegee Airmen",
-        "House passes bill to rename Tuskegee post office in honor of Tuskegee Airmen",
-        "House passes bill to rename Tuskegee post office in honor of Tuskegee Airmen",
-        "House passes bill to rename Tuskegee post office in honor of Tuskegee Airmen",
-        "House passes bill to rename Tuskegee post office in honor of Tuskegee Airmen",
-        "House passes bill to rename Tuskegee post office in honor of Tuskegee Airmen"
+        "Republican lawmaker breaks with Trump, says Hispanics 'feel betrayed'",
+        "Republican lawmaker breaks with Trump, says Hispanics 'feel betrayed'",
+        "Hispanics feel 'betrayed' on immigration, Republican warns Trump",
+        "Florida Republican breaks with Trump on immigration in campaign ad: Latino voters ‘feel betrayed’",
+        "Republican Congresswoman Warns Trump Latino Voters Feel Betrayed by Immigration Policy"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWRnRk1rMXBScko5dXlZQjRPMEdIT2VUQWFnemo0OW9WZTVYQXVnZk5US1ByZjVhWFk1a01JczQyME53ek9YSks3VzhLOVBUQTgzRlZKZzNsdG9Wa3dpUDFCaGN1bG5DOFBKTk5TX25Za1NwY1AyeXF4QnVyU09TUkVzbjhjWHlrMDdKVnNPTWdjXzRMSDB1Ng?oc=5",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0hWakxkT1dOLVZmUTgyaHRUTU1qSC1EcFRFLUtJMXVucUlhYlVBVUJac3ZhOHlKTDNlUFVoWWQwSWVpd2hhM19jdVN1MlE0aURxeEpoUXNVYjdZVzJ4QTA2aXJzOVJYRDhhRmVQNTVnd2dGWVRUUWRQc2p6WTQ2ZXlsWEFsTkJzZmw0R3FUcmU3WGFD?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQekdPRG9FZUJYckdaTjVkVTdxM0gzZUdKejJiWEZVeHYxc3NTUWhZeFhENEY3RkJ4bDFrYWJycmtzSDhKRGg3TV9zZHhUaFVTQnR5QlQzTGM4SExMOXJTcUVuTmk2LTZuVmJJZ0k4T3pCTkt6Wm51emlJODdSMmQyZ2FWSHFkRHVTbEtzaDlVTUxRcW9NVXY3NEttX0xhcXZHS3VvdjVPSzF1UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUS12S2lOTDhmUkU5U19OT09YVnNXNS1nM3lGTVp1Q1VXV3FJdlUzU28xaTRCRGctTzc4dWE5dDJneWxQMmRBX080TGJXZEJZdTFGQ3YzbnoyaEVTaENzTTM0STg5ZE8xSFo3dWxSOU9Ha3ZuNUFCMVk0NktwTGI2RVp4Wnpqa1g1TjZjaFNXdURRcWlyNTRUZ05TZXRoaDRpanBKZlZvb2ZhUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeVB5QlBDdlVkRVdSRTl4NVZpWG51aWdfWndSTk5XQ3duNExGUVl2NldFMS1iV3RteXI1UkloaHhabDhpamZla0JYWjVHQjZhMGx6amxJVnVjY3QwZmdtNndydnlsVnBoZlJKSmFTMVVlOEI4SEExelFLQkZVeGdoZ3RGOUJqNE9xTG8wTUxiNFplUHFpTFRuMXMtbmJqb1pENEdaejVteEZNN3pvWTlURy00WQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeTdPaU1HeVlBSnVDSmo3cGNhaXZrUFdCSFp6NW5EOV9feXJTVm03SGNrUEV6NkpOb25RUUxMZDlGbnBpSUhfRjR2NGwxUGNDUHVaY3dOSm1aUG9WdjJMdW5xaVFLUVZFSUw3c0ZpcVM1dlpPRTFjWFNUZnl3b05ZZUpGb1N3T2ZDb2xDaVFCTFFOUnF2azJFVXNlbGx0c0FZRFVFenJ1OWRBMlk?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPclA4U01iV2VqOVlTWVpFaXpGVzhIemhtd3hDZW5xZjdYNkdjYm4xcm5sQk50bGo4VGhUbGhCMmJZaTczMG1CZWRlVUZvTjN4YjRwZjBON21uZExDbDhTZVprWmhoX2RYelZyc0tWUkdyOTcyVXNOVk9TcTFWX3lQdWE2bEdxQ3FWWGdzRDB5WGcwNHpOMzNBblZ5eGFNb2RNSXQ0LUlsM0lxUQ?oc=5"
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQnIwQ0YyOHg4bTNRa1BHLTZNQzZtdGoyMjFpTmVGdU4za3Nja1J2cDByUEZ4M0ZUOG5uVHRGeGdFM2J4ZWczOTdrSUhvOEVlRlU2eE9UUVFiTmVjY3JOZmF3V1J0bTVkeTQzNEl3R1ZDWnlYTE1zcFZJRUlGa2EwSy0xdmlYbTAyaVdrdUZrdXhmUDFFV2NtQXY0aXNtdUc5dWhXNmZzR2JXempwSG5qeDhQRHAwZTV4YlN2RHkydlo1amRMQTAwcDhodEJzWHFM?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYkxpNkR1ZXF3V3MzSVVPUjF6RlVjQ1RuS3FPa0ptaVJiTm1zQy00YUF2a0NXNHVYV2s0aElzU1pTdjdSaXk3Z2FZTXRGZkJrVjNBZm8tbVU1djZDTXpGdzZqXzdvNE9BTzNSMHhvdDcxVXdqTEVVclZYakpXTFlNNzVDMWlEQ0plY0tyQlg2XzFVUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN0kzSmRBbFhnMWU4U2YyR3JvYk1RS0RhNngtSGNPTHJod0NHYXBqQlJONGVNb2xxd2s1QUh5czRzXzBLeU83WDNFSnI4SUx1MlJDcVlsSFBLU0RpUF9BSTVUcVVuRGgtOTUwUk5md3BhbEQtZTJrZ252cGVBMlR4cGZUR1ZtYXFkZTZ3Wk53czN0M1lNUU05MjlTMzVTZDc4cDBWTDRSNA?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRVdSekV0SWlndFctLUdDSXp2V0JLZlg1Q2dRT3dqQnJoVXhKeU0zTS1LTWRjSFpJcWlFLXJUVG5UdEtVZnRuQ2hFYVRsTlJ4NkpFT0c5TFVYN2ZtNS1YZk84RWVjUTQ3UGZHUHdRR0wyc1JuS2x1TzRZVGlUeFVxem40d2ZBM2Ex0gGOAUFVX3lxTFB5Smc1V2ZLQ3hMeWxxWmJwR2JxUnRnSkdPdXJTY0QycHVINi1ZYV8yU0NIYlAzRkYtZ1NHcDNyb1RpdXN2NURhbXRmR3BnT3BSRWswQUJVU2wwMF9rT2llTDl3US1oR3ZrRnZSWjhNYkR6dlVLVnFQVWFpcFVobDVacHVZT3hqV0hKNi1lWnc?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rSnhEaHpfYWxJSU1kZXVHZk9USVVYaHh2XzFtZ3ZoczE4S3k5UllYMXFvX0VpZXBfYWlDU0FsTmxhU2xVRFdzdUNrQ3o4WjVOSGt6V09KVWRSQ0Zib0ZWSDZTUUZER0xqN25WX1dDbW9fenl3UUE?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "UNITED24 Media",
-        "The Times of Israel",
-        "Crude Oil Prices Today | OilPrice.com",
-        "TODAY.com",
-        "Hawaii Tribune-Herald"
+        "theinsurer.com",
+        "American Farm Bureau Federation",
+        "KELOLAND.com",
+        "Greenhouse Management"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "A Big Friggin’ Deal”: US Congress Passes Late Sen. Graham’s Sweeping Russia Sanctions Bill",
-        "US House passes Russia sanctions bill championed by Graham, sending it to Trump",
-        "Congress Sends Sweeping Russia-Iran Sanctions Bill to Trump",
-        "House Passes Russia Sanctions Bill Honoring Lindsey Graham",
-        "US House passes Russia sanctions bill championed by late Senator Graham"
+        "Senate Banking Committee advances TRIA reauthorization bill",
+        "Farmers Pleased with Senate Ag Committee Farm Bill Passage",
+        "12-11 vote: Farm Bill passes at U.S Senate committee",
+        "Farm Bill passes out of Senate Agriculture Committee"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZGlJMnRpQzJ3bk03S0c0eGNqOHlaRzVsU0haRnFILThNWXJYc3U3RDRGVkp2WDNidU1vbnlNNjFjdk1fZWxVZXBkQ0diNngxSTVDYjBNUGdOQVVCaUI5RkpLSXRJcXJxc2Z3RnNmMDZSaFhPR2NidXlvdTVTQ3pqTXNJQ2Q3cHNNeHVRR0FLSlpVWkYtdk0zYlFyU1Q1OHNxaGQwRlpxWk9CclZnRXE2U3dJN1I3MWE1WlR1WTNSak5FdF9KdnJ1blhKYkc?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbkNXVk5ENjB6YUt0V0xnZGkzUjZHLU0yLTJQTkw5RGFKcWtYRk95cllSeU1hUU9ob0xxdjY1ek5TZjh1NW1wMFlFTzNOTmUyOWxQSzBhV1hiWk91dXc5WTE2QlFJTE9rV0wtYW5mTWZnZFZFZUpKai1IcXc2bVh1OGJwREd4MjFYM0IwcUd5OWcyc0k5el85czZkTlZhM1dBV25MSjltLUZHUUUzNUHSAbMBQVVfeXFMUElXeUJJa2VQRVpQS21EVnN2QmxQTDJSREJxRFFxWTlSQXI2Z2pzZktqdGRoRTc4NDh0dVNyS2MyMjBHY05YUXVhd1hCUXE4bzVyNXVEU3RBOFAyVFZyVk1id0VWVlExbzZ0eno0MWRob0VuZmxGSWNQTGUtbzJNMUs3V3R5R3RXQmM5WjBUWWVwZ0wwVmRTMFJvaHBZd0NULWlzWmN4MWJzLWVvMUZrRy1TMXM?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc1RZRkdSdkJ2eTZQWEplelJCWWh6YmVmMi15d2w5SnhYMkdYcWtRZU51dUhmQ2ZsNzJHTUxMRkE4SDJXVXpFYkdFZzhOdFViWXNfS2RCQkFYb1FNRHdzdE53LXJwSzZRWmplc3VBTW8tLTh1V0hDWGpta3oxekQ4NUV3OVk2amxzOVNtc0FIRVl3NzhuNVFXOEk3VktobTA0OEV6c2NyVkRwRjTSAbABQVVfeXFMTm0zVjF3Z2Z3SVBKTExFQVBhVmNzN19JZWZ2cmhTdzRhcUhIZi1mWlZRM0lPTFpCWjlsS3FDSXNINHo3RExqVWpiNUk4NUdoVlNEVUc4NGhEVURnM3JOUDYxWW1XM0NGbnNEaUV2QkNZRTZuejNsOWhsRXowWUFndXhFMDVMcm9yeVBQbHBWd0puRGxscnhJb1JpaEZqR3NmekhBSzBnaDVvMDk2SGdscVE?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYzh2Sy1PdWxvQm4tckFoa1RoZ0FCSHdidGtHRF9xUjk0UHhlQ3FkODJscWEtM3kwb21HZDZ6LTVIR1VWdmRNdi1MWVNNaVJlQ3V2RFg5UGoyRTZCR3lUQzF5WFpyeGkwX2JvVnVEUXZqNF9wTWhBRFZWU3BJOXh2ZDc1VmlremV1dEhSOXlJVjl1U3FfVHZwWkFNaW1TZU5r?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM0RFSE9zcFN2RW5TODNhTkJ6SllIT3VybVhFRnU4YU5mX2MzVEhEN252WC0zdFB4YXBISW5reEJ5c1c0Vi05dmg3VXVvYnJpQ1d5OWF3bmJhdm1Ma2NNTi1ZZ0k0YUhfM25JWVRiWE90eHdNQV9xbzJGWUNWQ2xMVDdJRmRFbmpYVkZpYmVxVGdGcDR2VGVtaWdBZjhqd2JuRlU2a3Z5U0VaeXBpVGlTTUdvQnVNVXhxLVBvdS14UGZJQUlSOFo2VmVvOF9aSS1JODcxcg?oc=5"
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQnh4VlVUZVBtaVZxekhYT2p6LUlCTnE2Ty1acDJVMjBEMGdCekQ5Y3NMd19vc2tMR2NzNGNIbkZkcXZQejJLSTNxeEtlekt6RHVNaWR6a0tEejlWYzFhd1YwSENqd3JPMmRaQU5aQ2JiVEFhbjZOMFRkMUpLRXotSW9iMW5iUTFSbEZFZmtZeC1zbU1yZTRwRmlpdVpmQUJROGM4SXZnQ0xIdw?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPemZlTXBpbVdSekpIWlhRQ2s4c0dGeWhKQXQ1TFdZbFN3RlhBSGFwOUFoQ3V6SENOVm9NVFpXbG5naF9wLVNrLUl1QUdPV1Q4d09ja1VKNmFveGhmS05HczB1dUN2QWVJdjJWcmNOM2IzY1l1cjV2VVRrcGZzTDJNcXc3Sk9pYXRtYmNQMTQ5SQ?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVUMyNjE1NWdUV3o0cXhGbTRSUFktSDViWW56Umo2S2twX3liYWZheF9mVzFiNDVmSk1LNXBweVpORmlLMHo3MUlWaWltZDlMcG1MV2VvbDVkRG9YbnpSS2ZaQXlaSHhSRk44YmI5VXVuRmNJNExtZ1pjUjV3N3M3cDhaZEpJY3pYZzVqMkowd1VNWFlQMll6NdIBngFBVV95cUxNc3JBWXVaeldySS1neXFTamVmX2RQR1pFUmRCNElGSnloWHB6UHl3Si01ZTZHbUc4akhSajN2MUlqY1VUZXJmWVlDSThGaXJ3YmdlQVNlR0o5ekRxYmY1b25sS1ZnbUlOckkxY3RnR1lELU5heGhUMFhrZHJSSzhBRlgxZVIzNTdpb0c3UUNCQkVHaDZNNlNHWllVTW9HZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEtUWDVHWURMdl9Rdk1fOHAtQXd2cDlrbHdRYV81bEVibUI2T05saWJuUEJpU2dYSGxOZWxFeEpiaEFUemhoTm5tQngxbTIxSTFZN012UEc2bzlRN0Rhd3pqakFCSUZTbmFZS2tZSUp5OW5FaFFkRlJhTUFEU3ktdVg0aVNtVHhr?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "The Center Square",
+        "KING5.com",
+        "Yahoo",
+        "Washington State Standard"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "WATCH: Washington high court nixes voter-approved natural gas protections",
+        "Washington Supreme Court rules natural gas initiative is unconstitutional",
+        "Washington Supreme Court rules natural gas initiative is unconstitutional",
+        "WA high court tosses natural gas measure approved by voters"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSS1GSHNMa1lfc0FXWGI4bFZrY1VFb0h6Y0Rxd2VjVGNXUVoxQi00RUo2ZXZDT1BJSEV3aU1JdzBqWTV3d0dJb1dvSmN0N1FuWmN4MElHWlBDSXFvdHFlcF9SM25FRGRpbWRYOXBCZWdpWFpfWDR2UnRWSTRTQ3VRZTJiVHpEX2dnVWZSdnBoZ2EwZXZuVFNR?oc=5",
+        "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOc1NTUFlTejYtZFZ3YTRBWVZZUVBnak5uTW5mc1hMQlh4YUdDbXhPeVlUcnd4aU44aG4wcDhVWEU4YzFtTXFUbnRuOG8zMWVGdHZaWVlnS29sbzhwd2ZieUlVUEtuMHRRVUhuc2ZwbVhOamlOZ3Y2LU9OOGs3Q0FYRlloMEhzVnlUYlRWUkZ2RVotNVUxbDJJbjNzakdya3ZvS2R5b295QTNGZmRzLV9PUkdhRndCaTRwNVRIa0FQd1hIRDQzUE5GT3YwRVFzd1VuM3VnSU96MGt3QWFWT0hPWkt1VEs0OTlPalY5SHY1bXZpOW8yYjFDZXRVaXo5Zzg?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlEyUjJDZTRHMGdDWTJIbVdSR2pVQlVYaUd0NDNqQ0NoUkhrT0JucVZ5aU1SOGFkR3hLOXg0TVg4aFlIZ2FpSUt6MU4xckdmdVlzUDhPNnkwcGxYZmJqOVpwbmNHOXFFckpZeGMxX0tMWW1Ed2xDYjRwVTY5RTE4bmVwRHkwMmFoNTI5YmtxaHNLWHpyUGlPVVlKbGsyVVk?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYmN1QU1BUDNVM05FdTJkRVJQb3k3Z3lla1pQUkkySENtTHZNSWFhckNneThMMWF1T19wQlBaUmVVYVZRZ1BQRlB4cTdVY29ra1ItOVkzYlZLTDR6UEItLV9ZeXg5VlZ4d2JtYWFrX2lIUGJkUXhNLWlNcy1BazF1NkZoNTgzSzE3RDlOdGw3OFZOR084WW15V1pzRzdINHEwUEgxWS1MTnEyeDQ?oc=5"
       ]
     }
   ]
