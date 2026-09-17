@@ -1,6 +1,63 @@
 {
-  "at": 1789607289106,
+  "at": 1789625343091,
   "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "WSFA",
+        "Newser",
+        "Axios",
+        "DW.com",
+        "TRT World",
+        "Japan Today"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "House passes bill to rename Tuskegee post office after Tuskegee Airmen",
+        "House Passes Graham's Russia Sanctions Bill",
+        "House passes Russia sanctions bill",
+        "US Congress passes Russia sanctions bill",
+        "US House passes sweeping Russia sanctions bill following months of delay",
+        "U.S. House passes Russia sanctions bill championed by late Senator Graham"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZXNDQ1ljOE1Balp6QXE5N2tNc1BKQl9sWUtPamR6Snh5d3FyejB3OTFqY3Q3TkdSb0ZCdFVJbVYwNkJRemFXa1FKUUk3TzhocGtPNTJyVGwzUUVPbl9pbWdWbEZVR0I1d2lRY1lSVEZXT0dvRUt3QVE0alM2N2EtNnMxb2ZXd205NlZPbDlQTDVwUVB1SUZGd0xpMk1GMUdTaVE?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeUF0U1hTakxLX0RxWWZzaXRQTGhmcWgwRy11QVBuQ21SXzJNV3lxaFh0YmZuSEZMRnozejVEVDd5dERJZXhDUEF3OVR4dGlwbVdzdm90amtIU1ZIVHV0UllxaHZzU0JILUdGMW5OUC16eXNlS2RsZmNZZDlWdjdSZzBEZzBIOGRvSHVJ?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSR0U5VHVNQS04YkptQVZ3cU1ZSjZpOXZQOWtnTVEwZFZnSHlEUTlGZElhQ2Y0aUpRTVBueUtpZWpZUi1uVEpwQjQ4V19JZHJzTTlyT3U0bl9DTWtmSXpRb0VrVTdfMTJxSGJGQWNEcUE3LVRPWmc?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RUFVzeUhxTjN5UEpCUEN4bU14T3lYOVBROGxCckticlZFbGJWRTNGSU9IN3h5MDZCMTktVUpQREViUF9qYmRuZ1NwNWZPOHd0VW1lODBHYTFlUDk5czM4X3FOMDQyOTc1OE9YZzE1VG5DOHlDMVktWUxzWjg4QdIBfkFVX3lxTE5mQWlNTk5ST3BkWHFwZGhZaHZTMkdHZDlIVDNUd0pjcy16R083VkZWclNhd2FUTVRvQ3d4a01lRW1LcGl4TkNEdkdsUjhNUVVONFR5T3daQTNSZzlFa2VBTjFlQWU3QnhmSWo2a2VMU1BRV29UWEFWRi1CRXRaQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBReTlWYjJVajlnZ183TmhVX2YyVVc4Q1J3UnZwVzlBZ3V0djM2TGxub19hQzIxakRoLUVLMlJyZ2JjUWdSZVRxUnRqTHRFenFySEY1U1pma2E?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT1dtMEU3Nzh5SmNfelZPUFFQVTEwUV9mNjRiXzJBV2JVSGVrWmUwY0pnTWQ0NkRnTTVNb05QZ3NmVzltWmR5T2RobkJDTDdEeExIa0NtZ1lSbWZkV1ZIRjhKY0dQM2prVDI2b1FBMURLVmRFdzJkOGl2Y0xhamUwNExMOUNWU3BScnc3akRPY0FYY01TOXdVMFE5eTZhWTgwS0lEOVl3b09BaFM3MFE?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "washingtonpost.com",
+        "Benzinga",
+        "FOX Carolina News",
+        "Colorado Politics",
+        "Investing.com"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "House passes bill attempting to lower data center costs",
+        "House Passes Bipartisan Bill to Shield Americans From Higher Electricity Costs as AI Data Centers Drive M",
+        "House passes bill aimed at addressing impact of data centers on energy costs",
+        "House passes Gabe Evans’ bill aiming to prevent data centers from driving up electricity costs",
+        "U.S. House passes bill aimed at shielding households from data center power costs"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYW1ZV2l0QlA1SjQtOWlLYzRFVHV0cTMtNE1uU1BoZVN1VEpIdmNTOWU3bVhLVTBLb1JSbkhCRGtvT1dzWkw0ck0zeDRZNzVwaWlzYWFnQlhaZ29yRGRZRUtTYVhHXzc0UG9GWEFtdDRxSHNYZlBwWXJnV0VNYlZIWVJ6LTZfNTcxaTlyLUNUMV95Q3QtVUpBM2FJZGpjRUlfMC1SUFJkaU0?oc=5",
+        "https://news.google.com/rss/articles/CBMiigJBVV95cUxNbUxtaDdtc2UtcHdmQ2JkREdJcmZVWTdqUktkNGhJSWZDSnEtb2l5TjJJWjNyM2xJUE9wVHo3Z1VOSUZKX0xxWnp3Z2JLbVAyRE5ZOXJ6NWw2dEZ4QUxaaVUzM0lHUXVKVmJlN0Z6amxwT2kzdVN0YngySDYxWUZLWk91ZFZhLTZQRmdVSThjS3Nwc1oxeWthY0h6TF9UV3N0eUE5VnVXUmg2YURhWEI4eHB5eV9WdC13U0JTdmFQMmFzbk1UR0RwQXFlam5nNDJxNkFyTlA4WEJpVHh3ak1GSzhod0xjYVA1QXFRai02RTF4bTIwQlFKUUpkRW1jZ05peXVVeGlpSDB2Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUhRQUpnbXZNZ3RqTEczZGxUQ2tZdnNKaWhjMWI1YTI1M0ltMDdhZmdCd2xaZVdjN0QxcDZlaEozUkZibU1DMHk2ZFZGYVJOS3ppajdEb0NEY2ZnLXN6MjdxMjZMeUNCUHptdnZNZGJaZHE4OWxjQmhPTFBNc2hSNDJOd1k2TllaUFBJYUlEaWtld3htck9QMlZ2WThubHI3RlhvbVZXcURscE1qRXMwdlN3UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNkk0TFB6Z0tvanNkemx6UXA3NzNLUlM1SWJqUjVINEFwdHNELUwtQXpVNjZCZzc2cDU2T1V6dXZYaHF5cklEU2p2SEs3d2t1RXlQWlVHcC02MUhsZUpfWS1HaXM1X016eEdIVFk3dWpQUnh5M2NmUmhXWTRMZXFKRGszcmszUnlPaXJuckhVd2hsekc1SExnMlZ1Z0JNWnpaTTBoVzY0YW1BRHZsNkNBYTIySGFQNG04V2R2MC1WS1ZSUU9oRmM4Tjg2T213eEdMR3lPMUhpUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVjNWY1ZmSzg0eDVUa0RfVjFRQ19rU0kxZkpFaGNCRGxmVENOTlJ2Q19sSllzcmVac0IzeGZ4N3FOY1RKcWMwM3BoZFlWZFNONXlqdjctbHBlMmRucHB4QkRaSWFOMDZmOXJ1UGxDbnNRRDdkWFVIc0NHMmNxWFIwVmJtMXhYb21WM2dOVTFEMWZ3N096VGRwUEhyeVNKN0tFeDJ2Rmh2WjBDYUJTMmRtdTVQN1cyZ1hLbURFWk5UWGxHbU10SjN1MXB6dTlmWHZodWtsMFJNUUQ?oc=5"
+      ]
+    },
     {
       "section": "politics",
       "outlets": [
@@ -26,6 +83,30 @@
         "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMWhZMnRhNDRFN2NlWmpXXzVwTm8tZHlkZVY4ZXNJLURhWTR2dGlJbk1fZ1JRdFVjU3dKTlZaRkkzMndiTGFhTU9aampsWndkQjJITkJBLVZuV0ppOFhuLUtFOF90cW1PYmVxNThlUmdYa242cVlCTnhSeTdHR014NmxDOWtBVW1fNlp5ZUo1Rzl0YUhBeWxvOXBGMUJXdHJzc19HZ1ctUUR6LVZRNHItdU1TS3BBWjRUdTJtVU9sclBNU28tSC1WU3NZUHRUaEl5S0dvR2hXajd3MkI2NkJrbGdPNA?oc=5",
         "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEVGSGR3SnJGZEg2dW1kTGVQWEI4QTFtLUpjbWhDQW8zYlFjSEdzbXFtcm1lc0dxQWotZWMwMUVnYXJ3OHpReTF6ZjEtaFFoZzBMVlJpT3lQbXM1R2FBVnJpbWJabG9UczBKYUxNTWxYbkZVWmFLazgxOFlDWVRObHJzN2o0azE3NkNyT1VaaFU1ZDNHTnpPSFVDQXRmVWlDS0RxZVNwYw?oc=5",
         "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3I2ZTlhSlRaX29kQWlUcUYtcGtnNnB1REhBcDlIOEdSZWtZQzBLMWlQN2hzWHVqTTVDNXNPNWlqbkRLbHhhS2pfSWJRZHhfU0VidVA1V1ROMldBSHZQWmt1RzZZRVFFUElrMzhnWWRmWG1rX3c4WG5YaEtYQlpBWm1ZNTNlcl9JR2lYdkRnLWlZUlpjZlItT3haT0lMUVhCa3F3V0d4dWRleFdydFJSN0FTODlwemg0akxad2ctbw?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "politico.com",
+        "MLex",
+        "ndtv.com",
+        "MS NOW"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "House passes Russia sanctions bill, handing Trump more leverage against Moscow",
+        "US House passes Russia sanctions bill with new tariff powers for president",
+        "India, China To Face New Trump Tariffs? US House Passes Russia Sanctions Bill",
+        "House passes Russia sanctions bill over Democratic objections about Trump’s new authority"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaFVna0E1UG5EUnZtMXdFYVVUVmJDY1FoallIcEkwS3gxakhTYk5oQ0pHazZWcEkwN0h4anYteHlqT1ZuelpRQUg3U01JOTA2X0NYVG9FRldQYkxrQnVIZDRISG56YmpMOWpWNnRZRzNhWXR3a3VQaEF1czFVOXN0bEpxeHI4QkpJUEVj?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnllWm5tbzlOV2t2OXc0QTJfTkc5c3pDc1BQU01DVExWazVJNFpodEZqV0NWNDFTcWtXVEJ2bzBLeWJjQzFUQWxMMTlGSmU3U180Y05seXM0TnNxaEg5N1dNVlZSRVUyZDVJMXM4WTRjM3BjdEFYRWc5WFJJcWlhWGZtMGM3ZUFZLVFOM0F4bVgxdm96ejZuR2xBRm90SWU1X0xUTUFOUVN4NTZLVy0xN1JvaXVGUlRi0gFaQVVfeXFMTVA4TE1KS0JRUkY4Z3NtN2ozNS03YmJmdlc5eG9JYXQxX0hiUklVU3pveFpvbDJfTDVSR2xaVnpyZXZ3Q2ZEWXh4MmxtOC04SDJBeWpkZ3hUM2x3?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY3A0WkpwTno3eFVycGRfWWZ3cU1MMUdZYlJGczRFSmJDNU1mZ3FjU0RaaGF4ckJyaEhMWHdmTUFieVA0ckg0R3VoSHpGWEd2RE1HeTg4QXcwcWxGYVNfWE15dXpSbDlMbFFmMkJuNi1oWXBRSk1JQl9KNVFVQnBpR25mZThvUnJxMTlieE9KZGFYcE1K0gGcAUFVX3lxTFBaZVgtbzJqQzBNa0YyalJzVmVnRTlXWEJOd1l1aTJUNzE4cF9menBMNlZPVGwyM1RlYTlpd25KUkx5VERVaFIxT1JtYUpLTW1uWDcyMVAwZFlEcXZFMlV0aC1HbFBERGUyX0JndkhDRnhjb0dhWS12WDBQVHNtZy00TjRwdnRjcnBaN01VQkpKYkRyajFTWmlraHpTbw?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUXlucmE2ZVBTODdwY05HQjFWdTZ5VXRLVnVTcWh5eHBobEk3MlJLVXBzWWtQUkRoZnY2cXd2NHU4MkhPWUUzdWtZVTA0S3pKcUNLQXR1S2tyeHZfNjc3Q2I3UW5xSnVoVlNDU3lXV3B2MDRhWGp1eDVVUTFCNmxsQlpaWEdLbGN4NFlxNE9GWnlTZ2ZiOXltNXV6VUFnVFEzUHZVbE5LWmx3ZURIaExaZ25B?oc=5"
       ]
     }
   ]
