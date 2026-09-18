@@ -1,37 +1,55 @@
 {
-  "at": 1789691978430,
+  "at": 1789708475464,
   "held": [
     {
       "section": "politics",
       "outlets": [
+        "The Spokesman-Review",
+        "Washington State Standard",
         "Axios",
-        "courthousenews.com",
+        "Courthouse News",
         "The Center Square",
-        "Nonstop Local News",
-        "KING5.com",
-        "yahoo.com",
-        "washingtonstatestandard.com"
+        "Nonstop Local News"
       ],
       "lines": [
         "center"
       ],
       "titles": [
+        "Voter-approved natural gas initiative struck down by Washington Supreme Court",
+        "WA high court tosses natural gas measure approved by voters",
         "Washington Supreme Court strikes down voter-approved natural gas measure",
         "Washington high court voids voter-approved natural gas measure",
         "WATCH: Washington high court nixes voter-approved natural gas protections",
-        "Washington Supreme Court strikes down Initiative 2066 - right to choose natural gas appliances",
-        "Washington Supreme Court rules natural gas initiative is unconstitutional",
-        "Washington Supreme Court rules natural gas initiative is unconstitutional",
-        "WA high court tosses natural gas measure approved by voters"
+        "Washington Supreme Court strikes down Initiative 2066 - right to choose natural gas appliances"
       ],
       "links": [
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQTzJQOW8wVl9UTm5qYjVYVzB3ODR4UWg3aW9Ea0ZXMEg4T0pWUGZvdTV2b2QzUkpWc0pWSTU1Y0VnbGNpU1JINTVRTjAwYUlEbzdiRHB5eVdlX19zYi14Nl9pZ3VBMzk1RHU4aGpnX2NfRkhfX0FHUndBY1BENlowSkY3b0NEM0xpdFVoVzZCektRLUtubEZXaXBUM1Rpdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYmN1QU1BUDNVM05FdTJkRVJQb3k3Z3lla1pQUkkySENtTHZNSWFhckNneThMMWF1T19wQlBaUmVVYVZRZ1BQRlB4cTdVY29ra1ItOVkzYlZLTDR6UEItLV9ZeXg5VlZ4d2JtYWFrX2lIUGJkUXhNLWlNcy1BazF1NkZoNTgzSzE3RDlOdGw3OFZOR084WW15V1pzRzdINHEwUEgxWS1MTnEyeDQ?oc=5",
         "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWnllNEZ6WGtkSXZuR0JrdFlMTm1hR0ZBWktjaFh3QmxFZUp6LUxwOENXUFdjRVlZYnRNUXk3SlU3bmJOenVlYWI4S0JaQ3U4VDNzWGJaTEh0bTFLcGFnSXltZEw4X1o1UFRJd2tlWk4tdVZ0ZU5KRy0wbDRHMmJpMThqR0d4WkdaQkxJcFd1ZEZ2V2cwZ2dqSEIzVllCcm1CaXIwMWRtQS1Ra1FqU3dsVnNR?oc=5",
         "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmNZTWdObV8tWXltalYzUWk2d1FiUFFiRWVsSVBwQUp5Mm9vTmhGYWhqemp1X1AxVUlDZXl0WU5zRVVuMjlUNVdzeWxBVmcyOWF2WnJmUTVtZlFxdDNmdm9KSWV2M0ZFVVRIa1Z4MXRKWUg2bkFTdE1fUzNUQXJGTlJGeWxiTGVUT3Q1YWFhZjhmc0JVS0pPMA?oc=5",
         "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSS1GSHNMa1lfc0FXWGI4bFZrY1VFb0h6Y0Rxd2VjVGNXUVoxQi00RUo2ZXZDT1BJSEV3aU1JdzBqWTV3d0dJb1dvSmN0N1FuWmN4MElHWlBDSXFvdHFlcF9SM25FRGRpbWRYOXBCZWdpWFpfWDR2UnRWSTRTQ3VRZTJiVHpEX2dnVWZSdnBoZ2EwZXZuVFNR?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTjJTVEN1UU11LVdjWWlHQ0pDbFdfb1JSUG8xTFhKd2p2cDU4THZKM0RUaHFOT2VhRmphQklCd0daeW9zbjJSREVJdlN6eHdScFBtQ2diRl9WNndhT0JmYTFDWHhad0FvWGhoZVdQTGV6M1M1RjlwRjU4bnpwUFJ5N0h0ZFVfaEJDbWxxZFlnNFBaUF9UeFU3c2lWa2Qta1VFZktGU3N6RTE4aXhfd0diQlZ2d01zWnZTNC10WjRialVQTUllWnNpNWJQbGxuSGY2YUdxUzdJUHBfaFMxalAzb01JQnkzY2tZdE1UZV90T1ZBUkVXbFlVZzJTY19MS1lDMFNYRDZTT3A?oc=5",
-        "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOc1NTUFlTejYtZFZ3YTRBWVZZUVBnak5uTW5mc1hMQlh4YUdDbXhPeVlUcnd4aU44aG4wcDhVWEU4YzFtTXFUbnRuOG8zMWVGdHZaWVlnS29sbzhwd2ZieUlVUEtuMHRRVUhuc2ZwbVhOamlOZ3Y2LU9OOGs3Q0FYRlloMEhzVnlUYlRWUkZ2RVotNVUxbDJJbjNzakdya3ZvS2R5b295QTNGZmRzLV9PUkdhRndCaTRwNVRIa0FQd1hIRDQzUE5GT3YwRVFzd1VuM3VnSU96MGt3QWFWT0hPWkt1VEs0OTlPalY5SHY1bXZpOW8yYjFDZXRVaXo5Zzg?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlEyUjJDZTRHMGdDWTJIbVdSR2pVQlVYaUd0NDNqQ0NoUkhrT0JucVZ5aU1SOGFkR3hLOXg0TVg4aFlIZ2FpSUt6MU4xckdmdVlzUDhPNnkwcGxYZmJqOVpwbmNHOXFFckpZeGMxX0tMWW1Ed2xDYjRwVTY5RTE4bmVwRHkwMmFoNTI5YmtxaHNLWHpyUGlPVVlKbGsyVVk?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYmN1QU1BUDNVM05FdTJkRVJQb3k3Z3lla1pQUkkySENtTHZNSWFhckNneThMMWF1T19wQlBaUmVVYVZRZ1BQRlB4cTdVY29ra1ItOVkzYlZLTDR6UEItLV9ZeXg5VlZ4d2JtYWFrX2lIUGJkUXhNLWlNcy1BazF1NkZoNTgzSzE3RDlOdGw3OFZOR084WW15V1pzRzdINHEwUEgxWS1MTnEyeDQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTjJTVEN1UU11LVdjWWlHQ0pDbFdfb1JSUG8xTFhKd2p2cDU4THZKM0RUaHFOT2VhRmphQklCd0daeW9zbjJSREVJdlN6eHdScFBtQ2diRl9WNndhT0JmYTFDWHhad0FvWGhoZVdQTGV6M1M1RjlwRjU4bnpwUFJ5N0h0ZFVfaEJDbWxxZFlnNFBaUF9UeFU3c2lWa2Qta1VFZktGU3N6RTE4aXhfd0diQlZ2d01zWnZTNC10WjRialVQTUllWnNpNWJQbGxuSGY2YUdxUzdJUHBfaFMxalAzb01JQnkzY2tZdE1UZV90T1ZBUkVXbFlVZzJTY19MS1lDMFNYRDZTT3A?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "World Socialist Web Site",
+        "San Antonio Express-News",
+        "KTVB"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Trump lashes out after Supreme Court blocks mail-in ballot rules",
+        "Supreme Court intervenes to preserve mail-in voting, rejecting Trump's gambit",
+        "Supreme Court blocks proposed mail voting changes"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ycXFub2g3SGRFX1A0RHVsUjNPS2pQeW1mN2NqVENQSWhhSzFDcGpZQl9HMk1pVzE5Ym9MYjR2cFdYSURzcmx3SFo0YTFjYVpHZ3o5eWlvLU15SjZPOWZ0SkpIQ3RlSS1H?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM2k0SThMWWFCTGVubkE0bS0wTGV2aFpzM096TWdpV1h5YjFhdUE2elRmMTNIODNPRDV0WExNdmg1UHN0eXlGUk4wS1ByYTBLbGVja3JvTWtPTXpnY1hEblRzYmdVYUgyb1RtVW5rUkpGQWZRb3FiODVGMU5QcDNyd1Zkb0xXOXpKWTBJZlY3cHlHM2JKY05PQ3lwejlpbmE5OUE2RlpNcWVDUnJCTWtJ?oc=5",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdlJzVThhUFlBc0FOclFYckd4T21lWUFmQzh1Y2p4eWQ5TGlTWFRZZms3ZmVvVU1OOG1JejdmQ0QwRUtLSnhFRHpSNzJtWERjU3JfeVVkcTZYRnA2M3p6eGRkYUVrZnpBR19NckE2WGhGS09saDFWdlBzNGF3WFFYczNrYnZqenRpaWhNMnJuSXlDOG1QdXBVbEZyN0JYQXk1RVRMeDdoU0FRNEtJcmpWcUV4Z29WSGk4NmpRRGM4amhSdVNUcFJkaC10aw?oc=5"
       ]
     }
   ]
