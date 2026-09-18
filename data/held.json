@@ -1,241 +1,76 @@
 {
-  "at": 1789725107239,
+  "at": 1789740664985,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Washington State Standard",
-        "spokesman.com",
-        "Axios",
-        "NonStop Local KHQ",
-        "Courthouse News",
-        "The Center Square"
+        "The Well News",
+        "post-gazette.com",
+        "ABC7 Chicago",
+        "France 24",
+        "bozemandailychronicle.com"
       ],
       "lines": [
         "center"
       ],
       "titles": [
+        "Early Voting Begins in US Midterm Elections",
+        "Early voting begins in U.S. midterm elections that could flip control of Congress",
+        "2026 election news: Early voting begins in US midterm elections that could flip control of Congress",
+        "Early voting begins in US midterms that could see Republicans lose control of Congress",
+        "Early voting begins in US midterm elections that could flip control of Congress"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTlNETUxOZllGTEdza2ZHZGhEMG5pUjc3U3FUSlJEbnZkaVdSVWxSYWg2djhjdHhydGlENVlqS2NTLVE4VVo0RktVRm95c2NTMFZWSW5femVja19ia3FWN0YzNWpKNFBRZEtqM0VCSEZzclB3bTRzaDZ0Sy1ZaVJXeUZlVENxX3N0UGRfd2dKdUM?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTUZOaE1qdno4Y1oyMmN0ekdFQ0pfaHNwR1BPTU1HTjB1Q0w1bEt6SWZWdVhBLXpqbklmOUJuOXdHZGVTZm92Ymh2TlBDRFRGNkJpSVhneXlzaE5IR3I5SkkweFFpY1ZNcGFRel9SSnM1T1ZBeGtlYWZyNDVNVG5UbXI5MkF2MExia1pKNlRkRUZid1J6cjBsZHhzc25xUmp5OGsxX253?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMzN6Z3VzQXk2b0VDSzgtc2g3M2htQ0hqaE9faDUwZ2VyYTNUZlB1dWthYmlxeHZ3X3JCOE4tY0QzTGYydG96V3NSMXVtVXVmMloyZDBndTZKSUNnRHRJVUVEZkFsaXdSNExFV0NTYWZFSXVfcUp2N2ZjVkNoWnUzMFc3VHQyOUN3UG85QVFRc1BZZjVlREhnOXNWbVhKMVlmZGhvX3BJMDVXSFJzYS1lNkg5aTZzaUVBeUZYQWdUbTVtN21R0gHKAUFVX3lxTE1BSzNOelBVQWk0bkpkU0hPZVVZT0FQQ2xLSXU2cjJKalltLWx0M1M5Y1Q2S0JDQVpjWUNYQno5UzRocnd3MWRPRXVXVENVR3FWVUtBRXVUTzRwTmFQdGJRYUVsdnNwQXE2Tjlpbzc1X2Y3WVMzNGRpWjBJMG4ybzFWMVRuSWxFWHVhN3JoTnUxTy1SR2xlNDZ2NzlFcWVfci12SVZ5RzVUODA1bUh4YUdfbkFGckVrckVnNkZZc2xpZHN5MUVJY0ZYblE?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdlItNmVqSzR6UXViQzgxNzVBLVZwX3JIdklDM2R5WlRnVS1VYmlJdVJWNDRFOGhJUUV4ajhWQU5WWmxsd2ZZOWNkZHFXQUdMRzRFZ2ZHSkRwWEh0VkttelJtV2VYTFh3TTQ1VmJjVUFDamhkQVNaaDdyMmxZV2Ewb1dWenlNUEE5YXdpYlIzSmVKalQtdTJYUDZTYWczLU9YVTJGa3pNNUZKbTdGZVcwNEhCOENFZWctaW4zWDlPMUpvcnhKcmgtcVFiOGI?oc=5",
+        "https://news.google.com/rss/articles/CBMijgJBVV95cUxNbGhFRHduaFRBQWlPNzRjWXZmNDBCSnRpTzNZeDhYVFEzb0gyNzYtMl8tR0VpSWs4bFF5WXFkT3hWU2g2R2FZMUs1a1FMSXgyRk9GWlB5dG9GOXFFWEhGMHJYajZWSW9uRm9yZUdWXzNEeEd4SWdJYUdVRGZ1M0RPczhjcFROX3cxS0NKOEJralg2dV9XVXp4T1RuYmhiNko1TGhYWGttOG1KdmtQcHhra2JmbGlfX3VhUVF2RTRXSjlWZnVzazhHSndFTlJrYWhFMzNMX0hWUjYtb19xdHRWQlVBeE0tMTNiLU9RS012ZC1YTTNkTmJwc2EwMTN5VE5Tc3ZCeVVWS2lfOU9lbGc?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Axios",
+        "Washington State Standard",
+        "The Spokesman-Review",
+        "NonStop Local KHQ"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Washington Supreme Court strikes down voter-approved natural gas measure",
         "WA high court tosses natural gas measure approved by voters",
         "Voter-approved natural gas initiative struck down by Washington Supreme Court",
-        "Washington Supreme Court strikes down voter-approved natural gas measure",
-        "Washington Supreme Court strikes down Initiative 2066 - right to choose natural gas appliances",
-        "Washington high court voids voter-approved natural gas measure",
-        "WATCH: Washington high court nixes voter-approved natural gas protections"
+        "Washington Supreme Court strikes down Initiative 2066 - right to choose natural gas appliances"
       ],
       "links": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWnllNEZ6WGtkSXZuR0JrdFlMTm1hR0ZBWktjaFh3QmxFZUp6LUxwOENXUFdjRVlZYnRNUXk3SlU3bmJOenVlYWI4S0JaQ3U4VDNzWGJaTEh0bTFLcGFnSXltZEw4X1o1UFRJd2tlWk4tdVZ0ZU5KRy0wbDRHMmJpMThqR0d4WkdaQkxJcFd1ZEZ2V2cwZ2dqSEIzVllCcm1CaXIwMWRtQS1Ra1FqU3dsVnNR?oc=5",
         "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYmN1QU1BUDNVM05FdTJkRVJQb3k3Z3lla1pQUkkySENtTHZNSWFhckNneThMMWF1T19wQlBaUmVVYVZRZ1BQRlB4cTdVY29ra1ItOVkzYlZLTDR6UEItLV9ZeXg5VlZ4d2JtYWFrX2lIUGJkUXhNLWlNcy1BazF1NkZoNTgzSzE3RDlOdGw3OFZOR084WW15V1pzRzdINHEwUEgxWS1MTnEyeDQ?oc=5",
         "https://news.google.com/rss/articles/CBMingFBVV95cUxQTzJQOW8wVl9UTm5qYjVYVzB3ODR4UWg3aW9Ea0ZXMEg4T0pWUGZvdTV2b2QzUkpWc0pWSTU1Y0VnbGNpU1JINTVRTjAwYUlEbzdiRHB5eVdlX19zYi14Nl9pZ3VBMzk1RHU4aGpnX2NfRkhfX0FHUndBY1BENlowSkY3b0NEM0xpdFVoVzZCektRLUtubEZXaXBUM1Rpdw?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWnllNEZ6WGtkSXZuR0JrdFlMTm1hR0ZBWktjaFh3QmxFZUp6LUxwOENXUFdjRVlZYnRNUXk3SlU3bmJOenVlYWI4S0JaQ3U4VDNzWGJaTEh0bTFLcGFnSXltZEw4X1o1UFRJd2tlWk4tdVZ0ZU5KRy0wbDRHMmJpMThqR0d4WkdaQkxJcFd1ZEZ2V2cwZ2dqSEIzVllCcm1CaXIwMWRtQS1Ra1FqU3dsVnNR?oc=5",
-        "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMXBNcXNxR3BaclA5X19uMGZZWVNnZkUtVV9qTjFJZEVKdllwb1ZfOGRNZnF2blBLeXZEYmM4dXFkZ1c0dlhGMFdoOGVmcDVTdXZ5bFJTYWxVMjBPMGttT2dIVGNlN3ZBOURCeURiRFljVUVTNW40Y0RuR2Q5TnJPc2Vja192U2ZVUkJpVmR0bEQwWjg0WE1RX2RKVWw1aUh0ZVViRVlRT3FhS09EMFJIVU5DZUtyT2pRdU1PaTd1VDRxQk9iLUpsaHpyOHRfblg4OGNEWGZUVWpyQlJTemw5UmxCN3JSZXd1RS1UYXFaMUNVSEE4cnU3UXBWOEJrZw?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmNZTWdObV8tWXltalYzUWk2d1FiUFFiRWVsSVBwQUp5Mm9vTmhGYWhqemp1X1AxVUlDZXl0WU5zRVVuMjlUNVdzeWxBVmcyOWF2WnJmUTVtZlFxdDNmdm9KSWV2M0ZFVVRIa1Z4MXRKWUg2bkFTdE1fUzNUQXJGTlJGeWxiTGVUT3Q1YWFhZjhmc0JVS0pPMA?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSS1GSHNMa1lfc0FXWGI4bFZrY1VFb0h6Y0Rxd2VjVGNXUVoxQi00RUo2ZXZDT1BJSEV3aU1JdzBqWTV3d0dJb1dvSmN0N1FuWmN4MElHWlBDSXFvdHFlcF9SM25FRGRpbWRYOXBCZWdpWFpfWDR2UnRWSTRTQ3VRZTJiVHpEX2dnVWZSdnBoZ2EwZXZuVFNR?oc=5"
+        "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMXBNcXNxR3BaclA5X19uMGZZWVNnZkUtVV9qTjFJZEVKdllwb1ZfOGRNZnF2blBLeXZEYmM4dXFkZ1c0dlhGMFdoOGVmcDVTdXZ5bFJTYWxVMjBPMGttT2dIVGNlN3ZBOURCeURiRFljVUVTNW40Y0RuR2Q5TnJPc2Vja192U2ZVUkJpVmR0bEQwWjg0WE1RX2RKVWw1aUh0ZVViRVlRT3FhS09EMFJIVU5DZUtyT2pRdU1PaTd1VDRxQk9iLUpsaHpyOHRfblg4OGNEWGZUVWpyQlJTemw5UmxCN3JSZXd1RS1UYXFaMUNVSEE4cnU3UXBWOEJrZw?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "kgns.tv",
-        "kcentv.com",
-        "Axios",
-        "ExecutiveGov",
-        "The Hill"
+        "Rigzone",
+        "AG INFORMATION NETWORK OF THE WEST",
+        "radioworld.com"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "House passes Ratepayer Protection Act targeting data center power costs",
-        "House passes bill targeting data center impact on electricity costs",
-        "House votes to curb AI data center costs",
-        "Near-Unanimous House Passes Ratepayer Protection Act to Curb Data Center Energy Costs",
-        "Senate Democrat blocks House-passed bill on data center electricity costs"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUEJ1NVQ1blZBcWVCZExPalFsSGU0R0ZrT2VILUFrd0xQNXpoM3BDTURQeDhhYjA4aGgyN01FcWd3ODlqVXpwSEVoMUVab2VodC1ZMDZXMEpaX0RVbFhUNUFjVG5YWTRXY3hpUXNWbDF0dnJ1cS1aNS03YkxrbnNoT1gzMTI0NlYxYXlFRkEzSFMwdEFVVnZmRHJwYzVjenVMSU45X1oxbUU2eUwzaklFaQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUXByaVpidzdUdmx5NDVPcjR6Mnk4QmtpdW9ieWZJMHdRY09yNF96RFN3Y2FpTXRYemswdUEzVWJmS2FROXhJTXFERHdaUkVXTDJOZnFSLXZZdHYzU3R4eUZKdWRlMHpjNmk4amV6MUhFOU56YklGaXRSTWRoZGNDNG5jZkVTT2JvMVpxYXJLU0NlWjdvbWZhVnJJdEpzMW4ybGFxZy11OGlKR2ZGWWlFUFh0eFVfRkdvYzQtRnhVb0VMRVBTRmpnYWdEVFdRWE1kMjZwSzlTUE1LdDdrYkQ2Tmo4SjdIQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMic0FVX3lxTE41NjN0Qi0ta3A3U3JRYWM2MENyVjFET19Zc2xpXy1OWWJZOHVsU0d6aDR3VllCY0lqcXhPUXBieml4bVRCd2RnSS1MYklLVFNQTlliTlZmSUlaSkNjUGFFWFNWZ29GVDIxVWoyMTB1ZlEtZmM?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxNaG1IWXZYM2M1MGU5QlBjMkZpVm5IMUY4T2hqTHRQZDkxNWtYYXY1a2ZxTlJGYkN2amZoVmZoZjhpR0VYZ1I2LXp4YXhyWk50endkY2xnLTh4OHJDNzhEN1BqTUdPQm1HTzBqOC13bWZyaUJxOVFJY1NaZ2oybkQyV19jT25WdV9Ib0lQeDd3TjBGdE9tdWR6NTJfNjFadw?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWm4tcjBPc0VrWjVWR2NESURJVXFkOVVYRmMxekEwUndGSHBzRU0yTEE3aW4xU1pvTnVzTmFEcmVJNmZCTm5STFdpbTBQeGVuLXZmeHVkYUd1VzVSbUFaNnZsQXYzR25mcExrQnB4YXg4dnp2Tk1mbnU3SVV2YXdPVmpZMDZuaW5fOFZRd2ZsblJOcm9rOHRRbktR0gGfAUFVX3lxTE9CN2llLUpVVExOaERLUDJIY0xOSVFSU2NWNFN6MnhDQkFSZU5PaTUzdUJXcXpzdnNyQXNycW9oVDRISG5BNjRTZ3hMUklpZFV2RnhKZU1XOFZyWHFud3JHSHlVMFZ3ZDk0WFBZNTNZMXFjZDhhclZ5Qmt6RUJyUG0wOWxQWndBQ0R4Y0xWVG5fUUl5WEE2Wm1pRndWeTlOYw?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "chinadailyasia.com",
-        "aginfo.net",
-        "radioworld.com",
-        "WPTA | 21Alive | Fort Wayne, IN"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "US House passes Russia sanctions bill granting Trump tariff authority",
+        "House Passes Bill Allowing New Tariffs on Russia Oil Buyers",
         "AM Radio Bill Passes House Vote",
-        "U.S. House Passes Bill to Require AM Radio in New Cars",
-        "House passes bill requiring AM radio in all cars"
+        "U.S. House Passes Bill to Require AM Radio in New Cars"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lSkY3QlRnbnEtNTZ5OXRmeFd3bjU0Z3l6ZmxsaEY0Z1ZyVEx5YkxKbVpERnN0QlBDUEpkdldVckkxTDUzakVOSGh2MC1XaVpId09Xb3pmalQ?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPallSa2xyclRfZjNuMnZpNnFrSTRJcmZFb0hzeDlDeTFzS2ZFRm91SVRTcUNnMVZVT0hPR2FPN0ZHNTFodHk1amJjOFlJODNESm9BVzZhcm52eGxCbE52ak1WYW4tN0puTHZSSVZNRTJpYnNORFFvZTNtaGNLLTZMZDNrVWNLVFB2LW9qMVFYeE14QlEzTU80SEN5OUNaYUoyeE5VV0lwUms4NkVmRklpZEZ0elpqMXBxVWlTSWF3?oc=5",
         "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkxPM3Rvb1hNOG0zOUFCYWlOeUZDVDcxVm5hOEViSG9PV2puM0ZOZzc0WWRaNVBrNEhwRHdtU1ZsVTdXRnhpZVp5bml3bVpMUGJlNUJyZjdPTlZGU21pMG9mbzdmbEVRSHlzX3NQaXZLRk5fQ3d2TkdZWXltdlU2S0szUUNQbHB5cWlmeUx3N1NHN19Wd1VfN2pzMmhQRUlGYllXQ3NR?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWlxU3hlTFZTUE5CaTVQbTZYd0J2TnlBUDBRM1h3SFZ0X3BrYzY0UTRWczh4UElSaGYtcjZQUW9uQmtfNlQzczZsOVl3RXdUUXVUN29INUdOb0YwSHJROXB4YjlhdEtoOTlYX0Y4Tnd3VGxMT0syR19SOWc0YlFxR3I2cUtxVGhTTXJrb2J0Y1dZLVdtWnFiYzR6YV96RUtlcmRscjRyNFNLRzRv?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzY0UUZOdlJkVjhhX2k0OTEwNWZ5LVZjYmVYZzBfRlhKSUdyM0dTLVJhUG9YeGZ1T1lrcllHV1ZFYTljNXlCeVU2UFRISzhEZWxUTXhSLVo4dDB0MHlyVW5wZmJPX2RoTGlwR004bndxN05TSTVCLVUxeHJfVDhoYXdHU3lrUjlfQTg0T2RLQ0xMLU5fZk1jLQ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "straitstimes.com",
-        "WSJ",
-        "USA Today",
-        "Currently.com"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Hispanics feel ‘betrayed’ on immigration, Republican warns Trump",
-        "Republican Lawmaker Breaks With Trump on Immigration",
-        "Republican lawmaker breaks with Trump, says Hispanics 'feel betrayed'",
-        "Republican lawmaker breaks with Trump, says Hispanics 'feel betrayed'"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaWNhMmQtQkc1clN6dzhuRER3a2s2VGlQeGl1b29FNUY3b2NyeXRKd3BZaXpiNkNBdFU1aXlqWGZTUWd1MXRwSU53Q3VTOHotVjFVajFmLU9oSnNiTzFtcmw5QXdwR3VkcHpBd0FrRmQ3YnBzMl9kSVJ1bVF4RFVvOFBtZVJFelVUYXVuTHdSWGZNbHlfbnNQei1CV0Z1UmpGblQxOXhJTmtlWTBxdHJB?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1I2SDV2ZE0zY3FTT19HQXByZDF1S1gweGdVdGMxbU9yNm5hWHNZMmZDaVFOc2lhN1FZZFRxQkt3RElrLUZ2NmEtb1VqdTZLVG1GN3lQUDB6ZmprNnM0N2dvMS0tNm5MNk1COVpWT2c3NTJIcDMweFdqOGhhR0xadmhCYlhIbjE3QURrSElrWi1RT0wyeXVYaDJPWDA5SXRMRlE?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQnIwQ0YyOHg4bTNRa1BHLTZNQzZtdGoyMjFpTmVGdU4za3Nja1J2cDByUEZ4M0ZUOG5uVHRGeGdFM2J4ZWczOTdrSUhvOEVlRlU2eE9UUVFiTmVjY3JOZmF3V1J0bTVkeTQzNEl3R1ZDWnlYTE1zcFZJRUlGa2EwSy0xdmlYbTAyaVdrdUZrdXhmUDFFV2NtQXY0aXNtdUc5dWhXNmZzR2JXempwSG5qeDhQRHAwZTV4YlN2RHkydlo1amRMQTAwcDhodEJzWHFM?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYkxpNkR1ZXF3V3MzSVVPUjF6RlVjQ1RuS3FPa0ptaVJiTm1zQy00YUF2a0NXNHVYV2s0aElzU1pTdjdSaXk3Z2FZTXRGZkJrVjNBZm8tbVU1djZDTXpGdzZqXzdvNE9BTzNSMHhvdDcxVXdqTEVVclZYakpXTFlNNzVDMWlEQ0plY0tyQlg2XzFVUQ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "El Sol de México",
-        "López-Dóriga Digital",
-        "Clarin.com"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Gobierno Trump mantendrá deportaciones “le guste o no” a congresista republicana crítica",
-        "Gobierno de Trump mantendrá deportaciones \"le guste o no\" a congresista republicana crítica",
-        "Gobierno Trump mantendrá deportaciones \"le guste o no\" a congresista republicana crítica"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWp1a2VYd0RSeE96Q24yMHZmVlBtckFDOFQ3RVFYUGFyM1JUbW9Wb3lHMHE4cmlqRkdPSFNYLTRiMW5FU2JhVHU1UURWTFhEd2t2UDVycVFrQjNXVXpZTDdneXFXNi1VWndUc3luaXBkTDNhemRFMGRjNm01NHNPLXR6My1aSkptZzZnY0ZyNmFzaDRad1hUUGlQU3liTXloUnZZb3dLSEhUYXc1bU9yWGdRR3NiN3o0MjZueUd4eDA5RmlzYmlvVmhCWUtmNzQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMmFXdm1QbjBDOG1xN1Z5RWV5VXFRekZxTGp5dFI1LVkybnlnTDNxekNVeVdybGR4bzU2QTkzS0NRa3l0R0FYb0llTU4zUXlDUEdHMXlXUE5GRVVJNE9TN0ZFSW9ZUldaaVV3SmhuRThjZ2hjR2dfS1FPVkExd3o4WlRIb1l4aVRuX3JrM082eWRmMTExVHVfOTJCRFp3OFZRUk1Td29wM2RUTG5BNWh3b3hnbnR6UFNyQmpKREpwS2ZQZEk?oc=5",
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUmFUWXc3NzgyMTVBUVozb3lsYnVLbUl2cTJYa1phQVpONUhWR0t6NndPNTF1NDFsSEV5WlJsaC13d3RId011Q3dLQ3NPMzI5UmV6TVZOR2JYOWszME5EVnBCLVRfUnowVUZ5NXFDNGRmM05MXzNZLWFpY3hjRDc5T2o1clREWXR2NGNiYWJfRzRaa0UtUzJXaXZsbG9EejNHNWJOcVBTR2dnV2F3U0NHbjAtUGEzeERlYVh3eWlSR2dXd3J0bThJZUJsZWxTOWtubjJ5Vk96YXlPUQ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "World Socialist Web Site",
-        "San Antonio Express-News",
-        "KTVB"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Trump lashes out after Supreme Court blocks mail-in ballot rules",
-        "Supreme Court intervenes to preserve mail-in voting, rejecting Trump's gambit",
-        "Supreme Court blocks proposed mail voting changes"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ycXFub2g3SGRFX1A0RHVsUjNPS2pQeW1mN2NqVENQSWhhSzFDcGpZQl9HMk1pVzE5Ym9MYjR2cFdYSURzcmx3SFo0YTFjYVpHZ3o5eWlvLU15SjZPOWZ0SkpIQ3RlSS1H?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM2k0SThMWWFCTGVubkE0bS0wTGV2aFpzM096TWdpV1h5YjFhdUE2elRmMTNIODNPRDV0WExNdmg1UHN0eXlGUk4wS1ByYTBLbGVja3JvTWtPTXpnY1hEblRzYmdVYUgyb1RtVW5rUkpGQWZRb3FiODVGMU5QcDNyd1Zkb0xXOXpKWTBJZlY3cHlHM2JKY05PQ3lwejlpbmE5OUE2RlpNcWVDUnJCTWtJ?oc=5",
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdlJzVThhUFlBc0FOclFYckd4T21lWUFmQzh1Y2p4eWQ5TGlTWFRZZms3ZmVvVU1OOG1JejdmQ0QwRUtLSnhFRHpSNzJtWERjU3JfeVVkcTZYRnA2M3p6eGRkYUVrZnpBR19NckE2WGhGS09saDFWdlBzNGF3WFFYczNrYnZqenRpaWhNMnJuSXlDOG1QdXBVbEZyN0JYQXk1RVRMeDdoU0FRNEtJcmpWcUV4Z29WSGk4NmpRRGM4amhSdVNUcFJkaC10aw?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Morning Ag Clips",
-        "American Farm Bureau Federation"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "ICGA, ISA Support Passage of Farm Bill Proposal in Senate Ag Committee",
-        "Farmers Pleased with Senate Ag Committee Farm Bill Passage"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZGp4eGRob0F0WkZvbklHeGZ1eW5EMHExRUkxVk5QQjdKdjUwRk5taENmU09RT2oyZEVZbElhN3lwNmJfQ01QSy11Y29vb1ZDa1R5WmVZWkV1YTdEQ3AzUFVaVTFiaUdvYTZraGVmWFFld1djak5KNmFRQks4ZHBFak1PWWo3LTZ2VWg3OVdlckM5YjVFNjA4WVhGakFZNlphT1pn?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPemZlTXBpbVdSekpIWlhRQ2s4c0dGeWhKQXQ1TFdZbFN3RlhBSGFwOUFoQ3V6SENOVm9NVFpXbG5naF9wLVNrLUl1QUdPV1Q4d09ja1VKNmFveGhmS05HczB1dUN2QWVJdjJWcmNOM2IzY1l1cjV2VVRrcGZzTDJNcXc3Sk9pYXRtYmNQMTQ5SQ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "MetroWest Daily News",
-        "Seacoastonline.com"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Ballot q's, top races: Here’s your cheat sheet on MA 2026 election",
-        "US Senate race headlines NH 2026 election. Here's all the races to know"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcWk3QWd2UndVM2xiNjZWQ0pfMUh6WHZsMlVYbzY4aTRKeFNVVmxJc0RYRWFhTkVyNFhxU29qRHFNSzVRd2MyTFBHWTZYQ2RPVGFUcjNHMzdHVDNZZlFEb1h5ZEFHU2ltSi1WdGtQZW5JdnlIZFBodEtiZHpyNG5iVlhxZ0hZcmFFQ0hieVA3dGFPZXlkMldNd3RCenVqdExHV2hqclMzdTNwT2ZyVS02MW9QWFJXenhscDBfZFhDQmJHQVB5SW0zRjNQc0RTQ1JBUWZUaGVuczRMemJW?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTN4R1VjLWcyQWxkVVpOSnBiZkJxSXFlZVlpMGpTckNfVWxvM3pxTDR5Q0lURTE0Sm1UV2hvRk8xVW5TU0s1SHNZNzhDczFqX0w3WHFMNjlzU3cyNl9Lbk54RzhaOThsZTgzVnV6SkFEdDVrbzlLR2MzMmI1ZmZyNDIydkVFTDR6Q1ZxTUpBeVZSbkYyd0pGTHBlaGhyaTMwRzVkcnBBcG84VVVPZmVVeVUyUndZVjhNMk1DVkdnbF9SQkxaZXY3Rlo3V2ZtQTB6YmRfTExWeEk?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "The Presidential Prayer Team",
-        "Southern Farm Network"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "House Passes National Fraud Enforcement Division Act",
-        "House Passes AM Radio for Every Vehicle Act"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRHM0TlBCbERVWVFhNmlOQmx3Q3IweUE4ZDJWTWpOWXYtSVVBcU9nUG8xNzNGWHg4SWVQR2wzSms5cFE0TjNLSnowWS13cFBHQW1pSVVGNXdFeXBpeDh3S09LcTAzM2w1amVqOE12a2FyYV9lVW5TMGNQbmpLRnQwemZaTW5xN1c3MHlCeHhOMlBLRDl2YVpzWk82T29TcTI2WGdXTTlB?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ1FKRzE1dWdwTWxvMFRYRTRueTc0cEdTWXUzUzlFOWFMQnJfZkJaTDcxSldza0RaVHk0WVBJenFITGJTMjdmOEVvY1JyUWRwQzNncVRjMG1XcVA2aEdJaGhCZjQzcGg1NWg3ZjFOby14VEgzWnEweEVhanJmbE9mVThodFBXNjg?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "New York Post",
-        "Fox News"
-      ],
-      "lines": [
-        "right"
-      ],
-      "titles": [
-        "Unearthed clip exposes what ‘DEI Queen’ in razor-thin House race thought of ‘Back the Blue’ law",
-        "Unearthed clip exposes what 'DEI Queen' in razor-thin House race thought of 'Back the Blue' law"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY01MMmd5WEFObnVRb0pwbVZYZDJiNXdLazRuT21LUi1ZaGg3MXRkM0dBdV9WWTFYZE12Y2VEZ3FYaXA5NEVnWHF0aXFsNmhZWDlMRTB0S1FCQzl4c2s1ZEdjVlRNYjBaS3BaYXZ0Tml0QTNxT2hUZ2Jmaks1emVGQmZjTEs5TllqTDFGMGNkQ1JieXRvUGg3bW9UeUdBVUZaYktVNy0wc0ZKbkZJclpESm1NT2pJal85aU5MMzE0Tnl1OS0zNlR0X0s4NS1FZ19mT0RDR0JoMnN5ZWtTMVhzUC1FSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYXhkVXdncWJpdEZLVmRENlhWT0VmVEpoNmUxLU1KSUZMYU1mbW1ldjhvd2VQalZOWFlPVFVVVXU0aE5pcmZEWmpibks1WTJNM0dyWVJlNnRZR2hrUGRoV0dVWkgydzFTc1g3dUpPS0Q4VmRiTjVMUWVyb0ZwQS1rcEdGZFR3Wk51TUdORTY2NTE2bi1faERhQXl3cmkxTTNiWjFGM3I5T05hM2tSeFV2WjZuQ23SAboBQVVfeXFMUGV6SVBDTlpqRDhqUkxQMDYtUFB3TTRLd1NEdEthRlQxT1F1Q1RKMG1VRk9CNDVsS0NaMWlGV1pmYWJqSFM4MGFXdDJJNXg4OTRhcFFSTlFMVWVSbFdOem9UMmlaaDJPVENrdTZlMU8xMFpDWFM2MjZlck1LZjRiSWxSRXZNbWRZTml0VTdGNlAycVdZQlB5bWVDNGNKNGZBbjN1OU1FVmQtMndsMDBETXd6QTJBdzBvOGd3?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "foxbaltimore.com",
-        "FOX 5 DC"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "SUN: Trump revokes Obama-era order that served as framework for Chesapeake Bay restoration",
-        "Trump administration revokes executive order on Chesapeake Bay restoration"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxORWlwdWFILWZyTUF6T1dPb0FoZVlzbzFsQTFKLVhhU3dsLVhKWk4zZjRpRy1IS040eTFxa3UzWXpxYlp1Ui1PamNPMExoaHRDSVEzdmhxdnVvN2h3d04wZ3Z1OEp2Q3hpd0d4Qk43bERZc3QxRWVBcWxLYkZxZkozbGZqMkpQYXFPc2RFOXBFbWdxd3Uxd3JHaDd6SG9EQ0FWYW1DLTZhWi00UmZ5NUx6cTB3?oc=5",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUkJMQ19ZMDYxT2pIOFYwdjRVN3FRd0dqeW40TzRaaVNGQldQLVU3U0kxSGNxZFVtM1Bldjl6T3UwQ2w0amRPVnBrcHpsSTJDVEVZVjh3VkZMVFFnMDNVRlluR0psVkZOMUVkTjRnbzdIbHYxVVBZVlU1ZE1BdzZWeFZaYlFoOEY0a1E00gGQAUFVX3lxTE5mV0RQOHItamFSVEFoOUh6NjBidFdDV2FkRVFmVm5PS1JaOUViLVhfWk12R3NBSUlTek5PbENBT3U1SkxyNUNjWEh2SGZXZmVLYWx3Qm96bkFtTTRhb0xyU1lNUUh0QUlKUnBkUE54djN1UjZXY1VtMEZrM3BhRDF4d0I3ZEJkcUNYdFp4WFpnSw?oc=5"
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWlxU3hlTFZTUE5CaTVQbTZYd0J2TnlBUDBRM1h3SFZ0X3BrYzY0UTRWczh4UElSaGYtcjZQUW9uQmtfNlQzczZsOVl3RXdUUXVUN29INUdOb0YwSHJROXB4YjlhdEtoOTlYX0Y4Tnd3VGxMT0syR19SOWc0YlFxR3I2cUtxVGhTTXJrb2J0Y1dZLVdtWnFiYzR6YV96RUtlcmRscjRyNFNLRzRv?oc=5"
       ]
     }
   ]
