@@ -1,28 +1,28 @@
 {
-  "at": 1789844280873,
+  "at": 1789853037135,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "A News",
-        "Yeni Safak English",
-        "Al Jazeera",
-        "KJZZ"
+        "The New York Times",
+        "The Washington Post",
+        "ABC News - Breaking News, Latest News and Videos",
+        "CBS News"
       ],
       "lines": [
-        "center"
+        "left"
       ],
       "titles": [
-        "Mexico says progress made toward trade deal with US",
-        "Mexico cites progress in US trade talks after Trump call",
-        "Mexico’s Sheinbaum says she spoke with Trump as trade negotiations continue",
-        "Sheinbaum says she and Trump are making trade advancements after call"
+        "Appeals Court Restricts Trump Administration Deportation Effort",
+        "Appeals court says Trump administration’s third-country deportation policy is unlawful",
+        "Appeals court rejects swift deportation of immigrants to third countries",
+        "Appeals court rejects Trump's third-country deportation policy, says detainees are entitled to more due process"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWVA1d2FDQ1dzbThmbEVVVHY5QUhUUDZ3Q2RMV2w2TE16b285eWVxa0UtN3gzclFrMEdva3lBOFpQRzhLV01ONXI2WDhMekUyLU5FNlQya3JmRDJnSnJITjYxR21WLVRCSi1Ybk54WXpIU0tudS1CR1ZNM2FHcVZ6MWNuc0p6TzZkWndHd09QME5kVFNLazhHQUV0c0PSAaIBQVVfeXFMT1dKNWVlSVYtN0tUdWpLNHpGYzAyYXNWRWtrWXQ3UkVVT1hnWll1SE1mTEFTaENoWEtaUHA1ZFkzOGZoS2o2WmpyN3dLM0ZlU0tmRTdIR3kwb3F6ZGoweTZwTWlkM2xhWUJKeEhadW93NGVINndVbHBoSzRfRFNadTExWmZhek1uODZtNWlFdVZHcU1zR0NRamVjMmFzeV91Mmhn?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd19xWjRqdExBSXZJcW85RDNFeXREZFJwSzhSZGRmZ3JyRHVkbnNzWDNoVTRPX1MzTjFPa2J4VlJ3eFZUUXVtUG9PbGp2LTlRMi1uNmxodjZaUVdVOHZlZHBmdmk4XzBmNjJGNGVIdTM0WWQxTUNZZjkyMTlxMm1pZDZkTWFmNVNvZG5Xd0E3d1YxdUU5VjBIMmVtVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVS11Ylp0OUJaUlB3QnZRVDhDZV9TdHRlYThXSTFWNy1YYkY5U20wcldPbk9EMjliUGUyS0VTM1d1U0RSS3pkTWRPQjJ0cWp0MW5ldnZ0TGhiOFhja3pYZ296aWxtR2ZQMmJWbUl4TE9rcXdwejkwTnN0SUs1NERnX0F4TmlGRTFPeVctemc1NFZFZ3NNSTZ2T2VZWndZQ0FfQWRURFZzMDQ2U2FvVkdBOVd0clZnZ9IBuwFBVV95cUxQSHJQS1dEX3U4TVVFbDRmVlRFM0NqaVNIbHNYZWNudTZsRk42SDF1S0hralZqbFljYWJ2RG92OW9QX3BIOGRBSW4wbHZEb1llR1IzWUxhQVVuRDR0N21QaUhObGlGeFRVeGQyYmFtd0dXRmFBc3YyNFRkeG5tN0kwT21sdldtVEt4czZxVDhxQ3k5OUhSTlVZMkN6TjhQZWNVdmx4bE1MUE1XaHZXcVhId3pRNlBwVUtGM0Nj?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkx3UFRXa1dCbVB4Z1JjSFRfQXRQLUUxdjlJZkpMMVQ1V2R0UnJqclJBTHFUX3NGZ0FfSTlxMUpULXBoM0w2UENzWHVacG9PTzYyWWFtc0VaTHRvVkhUOVU2clBYd3g3elpYcUVRMmJnWXIyRjI3UnU0YVprSTM2dzkteEJkaTB5bm9DRE5JbGpGVG4wdTRBU1dJMUZ3dnZaYXJ5UHJkbDc1b2lkUl93TU4teXpQQXc?oc=5"
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxOT2NGSUdoNE9GaUF0ei10OWlmZzI4LWJPQV9oNzZ1ZWtDUmdWamtsM0Q0UkZ5ZVZ2Q1dkTnlzN1ZMcmVwZThPa3E0SG9HT2JuN1Fmb3lTWXVFRGlfdzhhQTJiTHo3VHhMWnRGVlhaTmVVVHN6VXFjYjlVYW1JM1FRc3Vxb1drVnBybFd4V3hhd2o3Vm1UX3NoMEFhWkJzQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVRaN2pUcDB5aXpnSU1OLTNRMlhHY3o1bUZLVWRaZzdFOHZnQkMwOFFSTVlicGVQYTZfQ3BNeXdMMGVCdzE5d3JoZ1M1NUxCYU51WmdXOWh0c2dTZ19GX19UbjNLbzRuX2lFXzNrcXJHVTdWdnptY1hyYVNEUUJRekhQVERBb1RzZExaWUl0eTVaa3duSlRlVmY5VzJNZTBfTW9RVlFBV0hSaGNtMlZMaHFCclVoYnRiU1FlREFpcGlBYVBTS1JBcnRybnVvQWFqT0RGZkRkRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNalBUN0FFX3EtN1QxVU9EUkc1ejJ0eElpekhtRDZNLTVtenlZcnc2Q0R5NVNqUWJJQlQ5RTZ6TWt4c05YdFVjNnFmQVJ6ZERIbjBLbGNsMjFoM3o3X0d5N3pjVXJxcUlpQjZzVHJ6aDQ1Y3B0c1ZlVC1QeTViYUQzdWdMUDNucEQtUV80dU1uRGt4TWtJR2VtSUlfSXJxbkI1Y2xTaFRhdXFzZXUy0gGyAUFVX3lxTE1jQlNkMmxWcXRmWDBZTFNNYjJESktoSVczbkpIaGhoUmYtcTdSYUlfWkdVQ1I5N1lTQl9UVnNQZ25WbGo0X18xT093R0V4c3pmZEhkRmR2ZDB4Z1ZxYTJaVHNtSzlfOXNvQm5rWGlQZFlkYkJnUnRnOVkwR0RFa1FoR0NYd001MXhOSUs0ek0yN1Q5b3NWcHJkbjhSbUFZT1ljMXBVS3dlZ24zTVFISWtCX2c?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcktoYUlSejkwQ0N0akZ3ejJid01PT2hJQjRRSk5XeGkyYWpCMnFDYU5Sc1FzaG1RSUJYSm9HMWVXMTZ2cVp6eGRoYkxDNmMyN2M1ckRCaFNmQkM2M25jV2YtNmZwVHEweGRvdU52cmJDZE5yaDU4dWNuQ3NQNkJsQTM5S28wR0FTTmI1SjV6aEJpZ1gx?oc=5"
       ]
     }
   ]
