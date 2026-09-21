@@ -1,46 +1,49 @@
 {
-  "at": 1790016910228,
+  "at": 1790029773560,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Yellowhammer News",
-        "FOX 2",
-        "FOX 5 Atlanta"
+        "localsyr.com",
+        "spectrumlocalnews.com",
+        "KCTV",
+        "KMBC"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Tuberville pushes American-athlete roster protections, college sports overhaul nears Senate vote",
-        "Senate nears vote on bill to overhaul college sports",
-        "Senate advances bill regulating college sports"
+        "Appeals court favors Trump-backed Missouri congressional map, but Supreme Court will have final say",
+        "Appeals court rules Missouri must use new congressional map",
+        "Federal appeals court reject challenge, rules Missouri must use 2025 maps",
+        "8th Circuit rules Missouri must use 2025 congressional map in November election"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS0V6TEV2V3F5VnExYkNibTUzZWNiNHJaVjZMN0dyLTNpZkgyZkh6RzFrZlZ1UUtlNC1BZ24xQllURkNFSEZVTW5yWW5iTUo1bEJMeWxEWG5TTy04LVdxRjRjTzVDUmM3b2dMYXhxOTNZUHhZdU1aRHJkY080ZHNtX3hYRGNzZlNmYmxmNkU3TndYbnFZZnQxLXhCVmpQSEZYQWR4U3RVa2xLVFp0SWZHRnkzS3FmM1hlVWFjU0xoRm45Wnc?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1RxdHFhZlZTYWk2aDhIRVcxcDVfQmsyWFNIQUJOdmllNEpmTmJaN29mRTc0aUkwc2JxQW9tTWFRcGNsS2xudWx0R28zZ3duOUEwSllQRS1iWmF2U0FqQTdOYnZEQ3hrTVlnYi1lczRFQXVDUEJ4QmFpM25KLW1LME41SUEzUlHSAYwBQVVfeXFMTUdPd2F0Y19mWTdUNDJRYXZ0T2FpOXhQcXlfX0s5Q0JsSWtHRmdhamNXZjVqSEJsdDBNdGRJREdGZHdYTEFZVHVCem51a2F0NXMwbk1lN2tKZk1iWDJsX2VmODFNaUdtZHpGdDhaS3BJSk5yM2VTRFZwdi1YdW5veWhCQk9QRG1oN2ZoUzA?oc=5",
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lSzIzYmdmM0V6QlYtRTBXZHNyOWJIWVYyQS1UMGVIOTcwWjIwaE1qc2szRjRLWmpGVmdrOXJDdmNTdUJYWFpoUHZja3VFRUxhbUxpVzdNVEhYbVBzN3RuRGhhZzbSAWpBVV95cUxQR1pBUFk5cWpMbG80THE2X1lFcm55elpaSFl2OC1xOElDQXIwUUxIM3RLNmF6SGE5Vmc5Z0RjN1UyZmluWGM2cW9nQ2JocUo2blZJSGJUcVQzY2xJMTZpT1ZXMEZFb1ljYTN3?oc=5"
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRGlLMUw2bEJKMVZGeWdWeVFvSUZxV3ktRW1pT0liWFJBVUtjRG5vcExHYm90Y3pkcndHTGpoZDRudmtWaVdwUl9ld0drN0JqdEFfMUZ5ZXpmUjZaV0pnYXdfOWFhVXJiNnltclpadUFBUmxuY3NKNVpZOHdmVUNyU0JGMXpRNzd0eUZKMGFVZks5bGdVOXZjSS1PcTg5dHFZTWFmUXdWRVFmU1NWd1VRaWMzNEdjc0x6ZVNSSi1WdUFBWHhvczhXeDR6T1FyLXZnMWxZZHRHT3nSAd4BQVVfeXFMTUFBeVg0QXA5RENBdk11SGx5WXI3eGs1eHUtcmkxbzVYX3BUbGU5SG8xalAwMVFMMERMU0trNGF1V1BPckUyTC1XYVpkSGpWdkdDY1ZRUjJBVzNnUnJEZXI5Z3FwVEtTcTF4eUlKMUhVdlJLNDFBRlVZOWs1cVlENDhtNlRCNm92bk1aRjJKUnVfYW85SGtOcjdER2FPQmtWalRvZ3B1OG5CeWk1VS0zcFpqNXkwNGNqNTEyQW5XY3ZmZEFYZUZWYzVpTXp6UkU5TGo5OWV2aXlNZUcySzdR?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVhRbl9yQllNeHNMd1RKdTdtQ093eUNQTURUSzJrSWN0a2dSSzRVdkN6WklDbmgwNFNtcG0wb1BlYzVHajRnVVFLS29qdEpGREVkU001dFRtdjVrVjJDUXFNTjNHa2xrTXc1YThLaTdaQlB3aUVIaXFQQXRUS2xNc1NNSWp2cUZGN2VCRkFJbXZOd0NmUWlYQThSa29WU0lURnRnMEpnSjJEMW42YVkyVHZIamw3cG5l?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcmxabndibXZaUHJjanZpdmJUT0lXYkI3WmZEdjBCbVZXSlFVSWNIekZSYy1sTHctTGZFa1A1eUVrRmliVUhuX3d3SnhmYUJSeXdsbjlpWHFBd2V5U1N5d2NWTTlYNFY1WW1EdHJpTFRBUFlBQzJiYlhlWmhjWDNwSlFYYjRYVDRmX3lWYVRZS2pqZ3UzTURFb1YzOFhZUDczR2d1blhWcDZlQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkZfbXMzX3BrejdObVFHRm1kNktsYjBMWlowVW13UG1kcjFydFlSM29DZGFoMG9TWjNaZmxmNjdEM1lJdXBQZFcxTU80Y19sQ1pPcFI2UmRULVNvMkxQcGZRSU1fSGhoVnlRVWRoXzJTVXNtaXlSSlBYRmFmbFlWdEw0V1k2YWJLTm5jTTIzUEhicTkzTjB1cHQ4V3JrR2JI?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "norfolkneradio.com",
-        "Brownfield Ag News",
-        "News Dakota"
+        "KVOE",
+        "Ford Authority",
+        "Audacy"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Finstad: Senate “twiddling their thumbs” on farm bill",
-        "Finstad: Senate \"twiddling their thumbs\" on farm bill",
-        "Mandatory Country-of-Origin Labeling Advances With Senate Farm Bill"
+        "US House passes AM Radio for Every Vehicle Act",
+        "US House Passes Bill Mandating AM Radio For All Vehicles",
+        "AM Radio for Every Vehicle Act passes through House"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY25ibEpEdy1ZOUpYMmJ0MFlrb2ZnZ1g2dTB4R1lMYlBwSVBSUk04Y1FkYVNjb1VPYnpzOWdIank4RkM0OVptRnFvYkZnNW9UWHlFTjkwR0FsaTdjVDMwUXh5QW9vanRPczlRLS1EOElxUEU2MXg1SS1Yd1FrR2sxaDRzUDRJSjJ0cHNCa2VyeElEUjZGRjVrdmhuX2ZoTi1ZMXRkaHhvOVM0dFRNUUsyc3dYcU85SDBndU9QRlA0dlNFdGRfaW10R0twcFFsUnJBNXc?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVkyejkxS05KUXQ1YklNYTRtUDAtQmlYV0FrSlNlYmZEZm5NZnh5a3dtY2IzMTNia1E1ellyNzBrUFNKTkFpbXVNcTIzNWxQdHZnUzRKV0RZZHA5Zlc3ZkRKaklXenMzTURadnQwN1puWlZ2X1dGUDNMZU1wbVVIM0E0dXd2UHMyay1KazNTZG5QRWM?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQalI3OERZQ2k3SWdTU25seC1TR1k0cG5fQXc1a3NoUENMcmRwaEJWOXdGRGNUanZLVFMwU1htblJ6MTlKUlJ1VkpRZnBoM2JzWXY3S1RxbDBwRWZRTWhab2JIMHpwLVBZTUNQZl8zeHVYRUwySHU2X053VVdDYlZ5Vk93eWRPeXMxenB1b0xqNXNCR3ZOUWhTUmJrTU5EZGJDMlhGRWlEN3EzUQ?oc=5"
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY01Qd1V1cldwYURrRFlkazRqNllWdnhneHlWTHlwbkpSZ0x2emdFSGRKekJWeUthelZsSVIteWs4UWhyeW1NR3pKSWpBcUIxNlFCZlN1N3dVV3BBWTJtajA1MlVaX0VPM1RkeXlhaGhlM1JhbDFUT1p5Zm5iSTlGNQ?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWFtR29MSzFkWjhEYUVOS3luNmk5Y1hDUVRDdTU5OVUyVHJFSDNQR21TZi00UlZvLVBORFFRaDZkcndlaDNrSV9GcDd6RUY4WTNOTTVVajJsSzZyRlVHcENXT3Yzb1VCY0dxaVdvVUtoZzQ1MVNMNXFCYUtLRU9YM2RUc3JRZVplU015N1gzRDFsOVI4OWc?oc=5",
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RNmlDLURTc2ExQmFGdWV5VXZVSUVFQ1NLeHVqMUMyMHVraVNoYXlSczdJejgzVmdILWV1T2dRSUZrWGVOc3ltczdwOU9RNTdwYmVRVjRZQnVLUTg?oc=5"
       ]
     }
   ]
