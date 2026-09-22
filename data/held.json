@@ -1,4 +1,47 @@
 {
-  "at": 1790078230160,
-  "held": []
+  "at": 1790095532609,
+  "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "Farms.com",
+        "News Dakota",
+        "RFD-TV"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Senate Farm Bill Moves Closer to Final Approval",
+        "Young Farmers Raise Concerns Over Senate Farm Bill",
+        "Farm Bill Moves Toward Full Senate Floor Debate"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWdxVDR4aGJnb2lVR0FhYzN0S1lQUzdDMElHSFFYYU13Umc2ekFrT256aFkwdXpLZ29pNGE2V2dUcHFiMGhmdmw3YUFQbVdmU1BpQ283MkVkZENZOHNLaTV4MmtnTENhNS0yQjlsMzBhdkVOaXJzaDdGdkRoZV9hcmNzUFZ4STdMS2NOVkVFZllHTm9WdzEtX1VpTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWHBwUE1TVG90cWx0c0JqeTBVbk9KeWNUaEJiSUlwTzIwQmxPMzkxdHBRWUpVTk1BZnVtbXJrTEttZmIyR1FfT1NkSWZ0VTc0SnByaFVtSl92dWxYRFFLQWY1VW1kV1ZXaTBzVTBDN3Y5YVhKZmNLRjY2eU9BLXRtUXBSMEV2WGhaSWlaV0UtR0FibWM?oc=5",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE9salF1S1pFdGpuc0pWRks3b19GSHBvU0QzdGhld2puVHlpV25qQWQwbmhzQkRvWHRwRXZ4TXZmelExOW1xOFFjQ0U3XzhfeXNWQzlyUV9jMEd5TlNVZXloS0NOYURjWmRTaVBZYkNZM2Y1ZzJkVlc0Sg?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Delawareonline.com",
+        "FOX 2",
+        "Cape Gazette"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Delaware Supreme Court backs permanent absentee ballots",
+        "Missouri to begin mailing ballots following Supreme Court ruling",
+        "Permanent absentee voting withstands state Supreme Court appeal"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb0ZxaEM1Q0lCMzMycjkyd3laSzBPX3doY1YtdEIwWG5yY2JmNExTcFpVSjZJSHpkZGpBem1kN2tfeV9vWG9oWGxmdl8wSzlKM0gtb0VLRHZ2QzlOc2tMeS1RZnpRMmdKS1E1U1dnYkk3bjlDUmpzOUY3TXdUZjNUYi1LNnpNbnI3Um92UU5XLXhlUlVpQi1tcEZRakN4dFQyVEhBTTQ5cjM5NHVwSTgwZWdkc21qNXp1WWlTRlNnVnlQbVo3YXZYZ3lWX3B2Unh3MFR2VGEybVg?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelQyb1RlMTJhMXcxMG1qZHBHZDFRc2lCWV9nWW5Uc3p6SW5ndGJXTWlzamUzcl9MU2YtWHF6ZXk4bjhFejNLRkZ6bXRESUx3aVZSUFVScFhSVVUzeEh0T05WTXE2R0RxU1N3ZkRoNHphU0VVVFplaFBaOWxkeG9TcW9aVi1MTkRzUHZqZWhzWnpFZWE1bWo3ZVRjbXdfclRH0gGmAUFVX3lxTE5PazJ6cFcwekVPU2FjZFBWU0ZhS0ZFd0hTM1JDMVU2U0hscTNWZGN1T1RGRXhCNWt5a2tXelN0S0lHaGdRN0hVRXRTUldBSldwWThxZHc2am56RTFmM01YMFg1WWE2aW9sSkxTdVRkVk15S0Q0dDRxV1lKVGFFblZwRExnU0J0Yi1wekI3ckdGMWFndnk4Y2QtN2RCVEdsbVBTVmF2N0E?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRHRsZC1vNDJRNXQ1S190M29XRlpIYWYwRDJ1c245RFEtQm9HOS1wdjBLSzZzOEVhbUt4OUZ2bmJvMnY3cUZYNmJBeTM1VHNvQ2xtZHUydUw5UVQ1UWJISlJFbmd0VTd0WFhOTHFZUmc2a2FjVUZCN0FiWXJYbGxIdTFSU0J3d1hYRUpud3FtVlgxNTY5VW1wU3F3MGUzMTlNYnBXQm1ES2xiUQ?oc=5"
+      ]
+    }
+  ]
 }
