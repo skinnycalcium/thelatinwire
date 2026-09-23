@@ -1,25 +1,46 @@
 {
-  "at": 1790193566007,
+  "at": 1790204009419,
   "held": [
     {
       "section": "politics",
       "outlets": [
+        "ABC17NEWS",
         "STLPR",
-        "Missouri Independent",
-        "ABC17NEWS"
+        "Missouri Independent"
       ],
       "lines": [
         "center"
       ],
       "titles": [
+        "Missouri Supreme Court hears arguments over school library content",
         "Missouri Supreme Court to decide legality of statute that prompted removal of school library books",
-        "Missouri Supreme Court hears appeal of school library ‘explicit sexual material’ law",
-        "Missouri Supreme Court hears arguments over school library content"
+        "Missouri Supreme Court hears appeal of school library ‘explicit sexual material’ law"
       ],
       "links": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTVRCN3NBZ2JrTHJYU2xPUFo5NTFIQXREajBUanl4c0hhSVdXQWUyTzBSQ0VISDhFc3pUSnd4NUJhRERZT1MzVTJtbmJrbko5aDNWQk0tOC15M29ra1QyM1lHQmh5Uko4ZFM4SGFmUXhqU0VwdWhqQWJscmM0TnJSc3FwUnU5QVNFc21MSlZrWV9BdXpINzhBenFRdDFraWZQMUhra1M4RURTaG1ER29xdUhvbEI?oc=5",
         "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFY2R2FNOGc3ZDRZUEtUSnBtSTZTQm9LNUZrbWplbEplTkJFbjQ4MW5IVG5IVmxLWVBQeTlfNHhaRG1jVE5tTVZrcWF5ZGdfZ1FCU2Y0eVhveDdCWmJsZllNNFlSNTVpRE43Tl9XWDA2N1NZUkdadWZhTFVVSm5VZXczMjB4SnVRWjNVT3ZUei1QWWdDb25rTUl6Ujh3Ql95UG1vOGd4T09XRlpVQUhHaQ?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTGJYY1NJaFBjOURLOGJhekNnSmlwZmw4UU5HdVZzSTFQUnprck5pT05HS0pjazludE92WndMOWxtbkFiYk9lMkRYQUdCV3lHZGtKTEhpU0xFbGtUYzBvQ3JVN3N0bEFUb2x1NXJpb0RtU1JVLU1uX3RSZGYzdzg2aXFEX1lSVjlCY2YyZUstUWMyc1NXSnU1cUZfclluWEZrRmdDMW12YXJwV2pzN2oxbHRQeUdXTmhCVE9HUTdjMjVUSkpY?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTVRCN3NBZ2JrTHJYU2xPUFo5NTFIQXREajBUanl4c0hhSVdXQWUyTzBSQ0VISDhFc3pUSnd4NUJhRERZT1MzVTJtbmJrbko5aDNWQk0tOC15M29ra1QyM1lHQmh5Uko4ZFM4SGFmUXhqU0VwdWhqQWJscmM0TnJSc3FwUnU5QVNFc21MSlZrWV9BdXpINzhBenFRdDFraWZQMUhra1M4RURTaG1ER29xdUhvbEI?oc=5"
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTGJYY1NJaFBjOURLOGJhekNnSmlwZmw4UU5HdVZzSTFQUnprck5pT05HS0pjazludE92WndMOWxtbkFiYk9lMkRYQUdCV3lHZGtKTEhpU0xFbGtUYzBvQ3JVN3N0bEFUb2x1NXJpb0RtU1JVLU1uX3RSZGYzdzg2aXFEX1lSVjlCY2YyZUstUWMyc1NXSnU1cUZfclluWEZrRmdDMW12YXJwV2pzN2oxbHRQeUdXTmhCVE9HUTdjMjVUSkpY?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "The Independent",
+        "The Hill",
+        "Yahoo News New Zealand"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Judge says Trump did not follow ‘process’ with White House press ban but keeps CNN, MS NOW in limbo",
+        "Judge skeptical of White House press ban on Politico, MS NOW, CNN: Due process ‘wasn’t followed’",
+        "Judge kicks off hearing on Trump’s media ban by saying White House failed to follow due process"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVDVTY2luaElKS2NwVzBIUE81WUw5Q210YkExUnNqbTFkTE1YM0U1V1pvcFlFUGhLQnRVSGlhUFdDblZzb1JBZ3NVTTlUZFBXcTdBWmg2eXFvM09XZGlYRk94cUthamlWbDFpMTZ3ZGppaE9BdjVVSzkzbUZmaXhxRWlMWUhJN1g4Y09XODE1QldiUkl1S1JuTkJ4dnlNY3R2NUU0dHd3cm5yNVdrQkxJbkFuWGtIYm13RTBSTE13?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQUdmRUpQYjBrclowelpMTXZtUUlsLUVYYkFWclFMUGRKMTBtamxVNHREMjFzeUJFMl9paENBdzhiSDd0eE9kQkVkVW1XR3lJeFBZQ1g4QW5xQlVWV3pMbEtHbjJDLTg5U2txYU9XMjB0T0wzdWJFSS0yUXVUV09ZVmFTam0xWW52Z185dzRtONIBlAFBVV95cUxORThCS3FHb0Y5S0VORkNPdm9EOVBBSDdZQi1rRG5hWVB6eXAyNW1yQVp5RmxEV0Frd3doQkkxQzlhR0JvdU9GeFJ0bTE2a0Ewa1NVdUl1ZTl1WnNiMlM3em1lcGZhR3pNSVlTclVES3h6THBsNUhQbmtacGJwVDVudVYzS2IxNnMyUl93T0FNeHpvbFlV?oc=5",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1WjRvMUtWcDdvR1RENktqM0R0V0ZFLXFteXp4SXUySlhicEQtb0JTZFJlOG9KemlMaUtFNHpuMmlsOWxTaGNZczFoSWt0Q3drRjdOTnVJRmFsQXhBVkxVYWdzSlJFZkJlM2dRRDEyVVgwcHlQMVJPQ1l3?oc=5"
       ]
     }
   ]
