@@ -1,58 +1,28 @@
 {
-  "at": 1790338648243,
+  "at": 1790357219642,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Infobae",
-        "Diario Las Américas",
-        "Vistazo",
-        "CiberCuba",
-        "El Nuevo Herald",
-        "Conexión Migrante",
-        "LancasterOnline"
+        "KAXE",
+        "decaturish.com",
+        "Denverite",
+        "Colorado Public Radio"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Trump pidió a la Corte Suprema que reactive las deportaciones exprés a terceros países tras el bloqueo judicial",
-        "Trump pide a la Corte Suprema reanudar las deportaciones de migrantes a terceros países",
-        "Trump acude al Supremo para reactivar las deportaciones de migrantes a terceros países",
-        "Trump lleva a la Corte Suprema disputa por deportaciones a terceros países",
-        "Trump pide al Supremo permitir las deportaciones de migrantes a terceros países",
-        "Trump pide a la Corte Suprema reanudar deportaciones rápidas a terceros países",
-        "Gobierno de Trump pide a Corte Suprema que permita deportaciones rápidas a terceros países"
+        "Senate District 1 2026 Election Guide",
+        "Candidate Q&A: State Senate District 44",
+        "Denverite’s voter guide for the 2026 midterm election",
+        "Voter guide for Colorado’s US Senate midterm election"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRk9DNEJoeVBRVl90NEVWVU5DRUNZRmhlT2h6R3JaYUFVMHNzUGZmSGo0ejh5WE1IYWp1SXFKZjJReURacE5pSldUWUt5c2p2N2J0U2FNWXhTNjJTV0dpcXppNlV5VDRDc1hDTjRSdHVReE5PZWY5c0JGMzRLUHdYakU5TDBienE0ZUh1TmRqakJiXzl0YWJ6ZlhEcnVoMUJVUzU4N3BOR2dRaEs0dmhZbl82VS1MblBkbUFra2UwQmE5THctaWlGMHNQMl9JdmpBdHdaTWgzTEN3NmVYdFdxaXRyd3hiT3FKcHRsZUFHcHFwSi130gGPAkFVX3lxTE15ZWFTdW1xbGdrbUFneFg1cHVPUzVIQ0c5YzJoV1lhN09vN0R2cnFYWkdzRC0zZGxiMHpBN3RSQ3hCOEVlc1pqUlJKdEZBTzFpU2lNUUN3alBNMjFUYV9aQnRPNkpVa3lTYTZ6cHZzQ080N3A5QW8wUWRaZ2drbjRJWEN3Ukl2VGlGaEV6Mzd1aFI3XzBaYlN0aWs3V3A5ZUdXNG5FV3pyY1oxNTdOLVdRbl9UT0FBWFk1ZWVGSGdMQU9TWENja3pwVHFqZFNYZEJabDk1ZDVLODhDTmU1M0t4a1poTTNNMERIdG9rVnBpbkpUR2J1NTJIUmN6RVAxT3A4a1Y0YXY3eTdvaE5WZ2s?oc=5",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZEtFRXM4Um8xZjhmdHBCdGVRRnVIVzBUUF84LUt2bzdTNVpHckdibTBJb0p5TEpUQ2gwQmFDX1RRRGNDaGhEMUNzb2ttT3puNkowZGlwRTk3S1R2STRjb3JkX2U3Ul9lRUxNUTVIMU1jcThMb3JMS0hZTkkwd242M3hEckxLejZRc2FyOWduYWp5RFpvNVVfeDlyMEtaRnMyNko4ckNYcFVTTjMxV3BDYUx6Nk00YUU5YlVRaFJFZVJhVWM0SzZJ0gHMAUFVX3lxTFBBWWRWRHZUNEtBd1BKX05WOGhkcmFhbEY3SVhmbG5KQUZVMjBOLUQ2aVluS3FIaU83MmdYemF3UjJ6RURSQlY0QzJDMk9VNXFpbnF4eVlKdkF3akowWjlBNkJkampnRTl3UVp0QlZnT1dnZ1NmYm5EU01xWVRJTTJTd2RKcGJkMl94ZDFiVS1QbWQ4N2JHNjc3bEtDM2lYZ1ZwOHUwUW9MUmRyMTZreFBPcnVZbU9qTzVzZGdDSXhkcnU4MHhvc2NINVZzVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1NLUHJOd3FRTllWcV8ycTlvOW1QWnkzems3cjFRcWowdVhTbnZPa08zb0FtTUNXYnlHMTI0LUtoNC1mSUtyaW13amhZZkk0UWp0XzNDTzhsUHhJQmpYV2xlZkxLQURsNVY2ZV9FNm1mdDZPZWRkODlRaDBDRDFVRFViSGlKYkFKZlloSDdXZ0I2WXFKbmZFalByRTF6NFIweUdCQlVTUGVDS1Vyd3VSX0J5dXVZd9IBuwFBVV95cUxQRmtrcVd0MW9VWVBwRTZhcUd1MGNJV0xnYWR5aVB5UWo4R3BkdktKTlpXcFREa2YzY3psb25ENDdSVEVlQk1QWk5fMzlzNUxHb0E0cE1oWTVGY0g2ck52d0hiQ0RDa29Qel9KaURDLXFZRW43ZVF6WjNhZ183Znc4ZTBXQUtxeDBRVF9KZEIxTUpQY1UteUZ3TDc0blNKcmFUcUJoc0VqUnoxS0w5dTBoTkN5aEtMeG1Eb2Rj?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWF8yX2pRSWFvSy1qeno4ZkNsTkd6LWxpOHhST0VnTkJybTZwdDQ3Z0JTaXlqdVhCXzlqa0xpY2YyZ1NlNDhYNzhTS3ZBZ2JoUExocGRHbjU2YXRNWXFnTVFfc1VIOG8tU29qSk1qNDhCYlBtYWx2MGIxVG9rOTdpZ2xpNTF0ZkN0SkFJWEdncWtiUUZFdjhUQTNvTUNtTENYMWZKelBWeFowUEJobGZVNEVqTDhXYnJYZGdOYk5R0gG-AUFVX3lxTFBYXzJfalFJYW9LLWp6ejhmQ2xOR3otbGk4eFJPRWdOQnJtNnB0NDdnQlNpeWp1WEJfOWprTGljZjJnU2U0OFg3OFNLdkFnYmhQTGhwZEduNTZhdE1ZcWdNUV9zVUg4by1Tb2pKTWo0OEJiUG1hbHYwYjFUb2s5N2lnbGk1MXRmQ3RKQUlYR2dxa2JRRkV2OFRBM29NQ21MQ1gxZkp6UFZ4WjBQQmhsZlU0RWpMOFdiclhkZ05iTlE?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmRjl4TVZCRHZFRUk5VllTRi1KS1BPUzgzT1lSSG1fYWZ6aGhpYnBsLWt3aC1DbDJNV1lBZ0VzRXdXbkxjUDNxcXNVZUtfdkdaaWlyRUZqTUsxWHZ2TnNSbW5oSXRzblVweXJUTmpINGpseWpoNHo5anU5OXDSAXxBVV95cUxOTVh4aV9NcGsyVlRabXg2LU9JWFY1LW9UaVV0Q1E0VEhtQUdKQ1E5ZVhxRGV1dUJ3U2JTaC1UWXdUbzNoVFM5TjRJcVZGSVpwdThzRzRtb1UyTjVnS3RpdUg5SjluaEQ4WVI4R2VXSGlJTkhubDF6ZzZueWIz?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXFzdHAxNUlfeFNuaVNlbmRKalNkTVdId096UzdBWWVTT1JlWXV2Z2F6MllnSVJObjNMQWkzdnFUajlPXzcyR1p0UC05S2J1cDBPVEowdm1ZN3VEQkpBd2FBMjFQS1RkdEQxRFRYYllXbTVCbW5mUkpfdXdTNjF2MWxpenh3YkZa?oc=5",
-        "https://news.google.com/rss/articles/CBMikwJBVV95cUxOV0FZQWRLMGNNcjZMLWFGeHVRN3hzYk1MSXJieGotOXhVNWRILXlBTkQ4bGptVWt2bFZpZXlrOVo2TG5uN3h3M3NDOWxCTDBvRDhYN0lfQ3BkaEQ1Q0Z3NkFKWkJZV0J4Y2lnWnZrUmZNOFpudW9iVGp5Q1I0eVQ0Z0lkNmkzbDlERWxMd2t3MVpFRGZUMFZjcVY2SS1wNUZmT2RaZnNtSm1KZC1yd1BlSmhBV0hLMi1JaU1tSG51bWVuZ3pJWkJ6T0dtcjF3WXVTN0FQczE3ektOZDF6dnJaT1ZqNmY0M1Q4US1SX1ZSdnNsVTVsZDBrMXhqbDJScHpteVNRVkZvQ3kwTFcxeTZrMnlBZw?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Kearney Hub",
-        "The Daily Progress",
-        "McDowell News"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "GOP-coordinated campaign spending surges after Supreme Court ruling",
-        "GOP-coordinated campaign spending surges after Supreme Court ruling",
-        "GOP-coordinated campaign spending surges after Supreme Court ruling"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUkR0V0pQZzJ4Q3ZoeFowQko2NmJ4d2Y4STI5V1Y4X1lQejZfRW1OSUV3MHJPRFBMRFkzYkU1Zjlyc2lIUGhCQXVscE4tY2xFZHh1WkNmTUhGWXhyRFhURkY2ZF9VQ1hXckV4aHU1REViV2FxU3VjWkZSeUVISjI3dzNVNGszN3c1QXhCOGtmakpaajd3TUlfTE9nR3FBb0ZqVUFnLV8zRVl6UmVZTGJjUVJVdnJjekI4eWFoOA?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaDJUT2RTY1hFRWZkQ2V0SGYzMkhqTFl0WXlzVnFINDZrRlFYS21xM2FpNFRtWk14eThCZFF3VS01S1NVSVh6WWJab0sxZFJ4X1c5VXRqZ0R5cmtUQUtkVUREY09idExnM2tUV0hmYUdNdi1qVnVmNEZ5R3lYczA3ZFVlV3JJUWtySS1oRGwxeEZQM1poZy1fdndNVHktVU9sb0JOSXNYcXltSWFRY3dNQXk0TThVUGZuam03LVlYWkE?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXdwRTAzOTJhVS13UVNDb2ZKSGg0RTZZVUZtVXFzOTBWTV9zOWdadGdWLWhWMnZ3bDV0ZTdxbExpRWRZcThsakYzaURDWFRxU3g1VXlFYTEzdmVfNlVLMHFUYUdCaG5kRGFOWnlQNXFyUHhLOFRrb0VMVWxRTFlrSWZWX2F5YUhRZlNCTEpxS3QyWnFRdjVMVU92S0VMTEpWNWk0Yl93MzYySEN5UUxoZW1ZeDVTNjRrU0pVRm1Jaw?oc=5"
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNGtXN3R6YU5fZGtaenVQaU4zN04xdjJLQ3pURE56R3R1cUV2S1hEUWVIbUtmTVpDUUNLbmJFeFRvSW9uLWVYVFBTdXVHeWQ4MjNBR3ZyX1V5Y1VNQ0k1ZzN1bEh6RVZMQ0paVjVuengybVMzT3pqX1hPdzFVVERwT0MtQVNtZWhzSmpnb2JER2R0U2R2?oc=5",
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOXNTZnN6Z0o0Yk45NWFxb3N5UkNVNV9KQlR3UzdhWGpaTHRHWHhwXzV6UlA2ZS1ZR2g0T1dsZHJ4SF9rcFc3MUxmcmNNaFozSnZqc1VYd3B0S0RVZ3M1eFhUdDRfZHNReFhfaEZJZ3pnM3FIaUl2YWRyVC02Umdjek1OcEVTYlBteUZkRDJPQnlRNkZJa004cUFuZ3FmLVQwVFFBM3k5RnpfTm5HbUNzRDNYUThsRmNoVFRmSGVIUjJPeGVWaS1FTnNkSzdBRVF3aDhZdFhab3IwdndhcFlfNmRn?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ0Y1T3hDT0FJN1pLRWRaVzdyRFg3Z05PZDM4dWhidkRTaDI2eG1Xa05tVG1BdlhSMVlybUkwZmVNalE2d2pSdjZwRGlrc2wzU0x3d3MzM3lobzVXRnNFeXZKZldiMHQ0cGJRcmhXOE5rWXJiRTl4a2VXSVJFXzFSbElVUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVUE5nTm1COFhPaVFZZ3Y1ZW01RUxTRndIamRqMVVuZ1ljVWE5ZzZ5QUFGNEdMSEVzVXZwVDE0S2FvTTZ5NXN6QndfcWVSdklRVzZuY2p5VDRQbEZQNE5CSEZjNG9DeHliTnROdEdwUFFUdEx1bXE0U0lR?oc=5"
       ]
     }
   ]
