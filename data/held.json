@@ -1,34 +1,31 @@
 {
-  "at": 1790388122036,
+  "at": 1790408637489,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "KMOV",
-        "Columbia Missourian",
-        "myleaderpaper.com",
-        "kmbc.com",
-        "SCOTUSblog",
-        "ABC17NEWS"
+        "kaaltv.com",
+        "kare11.com",
+        "Ballotpedia News",
+        "Deseret News",
+        "bbc.com"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Local officials react to Supreme Court decision on Missouri congressional map",
-        "Supreme Court ruling on congressional map",
-        "Supreme Court ruling on congressional map",
-        "US Supreme Court rules in favor of Missouri's 2022 map for third time",
-        "For the third time, Supreme Court declines to allow Missouri to use congressional map expected to aid Republicans",
-        "U.S. Supreme Court ruling mandates use of 2022 congressional election map"
+        "Supreme Court allows states to use SAVE program for voter eligibility checks",
+        "MN officials respond to Supreme Court ruling on SAVE program",
+        "U.S. Supreme Court allows use of expanded SAVE system ahead of the November elections",
+        "Supreme Court allows states to use citizenship database for voter checks",
+        "Supreme Court allows Trump to use SAVE database to check voter citizenship"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb2xLN3oxOS1HX2RpSHEzNEZwWlZtWXJaNzFwai1GaEFYeG5KM290cmd2MVJacDE0dHR4ZGM3aXUyWmszUkxYY1JXMGY1d0hMTDF0WDQ4Y2ttbHFXM21VdW0xMlQ5TG5fV1lmS1p2ZzRiMm5UemdhYmtRRnVCRHN2N2t6VHVRVmEzTUdBaU5vZkpQWVFPMVVfelVPMmpRVkpCeERxVk9RZVI5ZFYtcmlzRA?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVjZyd3ZOTTlnNVlvWnYxS18zR1JQMXNXSUh2aW10d1pvWlQ1Y3oybVZDYTJHeVZIa0d5WlBieEktOTJyRF8zM3I0dTQ2NkpfSmxCNC1YM3VRWEFDQ3FpN2Q1cVFyaW1Pa3dETXlwcFhBMW1jMm1ld2N4bTBGdjlzRERoRDl2Ql9ydHJfbWhUVkdqeUw2UndZU2d6SmZyajF5aG9jVkZUR3VlY2xaQU43dnpScXZEQ09PeTZic0Fva0xhbjh2WmV6VmxqcEZrb1NxSEJuZA?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN1lIWlVXZVBidnctaFlTQ1lqM0IxZWRfczI1TDUxcExsb3VJQTlRcDFOVHphOEZTc01SbDhzWXlaZTFSZ2hZWlBCMUVEN0tvRWFMZjl1b2xsdzVuN3RwODVBNlBoODV1X3RYMUFkTzNId1UtV3lSV25IaTkzSGNRUlpZMlRTRG9ZM3drbWF5aVJnTTQ1R2ZMcFBkQmQxV3pvZzU1MXA3YzVCUnZYNXBuaDlQMnZ3WmxwM0hZb3Nkb1ZDRms3bFh5ZA?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaVhpWDNrZFJ6X0MyOTRYRmZaSkxDYnVlVUlhZWRBekgwTy1HLVpCVy15amIzU3dsY1ZmeWUxVG40SkYzeEFma0thR3JpZFFKY1dIenFVemFMbFVFMW1RTXlpQktwUVNMMEswdkp0SEhLdk5JRUNMY0hoRFN2M2p6TjRETFZsUUg2a0VfM2N6Z1V3UjZoT0d3MW9Scw?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRnhTQklVTGhfQmlZTDJhdjJ2eGd6MkljbjduVk9lX0owdGp4MTFoOXBrNmdsYjg1aDFvUWUwZzRpSFBUZkY2Rm5Kblp2Q2VXem1qUlJwbjFFa0I4OU5xWlhidDNXeDh2RDE2SGV0d21FNlp5Und4a0RoY2tqZ0FlTVRNMUNVcjZxSlpzbGthY21sOUJLSmQtRk9wakJna01SQTJuZHNjU196ODBNNFJlaTFPVXVhZWNsZGZnZ3pjSU9nOEF1d0JNS3dEUHY?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVUt4UHUyNldLMGJlMmtHemdSWk9DNGVpWEpiTE5mXzYwWGJ0RzNCREJvWXhjX243bnhLMmRQSjJPVEpqZlUxWHBYYWRxVUgtZklZQzJCQlEyS0lVendWTU5JcTRJVV9QbGhScGFPMFB3SWdKT003dWVXNkFINEU0TGdSeGlJQmFuOUNDWDVrVUdSWnpza2lDWVI4T2NSQUlUUXBoNjJ5bXhENEltWGtoTg?oc=5"
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQkZtLXVBcjM2ckk3dEVUeXdMZzNOazB3ZXVBVmU4YkwtZGpraUM5WHlkenMtQW9Yamo2RWs4cTdTdTQ0YkFFR0JzdlhhdWtKN1plVUlNYkxxaFEtVmJtN29SSWwyOGNLMm13RDc0ZS1ZRDFVcGczdlNCUVFndFF2Mzk2VzdiTFd4cF84UGlQRHR2bklpZWhPUWs1OUN1TVQtQ2RMSW9oYTA?oc=5",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZUJHSl95Q2ljdHhuNGExSWRCNzk1M3BIWDUtdTNZSlZWTTZCZDBwZW5kZDJ6OC1wRUg5QlM4OFJ5N3RqaWdTX2N3SnJWZzAtNHJoSlRyelQ1OFI0R2I1MTNRV1BId2dVV3YtNzA0OE9CYTltMkU1NFpFR05tNXk4TV9mU2h2MXhfa1JqSlJZX25Id1E2VTNMN2x0MmZkUXFQS3psRW5HRmpIbzRtdnpkYTVXWFlvc2MzLUY1eGd0Vjd4RU1VQ0U2VHYxb2RDVWdzU3JVbEo3MXg0eTFqZFpXeG0yOA?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNk9jdlFleW16c1hVMUU2aUg3LUV3eGFsZnNEMU45dDhYZ1RTYU5zZzRNRjY3WS1ibWFJbERKZVRISmhrdXBtUHcwdzVaYWtrcGJ4ZnFkbnJtSFlsNk5hbDZiejFMRW9fZjhlZEV1QjZMWHl5UnhmcUJFc3JGSWdZZlJaVDBjVjY5MmYyd28tZnlPNmxGcEZOcGR3d2RpcF8zOEo1NGN4V1pSandydnRjTUdnQ1RHeDZzbzZkVEdxeFZ2YVE?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWdkbTZPd1BuMkRTUk50S1BCS0Z5bFo4LWhuYU0ydVFLVldZOTFCZHZTTUo2eVN0bnkwWks0R19oempsNzgtcUJVU19ONjJraGxkQUFGTnZoN0VIYVQwVFJEOWZDbGNJb1BIR2IzVDRYVEZyVmN2QlBQbk9vN3VXbmVxbGVSQXVIaHhROXJSZ2pqSkxxUDFzOXItU2ltcnNPazdZNTFWaGc1SFI4RzNGQ2U3MVBBQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9La1ZNeG5MN2QyeWtqYmY0N0ZTR0VybUVtaDRZYzM2aWQ4NjlqclpmdTgxb2xQdWVYU2taak1FdERXaXNXWkFhemFrX1E3VGo3ZlFSWktHVlMwbGM?oc=5"
       ]
     }
   ]
