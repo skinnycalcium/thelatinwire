@@ -1,31 +1,54 @@
 {
-  "at": 1790408637489,
+  "at": 1790425776986,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "kaaltv.com",
-        "kare11.com",
-        "Ballotpedia News",
-        "Deseret News",
-        "bbc.com"
+        "MS NOW",
+        "columbiamissourian.com",
+        "Leader Publications",
+        "KCTV"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Supreme Court allows states to use SAVE program for voter eligibility checks",
-        "MN officials respond to Supreme Court ruling on SAVE program",
-        "U.S. Supreme Court allows use of expanded SAVE system ahead of the November elections",
-        "Supreme Court allows states to use citizenship database for voter checks",
-        "Supreme Court allows Trump to use SAVE database to check voter citizenship"
+        "Supreme Court citizenship database ruling highlights important appeal to come",
+        "Supreme Court ruling on congressional map",
+        "Supreme Court ruling on congressional map",
+        "US Supreme Court rejects appeal leaving 2022 Missouri congressional map in place"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQkZtLXVBcjM2ckk3dEVUeXdMZzNOazB3ZXVBVmU4YkwtZGpraUM5WHlkenMtQW9Yamo2RWs4cTdTdTQ0YkFFR0JzdlhhdWtKN1plVUlNYkxxaFEtVmJtN29SSWwyOGNLMm13RDc0ZS1ZRDFVcGczdlNCUVFndFF2Mzk2VzdiTFd4cF84UGlQRHR2bklpZWhPUWs1OUN1TVQtQ2RMSW9oYTA?oc=5",
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZUJHSl95Q2ljdHhuNGExSWRCNzk1M3BIWDUtdTNZSlZWTTZCZDBwZW5kZDJ6OC1wRUg5QlM4OFJ5N3RqaWdTX2N3SnJWZzAtNHJoSlRyelQ1OFI0R2I1MTNRV1BId2dVV3YtNzA0OE9CYTltMkU1NFpFR05tNXk4TV9mU2h2MXhfa1JqSlJZX25Id1E2VTNMN2x0MmZkUXFQS3psRW5HRmpIbzRtdnpkYTVXWFlvc2MzLUY1eGd0Vjd4RU1VQ0U2VHYxb2RDVWdzU3JVbEo3MXg0eTFqZFpXeG0yOA?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNk9jdlFleW16c1hVMUU2aUg3LUV3eGFsZnNEMU45dDhYZ1RTYU5zZzRNRjY3WS1ibWFJbERKZVRISmhrdXBtUHcwdzVaYWtrcGJ4ZnFkbnJtSFlsNk5hbDZiejFMRW9fZjhlZEV1QjZMWHl5UnhmcUJFc3JGSWdZZlJaVDBjVjY5MmYyd28tZnlPNmxGcEZOcGR3d2RpcF8zOEo1NGN4V1pSandydnRjTUdnQ1RHeDZzbzZkVEdxeFZ2YVE?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWdkbTZPd1BuMkRTUk50S1BCS0Z5bFo4LWhuYU0ydVFLVldZOTFCZHZTTUo2eVN0bnkwWks0R19oempsNzgtcUJVU19ONjJraGxkQUFGTnZoN0VIYVQwVFJEOWZDbGNJb1BIR2IzVDRYVEZyVmN2QlBQbk9vN3VXbmVxbGVSQXVIaHhROXJSZ2pqSkxxUDFzOXItU2ltcnNPazdZNTFWaGc1SFI4RzNGQ2U3MVBBQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9La1ZNeG5MN2QyeWtqYmY0N0ZTR0VybUVtaDRZYzM2aWQ4NjlqclpmdTgxb2xQdWVYU2taak1FdERXaXNXWkFhemFrX1E3VGo3ZlFSWktHVlMwbGM?oc=5"
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRnJkOEF2WFBJcjM5c21weHdZbmd4OFRZN1pobVVrQmx0S3BnRjVadlhUMVR5ZG5TdlA5VHVjMTZ0YjNXaTZXYm1iRWZpaWRGcVVkVjlPSDUzb01OdzBoaFp6VlhMTVUxZUdsVlZtNUM0eURKcWZ1RkFZSWxhT0JtQTltWHlLaG1OVGd1amZ4ejV3SC1ELTFHY1lfMVhCa28ya2NMS0R6bWh2cGFhbzBtR2x4LTRmQ055a3BlNHhFdy1IeDc2TmdDQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVjZyd3ZOTTlnNVlvWnYxS18zR1JQMXNXSUh2aW10d1pvWlQ1Y3oybVZDYTJHeVZIa0d5WlBieEktOTJyRF8zM3I0dTQ2NkpfSmxCNC1YM3VRWEFDQ3FpN2Q1cVFyaW1Pa3dETXlwcFhBMW1jMm1ld2N4bTBGdjlzRERoRDl2Ql9ydHJfbWhUVkdqeUw2UndZU2d6SmZyajF5aG9jVkZUR3VlY2xaQU43dnpScXZEQ09PeTZic0Fva0xhbjh2WmV6VmxqcEZrb1NxSEJuZA?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN1lIWlVXZVBidnctaFlTQ1lqM0IxZWRfczI1TDUxcExsb3VJQTlRcDFOVHphOEZTc01SbDhzWXlaZTFSZ2hZWlBCMUVEN0tvRWFMZjl1b2xsdzVuN3RwODVBNlBoODV1X3RYMUFkTzNId1UtV3lSV25IaTkzSGNRUlpZMlRTRG9ZM3drbWF5aVJnTTQ1R2ZMcFBkQmQxV3pvZzU1MXA3YzVCUnZYNXBuaDlQMnZ3WmxwM0hZb3Nkb1ZDRms3bFh5ZA?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWlNFeUNnbU1KcExzUjJUd2NFUWdfeWZzSmxaYW9YQ0xodUpSNlViRlRaVVdVT3JVRjlLWTFKbXRVMVZSdUNEZkxjOWoyQlBueXZfSU5uQ0FhSmJWXzFPTjNCRTlPMlZtM1ZUS0lMbmpic1R5cGQwd3pZMzhnZGlEUTN5Ul9uamhiYllqR2hibXR5aEVPdmlZMVhreG1Kbmx2ZTVrZHFnQnFfR1ZoRTFNSdIBxAFBVV95cUxNcG1mNWxkS3YzbW1DLUhTY0FhUFVTMV9XX3AyX0w1ZWZPMzhzQldNbDlxd281NGpPMWpYS2tpRm1lS0E0b2RKR0ZOU24wY2c4ZHlNc2J4dmd5SmQyQUpLbkRyMUNhSEs3alhLTUVtbUNraENYZkNyMjQ1Snd4Vk5Idl9MMno4YXZ5dDlpSXZjcVZsOUY5VS1oaEJaNnFyblZFci1HSHZ1NkI3X0ZpNlQ3MW9aU04xM2twWGRCTFhDUnhiQ0d5?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "koreajoongangdaily.com",
+        "Chosunbiz",
+        "매일경제",
+        "UA.NEWS"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Lee attends Stray Kids' cultural exchange concert in Mexico, hails 'immense power of K-pop'",
+        "Lee Jae-myung touts K-pop soft power in Mexico with Stray Kids visit - CHOSUNBIZ",
+        "President Lee Jae Myung and his wife, who are on a state visit to Mexico, watched a group Stray Kids..",
+        "South Korean President Lee Jae-myung attends Stray Kids concert in Mexico City — Korea Herald",
+        "\"Welcome to Mexico\"President Lee Jae Myung and his wife, who are on a state visit to Mexico, were we.."
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRHlPOUc4U3dZSGVPRTloOWhnZGM5UDlWTUY4cEZtMlNNVEl1bmRpNnR4M1F0V3dUMVVsaklHY09wTFhYUFVoQ0NnVUF3c0hOZF9vQ18xbTlVSDRsX1dTUllaOWRBOE9Ic1dRbW9LNWtPOXM3YkVjWjFxcUVROVZtVEV3RVUycUFqbEE1QUlPbEpFUmpBWElTcHB2eEhWNmViMDJOWDBEZDRQSGkzb2NnVHFONFNjNHpZNEhZbUktbGFtMDJJNndSMlhvc1dNMk9SMWc?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvZFdJVDI2bVBXNmZpUVdBRmlGU2p5d1hOX3F5YVkyMWZqbnY1OFMxMndoQm5TTWtQVlZiVFM3dnZkZUxmZGU4T1lFX2hMaVhfd3pqVUUxdUZKOGVZWDlndnF0aG0xdFN5dlNnVXF0ZEN6ZFBVSkladmVDV3NaT2PSAZMBQVVfeXFMTXliQTF6cjhWd3lHT1RQc1ctaE9EcHk5UDk4V2JaN1dVak9hVDhlLTVsbzNSc0VDVnYtSlk0TjdycFA0eXNuREFpRTltWFo2OHFKcks0ck9TcWVhSFhGWDV6Mm9oTHVxWVhNN1dtUG1fbXMzZ3VHQ3BPLWltb09vbWJ5NGsyUmV0cUp6RzNMUF9GdXA4?oc=5",
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wMEVqQi1FWnkzdXF1NDFQODQxVFRUYWIzZHBYWTFyZ2pJU2FrZVd4UjNNdVhWMWRZRDN1NGhzb1c1V1RnbXg1ZDAyMEJPOU1nRGQ4?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSUJVV2lPdmJiMGxQU2RhOVJEbG04SmNWQjV4bkFRMkd3MlJDek1qQW5WVGpPXzFfa3EzYVJYOVJKdVBvTXgtdzFOUjJOQXQ5NGVsY2tMeklIaVBqRUNyVUhyTGRpVXdZLXU1OS1kS09COWt1bnk5T2NfQl9Tejd5ZUZfRm5ULTJVdnZSNXcyOFJiWE1iYWtrNkhXZXNBRklFRmZ2UHphWngtaXUweENpNGxhZ1lRLV90?oc=5",
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xTXJTRzFfMHVPbWR1U2Uxb3pETGRlRi1tMHJvbkJrTXhMRWs1UEFxUHpRWDhEd21idk00OVNjbVliSXF4bUNiNWJHNmh5SUkxZ0U0?oc=5"
       ]
     }
   ]
