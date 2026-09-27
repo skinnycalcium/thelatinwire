@@ -1,10 +1,31 @@
 {
-  "at": 1790524129351,
+  "at": 1790537806370,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Chosunbiz",
+        "WKYC",
+        "GV Wire",
+        "Politico"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "White House blocks CNN from Air Force One press pool",
+        "White House Blocks CNN From Air Force One Trip, Washington Post Reports",
+        "Blanche says president has right to restrict access to White House and Air Force One"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjFVQWtFQ29oS2lLTXFUblprZm5vNk5aUkV6SDFacjctZk91OG5tZm9SdU4yNHYyMXBQLXQ4OFBCTGNTTzFlRzlkZTVkdkpEUkhNUHpoNGpQc2M3ci1wWWpaRVNpTEVLU19GMmRpMUY0T2NQVXZzdkhoMjQ4U3A0ellYZVVTa3VNenM1a2NKLWRJbGFhcmRmeFItbnVuaUlvQVM3T3RIODk1cmUyMEJGYm9oMk9RSlBQdnF6OHRtQTdWZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxORklUNWhvNW5kMmhrSVpmZExxcy1KTGtxUlE0SE5GSFBBazhGeEQ0aW1Gc3ZtaEJvR2Jrb29oaW5fQkVNZHJVb0dyYWlfMXlKTmJnMXFhSkVzbEhQWHhvTUFURC1BMXRmZHU2clM5SUxmcXNQa2h2ODB2eVJfblFZZy1IX0t1RE5mb09xWEo1a2IzOEpwdndpLUFRZHBHd3pPZF9n?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3lTN3RJYm1ndDQ4SkRjLVJibDdWa2l4YzB0S1M1cVVfMTBzNWJBNHhsUHU5clMyVlpINWJxWnR0Y1NsdFRiNTIwQUY0VS1SaGsxRXFmWlZPQndhTk56US1HUThVaXI3WEI5MktnQm53cWJtVjQ3TVZJck96NDk5Z0dGQ3J5RlN5eFdZZA?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "biz.chosun.com",
         "조선일보",
         "아시아경제"
       ],
