@@ -1,10 +1,32 @@
 {
-  "at": 1790548478952,
+  "at": 1790557947618,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Yahoo",
+        "The Hill",
+        "Axios",
+        "Politico"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Anthropic CEO Dario Amodei to have private White House dinner with Trump",
+        "Amodei critics target Trump with hit piece before White House dinner",
+        "Anthropic CEO to attend White House dinner with Trump",
+        "Scoop: Anthropic's Dario Amodei to have White House dinner with Trump"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoeGZQSGRhSTJSc2paUUkzV2xzU0ZCclJDaVBuZ0hVS0tPWkZram4xc1JQdzltUC1YUE5ZYVFNUU9WWlBwVXZxTXdmc01kcnNOZzFHS1d1R3h6TkhNQ19nVnVsR25aY0ROMjJZNGZnTzZmdERfUG9UeHJwLUNveknSAYQBQVVfeXFMTlhjR01sU1Q5UWs1NDFYdnNGMzQ0SU9uZ0oxZm5nZTN6NU9YOEtUbVRqeFV6Z2VLSXNFTXZndXZfNm4yeEJvaUxROG5VWXprblB6XzhLN3BYdndUMFBXMjZnN1VFUlpPVVhkNm5SLU5Zbk8yc1QyVmduOWt5czIyYlFXZVFD?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc1BGNXMwVjN2cld4Y1lKNDVDUXFkUnhobW50SE5xaDlJWjhWeHFnR2Yxc29IcVZjdEFiWkd6cFpRZjBqRFcwdTZjaXd5VVh6OG42azdkaTdsZ0JjRXVwcERod1FhdDZ5TGVMRjVfRmNRSl8wbnBPaFhDSkpkODE4UnZR?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkZSLThQXzNiN1NrVm9OU3pHTzBRNDBWTUl3enZjcmJtYlhyWE9zRkU5VUhfUGlBSEFTamRiY3JVWmR4VlV1UWxYQUpXYlpORFB6enAzbzFQaWpQdWdDaVJTRHVLaUlwdjdrUkFXVDRjd2hnUWJzeVVkV19HOHJrQUpuQU1SZC1kclVOb2pRWVc5UnRJd0E?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa01meU5ZWVpKYVJodDlpcExfZUdQbnBqVEc1UUl5TGg2YnFxT05yd0I5RU9vd2ltcjhMY1VCeVBsTGluNjJ3X2hyNkJEZFlUbHI3SmNsdWpGbzA2NmNEdTg4UjMwdEo2UzdsUHg5WUl0S085cXVMN1lwN1Q0UzBWdQ?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
         "Newsweek",
         "Democracy Docket",
         "The Hill"
@@ -13,57 +35,14 @@
         "center"
       ],
       "titles": [
-        "Trump rebukes Supreme Court after it rejects Missouri GOP map for 3rd time",
         "Trump Rebukes Supreme Court After It Rejects Missouri GOP Map for 3rd Time",
         "Trump slams Supreme Court for rejecting Missouri gerrymander",
         "Trump slams Supreme Court for blocking Missouri’s GOP-favored map for third time"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTktDNF9qdE9oUkh0elNJV2ZJSzlRaUtpZWtYTjVCZnM4R2hmUDFXVUw3bWEyQUFQMnpOaC1LSDlSVmtldjdEa3NuM25ockpjWnloWUdDZURXYWNhSXFQN0Z1cENXSXFIQ1pyeGpiVkk5WkFkRy1PMFUyYWVJNmtBOF9rTHZkN013YlF0cUxvR21hdzBPRkNMYmNPOA?oc=5",
         "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFdVMGFRVXpGTFEyUWM1QlhyT2xVM0IwRFpwNHVZNV9nQllVTURTcV9qckZySUU0NGxpb0Q3cld6c1IyR0Y0Z2VmWDJmRThYN0VoOWFXZWhFVzBnbDMtd0R0M05sblJMM0lGTGNEYWhNSDgxblA1dWNOVTA5eUh4QTdZNlJiODEzTkxpQWNR?oc=5",
         "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1JuT1BIb3E3OWxhSEdOOGtadGVWUDBTQ0ZuZ29LZzRxZmJrSkstaTFEV3dvTHNkSzZtVE5aNWF5STVLdThkWkREV2V1UU9nMkhzT3pjM1AyTFZEbXFTckpsSjVSc1ZnRTY5YlA4ZFhEVDVyLWphd2dJMlRVbDhKTWVELUljcHVubEkzMjFZVmIwMjIyR0JCbGp4SGh1c1NXYjhZLWlpWHM?oc=5",
         "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUEZsSDZGZ0Y1SFRaVjRzRWtrODJXQVZRS1V0NDNvT25MZUdjaVlXN3JZRDJaMlhWcnJManNuQ25yZjZNaTVQVjViWHFzNlBPSnFTX0dZVVY4RTVsV0xHNUxodU1JZkFfOFM3WWY1STJFOTU3WGktUnM4MlZ1WFhPUkoweUJDNTM1YTdfWHBkUTdnWFY3emxsZUpuUFfSAaIBQVVfeXFMUGVWak1RMVdfNV8zOVRyYVdWdXpHbGpFY2F2b0VhRldGZkNtd1d3a2ZzaHlmZExYVGE0anpmYWhIbE5oOHI1RE1vTXN4aVNyejVEQ3hKRWxQVlBRWlUwaWRaY2Q4azB2eU9jNjVqYWZPV2U4bkw4Q3NMMTdaZWJlV3YwUzZBNjVVVl83a1A0dTltY3ZXZnY5S0QwakFpejRhSERB?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Chosunbiz",
-        "chosun.com",
-        "아시아경제"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Lee Jae-myung returns to South Korea, advances US and Mexico ties - CHOSUNBIZ",
-        "President Lee Jae Myung Returns From U.S., Mexico Visit",
-        "[Breaking] President Lee returns after visits to the United States and Mexico",
-        "[Breaking] President Lee Departs for Home After Completing State Visit to Mexico"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hTXhqS0lFcVVOVEZSb3ZZRnBkVWFnM2ZRY3ZnbXdTOFN2ZVJwcFBjUzduYVZNUlFDcmxMc21qTVBjNjBKS2dOampic0pYRWx5cW1FakNIbml2alIyNi1fTlg2Q0kyOEgxUGJXOUxDZ3U4cEhpTTBJajBJSEVGVlnSAZMBQVVfeXFMT3RFdGViT1kxOXQwVjRqSGtRV0Y5MlRVZ3N3LUtVLTBROEhFamc3QnpKalY3VC1JWDZWdVZjckRvWV8tQndiNXJURURObHdKUllOU0hMZGdncFdBZWpXRDRZb1R2bm1wZGVXMzZOWl9oc2gxUVZPMzk4bXBfRm5zTHNUakk2SnplZDJFRS1Vc1pjNUxn?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOemdGbWV1TTRIQUhteEpnQUVoY2VzWHRpVG0tNWdQdzFEZ0JYV3A3NWZ4TGUzMWxYNHprQ1NDams5NHNkOTFTenIzV2ptdU5SSk1GTGhuWGRkMVloQjZjOGFaOGhqZlEzbFlPdDVyUUZXRkZtMDFJVTl6ZDVQUW5nNnBfNXVqSjBB?oc=5",
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UeVlJTzJoNzNCeUw0R3J4c3VuaWNfT0haeDRXUTYtOTBpZk5aOERCeEt3eFlWbGF0X1YyZFZSaVIyYXZRbW9TeFJXSE5fQmhzcHdFZjgwaFJwVDhIaGlVVXNJd2g?oc=5",
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kYlpSQ1FVQ0YwLU1rdzFwQTdNNnFjUkktZHFXYnZ4aFAwdXI2U3hJdTJQR3d6TGxVS1M0UWRYc0dxUkVpSWxXQ2NiSVZVZjJEeGZTVm1SUUFkMkxDLXlmdG1sMzQ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Mahomet Daily",
-        "Межа. Новини України."
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Supreme Court Allows Expanded Voter-Citizenship Checks to Resume Before Midterms",
-        "US Supreme Court Allows Trump Administration to Resume Voter Citizenship Checks"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbzNOOHhUT0lxZGpySW1LczRoWVg2WUFiME5OOUJhcGdPRVlvWHZXd0UzMmh6ZDA0VUxnYzlJVXhHSFB4d1RxNU0tZ1FDdERKbzNmaDNnU01ydTdTZDZQRksyNWJsb1JtWU1kNk9wMUJranhBeEtSWFF2TE1nR2cwY19jNUtNbE1qbTZkUnY0TWJSMWQ1UXBCMEZsWGx1MWVDNG5CUUlfc3hkQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSS3VvOGtLaUtKNHRTbXp5MXNnd0ZqY1BFTm1PMWMzbmlBckVQdjlFbjdrSU9UUjU2R0VnUGxHeDJuRVZrTWs2amxoY1FMdE1qdkJqUU9ka0tDVVZvRGpOZHFSQQ?oc=5"
       ]
     }
   ]
