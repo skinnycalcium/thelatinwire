@@ -1,48 +1,102 @@
 {
-  "at": 1790557947618,
+  "at": 1790578783733,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "The Hill",
-        "Axios",
-        "Politico"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Anthropic CEO Dario Amodei to have private White House dinner with Trump",
-        "Amodei critics target Trump with hit piece before White House dinner",
-        "Anthropic CEO to attend White House dinner with Trump",
-        "Scoop: Anthropic's Dario Amodei to have White House dinner with Trump"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoeGZQSGRhSTJSc2paUUkzV2xzU0ZCclJDaVBuZ0hVS0tPWkZram4xc1JQdzltUC1YUE5ZYVFNUU9WWlBwVXZxTXdmc01kcnNOZzFHS1d1R3h6TkhNQ19nVnVsR25aY0ROMjJZNGZnTzZmdERfUG9UeHJwLUNveknSAYQBQVVfeXFMTlhjR01sU1Q5UWs1NDFYdnNGMzQ0SU9uZ0oxZm5nZTN6NU9YOEtUbVRqeFV6Z2VLSXNFTXZndXZfNm4yeEJvaUxROG5VWXprblB6XzhLN3BYdndUMFBXMjZnN1VFUlpPVVhkNm5SLU5Zbk8yc1QyVmduOWt5czIyYlFXZVFD?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc1BGNXMwVjN2cld4Y1lKNDVDUXFkUnhobW50SE5xaDlJWjhWeHFnR2Yxc29IcVZjdEFiWkd6cFpRZjBqRFcwdTZjaXd5VVh6OG42azdkaTdsZ0JjRXVwcERod1FhdDZ5TGVMRjVfRmNRSl8wbnBPaFhDSkpkODE4UnZR?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkZSLThQXzNiN1NrVm9OU3pHTzBRNDBWTUl3enZjcmJtYlhyWE9zRkU5VUhfUGlBSEFTamRiY3JVWmR4VlV1UWxYQUpXYlpORFB6enAzbzFQaWpQdWdDaVJTRHVLaUlwdjdrUkFXVDRjd2hnUWJzeVVkV19HOHJrQUpuQU1SZC1kclVOb2pRWVc5UnRJd0E?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa01meU5ZWVpKYVJodDlpcExfZUdQbnBqVEc1UUl5TGg2YnFxT05yd0I5RU9vd2ltcjhMY1VCeVBsTGluNjJ3X2hyNkJEZFlUbHI3SmNsdWpGbzA2NmNEdTg4UjMwdEo2UzdsUHg5WUl0S085cXVMN1lwN1Q0UzBWdQ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
+        "KMBC",
         "Newsweek",
-        "Democracy Docket",
         "The Hill"
       ],
       "lines": [
         "center"
       ],
       "titles": [
+        "President Trump responds after Supreme Court again blocks Missouri's 2025 congressional map",
+        "US Supreme Court rules in favor of Missouri's 2022 map for third time",
         "Trump Rebukes Supreme Court After It Rejects Missouri GOP Map for 3rd Time",
-        "Trump slams Supreme Court for rejecting Missouri gerrymander",
         "Trump slams Supreme Court for blocking Missouri’s GOP-favored map for third time"
       ],
       "links": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzRNbWlUSmYyRV85WVVLZzZoeHp2cjgtUXVqUVNJcGt4SWZBSVpUVjQ5VmZuaDZqNFRDWmF1UDhEc1lRSGk4eWxHM2pfWUFmSTJrZ2pWWUVpNGo4TUlOU3ppeldZeTZSWUdjTXplRHJxOWR0bzJLSzRvZE5XR3UydWYtdC1VQ1RsZkllcHVBNHVXWTRsRW5HSXUweUl4ZnJ2OVpDQlZ4czRTQ0dX?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaVhpWDNrZFJ6X0MyOTRYRmZaSkxDYnVlVUlhZWRBekgwTy1HLVpCVy15amIzU3dsY1ZmeWUxVG40SkYzeEFma0thR3JpZFFKY1dIenFVemFMbFVFMW1RTXlpQktwUVNMMEswdkp0SEhLdk5JRUNMY0hoRFN2M2p6TjRETFZsUUg2a0VfM2N6Z1V3UjZoT0d3MW9Scw?oc=5",
         "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFdVMGFRVXpGTFEyUWM1QlhyT2xVM0IwRFpwNHVZNV9nQllVTURTcV9qckZySUU0NGxpb0Q3cld6c1IyR0Y0Z2VmWDJmRThYN0VoOWFXZWhFVzBnbDMtd0R0M05sblJMM0lGTGNEYWhNSDgxblA1dWNOVTA5eUh4QTdZNlJiODEzTkxpQWNR?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1JuT1BIb3E3OWxhSEdOOGtadGVWUDBTQ0ZuZ29LZzRxZmJrSkstaTFEV3dvTHNkSzZtVE5aNWF5STVLdThkWkREV2V1UU9nMkhzT3pjM1AyTFZEbXFTckpsSjVSc1ZnRTY5YlA4ZFhEVDVyLWphd2dJMlRVbDhKTWVELUljcHVubEkzMjFZVmIwMjIyR0JCbGp4SGh1c1NXYjhZLWlpWHM?oc=5",
         "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUEZsSDZGZ0Y1SFRaVjRzRWtrODJXQVZRS1V0NDNvT25MZUdjaVlXN3JZRDJaMlhWcnJManNuQ25yZjZNaTVQVjViWHFzNlBPSnFTX0dZVVY4RTVsV0xHNUxodU1JZkFfOFM3WWY1STJFOTU3WGktUnM4MlZ1WFhPUkoweUJDNTM1YTdfWHBkUTdnWFY3emxsZUpuUFfSAaIBQVVfeXFMUGVWak1RMVdfNV8zOVRyYVdWdXpHbGpFY2F2b0VhRldGZkNtd1d3a2ZzaHlmZExYVGE0anpmYWhIbE5oOHI1RE1vTXN4aVNyejVEQ3hKRWxQVlBRWlUwaWRaY2Q4azB2eU9jNjVqYWZPV2U4bkw4Q3NMMTdaZWJlV3YwUzZBNjVVVl83a1A0dTltY3ZXZnY5S0QwakFpejRhSERB?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Red Lake Nation News",
+        "WKYC",
+        "Politico"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "White House blocks CNN from Air Force One trip, Washington Post reports",
+        "White House blocks CNN from Air Force One press pool",
+        "Blanche says president has right to restrict access to White House and Air Force One"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUE5xVWNUQVUtNUdiOFFIbEplbkx0SjI3ZEZXUlBrWmJjcDZYeWZ4NlJWaERRZl9EYXp1MS15RlJNSVRDSUQ5a0VzblVfNkMtdHNScjlPM1hVaExFSUU5MHo0bHVfbDU4TWh6V0FsemVsRjZra05kYUE4ZTlmbXFGa3BkcUYxSF8xdW5vSWNjTkwwLXgyQ0swMTRXc3lEQVBaNFJUQ0toamcycS13ZkVCMDFVeTNzek90RFVGR3pUdGg1blpjcFY1UERMNU93b1BJTTBvWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjFVQWtFQ29oS2lLTXFUblprZm5vNk5aUkV6SDFacjctZk91OG5tZm9SdU4yNHYyMXBQLXQ4OFBCTGNTTzFlRzlkZTVkdkpEUkhNUHpoNGpQc2M3ci1wWWpaRVNpTEVLU19GMmRpMUY0T2NQVXZzdkhoMjQ4U3A0ellYZVVTa3VNenM1a2NKLWRJbGFhcmRmeFItbnVuaUlvQVM3T3RIODk1cmUyMEJGYm9oMk9RSlBQdnF6OHRtQTdWZw?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3lTN3RJYm1ndDQ4SkRjLVJibDdWa2l4YzB0S1M1cVVfMTBzNWJBNHhsUHU5clMyVlpINWJxWnR0Y1NsdFRiNTIwQUY0VS1SaGsxRXFmWlZPQndhTk56US1HUThVaXI3WEI5MktnQm53cWJtVjQ3TVZJck96NDk5Z0dGQ3J5RlN5eFdZZA?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "The Washington Post",
+        "NBC News"
+      ],
+      "lines": [
+        "left"
+      ],
+      "titles": [
+        "White House expands taxpayer-paid ad campaign boosting Trump",
+        "Trump and Xi exchange praise during tea at White House"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNXhWMktSSF9XWkdfZm92cWticXh4YjRrdnBSRDE3UzdlQ2FZUG9MMS1TaGJ4NDNJNHRrY2gydS1oNVlSd29TTWxZdTVESXhCTERWMlJBSjhSeE9scy1reWtLOGJpZUdKLUNpN1dUaFh4bGg4ZlVWVFFIZXJEaW9xbWdueFBKQ2xjZEhqaFEzdFVjeUxheWdsY2JSNE1YLV81Q0FjWU5TaHJ1cnJ1NnBKQXNn?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQVNINVJDb29PWUhpUVdsbGozNXFjeFhPUmc3c0VXRXBmQW9FTHE4RkxXbmNLZ2ZPSFJ4R2xWTDBLcWE2Ui1uTS01U1AxSGxEM1gwal9rdTZKUURVSTY5bUViSmJOWmxJUDBOSVRLQll6Y2JYSDNNWmY5blNucGtnTVpWZ0JyVjlzZXc1Sl9QRHNNVzFRNzdPMFMzTlhGbXpITGdoYURXbw?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Verdict | Legal Analysis and Commentary from Justia",
+        "Democracy Docket"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Important Takeaways From the Missouri Districting Debacle and the Supreme Court’s Reaction to It",
+        "Trump slams Supreme Court for rejecting Missouri gerrymander"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUXlaZEhlZzhmZTJMLWU0QjZBNmNnZWpSUUNjaEYzN2p3NTV6czdhMkxvYlR0SXg1dzRZZlI4Y205ck1qM1JxZHhNbHBHOFNGaXNQa09LZXdyal9MM3cxMUhNaXdOZGZQNjJneldQQ1owalNkVC14bGpsanBITjZHbVc4RHRfT3pDLW1vWkZXMjJYVG5uRkVlYldVU1NiMmtSdHVzV0ttRXZnVTlvY2h6VlZzZk8xSHdSSUstVHRJVGoxX25uOE1pWFdraFZyUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1JuT1BIb3E3OWxhSEdOOGtadGVWUDBTQ0ZuZ29LZzRxZmJrSkstaTFEV3dvTHNkSzZtVE5aNWF5STVLdThkWkREV2V1UU9nMkhzT3pjM1AyTFZEbXFTckpsSjVSc1ZnRTY5YlA4ZFhEVDVyLWphd2dJMlRVbDhKTWVELUljcHVubEkzMjFZVmIwMjIyR0JCbGp4SGh1c1NXYjhZLWlpWHM?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Signal Akron",
+        "Times of San Diego"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "2026 Midterm Election Voter Guide for Akron and Summit County: Here are the candidates for state offices",
+        "Voter guide to Nov. 3 general election in San Diego County"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcXdsOGI5VHJvRFlBd1g1OTZVcVpScnFZdzBLbTRhWHV3YUdXM0FJanlmUzdlNEpTaEI0OEhVOXZzcHlKMl9MMUt4YllpdFJhRnNKTWY0M09ONG1CNUJkdFdveWhTSUZWb0tGZGtHd1FWaVdSVkd4YUdQSlA5N3RleDBFQlZRVi15bkZCNTM5MGM3NEFYVWc?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHQwTmFHUEVsM2JmTEJmbmVET19Lcy1QazlLanZnaXowVFpnSTYwdTc2cGp3UkZZelBoRnVVc1U4YlhIN1RlemY0Y3QyeHBKVDNCMTExV25acnMzaVJQZUxlRWJmcVpscjBEc0RCbFdlamYzQm5jc01iSDJSUEc5RG56aVR1dWRrT1JfN0ZHa0FVNll5Smp2aVk1WG9PMjV4bE5vZ25kUHY?oc=5"
       ]
     }
   ]
