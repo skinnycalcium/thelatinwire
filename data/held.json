@@ -1,97 +1,34 @@
 {
-  "at": 1790709046992,
+  "at": 1790722730214,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "businessinsurance.com",
-        "The GW Hatchet",
-        "Yahoo Sports",
-        "Scripps News",
-        "ktnv.com",
-        "KPAX News",
-        "Legis1",
-        "Alabama Daily News"
+        "La Silla Rota",
+        "dw.com",
+        "Clarin.com",
+        "nacion.com",
+        "eltiempo.com",
+        "N+"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Senate passes TRIA extension legislation",
-        "Senate passes GW, A-10-backed college sports legislation",
-        "Senate passes college sports bill backed by Washington Sen. Maria Cantwell",
-        "Senate passes sweeping college sports bill to regulate athlete pay, transfers",
-        "Senate passes sweeping college sports bill to regulate athlete pay, transfers",
-        "Senate passes sweeping college sports bill to regulate athlete pay, transfers",
-        "Senate Passes Landmark Bill to Regulate College Sports",
-        "Senate passes sweeping college sports bill"
+        "EU reanuda deportaciones a terceros países tras decisión de la corte",
+        "Corte Suprema de EE.UU. levanta restricciones a deportaciones a terceros países",
+        "Corte Suprema de EEUU permite continuar deportaciones a terceros países",
+        "Corte Suprema de Estados Unidos levanta restricciones a deportaciones a terceros países",
+        "Corte Suprema de Estados Unidos elimina restricciones a las deportaciones de migrantes a terceros países, en una importante victoria para Trump",
+        "Corte Suprema de EUA Permite a Trump Reanudar Deportaciones de Migrantes a Terceros Países"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTzEtd3N6TzVoS1M0TlNvNGc3MGdXMllYV09RU0ZzNEx1MWV1QlFPQ3dfY1VCc0M0MmRuSmZ4Yzl4VkhGZVNwcjJITTA5c0VqZm9TNktOdFZPQk01S3hid3JKNWRETFlfOTFXMXFGVFBrMXNKcjJuVU5WZnhQV2JYXw?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdkxZODJiajRJeWtCaldYOHVpaWVfdFljYnd6YjVKVHJwTm9TNXhZb2lnQ3pmVUFuSDAyLS1vcXU4Z1NBVWQ2eFNHME5rR1A1OWNweHVtRmVCNmVLRVY3TWJabnplOGNDUkJhZEtEdi14ZldIdzNnWHZDVTUzR3lJWUktYTM5cFNOeTAxODNFRno3Q00?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSGhpZjV5dG1ZaEY4bFBKMUZ2QkZYcmVLbm4zbE0wZ3hyQ1BqWDI1OGJPaklLcFU4NzV2aUZ4cU9fQzFpWWpFVTExQVlTQ2hZRU9TcE11V0lfMk1CMnZNenJ0RHBvSDllX3g2M09pbVlzRGprMFNET3c1bmNVeFcwcTN3T1pRVU42Q3c?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWhiblEzRWlJbGxkc284cS1DaEFqSGRVTnd5d0tjYzdCcnJDLXRwd2tyME1tVEpJdGs4VEgyQ3dqTlJkTkJJTnBIZVU5LWZUN25kMjdKNDE1VEhGd2l3RkVidFhtdlYyUy1IWjdWT0hrT3BTVGJtVlFhby1aSUFWdzFjTUdfcEZEOXpTS1RCRFdsOVdHbXRuaUc2WkJnbGRtRklvbExGY0NCcjdENG5JNDJ0TWdXUERiZHc?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNclh3Nld4Yy1GOV9mYWM2bmdqbmEzV1d6NUtRSmpNRVBTamM0cFlOZnFGRUZyTExsTmpBckN2dmdCclNzT29vMXJNWl9fSUlsdUd2QnFLaERVb3I3QU5pT3QzZ29peGtCYWpPb3ZlVDcxMzdoc1hzUzVGblZHQ3FhRmFBb2RGVlQ1VzR4SW1GS0YzaGVTZV85RWkybjlnYlRZcHRCdFNRQzFEMkVzb3NB?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVBHb1UwTC1QQXE5X29La1RGY01pbkhjOGdKNVJCbDJCUVk1a1ZiMlFZOWdSbWhzZGxfc0o5akExOFVMVHZkUFY0QklPZDZxc1RpVUJsMEhuTnlkUzJJcnRycTYwUTdCQVFwM0ZFRkE5ZGlUM0tmeHRiWWc5bHVfRWVIdkx5SWlteHJrQkZUbzBRSTFuVm5pc2tOX20wRXd0b0tyd1dwV3ByUjRRbTFZ?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTFBETTQySVlEYTFkM0hpTHEwaWNwajRSRXlxazVzYnc3aWxvcUhuS094Q0ZwTXBRU1ByZGI0YVlKUU9hR2FOSGN0VDdTdkM5VUtzT1RXWlEzSzVobERXN3k4WU1RckNGQUx5STZGdjBKbzh5dUh2NExRM25kbw?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yeFVDTm1rR09TeFFUTlFQMnBTQy1VZDJBblZ0c2J4bi0zdHV5LWNZdk5wUWZIR1luWWFLcVNYNHJPekdNQlgtZXZkMTNDQzdBb1lvMDg3eU15OURnemVRWV9ERnZIYTlCSFc5MzVCRTFwZi16eFE?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Buchanan Ingersoll & Rooney PC",
-        "The Sports Examiner",
-        "FOX 13 Seattle",
-        "The Lufkin Daily News",
-        "KRCG",
-        "Florida’s Voice",
-        "Nevada Sports Net"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Senate Passes Bipartisan Protect College Sports Act",
-        "COLLEGE SPORTS: U.S. Senate passes “Protect College Sports Act” by 77-22, but its fate in the U.S. House is uncertain at best",
-        "'Protect College Sports Act' passes Senate",
-        "Senate vote on \"Protect College Sports Act\" on Capitol Hill in Washington",
-        "Senate passes Protect College Sports Act after late-night debates",
-        "Senate passes Protect College Sports Act, sends amended bill to House",
-        "Morning Download: Senate passes Protect College Sports Act, but House vote unlikely"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPYk90SVUwRHVqdjNNWDRhQVNaMlphbjU3ZU05Vmt5eHRoS2NYN0dUT19uVC1FNlZqNVdmLXd4RHBDT2tZQ3oycEFkTzJmeGhFUmUyVGItRWREN3FMSGVWZmR6bXdtMk1SUFlJWkpGTHhkc0REdktzS0tkY2Q?oc=5",
-        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOV1hRa0plTGxqVE40ZGhlU0k3SjU2eWtQWHNER3JxMW1ISGQxR0RRSndpaGRuTmh3QTNwUEczLWJVclFBY3BCYU90RktBMjVQd0NmWlA3UEl5Zmo2MzVqS0s3SnlaTWdVRGgxNS1Rc3RXd1RSR2JpUEhSMk1UazE1Z1cxRmhIbVUxNFVUczloYnFqR0xSdmRpVjNsTG03OFpYd1JUdnVDaGVMOGtXSkZ2ekdNVUlLSHA0V0tNT0xXenFSNE5rMGpmaGlyTkJJY0hfTlFmdzFiT25oaXpIMi1NMXVULXBLckx0NUE?oc=5",
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZX3VUTDFjLUxjTHlnSUZqVXlvUTRjX2FQSGlXZkloZmNyOTNRNjhUVHFMRjJoS196TzRPclhLM3BwV2Q2SE9NOVBGR0ZtSTd0X3pUcnY5Z3hia0NWNEt4aVo5VVNpQdIBa0FVX3lxTE5adTJUNU5URHJYWkRObFZHbnJmaE8zbHhjOHpPTWpkTkh4Vy1xV3YtczBDUUlfWjVNWkFIRlZaV2gza2Z4cXBPNEdGZGlxYkxIQTYtZDNxaGJnVldLbUlEMW9WMWN5eEdqWVpZ?oc=5",
-        "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPeXNILWllcW9ub2pFbEhGaUVSVlRKYlZMM0FmR1VoX2o5TS13ckE5Yndha2dJQ015Q0lkcE1rNE85UThnT1hpbHBHaTloZV9QanJaNDJZd3FxMEZxcVRvaTdTam1rYWJuZjB2UnhSUVk0WWFBMFo2bVQwVWl3Z3g5am43WFM1NWgwVDZXbkVpV2V4bzM5SEVlWmtYbGxkQXNIQ3lOaGFGUEpKaXM5Y3FSVnY3MjMyM202U01zOVlSbEJjQ0lsakp3b3NQUGw0WGM4ZjNta2VLNnVlREZReHNneFNscVVsTDg2UmI3VkFSR0VKQnZmQko0RkFoTlk3Zw?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVZ5M3Q0SzNKZ2YxTWJrM3o3WXJNV2tDWXJ0ajVUTDRxRFFGMWZrbDZMR1ppNmV1UVRLLVpQaUhLbjI1UGxBUXFSNVVUd3FmYjg0eFZtOGM3SEN4eDh0LXpMOTVGeXZCenR5Q1dENjdkMzUta1VpVHowZGt3WndZSC1kb3NYanQxeTVBSmpHS3FoVWlVTjFYck9YUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmQ1RGZMYUs0WHRIWHN6SjhBS3FSZkxkcDVFMWlFWWlYbkhzbFRtMFdvVFFkdWJ4V0FpQk9reXJQamd6WWdldXNmTWlFTjFvcEFfVEpqek9rR3ZZYmJmWEdiYm95NDNRQVpBaGhfeS14RjFDWS01SGRZR0N0dXYwQkJNRW83QnE1RThRNlhXZ1FuYTdvZG9kLQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWxBTnFIMnB4R1Z5TzBQV3dxX2xZZWNNUlY2akVMN0VzZ0NES2tIZlFHbHc1c3lUYXNkSEVEZzRiZHlPaFkzZnJxYzdMdDA1YUxVSWs3eU9uM3ByQS1kYm45TW9veUJvTWpBb1VvM05laDVYaTVjcmdIZloyVng2SXI2S21xSExWMHZnZFFrY2RFTlE2YTE3ZTZnRmNNVW5LSllncjR1RjNvdVY1dTdNN05FX0NHbmhpbEY5WGNyazhqQQ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Forbes",
-        "knoxradio.com",
-        "Dakota News Now",
-        "FloTrack"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Protect College Sports Act: What It Means For NIL, Revenue Sharing And Athletes",
-        "U.S. Senate Passes Protect College Sports Act",
-        "Sen. Thune responds after Senate passes Protect College Sports Act",
-        "US Senate Passes Protect College Sports Act, Potential Impacts To Collegiate Track and Field"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2JFdlhnSHJvOVB0QVcyMXBSeVFqVmZTN0Z0Vk9kOTF0WC1UVmlKTFhOU3Z1c0VWcGhmbVEyNVlpZU1kNFZfWHI3UHNKZl9PQTFVNlN3MnUyRXRsbmJRM2JfdmE5VzhEc0NGRWVCRGlaWlU3QzkzZjJIWjhqN3BtN0dhd0hRY2kta2luTkx3RjlKRUZ0NTBReWU2eS00UTdzcG9EaHdNR1ZzN1dzU1pKYU4xbUd2Qm1p?oc=5",
-        "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmQm5rMTVaUlZhWFRNbDVzb2ZYeVFWY3JqUkNxVFpvaV9icmxpVzBfSzRwVE9qdlAwSS1saXFBM1Vmdk5rZHkxWkdHUmoyWTQ5Mktv?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSlF3Ry1nZ1libExoaDNfQWd0MThCV1Y1aDRzVlpzeEVhTGFOQ1pmX20ta1VqdjFPZFJpSG9GUWVtdW1nTjZvR0ZQVDM2LXloTEhsVkV0S05CakZsblg4VTNadjBOWUNVMzZ3MTluS0d5cWxoeUphR2pfX1hPUnlRVlN5ZTdubUlGZ3A5TTdSVi0tUXgtX2F6aU4xQUVTWVgzN2VicWZseGRJSGs?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMVhYY3JBYkQwZWVCWWhJVWUzWGd2RVVFOFZlT2k4a2ViRUJaRzNxQzRpa0R4N0FLRndEYXo5TkxHSGF5NHJaYXRNaXhDaWN0VGtrMGgwWTkxZUM3X2dBT20wMWFmVzVEYXdDb243aWxJcURiUVpOaGtuNzg2emxOSkdZZkQ4YVpsVTRpTlg3UQ?oc=5"
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUkJHTmdsRUJJMWNHQzZMYlhfSFc5OG5wTlRtXzFzQUhLUjRKY2FnYjVCYkIzY3Zwc1NZZ3RGUllDNF9Ua0tOeWhzcGJlUlBwQTVuNHJkSDU0ZDBTeTFmaTVTdk5NUHdLaW8tVk10cFlPeHN2T0M4MlVkT0NFTXhoSXA1Z01jc1FuSFJzVVdVUk1hTWMtd0Q0Ym93OXZHdWhEVXpfWTJSekg4VGVPcV9ZMmJ5SUdYX0FGejhvQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0FvQ3pBeG5KLWw1RWRwNDc1NTZHWUNGdUYwM1ZGQWhOdTl2X0lQMWRNdE1XNTNqdDZNUUlqY1JNcTlpendjX29FMzNKa0JSZXRabFVwaElmMzdUZlhWSkRKVW1Dd3N2ck42eWdxck1kQXRVNnVwTnB3aERHSmdMNU9sS0h3eTk1YlBFb0lPOEYtbXZqQ1dMSjVkbkw0V3ZwYW4wcGdrb0FOalEwcUpkZm1pYlAwd9IBtgFBVV95cUxONWNabFJabGJjS2cxNFAxel9USnN3cGNmamhFNTN5MWYyUEZGV3ZKRTl3S0xhd3JSRWZaYnJZQU4tdTFHV1RVTERpbkNUNXJpX2cySnF1VDJnM3ZwVmM1TnV4cXFlb290ZGRqVkNpX3pzTVdfZGZVQ1puOTZqNDk2ZFJkMTR0S2IzemNSM3BfSi1LbDR5Q0RCX1Z0QmVPXzBuUmZYSWd2X2FXd2F2a2k1U1VTUlQ1UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRW8wODc0ZXduZXpuV0VueTQzd3IxdVZZSDY1OTlSb2RqNnZ0bUZvOXZMUTR5d0pVUGhwQTA5QU85MWl5MmNCbERNSjhkSTliLW41UXU4NEt5VkM2V1lhb3FBRWNsOHJhLU56RktrdGRhZkhZbmg0dGtEa05ESTVJSS1ZTmlrWndPVXBFMVJfQXVCUU5TaFljRE9OT2hZTUk1R3NrMXFlWktaNE5DUktwYjJZdnpqbmx0ZmZjb0lLOFhlVEF6amc?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYWNkWGJPYnNBWHAySEUxakhQVDhnMW5zUWZoOVM2UElwV21VQVl6Wkc2bFplWG12MWdlQzNEWDRPTFpwMU9VYlZGU2JwX1dvRVNkaWtaeU9LaGlKcHlQWmIwNWVMZVNJYlYtUDJzOXpTUGgzbnJPdUFfMWpZRUw2Yk1NQmcwY1EwMllpbUpEbHpOajdLNzlWQ0tGMlFjWml1Y0cyMFdQTFc?oc=5",
+        "https://news.google.com/rss/articles/CBMioAJBVV95cUxOYXVlc3liR1NIbDZxSm9WUWMzT3JqQTRsVG9ycDVFYm4wYVpWZFdHVXNBNjJMcWtsa080bm9PQnprZ1lIVXdKQkZzTXpCQjJ4SzRHNzBqRUc2N2VuZHlnNUZGdmtlVVBOS1NuMGZRR3N0TFJ3MU9Lbm5XWFY2M1QwQlBiekFvd29OM0ZGdmVVWC0tTmhhVnFoUlYxV1drVXotdjhUSUlhSTlJQ01VbXFLbTVNQmp5clg0dVBUREJrWHQySVZTb1dQcXF4eTJTSU5qdEpDMFNLMkJnZlpSWWNycEdSVko5WG1vMHltX1R5aWkxeV9jc25SWm9BTzVKV2tybU1ObTktclhqYUpnamlaRkZpNmFJVEJMNjg3czA3QU3SAaYCQVVfeXFMUGNBbHVEbWtFd0dPS1VFT2ZfQkhwVWU2SDM2OVpSWlFzZnRXTDBveE1GQmgxSUF5bFMtRjZ0SVpnWkpSUGJiRHotVE82OGRQN0xvMnVKb3phT3c0NE9jVWkwelVweWJQMWtvWDg2NGNObWlGYTV4cnRjWk14TFBfQS1LNW9fWmRsRDQ3ZldjWWpycG1NWjMzb1dTLWNNUVVjeWQ0dThDcEEtdU9HYjJqWlMtQUYxdVZjc0hzMHAtRXJuUjFxRF90S1hUWXV3RmxudUZWWVh3YU1WMEE1LS1JTThvV00zNjZTWGdzMzFhTUpycW1BVTRUZlNoMmsyZ3hlVnlVU3pIaFpqRG5HZHlTZlRaSExjaFhDNnphQVVSLUgtS1pIdHpR?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHgyWGtYQ0FzbVVnbkUtV3N4STlwalVkRHR4WldhbGxDVEd3VV8waVFHVDVpN2ZUTTdpa0UzQ0o1cW00ZjQ5RHBZaG0zTUpuU2FmeGNFQ2t5Ym1ybWNYX1FsOU9nX3lwTnBkRjZhU2FOWnpoSDdTNDM2ZE5oOTdDUVB6UnFSVDVuMXRtZS1xN0FQUWlFS2FDSGRtNWdnZldfeTJuYXQxVlhYZ2tQd19QUlZkSUtfN1lyODJoZVk5OG1mdzZyM1NOVQ?oc=5"
       ]
     }
   ]
