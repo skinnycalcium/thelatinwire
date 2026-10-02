@@ -1,40 +1,79 @@
 {
-  "at": 1790949835881,
+  "at": 1790968800547,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Alabama Political Reporter",
-        "NewsNation"
+        "Mexico News Daily",
+        "The Times of India",
+        "bdnews24.com",
+        "The Mighty 790 KFGO",
+        "The Straits Times",
+        "internazionale.it"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Senate passes Britt’s bill giving clergy a second chance at Social Security",
-        "Congress passes bill to rename Social Security claiming ages"
+        "After Torreón school attack, Sheinbaum targets violent social media content: Friday's mañanera recapped",
+        "Mexico to propose bill to restrict violent social media content after school attack",
+        "Mexico seeks new curbs on violent social media content after school attack",
+        "Mexico to propose bill to curb violent social media content after school attack",
+        "Mexico to propose bill to curb violent social media content after school attack",
+        "Mexico to propose bill to curb violent social media content after school attack"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaGhkWVFUZ1N1UERnc1dPMENlZDNVeUN2c182WFFwTEI1R245MlB5RWFNOHBQdVc1QzI4V2pMRjlnOXA5UjdZclRadlN2X2M4NFNDMVktUUJSemtqT1hjcmVlLUQwRnYxZHp5aGJtTHFKc0phTi1HamVfemdjQklhazNZMURrMC1rOF9NZU9HWDR4YlNQOVl1eFlEWWRIRlZXLS1HMUNWUS1WOUtBaU1ObEtkaw?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLV9KMGh0RkZfRTliLWxNdTJvY2tKd1U1aDFCdGphMTRfbXljZl81UlotU3dWOXZYcGZCQ2FCMTA4aXlpbmxLY2NFcWxxZjJGX1l4eDMxbWNEMUE0eHItZUlUWnFuS3ZUdDh4WDFqWG0walFUOVk4enZVbHZybllkTNIBhgFBVV95cUxPVkZyNWc1Vl9kLVQtNzJ2a2NnX0ZrQktSSWxuR280cFNCVzhtX2dyZ3FwRjloYk12TWFWdnNKQ2JKTnJlTEg0aVhpWDV4S211aDhkNGxuYWFtblJYUmZMQzB3QTNTS09kSVhER1hjWXVzMG8yX3JMZUREQlVUSG5xeS0wSTBHdw?oc=5"
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdm1jYU00Q0wwWjJ3SkFBdHBfcmhtcERqUG1wTjN5WlNuODhEeVpZY29BV21XaDRjNEp3YVpBYVNLbGhUbDlRMTgzaUNVT1dpQzVpZkZZRk9PSTQtX1Jyd3NUdXlvS1pJeW9lQXVwVE1GNWtRWDBXZ1RHbjJaZGhxTjcya2NUeGxKdHJDY3NVQy1ta2FqQkFfb2lRY3lCaUFjSkM4WnZLSW5SclZuNlBaRWFfazM2dXNZ?oc=5",
+        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZU5fTkhtc0FSdUM5R0pfWmFVSFA5azFpeTAteWNZUFpxRU5mSWYyeDNkTHZQNjNXb2RkNGN5eWs4Z1R0OXc0UTRVTi1HNU0wazN4aE9kaWJZekZES2gyUTJHLXdEek9nZHdKTmx6QXBEUXRaM25tWDFHT0ZxaEUwbi1nQWtLbHZEYUVjOWRFeGNuYzJLUERNOFp6MjQ0cWFRSzhkeVZxaGdKTkxUTGMzLURSc0Jjc0RXVk5qUkxQSVh1cVZoTDJxc1dhbFVBMDB3V1daaEJoZnNidklHNmxlMDk3akljVFNxMHhNOVJuY9IB9AFBVV95cUxPa29zSjd6LTVuYy1JYS1kZlQ4YXJIZzBmRkRnNXVFeFBiZk5wbV9wQ1BYQ3JoenhoVk5XZlJ0TXFRemFSZTY3SVlYSXhxckMwd2p2Wnllei1FMWVCeTJJUjR2MDliV2RBSktOTjFLS2tveWV2WW16REJPVmM5Q0VTNG1UdkpZcFpIcXN4TWxQbTlpNHJOdU12Y1FMMVFJSDhHVEdKdXFCRF9MVHhFVzFSbXVGdFBUVWRxangyU3JLdTZKWnFPTy1qWE9pTzZOYjM3TkdWZUdiUGRDMFhoRUMyNGlwOVF4WnVUWEx6cEluVjcxWGlq?oc=5",
+        "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0M3RMYURwUGhrUGhXTkVSenNsUFdQOFFpNVQwVDJTTUpvMDhZVG9ZVEhOaEFxazJJbE5DWS12b1hhRGt5TXlnTGtQMGhzZw?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVF3TEotZC12djdtY2VlRGMtN3Z5U0ZXVXdKVXdwNk5WQ1UyMFdIS0w3SUgzNl9jNGsyOEp5dTBLYnhTNUV5Q1Jmbnc0S3lUeGhFU1FzS2xvTXB6UXZwLUptY0tVVTE5MzdSVEx5U1RMYndFdTVvUnIyMGNIVGd5YmVMVFdpMC1TZHl6SjZWSm9CbjJkaENiTDhQV0ZDQnBCTXNVYjgtdDBBT2tH?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSE14UTVjMm0yWjl2aUo2dWEwYkFXcXVScWVLVjFla3hiSzVUT09kYTFmUFQzNzJKcjQxODVybU9PN0pRTUJOeEJIMmVXSEZ5S0JZMGhKbXFaakhMckRtWDRmaHg3Y0RPQ2k4cFFEeDVFcllCM3BFb1R1UTRRRUl2aU45TzlYcVBmN0pnczRzdXVSLUNLNkQtTHMzNTJ4b1VobFZJX3hHWTJDTFl1RUFSSHlkNUg?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdlFDRWROejdLUnFOUGdZQVRfZVJIdU1iZllJblBNVG44Uk5wLTc5TFNzUUZBV3dkcWhJZXByRzZrclVzbDRjZmVjbG9VX1dCbVhpNmF4bGVpX1ZtdWdpTmwzbVI4eTlqbDBxMmNGQ3lUMERYVG5jdHVnZURvczNsSXZmVU9feDFNVU1NSUhMY0NPbXJHWVRMd2FiQ0pCN3ZGenhzbUVxYXduc0d1N0NDWWg4QXdCaC1yWHNoQmFXMGkwUkxpNDlBaXB3U19DTDgyN0lTOTlZZmxtV3c?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "Axios",
-        "Northwest Arkansas Democrat-Gazette"
+        "Deadline Detroit",
+        "WGRZ",
+        "KCRA",
+        "Thought Catalog"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "What to watch in the Supreme Court's big climate case",
-        "Arkansas Supreme Court"
+        "Larry Nassar And Thousands Others Removed From Michigan's Sex Offenders Registry After Court Ruling",
+        "Former sports doctor Larry Nassar removed from Michigan sex offender registry after court ruling",
+        "Ex-sports doctor Larry Nassar removed from Michigan’s sex offender registry",
+        "A Michigan Supreme Court Ruling Removed Larry Nassar and More Than 20,000 Others from the State’s Sex Offender Registry"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY0FrVU5GNGR3M3BueXBZOUtHVDZlRHFxemlyVF84cGREb0M5bmVxVjE3MWJIbDlxV0FPTU1MTE1XWlg4N0dqQVo2XzVFTXNDTFZ4alNjOEdKZC1GdlNKcUw4RWl4RzJpREFncnA0OXljaVh0eTFfUER3c2FjRS1UMkN1NTlrM3c?oc=5",
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBZ19nd1c1VDlMN0lOUWRCY3ItLWh4cUVHZmpzTVpEOE5Tc1JoaDVXam1XMXJLSWpvZERvaDAyaEpMdHhpblNiYnBDZHg5dnlub09OVm11d214aE9ES2lmTnJFQXEtMUVrQUE2OWcwYWZ2dkxK?oc=5"
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM3YxZlppV2Zod2FlNHBHRHZNN0tSTnZ5X0gxXzVDUHhyNmtKYmUxQUFNdFp6R0pJLTB5MTJ6NkNieWNOUUNLaDVVaEVfck56MTlyMk1HaWdrRGxvYmUwOE41X3RJZ2NXUFl3Qmx4cWdPdnY3MzN3dmtkX0Vlc0lIWGdObEVJa0V0cTI3Ym5CTnBVMzFZSTNtQkhqaWs2WEJjNXBMRHpSeHFEMDgyZnpiV3Z5c1hqaVlIZ2h5WVNrSEd5c1NJT1o4a2JZUFhSRnlRbWhsRGE5ZW01b3BNcFhn?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYXBTVjJhWno2aXd1TlVpVXcyQXV3aEE1YzlkcTNlQUhXUHd3ZS1GVFBrU0Y0V2NJVEVUUFRHWGtDWXJhd1B4eEJKMjBKR1c4RGw1N3E4NGV2SDV2dGRmX09JQklmTl9FM3VQQ0pIVUxiRHN4bjM0cmVqYUFBQzZUU0M3RDFSZ001WnZKUzJoZWpJMG9sLTR6ODF2aWN1a2E3OVlBajJfd1VBSjlONGdZMEZFcXpHdEo3QWRfLVpNc1pIYW9pREIxTEd5UE5kOVBDQmFxUURn?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNUNoZmFVVktBcW82aDFKUE5NMXUtSE5fVU5Yd1BtR1ZtdGVlR09vc3BFMlkyUlJ5Qjh4b3lVYmFXWmh2WVlpM3poTE03aFR4TS11N25KWkNrMHhoNHlnN0V2dEhqalJRZzV1c1dCZzQxSExFU1JNSVBhWW03bG1RalJtNjdCdlF4WlpRbVpoZmt6TmxSZHBNN1lfQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQzhpc3NFU29pNlNyUTFrLUxtTzhiOWdMTEJrd04yYlEwa3l0QTZZRW9KQ1NJZEpOSHd1Wkg2VThfYzFRN2NLV1hXX3FnVzdkeEwtZUZWLTl5QWFFOVhLelhPN09XUnNWT3lZOUpvM1E4T2MzRVdjOXFndzd6dUJDY3kxWDlaMVl1dXhNZkhyVnk3TmZWaFY4c0NEVENNWTIwRTUxY1ZPTmdzaHhHZ0xaTGtMVWZWMDJYTmtzaDIycDRPQkZoV1pNQmYtdkFtNzVZQnJ6LUNJZjJWU1ZDc2NYcnRvM1BsUFE1S1dvNXktYjJTTFcyQWc?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "DW.com",
+        "The Times of Israel",
+        "The Jerusalem Post"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Israel's top court allows Arab parties to run in election",
+        "Supreme Court unanimously overturns election panel’s ban on Arab parties",
+        "Supreme Court allows Ofer Cassif, Ra'am, Joint List to run in 26th Knesset election"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTJLS3pfNTVaNDZHU3I4djBYb0lXTW5vX01XTjRMdlFSQzJ2N2RFb2g0WHFGeC1ZdVl6dHg3RFVTdGluYXIwWXhlazQ0czZNSlpOTnNLZGZCbkV5TWxYUWtNV0xVTF9aeTF4cXAwaEp2aXktcW5VZ2NoeEVfajBpN1dpaXFGckYy0gGIAUFVX3lxTFBKZEpsOUdSLU03UFE5S0VYMWpyMHNWV1BCZkozZTB5ZnpxZjFhTWNJalNMMGlJc1ljVUJMWnhRMHh3X2tSTHE3UUNTQ19VOURPTWtMLUZXcklaSGI5Q1ZZbzhsY1ZZWlYzQlpOcUhTUHFCSDJFR3FjZ0xhWEN1MDdrWHJkeTcyQmk?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHBWYnN2TnNROWpVc003NUhLOGFSTzhjTVNtUFplX1BaT1BaYndwNGNMQnB6bGdtcXF4b2hvUFJhMDNOS0xBQU1fbWl4M0MzeGJoMzhwQWw1Rm9iaF9CUklxdGpiaEVialRsNE5jTC1Yb3RKeHY3NDlnbXFSOUk2UkZEcmYxWl9tbkc0ZUQ0YWlBcjdWOHN5QzRCTF9OTVlzd092TdIBqgFBVV95cUxNRlE2THJzakgzNFYwWlctdXFRLXBQaHRDQ19OcGJ0dlNWU1VxQVp5aFRuLXBsdTk5SnlZOV9pZldta1lTOV9GX05GZ04wTzh4N3FSUnFuZDBpZEJIRW9EckJFYnE1MjdSUEJLeG9YZGRhZ1BmYTRGcmZGTnEyOUdCdjR4amphNUFFSE1rWjdFVm16QzZYTTc0LXFNRzNCNE01TXdDX3UweVRPdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sSnF5Wk9RdTR1Y282YWhEbGlHNWlaaU5hT201LTRvYk9FVF9EWkxVUXQxQjhHcHdMTFcxSFFxU1haQlVSbnBYdGVBS2FlRUVXcFF3VDFsOHhGcnZxMjNlckNEajIzZ3lE?oc=5"
       ]
     }
   ]
