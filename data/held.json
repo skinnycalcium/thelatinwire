@@ -1,4 +1,26 @@
 {
-  "at": 1790904566546,
-  "held": []
+  "at": 1790926114006,
+  "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "The Washington Post",
+        "nbcnews.com",
+        "CNN"
+      ],
+      "lines": [
+        "left"
+      ],
+      "titles": [
+        "DOJ charges Boston man with threatening conservative podcaster Katie Miller",
+        "FBI arrests Massachusetts man on charge of stalking conservative podcaster Katie Miller",
+        "Massachusetts man charged with cyberstalking conservative podcaster Katie Miller"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRmtlSHdJUFNhSnFwN3h2dTlHOWRZNlZPSlYtQzhaazg4QVpaLWlZT2lsbXM2MHFfZTJsSFRRMzMwcUItVkp5VXZtWWtacndUTWZWaFBmR3NhY0ZMYnJjaVUzVjNKT2ZiNm9BTTFobUw1Z08xalJHY25vSDVLcDN0ZElWYmd2TkZ6a2JuUUNWN1YtcFBObmRfZEREVGU5MlZqeVE?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd0dUUjZER3lNbmRtdU9oRlpEV2FONTV5SFBwc2t3MG0zTXlPTmxsU2ZDaVluN1lRZ0dHc1ppQVpobWhIZTU2S3dZNDRYMEx2eldVUW5Hb0h6SURid3ZHWkY1aXVUVk0yZkFuR2twc0dnbk8zaXRsZlFEYmhxMndpbFhRVEM3bms0c2FDei1hUDZnLXl2aktfMlpnbWlkTFEyYTBwam9wWlgyajZjZnc2RThoREdfUEd3TEpvUHlwSG1ZbWtNSzA5MUhOWkRWdw?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzakcyeThpc19LNzFiaDc5dkJBRG1EZEpwTl9CaFk5MVg2azVQX0JRQXBvSFo4S1BsWWd6bmhubjBXOXQ2LVN2MkM3RnlFV3oxdzRWTHQ2ODNMNW5ka3dDSW9Wai0tcVY5S2JhTGIwdDFzeXhqeWEwakw2enZJdw?oc=5"
+      ]
+    }
+  ]
 }
