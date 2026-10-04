@@ -1,33 +1,13 @@
 {
-  "at": 1791124843630,
+  "at": 1791138218495,
   "held": [
-    {
-      "section": "politics",
-      "outlets": [
-        "Modern Ghana",
-        "TODAY.com",
-        "Yahoo"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Kornacki: Trump’s 2024 support among Latinos fades in new NBC-Telemundo poll",
-        "New Poll Shows Trump's Approval at 27% Among Latino Voters",
-        "New Poll Shows Trump's Approval at 27% Among Latino Voters"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HaEk3aXZ0Qzk4MEkyTjdxc0Fxa1VPVGQyQWMzbFp2dXFiYzJQNlNUbFp3ZWVOdUsyYW5vT3ZtX2l2Q3FLLWpPR0owNjF3UHZHRnQ5SnQydXg0NjNNOGtV0gFcQVVfeXFMTk9CNUUwWHUtdHh2MUFYMjFEZ2VWM3JBZU0wdnQ4Vk5kVEZUNWhRVTFEdDlXQ0lyRW1MamJ3b1lDanlUTnpJeFVLVkNuMFVZVVo1cE9CdUpfNzlTM08?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLVUwN05BT1RZQjJoX2pWSi1zU2ZOQzJfSnFiQlJUelFVVnNkckg3U2xVMVA0WXRoMlhqclhBRkhoXzh5LUdPMkJ2elhqeFdKb2dOU3JwLTR6QUU3dTVRNWNoNWdjbWptWW90UXVqMy1LSy02UUZfMlRiU0NBWGtabV9jR1FKZHh4YkU3NkxQNTg3Ukd2N2VOcGZpVzR5cjJveWhObg?oc=5",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjhGaDdUeXNsYXB2OS12Q0dpblBDZ192Y1FJdC1lZEZkQmhqOEpXRVhOVjh2a0FBdmlzTFYteHJmN1ZWMENnSE85eEduR1p3TEpNdk9lY1lDQlQyaE1UVFB0UHVqV2pwZDIxY2RfRHM4T2lqNUsweHZRdXFVaUpoWnh2ank?oc=5"
-      ]
-    },
     {
       "section": "politics",
       "outlets": [
         "Houston Chronicle",
         "washingtonsun.com",
-        "12newsnow.com"
+        "Seeking Alpha",
+        "WNEP"
       ],
       "lines": [
         "center"
@@ -35,12 +15,14 @@
       "titles": [
         "Exxon's Supreme Court bet could shield Houston oil from climate change claims",
         "The Supreme Court Is Considering the Future of Climate Change Lawsuits",
+        "Supreme Court takes up Exxon, Suncor challenge to climate lawsuits (XLE:NYSEARCA)",
         "US Supreme Court will arguments that could set a precedent for future climate change cases"
       ],
       "links": [
         "https://news.google.com/rss/articles/CBMisgFBVV95cUxPamZsczE5YXlsZWNDUkhFbEFQeFdKNVoxN0EwanJYZWFueTlRdnlYYzhPVU0yV3E2Zkg4ZU1lWW9fV2l2NndNWWtrcVA4Y191U0pOSEplWm5NZFNrdEl3cWR4cXpkampEY0JnVUJiMjdHRGtfVTJfMkRQdG1uRlc4VHVMQ3lDNXU2X2NZeWx2TGJ5b2x5MklNcTBUaTQwanZhaW9GME1CWkVxV2Vyb2lOMUJR?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSGhxb00wM28tZ2dyZ2U2TkQ5YjNfNjZkQTVHXzlYY21qZFlnYWNVVmpBVVJqR3FkWGFUQ0hRWmFZYUhyU2h6YkZjekFldmV2UTZ0ald6UXh0dlFlbXhGSVptYzZBUnB0ak9Oa1dORGRobUZNTmZVd1pROS1kWHZXQVVWd3E4b3FDWFE?oc=5",
-        "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObGxNemJxdjQzNXdhMGI5NWRkMFlUdnkwLUx1NFVFMXlFTWJjemNDZ09lZy1fRkFmcTVQWEd2cjhRQ1AzQzJaRXhmRVJQbmlka1AyNHhwU29odUNyMHFGV0t1dS1ITHJ1ZGVQUVR6VjR0blJkUFF1c0p2eXRfSFZDVGtTbXJhSUdPY1JLRzV5NjQwOEc5U2l6RUV1aFNPSjRaNHF5eHE3UWtZRDhjQ2NvYWZYS2xlMmVybGxyOENpWjgwaDRrQmRqeXJOVXVUWkJsWEhUSy1pbzVvcXpnUXpZQUpfTFRaVUoyZ2s2TnVjM0NPRG5TcGpQbGFDaW1wbEE?oc=5"
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbEZUOTA5bkNJX1VYVktUbUp4WEhMSUNUZHdOZVlNLTZBeFNPVHY1NS02Tjg5aTByNGh5QnRHamEwRkM4Zkw3WExFVkhXMnoxd1BLY2hLTWRtRzVwU0ZCN2RhOVpHeXJPOERSTHdTRWRJQWU5RTJrUUpNR2dQd2RSNU9vVDNyT2F0cUtFVFhIYTRqcUd2?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ29jTS0yano0R0FSQ0x6QjdUczFzWmpvLXVQOVNhSkh6TUFublpQQlpwcFBzaGI3VGhvWUFNakw4WDRhNjQ5NXBCaFpOeEV6Z0dYX0NKdjc0Mm0tby1uNm1LeXhRemxFeWJBSWk4VVNMS2dLOTdDd19YUzI4UzNabDNKSEpiY0M2NWcxNjhaRnEteDYxQ0I5UF9DRFFWTUVmUHdzNGZR?oc=5",
+        "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOa25UQi1qdzRtYkJtc1Y0Z25XVXJZSm85QzBqam5kdzVPUnlCUnoyUWFCOFNQLTAzbE13b1NLNERocEVVUnJ2dUVjUVdVczZ0QkFnUktNZDhNeVNGblB6TFBhTGQyWVNQZ2FxV3dvTFVrdDZRSGdEV2gtNkFDNDhrYzZnaHJUYnY0UjdPSTlLNzhFUXlWOXIxZTMzcW1QNUkxeGhLcm1tZk93Qjd5bXdEVW5XMXNWOUE4cThoTnF2eERtamMydVQ4Y2FEQThqZ3dfTUJVdDNneElxUWpXMVdldUUxYklnNnhTY2lEM0N2dkdtRU95MENSUg?oc=5"
       ]
     }
   ]
