@@ -1,40 +1,33 @@
 {
-  "at": 1791160269203,
+  "at": 1791180911138,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "News-Topic",
         "Daily Camera",
-        "EnergyNow.com",
-        "deltanews.tv",
-        "elkharttruth.com",
         "The Daily Gazette",
-        "mydailyrecord.com",
-        "swiowanewssource.com"
+        "The Sanford Herald",
+        "swiowanewssource.com",
+        "mydailyrecord.com"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Supreme Court set to hear Suncor v. Boulder climate lawsuit arguments",
         "Local environmental groups plan Boulder rally during U.S. Supreme Court arguments",
-        "U.S. Supreme Court to Hear Landmark Climate Lawsuit Against ExxonMobil and Suncor – Billions in Potential Liability at Stake",
         "Supreme Court set to hear Suncor v. Boulder climate lawsuit arguments",
         "Supreme Court set to hear Suncor v. Boulder climate lawsuit arguments",
-        "Supreme Court set to hear Suncor v. Boulder climate lawsuit arguments | National | dailygazette.com",
         "Supreme Court set to hear Suncor v. Boulder climate lawsuit arguments",
-        "Supreme Court set to hear Suncor v. Boulder climate lawsuit arguments"
+        "Supreme Court set to hear Suncor v. Boulder climate lawsuit arguments",
+        "Supreme Court set to hear Suncor v. Boulder climate lawsuit arguments | National | dailygazette.com"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSVBLZ3BrRElaX2xIaFVHUjdXMzd3M3cyODE5U1pTME1KYnNoMXJoOGlhTEZzaHhCakwzTnQxSTBBV19ybUxqdl84dEdSWWlQZF9vZnd0SllmRVpacU9ObjBaRG92OVd0SWd4TWVOY1dHLU5ScGhFdWotbFFWb2dieGo1YTFhMDFoVHdTMzYyRnFjeUpPcDE4YUdRN1VKdUQyMmZEUzkyeXZqR0RIT19iT1J0ZURGdnhka2R6MkY1dkd5N1AzRWt6bW9Pa1N1ZU1zb3hJck9BbldTSEsxS3ZYQ0k4a0tqMnhrU3FHem1uZHozZw?oc=5",
         "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVp4aTkwcmt0aEtyQ1hVeTZGZkRrczZsSzh3TXdhTHo0ZlBZVU41eWNtbHpnMFZPR180QVVYMjZkclJHYmE0SzBVRmZ6NmJkWmpiTTBEalNXc1p6MU5ld2w4TENMelVpNnpFZHB1TWp1OWdXd3RESEt5VWxpdDdZRXRHQUlRVmFhNFRxQk81SUZJS2tnbFRIdV95TQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRUxia1I0TnVPNTBvR09iT2U1R2tKekY1Ui1NWHN2N1hzUi1jWWQ1cDBLamNCSWlseHhsaVk3MC1WNk0weVM3ZWZucmtfYlY5SkNhUk5JX3FmQ2hUdC1PdlF2UlNrNm1QSDJWd0VmOFBWYjkzaVpGS0ZTUWNGYzJnRENmSk5EMThBcUVZZFdfVV8tNkExN2tqNVlxR0hlMUk4Y05od2QyMkw2VG4yTHFGY1hWSExNVS1RTW9nNGZKYzZ1Y1RVZTBwQ1pUeWt0emFLdE14STZTVHR1OWo5cFMybXhtX0paemM?oc=5",
-        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZzRVM3hMc2tEWDVVRUdLV1RzMy1hUFQxaWdTYWx2S3lGa282M0E1cFZiejRxTW5yLUNuQU9SSHRHVHlpcGlxb2YzRnFac0RhbGJZWENFVG9uTlNGd21IMTVtYUh6dGFuVlJQaDBhSTE2US1pWjdTcXpvYnEtaTF3dUNVcUxTYmhjVVd6ZmpHcENmWkVEUVJOQXNNR2NaWG84dWQtSDlfd0lEQjliTTdiX292Q0IwajJNamZUckNYZnh5ZllLWkI3Snc2bWhNTTUxNGwxZ25HRUxlSUNScC1sZmhPbldBT09oSnRUQUpn?oc=5",
-        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZ2Myb0lTdmtzWExyclducUgzOHpwRWFmR05zZkQweE10aXpUN1FjY1BnV2NxRGVBQmpiSTZWVWRkbmhEYXp2T0tDOHFVNzhrcTFxYnhoQ1BHaFBaelRDY3prWFJlVXNPb2ZXUURQXzhxT3d6X3RGYUZzaHlQS1h3QXlERDZ1ZTFudTFScE1ya1F4bHYzOWRPSkVLSEVLRzRVbUw2M281Y0hjZ2VGSEYxNDVzUVduVU5GQTNPc3h4X0Nfc2pHM1RXLWFNX29aZHFPd3U5T3hfeFlNeGtXb2JqU0R1ZFZfNjlDTDlrMGN6X2pPbEE?oc=5",
-        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRFVsN3l4bWp4aFhxWlJEUVBIT29neTVCaFUzTWpxN3dpck1qYWpGTVl1TEo4bmxaYWJ6UllJYV8yNHhfWFdrTzU1NjdoNnhfWDNEenlacmJpUnB3c1ZvVzFmMXhKRE9ORjlDd0VrNTR4WEtUMWJnUTJVSzJuWHBlU3ZCZ3o4UVJFZEEzWk5zTm0xdVk2eERGR25QUWRDSEhncjIxWEF4Tkk1TFNObjBBQ0VOMUM2SzllUjBkZkl4S1A4WDRFYzNJN3JxajdJRzZUWlcxdy1QNk5Zb1JvdWVMUWcyaUJaMERoUXZETmxMd2pVd0FWUXg0?oc=5",
+        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMjJ0dEN1a0NvRWg0ajFmUldBWm5ubmJ2OGZKaXN3VEw0RVU0cXV2LVYzeHFQY3hmYzZMeC1XR3QxNXNWV0o2VV9pWV9XSHhsMjFGUUhDYXplWkZxVmhWb0ZzRmFxNTlqQThDTWE3WWVTTXo0NEhaNngwTkNCRTEzREhGRzBWaTdYYjZjaGY5VEhKZTZmXzdQX3RwbDcxUlJrNFQ2Nzg1TW9zRnF6QnViVlZ5X2ViM2xSaXhxS2lseWxaZTBPaDgzUDZMS0RrcENSc25FRlBvQnRoT0tVbVQ4bjdkVmFUaUhvUTZ1YzNQUHl3S1U?oc=5",
+        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPalFWdzBScWs3OXB4WDNLa0JTazh4NE1qeUFCVkNIVm9IUVYtVmxDa2I3MkVmdW4xY1hSQ2hjcE9ZMzI0bjFsdm90cHlFNkhKcWlFTUJKMGllR01pNnVSNzhBT0EzY3N2LXQtOWhoUlAySkgyYUNZM25jdnhkWDRtN2Npd1JrcXpPQ0NVNTJVbmF2YUFJQXZtb3RzMExQcDdHRUZFNng5UWZoNzliTC1kTDFZbjNLR1FrcXFGeGpwUjRKN0VUZWlldjBNLWJSZ1pXRnctM3JMZTh3VlMyTVhWOWY5a25XVXR1VS1vZFctbEFGdkRR?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdkxwcVJTYkN6enljdW1SS00xTS16WWFUc24xZ0xBVXJ0MGlVWkNXQllvY25iX0prTXJmNkhSalMzbDJ3MncwME02cllzN0hmM1VkZGRIVWJSS0Z6YlBKZVE4akZOOV81RlpsSHBHSURNaEVoVUQ1SVdieFVneXFWNXlpeElDME5FQkFTdWZsbFF0dTBHWHFMbUV3?oc=5",
         "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMW9BMUVYbDU1T0JIZU9MTHhRaGhpMFlsMDNRSG02S2ZxZ2RIekcxbEJkUWE3MllmZEtSTFhVR3hsWHFpdFZzSDBPMVY4VWtsQ184VVFUMm1fY29tNEg4bnJsUWdrbUc3V09pV29EU2M1Vm9nMkg0Sm1reEtYbElYaGlsYUhKbGZUd01XUm1HVHljYkNyLV9GX3Z4U05MYzdZUHVMS3lid1Jtb3VWZ085djc0U19ua1hlc19Tb1F2SWJVbEtFRjhkT3l1WjBhaDlGNlMxY1VlUlBTOWxJbzYwNTl4Z3FXbDdHMmVBbVNub2JqTVlQ?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdkxwcVJTYkN6enljdW1SS00xTS16WWFUc24xZ0xBVXJ0MGlVWkNXQllvY25iX0prTXJmNkhSalMzbDJ3MncwME02cllzN0hmM1VkZGRIVWJSS0Z6YlBKZVE4akZOOV81RlpsSHBHSURNaEVoVUQ1SVdieFVneXFWNXlpeElDME5FQkFTdWZsbFF0dTBHWHFMbUV3?oc=5"
+        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRFVsN3l4bWp4aFhxWlJEUVBIT29neTVCaFUzTWpxN3dpck1qYWpGTVl1TEo4bmxaYWJ6UllJYV8yNHhfWFdrTzU1NjdoNnhfWDNEenlacmJpUnB3c1ZvVzFmMXhKRE9ORjlDd0VrNTR4WEtUMWJnUTJVSzJuWHBlU3ZCZ3o4UVJFZEEzWk5zTm0xdVk2eERGR25QUWRDSEhncjIxWEF4Tkk1TFNObjBBQ0VOMUM2SzllUjBkZkl4S1A4WDRFYzNJN3JxajdJRzZUWlcxdy1QNk5Zb1JvdWVMUWcyaUJaMERoUXZETmxMd2pVd0FWUXg0?oc=5"
       ]
     }
   ]
