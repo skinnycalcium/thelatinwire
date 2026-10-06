@@ -1,37 +1,25 @@
 {
-  "at": 1791301865864,
+  "at": 1791319789377,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "USA Today",
-        "The Hill",
-        "The New Voice of Ukraine",
-        "تسنیم",
-        "Benzinga",
-        "Al Jazeera",
-        "GV Wire"
+        "Vanguardia",
+        "Diario El Mundo",
+        "Clarin.com"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Trump approval rating stays at record low in new poll as midterms near",
-        "Trump approval rating mired at record low: Poll",
-        "Trump approval holds at record-low 32% as Hispanic support weakens",
-        "Trump Approval at Record Low; Hispanic Voters Sour on US Republicans: Poll",
-        "Trump Approval Hits Record-Low 32% as Hispanic Voters Sour on Republicans: Cost of Living Emerges as Top Issue",
-        "Trump’s approval hits new low among Hispanic voters ahead of midterms",
-        "Trump Approval at Record Low, Hispanic Voters Sour on GOP: Reuters/Ipsos Poll"
+        "Redadas migratorias de ICE golpean a los negocios latinos en Estados Unidos",
+        "Ofensiva migratoria golpea negocios latinos en Estados Unidos",
+        "Ofensiva migratoria de Trump golpea a los negocios latinos en EE.UU."
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmhlN1hndkdVQXNWcEVYaUdqaHpRaGVrc1VVZ2pJY3VxTEt2UEdEa2oxaXNsblJMVWR1bTRabmszWGhDQkdPWGRhWWFyYVVPYnM2eElTenZDb3VUNnhNUC1uSmhRNTR5S2UxbGtzTFI2Qy10RUxuQ0RSV0I2MVNibEkwNDQzdllmRVBuOUFBc3d2OWNhajV3eWp0V3EwU3dia1BTNXM2S0Z4emU0dFVKYzZFaFlqSzBxQTJXRUN3?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMGI4dktaMDBPSV9uTGlGb2EwNkNUcG9ELTU4TEh4VGQ0bUxKMFdZUkxoZ19YQnZ4T19IYVp5ek00QTR6c3hJekRfaUNxbXlHNHhCWDYtUTJqSXR2bXAyWmNxbFFxVHNFbnBDcGRuSG9hMERYWjVQdk9LVFAzZExPYmwwWGQxRkQtOUJrTldFdURlb1Y3bTczZk5GVC1XMTc5UktLb1Q1dFnSAa4BQVVfeXFMUEQwcEZpaXQ1SnMxSmtheU9PeVFLajgteXByYWV5RVZpUXE5dFZCNDJyNU12QWR1Si1XTThhbVA4MERISjQ0cHA1VVNOcW1PZzlUZ2I3bWlnN1c1cnZGNjBjMHlZOUctLTlBTGlNVXZwbEplOE5TOEVwaHJFdVNhdzRrOFVXcDZKdGk3aXZkRFVkWS1YbXg0V05seWU4bUFEZzgzbFpITXltQ2tmc2N3?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMzRLcGR5VUo0SGVZR2t1b2txVG10WGdzaGlodnFZVDRnRndvQUpueDQ2a043OGR4VDY2c0dUYmh2R1E4WURUeUZYOTh0M1l2R2FyZFhYWVA4SzFGdDN3UmZ0QVo0YlNrRjBjUEQ5azJQUEJpc0kwa0I0MTZVTDNRQzVHbTlHWUI3OEVHV1c0ZDBRaXJuUGhiZjZXTzYyai02dGMzYlFWZjFIcTFIM1dfMnBGeVNieHBEZUk1ZlRrdHc4WW1I0gHAAUFVX3lxTFBEdGpHSHRteF9yYmpBYl9aZEZxYTFieGwwaTlJdnVJaEdhZm5CVGZ3NzgyU0dTWEFCZzIwazRUWWUwZGdJZUVIWFlCLXFjZ2tYcE9scVB2Qnd6M2xiZ1p4Uks4ZzRmR2JBMW4yVDNwT3h1b3BDb2hUcm5BU1FQT1BSdzlQWEdYc3FoeXVZa3hJZWtEajN5R3d2R0pzQm1UWHNwSEJ0X2ZaV0xReXNFRlpwNk9YNmI4ZTlaM0J0dDdBMw?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkJZU0FRZUNVUFJMbk1fV0lxRTZtRjU2OUh4YWxUbHJNZExCTVNqZV9QeXFIcjNoSHltNE43U256Ujc3ZUZWeXpRSTMxb18zMVRrLXlDRUxLLXNJUjRIV0JHVlRsWmtyMUM4eE4zOE8yOWJNNHJwOUVIcGl6TlVIRWlramJyRGdEQ0lrU0g0dkVwZno0eXpwal9RdURieXNUZ2lSWlNQWGVkTVBidTlqWGdqcXBXNURrQVNwS2hPckFGVG_SAcgBQVVfeXFMUEN3blFXZnVJVUVMOU4wUzBNeERRNnBuTHd6TzJFNWlRWDRnN0Ntdm5hNEo5czUyTkFDc1lETWRjMFlybE9ZUkZRMTN4QUpjcnVycVU5T2lPOWhpZXRpczRuWmE1dXlvTVlBazBOcm9pVGE3bHk1NDdNcTIzeG1EVWN5YUgyem5mYkFfUkZTY2tyZlVkRDVrX1V2a0pjRDg2a1UyOFZjd3g3TUpfbHlNbU5xTTBncFhhWVFuaEd4Z0daUDBKdEVmRl8?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUF93MnNDanIweUktc3docjFaRFhmNU9ZZVZIZmVUQVJ2dnVuSnRZaE1VMGtUS0REcm5oWm1keG1ERUw0WDdDR1QwVzE4NEo2Qmw5Y2VzcUc1YkxxckE2cDBpQml2SkM0aXJycTZGSXhOMWg2S1dkV3luSGJvMno4aFFNRkhaZEwwVWdJVWFjNWxLczZhZXQtQzZhSFMtNnpNX2JibC1hTEJENDBvR0NSa0JJdHNUZnlOUjFWMzVucw?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnh5QkdvcENkSlpObGJOMXNLRm5ZZGV5bWZCSmNuNlozR0x5U0ZmY19BOTl5d19qN01kUWcyN3hhaWpuejIwQjFEbFc0VmdhOUYyazFuUHBQeGZuMk5mczJBbUdQRW1mcUNkbktXaEo1bG9GM3ZnTTdfS2dQbUpqVnhpaEwycnNIcm5VdTRIVC02WDRaNUoyTkhZX2ZwMmJOQ1RoUF9zdlZqLWEyNGfSAbMBQVVfeXFMTTRnWVc0YjBFa29EYWxqLXRBc3B0dVg4OW9kcnhQSkJnSWpPT0MxZUdjeEcyUWh2OFRBS0xkZWMzTGtjTlVRbHEwY3JtM2VQV1lUdUhZQlJGclhXYllyY043bl9BNUMzMnRJZmd6Y0RqOWZzTVRDSFRMWmJoOEdOWUtuWUp1cVJSYVJyaUlGRmVDaGFmLTV4YTZVV1BZdS1Dc3dpamxlczd0SlZVaGFvbHFUTjg?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYUhRMy0yVE1KRDViblZJdTZQSy1WaTRwUmFsZDQzVmlQcjJqckQ5TW9BcXB1RTEwVTZCbVJuUmRNaElaRmFDaVFlR2V5ZEstcEo0bDJ2aGhhcXhsRHNZNU9sUXNBcmFjLWtia1ZsRG1xNWpDZjNxUERySDUwNERuakplbVBCcURQNHVTSlJDdVRUR1NoVnFOcDhwMXIwMEp3RXRDYVV4bFlFdw?oc=5"
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNm5tUDFzM2UwOUFCMU90dnJqRmFFOXBvWmRhczQzUThGVnVwVGlEWWN3d2JycHNlcjZiMXVPZ2lYUjRNYkVkNmdSemJhaGxmQV9GSGZZMHE3cVhPWm1iMXN2eDg2R0xwa1hWelNXcXBCWFZVVl84VnRKMllMY3dfbUJkS0RtenZGSzNBdEJjUWxMcjNJR0haVldYVDRHMWx2em1ERklOS3duUm0tcVdTV2ZDamZldUIyc3gyYw?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFRyMGd4UGZBNGhqMzJkWGRMcGp1bVI5UnJQOV9PY1pLMHRSVDMyb3g2Y2tTa2EtV1RJT0VPWTFYdExXbUJyclRwYzM0bXl1S2hSd2NyS3BGdFAzY1FQU3ZpY3F4Q1dJQnZjbFZhMmpBTFVHMHdJeGZfZDFjQW42U3dWMXhMMDlSbzVHd0YtdzlMT3A4NV90QzRNYUvSAacBQVVfeXFMT2pKbFJocjI1RmJlSkdERE1NSzdxVnlLb2lLUmpYNWNoX0M4dFBRR3o0TkdTZE1iSXEzOWZDOUZLVDMwTGs5S1Z2RW9GcU9VcnVfSFNHM1FZSzg2ZExQX3ItOUlzel9ZbUNQZ3gzUnNsd3JMcGxjRHNHSDZBVWtGS0tXZVB6Y3RWMlNSLU9mRl9DZkhWWXNnT2ZGRWFvRGd4V3ZXS2Q1VnM?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNejF4dWJ5NV9yUl9tYzhSRW5nQjdjQVR4SmlDYy1sTVQyU0VDOEgtc3dzZVhpUGg1blNmdmRnUDlzLWZ6QUhJa3ItWjhNd3N4bXZBS0VBenEzV0RMTEtidlJidmVLZVRmbHJFUzNCa1RCdDFDNzF5Ny13U042aWM5WkhZdVhXWG04dmc0eEtUMGVFRGpwUVBNNFRiSGNqaURqb09aS1k0OXJaR0hNNlRqOFVlcW4yeWhFUVpWekpHM0k?oc=5"
       ]
     },
     {
@@ -39,8 +27,7 @@
       "outlets": [
         "Duane Morris Government Strategies",
         "Forth.News",
-        "EIN News",
-        "Yahoo"
+        "EIN News"
       ],
       "lines": [
         "center"
@@ -48,77 +35,12 @@
       "titles": [
         "The Protect College Sports Act of 2026: What the Senate-Passed NIL Bill Would Mean for College Athletics",
         "Senate Passes Protect College Sports Act to Restore Stability in College Athletics",
-        "Senate Passes Protect College Sports Act 77-22: What the Vote Would Mean for NIL Compliance, Transfers, and Eligibility",
-        "Senate passes Protect College Sports Act: What it could mean for Connecticut collegiate athletics"
+        "Senate Passes Protect College Sports Act 77-22: What the Vote Would Mean for NIL Compliance, Transfers, and Eligibility"
       ],
       "links": [
         "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYWR5bFhxRF9IWkZwclhYYVUwbkR6WWJ1U0htYWx3MXVNcS02ZnQ2enExZi1hNHpaTjlYUFFmYjV1RWV6VkthMFhUNEU3ZU16LVRhWmp0ZVRIbk9KNEJlWHVrYjhOTG84NG9tUnFvaGlJYVdYVlNYZlVTSWVoY3BJNDlVOXdRYXNobUhYazZWZ0t5cWtUM2tSdGFRV2JTcU9qd2RnM0R5NWRkVXdOWmRBTlFVSlVkVEk3Q3NmeV9QM2xVcGVnNUtERmMyUThPUVBiSk1CTWJ5TmVxU0I2?oc=5",
         "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQM0p3UDNwOHpmME5lVjRybVJQR016S2NkaDlJUGN4aGxCd2FWQk1RMnpCekI0Z2tudlc4UkFaXzRpXzdzbWpTaE44TVdaZExOUFdKbVVxMkVYazJwM2ZFd3FR?oc=5",
-        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUkZINzdFS1NRVzl5Z3NJWGtQOTZ4R1BEOXJiREF0cEVydWIwLWJITDNUazdBRDdxWlZoS2wzTlBZVjBSVXkyUEs1WW5ZSzNlUEVkVld6aWJQT01pWTZyaHNzQm5mUU9zaHZBV1VZOFZLWTZfbU9kT0puYndXeDdNRFRjRExjXzBWbDd6V2Y5YlhlZ3lVbm0tZDBJQWtuRlpMTFJmeXRTODJUb3g3N0tRWlpmLVZFUGZVMzB1VFlxRVhad1hLOU8xU2pGSmVTMUh1VlRHb1lsT3B1YjNYTVYyTzdFVVV3VV9peEhRUEtSVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbmVNd2VwTk5aaTg0MmV5dndLUkY5S3pCWE9aWTNTZTFMeFNFbmJ5b2tRQUtsR2xGRkQzc2hZc1d0S2hFYlBTdmVDVGtCTnBpS29nV1ZuLXhwNlA1aTJyUHhCdGdXTHFvM09lTkJaQnBWazRtQ0QyZ2gzYTZ1ZW9PYURCU2x0dWVlWTMwUHFR?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Western Ag Network",
-        "Toledo Blade",
-        "Українські Національні Новини (УНН)"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Trump Signs Executive Order Offering Temporary Diesel Tax Relief for Farmers and Truckers",
-        "Trump signs executive order aimed at lowering diesel prices",
-        "Trump signed an executive order to lower diesel prices"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYnJSQ2RpU1l5V1pPTWhac1ozMDI2cWVVVXVUZzR1RWZmZ3VFTnV1ZzNUNmVrVlRqVmt4YnlLem1iWEp6Z3BKVzY1amxjMV8wbGtzR3hFc1hDUmw0bUk3ZTRvOTVtbFlrQlRkcnZWZGVZS2VWa2JENUt2RnAyelB1MnFIV0hVbHYtUzNOa0tsVzMzQ2ZOejM2VU8tZkV2Yk9PT3lEd29BUWtlWVB1WVV4Y19hWnpUb3o3S2c?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT1laYldtM3RDXzJNblN2SVRta2UzbmF4cTQwVlVTdUtVRS1MTzMydnNieXFBNmJXVHZieldXRTExakh1MFhvbGsxLWdSUUlPVjBQOGdFWmJ4c19iYnRTQzRFZGczX1FVX1plVU9nY0ZFRTFpMVMzN25UeFZwS2tKOGpvcXRqWnRFVnBYZlJLQ0VqNHE5NERtZTY3NkZWeHNJREUxZnR2aUxFQlMwek1sUmRxQkIyRnlEX3hz?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQlZSek5ULWViNjliWnhzOUpDb0c4eUpOS25MREVDblJEZVJpc1lBTEx6UV9sUnZQWGpjSTVSamFrZGV2R012QTBYaVQzTHBzakt2cWxhbDFtbkF3d1lDMEx3b1dqNlkwWjM1YUpGTXlnbkZMaGZBZC1iTE1qVC1oR3B6d9IBggFBVV95cUxNXzc5djZmTVRRdXJ0bFBiY01TcmZHeWtlSzdvZExoQllyMXlDWG02VVEyeGJPS2hXQjVDcjk1TjIyS0lTRHZEMGFCTl9KLXVyT3o4RFlCUkczMmtvcTNaZWVWNXJ5bFlfQ1otZUpTTkM1Vml3aXVJXy1pM3FUcUdrVlFR?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "firehouse.com",
-        "fox23.com",
-        "WBFF"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "U.S. Supreme Court Declines to Hear Snohomish County, WA, Firefighters' COVID-19 Appeal",
-        "Supreme Court declines to hear former Tulsa officer Betty Jo Shelby’s appeal",
-        "U.S. Supreme Court declines to hear Marilyn Mosby's appeal"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81cE5OWGMzRjhYVEo2WUJtUG9VQVRNMGNVbE44RWpyNTBMRVVCY0xqbGtmV1ZRTXV2VjU3bDZMV2cyTk1Mc3F1QVNySHc2SHRxNG5lYnA4LUJqU3p0cHQtOGhoQllWSi1p?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3lnbHZDUm1JWXJuU3NpS3VWcm43SzFReTRuMUpDdmVWVHJHanp1MWlLcXpDX0o3dURmUVdqRFdCSDhORlBUZnBVVnUwbUZ0LWJZTTZZYVNyWU5SSllIZFRXMnA4dlBQZk5lLXI4Y3JXTkxneFY0ZUJId2w4dXdCU2hxYlpNdzhDcnNvZkg4Rk9ZWGU5YmVRYTVmUGVrUXd4aHVNVFpHUS16OW91Nkl3NU1PeC04dw?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlJPRTVaa1FHUUdoaExPYWJ5VnZVUVRTNmVTdHFUWVJ5VEJpRHh5QXJlbzUyQU5ka0w1Sl91amI3bXExYThwUURVMk15bS03S0piemt2eWVTWlNEMEc4cWNPVWNwWG9VZ2dYT3VVUk1xS1pSZmZPdVNPempEYmtUeFRmZ3ZLbURQMVduSl8wZzhBZnYyeHc?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "The Oklahoman",
-        "kosu.org",
-        "News On 6"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Oklahoma Supreme Court strikes down property tax ballot initiative, SQ 843",
-        "Oklahoma Supreme Court declares tax property state question unconstitutional",
-        "Oklahoma Supreme Court rules State Question 843 is unconstitutional"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxQelR0MmZGSzNtbWJEVmVDMF9fY3JhMWlfUDYxSGtjcVZqSVNTVERVZW1HSzBIYjJXS0xRZXNDbjNuVHdSYVF4SGlvNzhBSXNLdzZyazBBUWl3RXdwSTd5cVFLbjJNQnhnWUQtZkNqbUpkZnA1d1RRN2F5NVhpQUxIaTlidWFVODI1RUpOT0ZTVTdjVDhuUTB0OUhtT21rcU80d0doQm4tRzVmcFRsRVU3UVl1VEI4U2tueFhsUTduMGZqN3NWdS1qRU15bGNrQVE?oc=5",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GNUNMTm1zeXRudnV1R055QUVSWHRZR1l2aFpGaVNjbm5TMjR1aEc5QTFHTGRHMFFBTmVFa2FVX0s0OGhmdWdzRlE1aUEzZ2ZZZV80ZFROazJrY1ROSl9pdmtKSTlrMXNacWdUYW1maw?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdHRveUIxR1hTclB6UmVfQ0J3S1oxeDlRMXZWRGNMMC04cTIybzlxX0hBTGc1dl9rS2RENDExVmZLYjJxMG5RMmYtNGxOWHBpRGxlUXItNmtnTVRaVVBsTXp3ZzF3UERnekZBS2t6R01SZ0F2b3RNcnZla3doYWtjWURYYWROMkt3eDlIVFlPN3hJaGZqWWJrZjJtbkxPcHZsSi1id2tSOUQ1ekJJ?oc=5"
+        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUkZINzdFS1NRVzl5Z3NJWGtQOTZ4R1BEOXJiREF0cEVydWIwLWJITDNUazdBRDdxWlZoS2wzTlBZVjBSVXkyUEs1WW5ZSzNlUEVkVld6aWJQT01pWTZyaHNzQm5mUU9zaHZBV1VZOFZLWTZfbU9kT0puYndXeDdNRFRjRExjXzBWbDd6V2Y5YlhlZ3lVbm0tZDBJQWtuRlpMTFJmeXRTODJUb3g3N0tRWlpmLVZFUGZVMzB1VFlxRVhad1hLOU8xU2pGSmVTMUh1VlRHb1lsT3B1YjNYTVYyTzdFVVV3VV9peEhRUEtSVQ?oc=5"
       ]
     }
   ]
