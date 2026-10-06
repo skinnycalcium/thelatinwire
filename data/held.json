@@ -1,55 +1,91 @@
 {
-  "at": 1791252372900,
+  "at": 1791277188664,
   "held": [
     {
       "section": "politics",
       "outlets": [
+        "tristatealert.com",
+        "penncapital-star.com",
+        "local21news.com",
         "fox56.com",
-        "WJAC",
-        "Pennsylvania Capital-Star",
-        "North Penn Now",
-        "cumberlink.com"
+        "WGAL",
+        "The Black Chronicle",
+        "Marietta Daily Journal",
+        "Central Bucks Now"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Kosierowski kratom regulation bill passes Pa. House",
-        "Bill to regulate Kratom products unanimously passes Pennsylvania House of Representatives",
+        "Bill to Restrict Kratom Products Unanimously Passes PA House",
         "Bill to regulate kratom sales and ban synthetic compounds passes Pa. House",
+        "Bill to regulate Kratom products unanimously passes Pennsylvania House of Representatives",
+        "Kosierowski kratom regulation bill passes Pa. House",
+        "Bill that would regulate the sale of kratom passes Pa. House unanimously",
         "House passes bill to regulate and put 12% tax on natural kratom sales",
+        "Bill to regulate kratom sales and ban synthetic compounds passes Pa. House",
         "House passes bill to regulate and put 12% tax on natural kratom sales"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSzFGeVhlQmxhU2ZadHNBakVMRm4tTGlMSEFxNHE5TWZUb0xMUU5UN0JRbWR0SGVHV1BmOVBNX1owcy1QVjhWT3JsRHNTZ2lUd3JlRm5qOWpVeG5CaVlULTIzS2lQOG9VZ3UtZ1hZMnNRSlJhU29SbnM3SVg5T0ZSbmUzVTZIdw?oc=5",
-        "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVmxldThYc2lkb1U1SGFqUFQwWUJuVzI5Q3NSSEtneWozVE9lRUtlSmtyX0tRaHdDdEhYemhORkI2N2c0U0l0amhPSUVBODdCTEllWnJfYUZZSndBWHlWWVExWVp0TXB3ZmJZRmlkODU1N2RPUU5nRVpuSDdIZDlkQmxFU2pIZUpMVG8yVUNtRk82R2NtRWZDTWpTR1RUTUp6U3ktLVMwYzI1eXR2UEtVaWhlNmR1Zk4xeWZTbTBkdXE1VDl0R2EtOUh2eUM3WW9pd1VqY0dtVXItNk5sdDhVSjJ3bm1CRllQeWRSUW9rd1M5Z0p2Tmp5V2hKTFRWNVpFZ0taU0ROcXJCX1RIck1yNjZB?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN2xBbzNJZVVJVEtyRGRrV25Qby1hUTZ1YWdzTGFUdkxKMHRoa2cwbFZsOTY3RVVJMFZnSWNzLUhMTmVyMUlHak45SUxUMmNwOE1FY25HOGpZZk54M3pVLXpoaVVmcVRJdmU5UWpzcE5NWFJQUnV6Wi1yVnJFTzMtbUUtT1I5UTkxY2l4UW1tX1JXX21n?oc=5",
         "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzRTN1RiMnE3b09CMVptTktiWEl5TlVaRFJVYU5OczZiZHNCVnFhbmFJb00zQXFqUUh1TndBV043UFVWNGpqTkgtS3hTNk5WdjV2cDBUWmlMZFdOMkVHUDlaMHdzNzU3SV9kNjk5ZFJPQ1JSLURqeGtxQzlkNEs0N09VdEMtVFFKQWh6MkhJTjV6NTZ5NFczMXhXM0xVOGdNT1FXa2ZUTGdYWFZSQzBV?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMUNlWndma1VuN3ZZbDdRNzBjQjd1a011TlJ4dFhVc0lYYzRyem1Wc09MWTBXRWlWbGZXYlVzU2xUSlhnNGNFMHJJZm10LWpoREduV0s4SGs5X2xvajFQN0JPN2ZaaUh3VnByNkFQY251N1JzcXhQc28tWmdRd0ZuVHV1NFZsMEFSMmJ1MDlleUlvbTNHVFBJSnFYSVlSZjF0anFhVWRSdS0?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRldUUE5ZbnRQSmRiTHpQd3BPZjdMSzAyczBIUVE2eUJ1Y3g2aGJrOExhcTdpRVhxc0gxc0ZIcVVDNUVIUlhWa2M4Z1paUzZIX2p5a19GMG1CcVB3TGFGWERyUWMwaS1WV0VZMmZFb09CY05CUkhqR0tMd3B4bDVSb2J6M3B4ZC1KYUdUMWdaTmRfcGFyNzRFWlg1ZU1JRWd6NHB5cVNROG4?oc=5"
+        "https://news.google.com/rss/articles/CBMimAJBVV95cUxNYjFDNHpUc2dfSGRKRWxFSlRpZU1ncExEVS1ncXNIcWdEQkhoczhGa3NJUVc2QWJ3SXRrVVQ5MFcxbzNvNy0xTUV4TzlKS1czSXIwX2JVeGxjTXFzQWdPQlRCVk0yRi05cGVUTXJRYTQyNy1Mc2xnUkV3Smw3cXptQm16YUN6TWVNZHRYYjZ0djNwdUc0VXpZclhockFic3R2ajkxeGJzSVZrMU5LVlFxM2l0bGNXeGkwdjdVOFVyZ2sxb0N0S2lwVGZyS3JNWHFuRTAzT3RITWpNMjViYjV1cmw1cEo5WW51NjJkWmdaM28zaGZ6WkczWmZSQ01haTJfcm1ySWduT3RjYi1pV0g2Z2stXzlyUWN4?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSzFGeVhlQmxhU2ZadHNBakVMRm4tTGlMSEFxNHE5TWZUb0xMUU5UN0JRbWR0SGVHV1BmOVBNX1owcy1QVjhWT3JsRHNTZ2lUd3JlRm5qOWpVeG5CaVlULTIzS2lQOG9VZ3UtZ1hZMnNRSlJhU29SbnM3SVg5T0ZSbmUzVTZIdw?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOWxLb2dsRzVMYVlNVTRjNE16SVBkUzNOWk5sRG8yRU9IMVR1TUlhbWlVRl9DR1ltTlBqNm1iWDRTbWFiNmZ1a2F0NnJNeUFIQ2Q5d1F6SmM3MThlaVd3Njh4enBLTmZWbEdOS2M0azJoZTVQNXZJeHNTclNmWXBuNlNCOVc4a1V6eEtHNQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb3NkN0FXbEVOdjRvN0J2VmpfWEYxYXVjZEo4SWRFZ3R3V1RTeFZ0aUlJa081MmVhVEE4TFl2ZEhuQVQwbjRVSW90ZnF2enNZd0xaMUZ2UjBzaWd5RS1wLS1pU3dLSmdoX0ljb2hrRXFTbjRrM2VvdTRrbzIzWjRCa1o4aE13ZEJocTg5WmdBd050REpQOW9nbHBqczRUbjZjTk9aTXUzM0VseVU?oc=5",
+        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOc0ZBdzJNWXFLa3cxUmwzVV8wOTBQaWdjN1BPUjlpVHN4S1ZxUWNMZGpIeHBZdWc2c2NXS1BmUTRRQXIxdjg1TXZ0UTlqTG1rdm5PM1h4ald1ZTdObTlfQXU5NWdrdExoNmpMTk02eWt0R3pUZHFqTDIzUDJ2RFlHLWtIUFFNZHMwMDFfaXMyRnRzRHVmaW4tZGZmMXB1YmZuaE9TZkJ3WHFCQUc1MUdoaTUxcG5jOTBvSzQ0bkp1R2gxYkphS0RDelZpcWRaNWVFS0QwVVEtU2puRHRFdnpOdjZXYTBueWN5ZHkwUG83Ykt4Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxORVc5S2xScmxNS045NE5BOVhuUThMcjBfLTJJWjF3a1V5eHVScC1oZlNMYzBUblJpRG5YVFdDV2FGSnZLWVczbTYwb1ItRk1wQ2VBRkJFSWZsQkNfbk5acDY0eXFMTENnTjY4Qldmc0p5UG42OC12VHZYNDNJYVZOS2FYQk4xX08xX1FGUHdES0x6X0FLYkpiSm9CeVk1cUU2MGJfWVpnQWNMQTNwekE?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "KUOW",
-        "The Seattle Times",
-        "WBFF",
-        "wmar2news.com"
+        "The Financial Express",
+        "Benzinga",
+        "GV Wire",
+        "Al Jazeera",
+        "The News Pakistan"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "U.S. Supreme Court declines Snohomish firefighters' religious discrimination lawsuit",
-        "U.S. Supreme Court declines to hear Snohomish firefighters’ COVID vaccine appeal",
-        "U.S. Supreme Court declines to hear Marilyn Mosby's appeal",
-        "Supreme Court declines to hear former Baltimore City State’s Attorney Marilyn Mosby’s appeal"
+        "Trump approval at record low; Hispanic voters sour on Republicans, Reuters/Ipsos poll finds",
+        "Trump Approval Hits Record-Low 32% as Hispanic Voters Sour on Republicans: Cost of Living Emerges as Top Issue",
+        "Trump Approval at Record Low, Hispanic Voters Sour on GOP: Reuters/Ipsos Poll",
+        "Trump’s approval hits new low among Hispanic voters ahead of midterms",
+        "Trump approval holds at record low as Hispanic voters turn against Republicans"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMllES3BOSktLZUp3amhFQUhJRTNMSU5FMFMtUi1JOE4tallmOUlMU0YxWlNIcFkwNVVLbFEwWDNvamxaN3Yxemc0NHI5V3BzVS1Ja3hTc2JkVUYwT2NiNEhQQTZmZGF4SHJnTFM5QjBzTjdMNUw5bkwxVEZVZXYzbExlYWJ4ZFFQRlB0RGx1NVNxX1NuNlNlTkNrNkk3eXlUZHU5aVhYN3NETUhqZWQ3SHQ5MnQ0SVJUc2c?oc=5",
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYktZWDI1b3pSV3RQWTd3MjJYN0hNbFZ1WktOc2pUNkswNG9zUEJwME1rcmdLYWVsNFk4UVhRMDdDempyYldmYl9WcXJDeXpNUUtMLU1HMjVCbXBnUXFTVENqMEVxcE5URXVOUTY2N0V2ZkhRYzJ3Y0VteXRrcTJVWVE3ZXBhSjh6MXdSVzJUYW1LUWlqOEcxOU5jbmh1R1BmWTZYaFpab3pndndPOEk4U25tR0xtTzBU?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlJPRTVaa1FHUUdoaExPYWJ5VnZVUVRTNmVTdHFUWVJ5VEJpRHh5QXJlbzUyQU5ka0w1Sl91amI3bXExYThwUURVMk15bS03S0piemt2eWVTWlNEMEc4cWNPVWNwWG9VZ2dYT3VVUk1xS1pSZmZPdVNPempEYmtUeFRmZ3ZLbURQMVduSl8wZzhBZnYyeHc?oc=5",
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWlhSSDVxdDA1dnpsbVU3cHBWWWZKR3BiYXY5V2hnYUhyUmR5ZGROZE9nSWczeTh6dG1vMXd4QTdBNkVXZ0Q4V0YwTERCSWFObktualFlV3VJNXExdHo0Qktja0R1UVRNeHo5eEVPRjNSQUQtMGZpd19uaVE0TkRUcTZxZmNNSjN4bTRPMXFqZExiVGJndlE2RDlkeXJwNnRheDdyUUsyaGhPckM3ZGU1SnJoQ3Q2b3NDRTNvclcybkxiS20tX0p0M0Z3V0JFR0tKMzRJWEVjRGVvYkU?oc=5"
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMFlSRm82blRzZ2Q4SnQ0WC05ZDl4b1ZYNmNqbmh6clpOQVB6RHRwUS1HU2RrS0JMczlOQUJvY1l4dDcxXzd5UHI4RjhVei1CSS16ZkV1OUNCQ2dBRGEtaGhheGpKeGFsV2NLUjFfTWFoZmVCRzBINjN3WVdPYjhpQndPZUdabTJ4QmVRMGs4WGo0SGt4NUpsZnBNazVUdlBuZmVVTDl5X0h4QWpacGFHcVRqSG5tOW15cEpGaXBQNjQ2UUdEYmJDRGpn?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUF93MnNDanIweUktc3docjFaRFhmNU9ZZVZIZmVUQVJ2dnVuSnRZaE1VMGtUS0REcm5oWm1keG1ERUw0WDdDR1QwVzE4NEo2Qmw5Y2VzcUc1YkxxckE2cDBpQml2SkM0aXJycTZGSXhOMWg2S1dkV3luSGJvMno4aFFNRkhaZEwwVWdJVWFjNWxLczZhZXQtQzZhSFMtNnpNX2JibC1hTEJENDBvR0NSa0JJdHNUZnlOUjFWMzVucw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYUhRMy0yVE1KRDViblZJdTZQSy1WaTRwUmFsZDQzVmlQcjJqckQ5TW9BcXB1RTEwVTZCbVJuUmRNaElaRmFDaVFlR2V5ZEstcEo0bDJ2aGhhcXhsRHNZNU9sUXNBcmFjLWtia1ZsRG1xNWpDZjNxUERySDUwNERuakplbVBCcURQNHVTSlJDdVRUR1NoVnFOcDhwMXIwMEp3RXRDYVV4bFlFdw?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnh5QkdvcENkSlpObGJOMXNLRm5ZZGV5bWZCSmNuNlozR0x5U0ZmY19BOTl5d19qN01kUWcyN3hhaWpuejIwQjFEbFc0VmdhOUYyazFuUHBQeGZuMk5mczJBbUdQRW1mcUNkbktXaEo1bG9GM3ZnTTdfS2dQbUpqVnhpaEwycnNIcm5VdTRIVC02WDRaNUoyTkhZX2ZwMmJOQ1RoUF9zdlZqLWEyNGfSAbMBQVVfeXFMTTRnWVc0YjBFa29EYWxqLXRBc3B0dVg4OW9kcnhQSkJnSWpPT0MxZUdjeEcyUWh2OFRBS0xkZWMzTGtjTlVRbHEwY3JtM2VQV1lUdUhZQlJGclhXYllyY043bl9BNUMzMnRJZmd6Y0RqOWZzTVRDSFRMWmJoOEdOWUtuWUp1cVJSYVJyaUlGRmVDaGFmLTV4YTZVV1BZdS1Dc3dpamxlczd0SlZVaGFvbHFUTjg?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcVMweVI5U3pFcjVxZFBTX0w0T0dHYVR0WGx1WVhCbUwwNjBaUXJLMzhmMzIxSHZpeG14YkRjdlhzWVJkUkx6NG1sWi1zNEd1ZVZ4cy1ZZWhfTEFKOGZjM1Bsb3lsaTVTbFNnbks2ZWRsOXZZdVR5RVJJQXB5bl9oZVJ3bmxtSnJPV25RV2Z6bVNMZ3RLMjhIc2cySDJrdVFwMDc4YnViMEQyalpFaXVqNjF2bnl1UQ?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Maryland Daily Record",
+        "carriermanagement.com",
+        "Balls and Strikes",
+        "Honolulu Star-Advertiser"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Supreme Court rejects Nexstar bid to avoid DirecTV lawsuit over fees",
+        "U.S. Supreme Court Term Begins With Bid by Oil Companies to Avoid Climate Lawsuit",
+        "Oil Companies Are Begging the Supreme Court to Let Them Off the Hook For Climate Change",
+        "Supreme Court weighs oil companies’ bid to block climate lawsuit"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxPSVRYa1JLZU81Qnd4UEhnZVJRQ01NRF82RjV6c0NZTjVyc2kxcUVEREZUb3VnQUE5ZHJiLTVyczhFYWRVdWh2dERmSkpCdWRob09KSTJvZnhRenRqUW56NUF2T0xXY2xrUFFfdjJvRkNKWmR1WFdsLXM4WHgwaWRRVl9VdW5jUXlNbnlEOHM2eXNDemNkZkxJQW5GNXY3dw?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PYnBKeVJEMFRNcnprQWFLN2FuM2hndzQzWGdvY3JQNkZGbFNaempVSHlaUjBvM3plVXdfYmNnQmVjdXJkVHhUNDIwQVltS2JKZnZJVWVGZE5tZ3Y1Smo0YVl0a1F5c2s3NXR4bA?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcTlIQUF5aV9aTFVUZkd1TzNuN1JZZzlBaEdvci1MSXZnRzVDU2V5MXRfdEgwM3FZTk9lVjFnTGdtT0tVaHRkU2Z5MENRLTd3WWRuUXUtQUtDcHZBSGFrb1F1TmhfeWdGa0ZDcXBPc3RpQUNYMnVmSnVRQWdSZHphN1NjZ1lidw?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzFrdjR3Zk9DSHQ1RDhURkZYZHlnSVNuQkxfS294dzE0MUhOUkU0ajlhQXNZQjVoVEJhYkVVVGQzc0xEUm9Ca01FSEMzNWhRSGU2TFhoU1ViWWdoLTdSeHc3bHNKUlM2dERRTDRHVUZhckFhSnJlOW83SC1DME02LWxEc0JnbUJQb2pua2xJM3g2bzR4STRlSjhTYXk3R09sSXlMTkozVldBRkZfbm5sbGdhd1RTNWNVelJtRg?oc=5"
       ]
     }
   ]
