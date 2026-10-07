@@ -1,46 +1,25 @@
 {
-  "at": 1791319789377,
+  "at": 1791332753027,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Vanguardia",
-        "Diario El Mundo",
-        "Clarin.com"
+        "Democracy Docket",
+        "The Journal Record",
+        "The Oklahoman"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Redadas migratorias de ICE golpean a los negocios latinos en Estados Unidos",
-        "Ofensiva migratoria golpea negocios latinos en Estados Unidos",
-        "Ofensiva migratoria de Trump golpea a los negocios latinos en EE.UU."
+        "Montana Supreme Court strikes down GOP restrictions on citizen ballot initiatives",
+        "Oklahoma Supreme Court strikes down property tax ballot measure",
+        "Oklahoma Supreme Court strikes down property tax ballot initiative, SQ 843"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNm5tUDFzM2UwOUFCMU90dnJqRmFFOXBvWmRhczQzUThGVnVwVGlEWWN3d2JycHNlcjZiMXVPZ2lYUjRNYkVkNmdSemJhaGxmQV9GSGZZMHE3cVhPWm1iMXN2eDg2R0xwa1hWelNXcXBCWFZVVl84VnRKMllMY3dfbUJkS0RtenZGSzNBdEJjUWxMcjNJR0haVldYVDRHMWx2em1ERklOS3duUm0tcVdTV2ZDamZldUIyc3gyYw?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFRyMGd4UGZBNGhqMzJkWGRMcGp1bVI5UnJQOV9PY1pLMHRSVDMyb3g2Y2tTa2EtV1RJT0VPWTFYdExXbUJyclRwYzM0bXl1S2hSd2NyS3BGdFAzY1FQU3ZpY3F4Q1dJQnZjbFZhMmpBTFVHMHdJeGZfZDFjQW42U3dWMXhMMDlSbzVHd0YtdzlMT3A4NV90QzRNYUvSAacBQVVfeXFMT2pKbFJocjI1RmJlSkdERE1NSzdxVnlLb2lLUmpYNWNoX0M4dFBRR3o0TkdTZE1iSXEzOWZDOUZLVDMwTGs5S1Z2RW9GcU9VcnVfSFNHM1FZSzg2ZExQX3ItOUlzel9ZbUNQZ3gzUnNsd3JMcGxjRHNHSDZBVWtGS0tXZVB6Y3RWMlNSLU9mRl9DZkhWWXNnT2ZGRWFvRGd4V3ZXS2Q1VnM?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNejF4dWJ5NV9yUl9tYzhSRW5nQjdjQVR4SmlDYy1sTVQyU0VDOEgtc3dzZVhpUGg1blNmdmRnUDlzLWZ6QUhJa3ItWjhNd3N4bXZBS0VBenEzV0RMTEtidlJidmVLZVRmbHJFUzNCa1RCdDFDNzF5Ny13U042aWM5WkhZdVhXWG04dmc0eEtUMGVFRGpwUVBNNFRiSGNqaURqb09aS1k0OXJaR0hNNlRqOFVlcW4yeWhFUVpWekpHM0k?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Duane Morris Government Strategies",
-        "Forth.News",
-        "EIN News"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "The Protect College Sports Act of 2026: What the Senate-Passed NIL Bill Would Mean for College Athletics",
-        "Senate Passes Protect College Sports Act to Restore Stability in College Athletics",
-        "Senate Passes Protect College Sports Act 77-22: What the Vote Would Mean for NIL Compliance, Transfers, and Eligibility"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYWR5bFhxRF9IWkZwclhYYVUwbkR6WWJ1U0htYWx3MXVNcS02ZnQ2enExZi1hNHpaTjlYUFFmYjV1RWV6VkthMFhUNEU3ZU16LVRhWmp0ZVRIbk9KNEJlWHVrYjhOTG84NG9tUnFvaGlJYVdYVlNYZlVTSWVoY3BJNDlVOXdRYXNobUhYazZWZ0t5cWtUM2tSdGFRV2JTcU9qd2RnM0R5NWRkVXdOWmRBTlFVSlVkVEk3Q3NmeV9QM2xVcGVnNUtERmMyUThPUVBiSk1CTWJ5TmVxU0I2?oc=5",
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQM0p3UDNwOHpmME5lVjRybVJQR016S2NkaDlJUGN4aGxCd2FWQk1RMnpCekI0Z2tudlc4UkFaXzRpXzdzbWpTaE44TVdaZExOUFdKbVVxMkVYazJwM2ZFd3FR?oc=5",
-        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUkZINzdFS1NRVzl5Z3NJWGtQOTZ4R1BEOXJiREF0cEVydWIwLWJITDNUazdBRDdxWlZoS2wzTlBZVjBSVXkyUEs1WW5ZSzNlUEVkVld6aWJQT01pWTZyaHNzQm5mUU9zaHZBV1VZOFZLWTZfbU9kT0puYndXeDdNRFRjRExjXzBWbDd6V2Y5YlhlZ3lVbm0tZDBJQWtuRlpMTFJmeXRTODJUb3g3N0tRWlpmLVZFUGZVMzB1VFlxRVhad1hLOU8xU2pGSmVTMUh1VlRHb1lsT3B1YjNYTVYyTzdFVVV3VV9peEhRUEtSVQ?oc=5"
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxORDRRandrRUhIczFGdmU2Ni1ycEhWbmF3TjU0WFpGZXRnUHd0WjF5ckVmWThNdmxEZEs5UXB6dXVWRXhEbno4eF9xVWJpdEIwc0dDWmMtcDNJaG9IZy1FdkFBbXl3M1Z4MHZCSU94aFRWLUg0OW5PYXdUTW1hcmU4dGtfUnpSM3dSN3lDVTlEcy00Snd4OUtwZmZmcEl3RFVTejRsUVpYaXlpalF2ckhORlp0ZTFnblJubnJUTm0wVTU5QlF2?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2dLakhBRDBxdnVlekxudXNGY1BEbks5Rk9fYUh6SkFkVzNEWFpKUDlvSWV0Z0kta05LNkRxU3k2SWtIRS1lZVpiS1JhalBTX1NFX2EtbXA3b0RHR3JrSkw4SURreGVkQXptQ3VkaUdNaFhGWE1rbGZQUWVJQjh3bHoxQWNCRy1wdDloTXVUMEllbHlmc000?oc=5",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxQelR0MmZGSzNtbWJEVmVDMF9fY3JhMWlfUDYxSGtjcVZqSVNTVERVZW1HSzBIYjJXS0xRZXNDbjNuVHdSYVF4SGlvNzhBSXNLdzZyazBBUWl3RXdwSTd5cVFLbjJNQnhnWUQtZkNqbUpkZnA1d1RRN2F5NVhpQUxIaTlidWFVODI1RUpOT0ZTVTdjVDhuUTB0OUhtT21rcU80d0doQm4tRzVmcFRsRVU3UVl1VEI4U2tueFhsUTduMGZqN3NWdS1qRU15bGNrQVE?oc=5"
       ]
     }
   ]
