@@ -1,16 +1,13 @@
 {
-  "at": 1791417051666,
+  "at": 1791435824024,
   "held": [
     {
       "section": "politics",
       "outlets": [
         "FEDweek",
-        "wyomingnewsnow.tv",
+        "News-Graphic.com",
         "themercury.com",
-        "Key Biscayne Portal",
-        "Mesabi Tribune",
-        "The Audubon County Advocate Journal",
-        "Erie News Now"
+        "Community Newspaper Group"
       ],
       "lines": [
         "center"
@@ -19,62 +16,77 @@
         "Senate Passes Bill Requiring Improved Customer Service by IRS",
         "Bill establishing animal abuser registry passes Pa. Senate",
         "Bill establishing animal abuser registry passes Pa. Senate",
-        "Bill establishing animal abuser registry passes Pa. Senate",
-        "Bill establishing animal abuser registry passes Pa. Senate",
-        "Bill establishing animal abuser registry passes Pa. Senate",
-        "Pa. Senate Passes ‘Aimee’s Law’ Animal Abuse Registry Bill"
+        "Bill establishing animal abuser registry passes Pa. Senate"
       ],
       "links": [
         "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUUx0ZmNQOWdMTDJHZ083Q1J1cXlmYzhlT2ZxMk4wNnJiVDVHMWpqeXVDNkNLSW1DOUhVWERxU1hub0gtQ0gzVTZjbW1HRmlNS3kwVmZ6ZWZGZGpkcDluRHVqbWpiVEp1SE02RW9iOFdqUFpHQ0NpMzltOVR3bXd6VWJUX3EzTzUta1ZyXzhTcmlJVHZ3c2huRHZfa196WkJpbVVlMlFYdllrWVFMSXBGOW1TLXdEU28?oc=5",
-        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT24tR2NRSVBMa2RSM1BtUXBkeGFUYnRuZGNKRS1LcnQyT0I4SWxLbTJUVlJfOUhhRkVoMzkxblBKaTJnUV9UdVN1UmwxaVdydHBueVR5c29WOTNtSXQ3NGpWN3JWTmlhM05PR0RnV2JTeTNxM2RkRE5Tdko3VGd6UVVrUDlqTTNBMUc1WllZTGx2bFFmYm9meXFMc3E5MENuRWZSQ1NxaGRCTmdJTDh4bzF1RzZ5b1Q0cF9PZlF3UF9EME9HZnJBdjFzanBOQlN4V1YzYlZlbGFuWnkxUXlseDMwci1yZw?oc=5",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU1R5VTF5M3hZNGRhWkVGcVYzMDgxX0tqSXIwWTZ6NWdLYlROSzVVdE9BalBCMUs2QnlrWm5TeExUSF91RExRd1ZKRV9DOFB1aUVwcWduQlQ2ODN3a2xuTm1SSFpoaktvMW42X2tNM2NWZTBYTjNBYkZmbnVQRDRrUDNEdVlzYkdVYW9vSXBFbk9ZU2I4M3BNZUZiMmltcW1NYVd5NmFvdFRRcWtiaFFKc2Q1b3lmcUloZ0N4cjI2OENwdXZYZGtzcFNvMGpGRmY3SU9kVkdvZWVqSVc1aVp0RHNvaUQ?oc=5",
         "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHdfa09VQkF6NEVYWm5tZUs5ODduUzFDSEloM3BxSUhKeHB6M2JvU2pidS1SWDhfUnVOekM5ZDdSRzE3Q0lVTjBxbFo3d3Y1VlUwOE1uREVyb1h6UEk1aXRMem1IVTVicTF3TkpSbjhLZzlPN2hSUzZIUENBLXJRY1hJdm5mYTBpOXloVHNBX29Ib3NYUGh5QV80dloteDdEY0hkZ1BBNEJfS3BENmdxaGdEbU1ITXctaXRVUG1BSmJzR1VjeHBnVXhCMHYzS01POVpkdmlEVElyZmNf?oc=5",
-        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRjY4RU5hcmRyNklSNnRqV05kNnlCclBTWUs2aTYtN2lTcXkwczkzVTUtWDZ3UWpLSmV6bWZBdldQazJXVFVDU1NoMzVJNFI5elBwVEdxSzRiWmcta0tSSUtvajd5QmNmanZkZzhrMDlYSjBLSHB6YzRHemxsU19OeHZXOXh4c3dPS0xXNzBraTFMUUQ0Nl9QeWdJekcxbXZFbVd6LUw5ZldyaThNY0kyanlRei01bnotY1dqTmdfUi1Oa0FCaUYzclBmWWJ6WFJpbmU2LVNYYk1XVEtJSkRnNGMzbE9OdmRhamc0?oc=5",
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSEwzTVZTNmRCb3JHYnlPZ2RjZTN2MHB4d3J5amVSZ0hUaTRfeXV2QU5xdHpYUjJwWG9mUmpEdTBtTS1IM3kwYnNJcTlDc25paTFSbllHT2Zaa1VtZDNWaXYwMDAtalA4MlNiczZjWVp0MGJCT3VYcnZNWjhoSXNsc3c1NXhuTGJwZmRaZk4yQU80dW5PZ3BFWVhaaG03TnRjTXdzS05nbDlhemU0MU05LW9xbWV2ZWFBUjBMdVZaSXJuSlhZczN1TTE1NVB4THVIX3B6ekJ0dGNvUHBXN3NTT3N6c1hzTDI5?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTcxVDNBckdrRjUzUWgzdEhqOWhacGZ5d0xCVnJ4TW5CVXE0VG9UYXBCNDZDWjNDdWktdTFFaGVkaUpkTzlQRXc0YVNOUDMtSGtHb0JlZWk2N2hxSTQ2d3NkWkxyUmZvS3M5akxNc1p6Q3k5c0UwdUtjODlCY3FGaldxcjU0R0JqeEJsT00xWGVpRjJ5dnRsbXN3?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMkFQV21QbmVFSHhScWVFOHRwbTF5QUVBYkkzREs0UnFXZEg5LVJWMGg4UXdFVWhFcTVpbjkwRS1TM0JHVTRDOHFSaWxRMW50TFlDQVNYRHlDd1JjZVU4ZTZjTnRJLVQ2SFdGRG94aVAwRmhKd2RUVnY4TEdGakRaUHdJT3JZckUtRlFCQ1NvcEpTSExRbFhDRElBbEZqLVpXN0ZIWHNjcDZDT3AzSkJYMnpmYzg5YlVhY2VoVENLazNaLVlqQzVGbk1DaEV0azNyTm9HYw?oc=5"
+        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQVJVUmxDU2VUSmVsUE1DMWNYUGVyalB5cjc0VmF5NC1LVm5VRXNCeXpHenhRZ3RFZDhUYWc2cTZkcWczV0szQnVxa09pRUlOUGtPTmpfMS1Bd2RoTjkxZHNzS191T3pwSG1rY09JdS1tOEgzQkxxWWxEeXBhZWZFTWpIU0UxemV2MTl5UUhJb19nWGlEaUVlZnZHOTRuMVh4bFBFMmFsWlZlMVMzRXVMZ0lpcngwTnVFbmtNNXRxX3VBRFlTWDBZei1LWVo1R0xYQlBtZnRRZ3g5ektkRjFCdEFRLVR2bkVMR2VoUUJyYks?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "WOODTV.com",
-        "WWMT",
-        "MLive.com"
+        "WABI",
+        "WGME",
+        "WMTW"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Michigan Supreme Court hears arguments over South Haven drowning",
-        "MI Supreme Court hears arguments over South Haven drowning",
-        "Will Michigan's Supreme Court take on a South Haven wrongful death lawsuit appeal?",
-        "Drowning lawsuit at Michigan Supreme Court focuses on profits, public safety"
+        "Maine Supreme Judicial Court hears arguments over deadly fall at Prouts Neck Cliff Walk",
+        "Maine Supreme Court hears arguments in case of woman who fell off Scarborough cliff walk",
+        "Maine's highest court hears arguments over deadly fall at Prouts Neck Cliff Walk"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUXJHWmpXclpyZzJJak1odlJiMDRYVHVHMDlwejBKS1psdGVzdVpjTERtWnJZNU1lNndxZ1ZNQ1h1RkdEOGl1WVdmT2l2Ym9XSDd0dEVGU2lrX01GanhYZ1R0bm83S2d6bXc3dm1iYkJQOTZ2TVRHeXRydnlvUG5oa1hEWFNqX1FiNTNZcDFFcnpsVTJVcEdKak4xSi16b2ZhSDZtMlVB?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelBuWm9hRUJPZm9kUVduZzVnMVFiUzktbmlrLUc1eHQ5Q1NHeU9DOFlFRXVqd0cxMWRHS0hfOTNieUN3T3BNbzNHemVXdWtQOUF6QWo1dC1adWhic2d3ME9pOWoyYmp0QkM3LWI1aHNRNXdzaWRxRkQ2TWxvRkRFUEQ3cURJNnFIM2NESUh6OEMtR0wxOXg1VXh4ZjkweFd5QzlhVC0xa9IBrAFBVV95cUxPQ2FPNzVENEZYckQ0ZmxHUG9tMkxiSjhxVUhvSFZEd2czeGN2eTl0d0E2SHZrdzJ4QWpsT21LZWF0LUtjZldDdGlkbDdwVG42YlI0aGNscG14ZGpEQkEySEVYajJOR0R2R2Y5VVkyYTVEeDVkWWltX3JYQkkwWEVnYy05bWIycXhFcDJNNWpHVjVtRzMyWjVhT25PaTRrTDlENkt0VWU3RzlSRTN5?oc=5",
-        "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZ2ItVnM0WU84WE5ud0JBcEdFZW1BeHJIR0NVYXBQY21KWXM3RENscE9hVHRrT1lnY3kxQkFoTHRFNVc0MTZNTkUtRWJzeklHbERLUTFJZHNneGItLUh4enBXMnFVZzd3cFljYjlPLXRZUTdkbnUzd0xkd20tU1RpNTFuUEh0UElMVl9JX1JMMHRlTkw1dHl2VnAwZlhzd0gyMkllVmo5TW9zNjVNMGRudTRtaFVuNkpvMEFydnYxZG5PUWgwRUxFVVR0QTJOREhkN2E1ak1oZFhTbVhybEx1eE9fX0VyRU1ZSkh6Y2FMTF94bURISkFuVUlFZkpsd001R0hIZ2w4WkhTN1otRVY1Ti03Mkw?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQnZEY1FrNV8xS21TTGhjYWlkckdHTm5mcm5NNU4tUGVXVk5NTW41QTdlUExOR2wyR0x0a2d6eXVDSFFFemhBVV9jMlFScjF6cEZiakRKU1UwdnJaTVRGcHM5dS10MXJsTm16Wl9WNkNCZ0xQbEhVU01iZm52VDRoQ0otdzVYeFBkcnNQdjRWd3NMbm11Rk9VSlVqdDJBakpZbUktMFBSVXRBbDBxU1FpWkZuWUk5MkJST2xPUElsOTA4QTA?oc=5"
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS2NHNE1vQUFHaTNPSDZSeWZpN0ZZYXN5RV9jNFpDUjdGOU85OWJaUHhvZmhiSGNHSVNZU0xIalZRY3YybTFUMGVLNGtLcmpIZE9iZWo4ODJpUDlKUDZEV1IxemxMR2F5X2JFdlR6Q04wWlR6MTNPWjd3c1pPX3h0WTFaeUxBcndkRzJQWHRxbUNTcnlfWVc3eEJUQzlnMm1ZMkYxNlJ5YnRLNW5EdEJxN0J4cXk5WTjSAcsBQVVfeXFMTmJLMGwwS1IyQ2NQNzhMQkdaWklzN3hqVmNnYmJ6TlAzLVFkMmRSQXdrbzE4QlFJWTdnUDAwdlpjWE01V2NMVEp5aG5kNnFOWTJXREtyLWFZOGhaVFJaN2RXYWhUc2pUWVlfU3FEdHI3YUwxX3hWVFN4VXRISUo4U1Q4Q0QyaFEyc3ZhWTE0RjRmMFpPUVlBZFU1dm9lMXJQNmJuZUxPZ2lOazJUSUNPTXdJYUtxendZa2pScXVQWnYyTXBmSWN5a3pOVGM?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbldZN1hsV3ZNZ2s4MnVxQl9kdUxPS1c5Y1Z0UTFoR2ptVXV3enk5aWpOb2xlV3p2bEUtUHVxb241WV9hYS01cEpGejhxa19UcG5lTlJYRVdnQzlmZGkyRmNtVVRLTVh3LVZBZkVaT3RyOWxlaXUwc0FjMm5kbXA5T05HbjY2d085SnR2YW1CVjlrTHlOVFZmUmVCcUhobEU0VF9tUWpXOHhqcDJQbUVFNDc4VVhWd21mdEFFS3hDa25JY0VYbzZpdWF5a2dWNmg5SjRxSXNaS1RUTVVx?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaW91cjBoT1lXOThpaGZBczNBNEdHenlERVVGYXYwLTF5VG9DWWJHcENOVVZiYmNtbzB4ZnpfLXNaVExoZ0xpNzhIRFF4T2xBRmlET1l5d201ejlibV9PbmR3cE5FWTVkZUUwbzNBMkNQZzlJVG9XRDZUbEVVNDd1U0RfMXByM3ZwajUwckVvYl96R0JWUFNsaEprRGN5NFFra2tqX0pNQ3Vrb1lKNVFBSHhYQjVRWnc?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
+        "The Detroit News",
+        "WOODTV.com",
+        "WWMT"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Supreme Court mulls South Haven's liability in Lake Michigan drownings",
+        "Michigan Supreme Court hears arguments over South Haven drowning",
+        "MI Supreme Court hears arguments over South Haven drowning",
+        "Will Michigan's Supreme Court take on a South Haven wrongful death lawsuit appeal?"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY2FrVi10cTNUMXVsbXA1SFNuZ1hUUVpJdnY1TTh6X09ldnk0TGEyd0ZTNS10VkVzeDdzbHNYbWdwU2tGa091eFlkamxweWxUeXYtbVR6WmdVUmtxUEJJZWtUY1lpelRKeDA4V0kzUHc4aHJCV28taWRVQXFkcFNNYlpFYzJxLUxpamdyTVJZNVhYVW5OQldRZE16cFE3WXVwTEhWOFB4eTJIZzVkTDdPSUZ1VmxkaDkwS0hERXFJcVNFOVBvckFweDhMQkNKTFlEOVBn?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUXJHWmpXclpyZzJJak1odlJiMDRYVHVHMDlwejBKS1psdGVzdVpjTERtWnJZNU1lNndxZ1ZNQ1h1RkdEOGl1WVdmT2l2Ym9XSDd0dEVGU2lrX01GanhYZ1R0bm83S2d6bXc3dm1iYkJQOTZ2TVRHeXRydnlvUG5oa1hEWFNqX1FiNTNZcDFFcnpsVTJVcEdKak4xSi16b2ZhSDZtMlVB?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelBuWm9hRUJPZm9kUVduZzVnMVFiUzktbmlrLUc1eHQ5Q1NHeU9DOFlFRXVqd0cxMWRHS0hfOTNieUN3T3BNbzNHemVXdWtQOUF6QWo1dC1adWhic2d3ME9pOWoyYmp0QkM3LWI1aHNRNXdzaWRxRkQ2TWxvRkRFUEQ3cURJNnFIM2NESUh6OEMtR0wxOXg1VXh4ZjkweFd5QzlhVC0xa9IBrAFBVV95cUxPQ2FPNzVENEZYckQ0ZmxHUG9tMkxiSjhxVUhvSFZEd2czeGN2eTl0d0E2SHZrdzJ4QWpsT21LZWF0LUtjZldDdGlkbDdwVG42YlI0aGNscG14ZGpEQkEySEVYajJOR0R2R2Y5VVkyYTVEeDVkWWltX3JYQkkwWEVnYy05bWIycXhFcDJNNWpHVjVtRzMyWjVhT25PaTRrTDlENkt0VWU3RzlSRTN5?oc=5",
+        "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZ2ItVnM0WU84WE5ud0JBcEdFZW1BeHJIR0NVYXBQY21KWXM3RENscE9hVHRrT1lnY3kxQkFoTHRFNVc0MTZNTkUtRWJzeklHbERLUTFJZHNneGItLUh4enBXMnFVZzd3cFljYjlPLXRZUTdkbnUzd0xkd20tU1RpNTFuUEh0UElMVl9JX1JMMHRlTkw1dHl2VnAwZlhzd0gyMkllVmo5TW9zNjVNMGRudTRtaFVuNkpvMEFydnYxZG5PUWgwRUxFVVR0QTJOREhkN2E1ak1oZFhTbVhybEx1eE9fX0VyRU1ZSkh6Y2FMTF94bURISkFuVUlFZkpsd001R0hIZ2w4WkhTN1otRVY1Ti03Mkw?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "WHKY",
         "13newsnow.com",
-        "Audacy",
         "WCNC"
       ],
       "lines": [
         "center"
       ],
       "titles": [
+        "NC House & Senate Vote To Suspend Gas Tax (Updated, 10/7/26, 7:21 p.m.)",
         "NC House of Representatives passes bill to suspend gas tax",
-        "Pennsylvania House unanimously passes bill to regulate kratom products",
         "NC House passes gas tax pause bill"
       ],
       "links": [
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04R3pEejJWZEhCZm9LQTFNamI1YVdkZy1yNlptcnZJd3cxbEhxdVNGenoyQlRzRDBxdlJYM3J5dUlMT0F3bTAxaVcydEJsVUhLTnFPY2NNajFqcWwwQ1hkVw?oc=5",
         "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbTJBczRfWV8yYzljUU1SWkNIUXdwM3dBTGxqQnpYaTJhdm9GdWhjU1hHZmM4STByZS1xNTVKeG11OFNkOEFla0FYeG9ncWJKbkNrSnF2TG95Vl93ektmSnd1SlZMME5qNmcxdWt1SlhOTXFYWnRLc2I3QlBkWm5tb191WTZadzI1R0lEZktibWJBUXRYMThqRldqUTN0UUxobVZESkUyRHF5aS1vWFFLVmd2SUdaODJWOE5Jem1Yc29qMjJxbUZJd1d0X2ZHdkNxUWc?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jOFU4eElqa0Q0aWwzWEdKWUE2bTVOb0M0djNybVZDa080SzJUakVUNG0wRThmQ21oRlhzNWpaYjJtQ1dRMm9RVnlqUFlhNVJOUG1UWHF6TEVaZ3Y1UG5paUkzamllVkhObmdmQ1VOcDlINF8tLWdiVGRYT0Rjbjg?oc=5",
         "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWpOclRJRmVPLVIxUUszSWVORmtYWEptUWRtOWR6RUFaRW5Ra21SYnNXajVUVnViSUdELTRlRXFRdnBqZjdXUll2bW9LWFRKMUpGTTUwNDByNk9NeWZUOXR5U3FkWlg4eEJrdWdvYTNrZUt1V0JZRW1TV01GT01ORUlORnZ1aEQ2TWVneFR1U1NLTVZXMXFGVE5rTU5IYUdSN0xQY053Z0MxQ0JYSTRsczU5a3I?oc=5"
       ]
     }
