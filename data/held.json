@@ -1,4 +1,92 @@
 {
-  "at": 1791542112912,
-  "held": []
+  "at": 1791565924741,
+  "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "Yellowhammer News",
+        "AL.com",
+        "WSFA",
+        "Lagniappe Daily"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Alabama Supreme Court rules 7-0 for Tuberville, ends ‘residency hoax’ for good",
+        "Alabama Supreme Court rules on Tommy Tuberville residency lawsuit",
+        "Alabama Supreme Court upholds dismissal of Sen. Tuberville residency challenge",
+        "Alabama Supreme Court rules Tommy Tuberville's candidacy cannot be challenged in court"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORGpYSWFLd3FOWE5CVWV5TTBYTjRMc1loaXpyVmgyLTRmenByZElMTVZfc3FKb3dPZFZTcVBiS0lxUjJUQjVyMy1Lc3IzMzBhbkpZN21IbE4zaXh0Q1phSFFZd21GNzVCc1JuR0xUZ0I5cDctbEtQSlpwSDZHM1VKVkdnTGoyc2ZBdkNZcWhhOHNyOUR6NGNsTWJUSVpEYmU4NVpEamJSdXc?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSHBvOWpCeXk3VGdreTFCajFEZXNBMEphX1hvdnNKYmc1ZzNfYUNoSURsU0FSTDBNamk3djZyOEsyWGNZY1p6RlBxclY5azUwQTYtZ2J0TG14d3M1T3lab3Q0SmhRaGpiaFNrOVBVbUw5R3kwcjdrSVRVSEtJbFFyZ05lTTFqNjlGT3Awblc2Uks5NUVsa3d0UjFiWHlRQUpsa2JBU9IBuAFBVV95cUxNdkYxaE5PcDhLZ1ljd0pSeDEtejNuTldYel90bGZKa3doWHRiZVJqamc2Q0hBMVRTVmVtRE1MQnpQLTAwWU4xMk1rSlRhRUFNOThyMHMwSmZJSDRiUmRLdkJnTXlwTXVibF9STTFONDdIQVlzZ0hSRFZVUHB4WmJxa19RaUkwYlVwbmktUW1YTTZubDhEQ09rbnJEU1hVMG5NcWVRa2pJVGt2QllQQmpFOVdxbTB0eEJv?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEV3RlllVnZPRmJ0aEdRSGYtTjRuYUVEbnlaeVVwOF9WdzRyQWlkUjNEcWtMNGE2dkFjTUZZbzVTQXFaLWVLdVROLXZWM1d2NWxfX0tmUXgwb0piSnN4QjNRdXBzSzFsY19mMEJkd3NobW80RV95V2VhNjQ4VFdLZm5OLTNodUxBd2hwOHRnWEpiWkVXOWx6UUdoVDk4amhZMXl5SW9lSmkzWTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdTZEVm9yMldaaXdxMWx4QUpHb2xhMjB4b0xHYnprU3VVanZPeXgtZDhUN0ZPUThHcEkxRURqdi1rS0wteUZxWGNPbm9teUpQaHo5bWdKdncwVUV0SGhTSUNydHRJZExrWlh3dzBKemY2UnpXOE0zV3JsSjV2S21mWlV4QVpxejhLN0VJcTdYY190Mmc0VHRCLUpLampkVUVkUkFhbXBrdm1DeVFsU09SSzZ2b0RVTjliMTlZWGpnM3pOandLQzFpWVFhQ25uVmVnYUpfZ3ZCYVFqUQ?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "NC Governor (.gov)",
+        "WLOS",
+        "WRAL"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Governor Stein Signs House Bill 3, Suspending State Gas Tax and Lowering Costs for North Carolinians",
+        "Gov. Stein signs House Bill 3, suspending gas tax for North Carolinians",
+        "NC gas tax suspended: Stein signs law aimed at lowering prices at the pump"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbmp4NXU4X3dZYUVvQnpSb185dmVYRFVCR3pHWFYyTkRhVmVEdEZvVENHZEZlenlqaC1Yay1RdWpXM0VHTTVZWVU4X2RqQUFBWWxPY2kyNElDR3ozcllDOUc4V1pwcEZFb3ZLa2M4RW5ZSFN6V1llRW1qd2F3Q2JtX1Y3dE4xSjd0QldndzZoaml4RkJsWm5WRVF3VHpXN0g5cGRZSTEyWGlwNDhOSVN0dW1oYVRLVXpzUWxoUV96WnE5NHpVNk5NMVQxVUktcHhjd1NlM2ZkUjhDYVpEQWU0eG1HOGI?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFUyZXFncDB3RG5iYnNDazRGQmhKem1Zd0JsSnJxNFNOQ0o0UE5YdHRpRjAwWlhFYnNfTHlaUFlGcHlyYWVQYkNmWVh1d0ZNc2RxcFhnN3dYLU1HMlNxYjRENUV5MkJucVBoZG1aNEJjZDlFN3V3QWNIR1F4NHk4OV8yTVh3d2Q4bDBGMndPbzRNY2NCVGxBYWJfNW93TWtibGIzNnNRZmVnWmRwbHVYTXlWeG8tMVRldzJQSDltVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUpXUHA2MFQybjRjNXlkbFd4ZTY4Tnl4ZDlteXFVcEtpY2kwT3BHOFJ2VUxTZU1aenIxay1WaTFfNG1hZDZGSEtXQ091OE00STZMa1RFU1h6TUhBQy03SUNwS2Nma2hRc1dqN0p0NlRfQWRtTXR4akRjeHRibFI0UmNLVHRMWnNpXzNmenRNNWtULU5mcWtkdGJn?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Capital & Main",
+        "Modern Ghana",
+        "Yahoo"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Latino Voters Disapprove of Trump’s Presidency: Will That Decide the Midterms?",
+        "Trump approval rating SINKS among Latino voters",
+        "Trump approval rating sinks among Latino voters"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOamFhRlJuNkthcDZYa3ZZd2prRmJJRWRMd0V1R05UR3ViemdObXgzd0Vic04xc3RRYk9KSS0xbzhjU3dxSjI2cDZ3ZXF5NFpfYWZaX1hVZWt3MUtMS0tBUjFkUi1kYzlhTFFnaU9pcGJCc1BIMER5WDZCemFGNjBuOGN1dk1ZSld0WUlVdnRfRFM4VTFVaWZOc2F2dGQ3b0ppTVJiNQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzeEM4SmxHb1pLOG1QYURhd09HTzYzSjdhYzFiZE5mTnN6WW9ZbGZ6WVhkbFhXal8xbzBfRFJqdVI2bS1GNkNrT0Q0azNzTHllaXYwZFk1eHFzWUo2cXNz0gFcQVVfeXFMUEt6UXNUUC0xZlFxcUFqUVBnQXNCVTF2MjNKMXlLQ2JIWkF1UDhYcEJQUlZUczBvSWxBLUtqZmpoa1FPRXVadV9TQWx3a3hSclo2c3V1Q2hTWllCSTc?oc=5",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVXFQeFdkaS05NWlMeVBOVkV4anBVUjk4SHozLXdOdFQyUGpYSlVVMThnUzZtbURrMGp1SXA4Wll6cnJGTFVWclAxSjhaeUZybWo2eTBqVWYxYnhMR3UwNnhIUkZVaDNPVE1HOWhEUGRuVElRRzExUk9fQ08zTFMxcXJBNkpDaVhYd3c?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Yahoo News New Zealand",
+        "Scripps News",
+        "Politico"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Trump finds newest way to go after Lisa Cook with investigative ‘committee’ despite Supreme Court ruling",
+        "After Supreme Court setback, Trump tries new path to remove Fed Gov. Lisa Cook",
+        "Trump sets up committee to investigate, potentially remove the Fed's Lisa Cook"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hRGRyUHowTEVyMFlBTFFxbHFrQmNYUmlFOUFoOVljV2xCUUhmUXBYZ3JyMlVYMDdhNm9tZnhkajhrMDB5QTlrMFJYMFp1M3VRZVFfaTNqNzhGUGZURnVsNWpPZnpGMVQzUzRxeFk0SUxvN2Z6Sk9N?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcVFOY0U1NjBhUUN2LWdHWFZkanVBNHhLckFkbXMzLXhYTFRlY2ItaXc1Uk1hLXpzSzJSMXRwX2hHWGNGbXpfQTUtU3pOLW00d3lXVUhzVWZPYVpDWWtyajhidjV5SWFVWDJwbGtQVWg2ZTVFUjF3SE9uLWhVa1VlM3YzUnZoTHRwSXMxOWtVc0JZWm9USmdXQnA5VGNnUGhjOWJseUVObHI5aHVRZ1BTX0lMSjNQSnluWE1QMlY3bXNRWDMwUVE?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUxOZXh5bm9ERlh0ckdRLUx4bFo2QTNpbHFKcmNHRzJiWE1hME8ydkVyd3hwS01IN1pFeWdYaXh2ZnVxc1BBNHZaMlBnWGZGQjhKeVlGb0x1MmhxZEhmanZTLVBnNUJUNXAtZVdabW1xWTNGWEJtYkxpcjBvRUZHYm13TEtpd2h4eXgxUlBUNUZvODk5?oc=5"
+      ]
+    }
+  ]
 }
