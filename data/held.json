@@ -1,52 +1,25 @@
 {
-  "at": 1791640734698,
+  "at": 1791656829034,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Pittsburgh Post-Gazette",
-        "LancasterOnline",
-        "WGAL",
-        "TribLIVE.com"
+        "Toledo Blade",
+        "Longmont Times-Call",
+        "Estes Park Trail-Gazette"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Pa. Supreme Court rejects efforts to push back critical deadline on skill games",
-        "Lancaster businesses remove skill games in days up to Supreme Court’s deadline",
-        "Pennsylvania Supreme Court will not consider extension on skill games deadline",
-        "Skill games deadline stands following Supreme Court’s rejection of 2 extension requests"
+        "Incumbent, former state rep, and Libertarian candidate campaign for Ohio's 43rd House district",
+        "Colorado State House District 49: Q&A with candidate Lesley Smith",
+        "Colorado State House District 49: Q&A with candidate Michael Sheperek"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0tQN1VwM0F2d3VhVFRoa1ZuVDZuNG1udHV5NkRsWi1ZRS1Db3FROFAwUldFMzU5X1hvc1djM2Y1Q0FfbHN1YnpfMmQ3bUwzZ3NjbGRtRUVDXzBVOEVhdjdENGxOSGRERlZ3N1ZaMTJoWGw1NlBVenpyODZHQXVaaFQ5TWtqdGczN2dYa25lVGFYR1NNVkZEUDU4bC01OTBGVmJldGNuUGRZU0FUSmRuS01rUFBnUmdwVDM0?oc=5",
-        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMHVFbzFPem9vOG1aMmZ6UEwxUFh1aWhoUnlQbzZIZEZHYm1zMWc4alNGaU5OamRVNE42QjhrV0lmTDgxWnp1REt5NUZLYS1tcTRKTW56OWlHV2pzbmNaYXVabV9RWHJjekp1d1dlay1Jb0ZRNmo3Q3hRWEJhdnRJVmxkR0dsRmw3aS01RzBxVnhES0JlcTFSc29pSURCaVBDTjZaR2NkWGFRUUhaU0xEckhrMnY5TWNLSG5YeW1XZlFvQlVpZW9MUl94MUhOOE1UWXFhUTRJel92UHhUT2JPVDdyeEwtalE4ekRxNXhVdi1HQlFzTG5ySGNNYw?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaXE4RVRONkdEWXBJcHNrdVRwSjluZnZ0QndIUzNUN01HOW5LTkRRSk9aWjRzQXp1Vms2RUZmOXpxWVZ1RDhYNE1aRTE2b1B0RjZOMkh3eGR6NVdLenZNaDd2QXlRcnpEMml3dE5hLW9QZUg5WVFnd285dVJZbExQMmRCa0JOQldDMWdqWUg2OUFwdw?oc=5",
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZUdRZm1VU3NTSTJDNHVUZVprVjNLalBQNElZeG9yTkpxVXBpakdjRDBtUHYzdTdnVVFpOXlKeFVyVy00cERHVDByM2ZKdl9mVU91RThtNHNTSXNVbGVZMTE3SWJ2SmVzNWpveHJwZ044NERjdllmTy12UnlBclR2N0M2WUEyUTVReG1qYllZX1k2QUR0bUNraW1TczJvN01uTEc2MWFnYnZfajY4eHo1a01qWmVZcXN2U2g2NDZna1N4ejA4MVlwN1IyRU9Kc19yZ0E?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "InDepthNH.org",
-        "Pennsylvania Capital-Star",
-        "Nonstop Local News",
-        "WJAC"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Supreme Court Denies Request to Delay Oral Arguments Challenged Over Issues Related to Martin Scandal",
-        "Supreme Court denies request to extend deadline for skill games",
-        "Pa. Supreme Court denies Yaw’s bid to extend skill games stay",
-        "Pennsylvania Supreme Court denies emergency request to extend Skill Games deadline"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcFRWeS1za1BwRzJpX3ZsMFdydU45eGphUWVfRGtIcXFQRDFzTkw3cFpUaEtqLXl4VkZEc0RvTVdWSm84YWVaNDJOdEt6NGktWjNURDF4dlZ0TGhxeXJWdnZmR1g1eEdCNG0tdGVtcXQ4aHJ1ZFdrU1AzLXNaMHlZTWEyMi1nR1ZWcllhWGZUUGZ2aVNvcTNRX3gxTWZIdkdYaTMwOWZFbDc1emZSdFQ1QWt5QjQweVBGbGVkUWdUb2NRZTBLMXR0NEVfZWFFTzFD?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdm9VbUY5MXVFaS1fQkZ3Q21jeXZ1cUdrdWdveDh5bG44NzJvdUJUSzEwWVhBeHM3TDlVTlFpb0JfUjcxazcyZU82ckdsOEstTXRtMWI3clVud0poS0R3TWl4U0U3MGxlMGVWRVdTWGsyOWZMb2N6ekxiU0JKekFvejVWcVNFanI3Ui1VeVN2WUROVzY2T2ZHWFVWd3Z6MmFlRWhOdlFsU3ZqbDk1R2hxRThucmVaQ2M?oc=5",
-        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOWxKM25BWl8wVHlEUk94NmJiUXRqVVBaRnJjdjIwbzVNODNfeGtMM3VzNXRaZHdGQzdKbDNxaG5lTVF4QTg4YjdmQ3dtOVRKSG91dUF3bFU3QUFNcm1oMG5DOUtsTnlOVlFFUFlMTjZxa0Y0aGdwMkFDSVBXUE44bDd4SjVseHFRa0JfeDNzbFNyWXNtdmVLbUJqU3gxZ0l6NHNsZHJzQ1drWW4zcXFuVkU3Tzk1d0dsUFBGR09EWmdCNldsRjdOVHI1M3B0YTcyTlJUZ0tPMG9OTGRpUk51S19PR3pKVDNEWmc?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxORHFxekhhbXJqM1F2a21SSFpNbXFjWndKX0lVd2E3X1VaODNqNkxpZHU0ZVhpTlo3YTlTTk0yRTBkS194cjg4Ny0tV21ndnU0MjN0Rll0OFRlS0xrdDhRaFQ2c2hzQWF0TXU3VGF5RlloM2J4MkZJQVJINnE4eVVJQW9DSWtBLVJoVVl5WnF1WkttYk5CLS05SFNMNVN2dU5MbUswN18zVWh0RnBDd0pHaV93?oc=5"
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYTMwMEMzTVA1MFNnRXdIWDY3TTJvM29ELWZNRjBVXzNwWUx6WUN2LVVSXzUtSUt4OENFdnljNjR4LWdfdzF1cFBnQ1lTdklPelZBaUoyQUxtX25BUkJzYlpvTEFzS2d1X2lXREQ5WG14SklkNTRKRzkySmVXUWx0MktEYk1Mald4blVzdm5JZ014QWVuM2hXT3UzbU14aUhGYnlYNFlHakEtc2NOeEFSNHlucGlYWkhwaDNyMmNXRkRzWmRqSkEzUE1aQTFKVHE3TXhfUG9QSldzRzRRaWRDMnVWSS1XOVdxUlE?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjdWZVhET21sbXlXWTBObmZMSmJoNUZtRXp4S2ZKak5KSG9obFZaeGNaTHp6WDE3UVREbWVPdnZfemNCcXdOMDRjMnJmSUlMWDJCRnJEZTYzQ3N2SER3MTFqcFp3RVlwTzBHb3ZQRHVIaHE2bEhQLUp0bUR3bVJaMkpJVUxqdnFxX0NqR3l5dzlxMXFoLUZtZFk3NlBJTzVFc093?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXdLSjQ3YzJ6Q2h2UExfek5UaU5ITnNzVFBYSVFsUzBYRGt6YXI0UVlTLXpwR3FIOGpLTTkxUUFHSldKcFQ1eW1kcnNGYVBUTU5fVGthZ2lxbF9ELTUxUEt1RVhpT3REZFZMMnpJTE1JOHpUTm1IR29VNEhCSmhpZHl2bDI1bmJvYUlQT3FsYmQyc0JfbUZnWlpxdFBvMEZs?oc=5"
       ]
     }
   ]
