@@ -1,76 +1,31 @@
 {
-  "at": 1791582174453,
+  "at": 1791595103143,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Pittsburgh Post-Gazette",
+        "TribLIVE.com",
+        "WGAL",
         "Pennsylvania Capital-Star",
-        "keysnews.com",
+        "The Delta News",
         "WJAC"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Pa. Supreme Court rejects efforts to push back critical deadline on skill games",
+        "Skill games deadline stands following Supreme Court’s rejection of 2 extension requests",
+        "Pennsylvania Supreme Court will not consider extension on skill games deadline",
         "Supreme Court denies request to extend deadline for skill games",
         "Pa. Supreme Court denies Yaw’s bid to extend skill games stay",
-        "Pennsylvania Supreme Court denies emergency request to extend skill games deadline"
+        "Pennsylvania Supreme Court denies emergency request to extend Skill Games deadline"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0tQN1VwM0F2d3VhVFRoa1ZuVDZuNG1udHV5NkRsWi1ZRS1Db3FROFAwUldFMzU5X1hvc1djM2Y1Q0FfbHN1YnpfMmQ3bUwzZ3NjbGRtRUVDXzBVOEVhdjdENGxOSGRERlZ3N1ZaMTJoWGw1NlBVenpyODZHQXVaaFQ5TWtqdGczN2dYa25lVGFYR1NNVkZEUDU4bC01OTBGVmJldGNuUGRZU0FUSmRuS01rUFBnUmdwVDM0?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZUdRZm1VU3NTSTJDNHVUZVprVjNLalBQNElZeG9yTkpxVXBpakdjRDBtUHYzdTdnVVFpOXlKeFVyVy00cERHVDByM2ZKdl9mVU91RThtNHNTSXNVbGVZMTE3SWJ2SmVzNWpveHJwZ044NERjdllmTy12UnlBclR2N0M2WUEyUTVReG1qYllZX1k2QUR0bUNraW1TczJvN01uTEc2MWFnYnZfajY4eHo1a01qWmVZcXN2U2g2NDZna1N4ejA4MVlwN1IyRU9Kc19yZ0E?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaXE4RVRONkdEWXBJcHNrdVRwSjluZnZ0QndIUzNUN01HOW5LTkRRSk9aWjRzQXp1Vms2RUZmOXpxWVZ1RDhYNE1aRTE2b1B0RjZOMkh3eGR6NVdLenZNaDd2QXlRcnpEMml3dE5hLW9QZUg5WVFnd285dVJZbExQMmRCa0JOQldDMWdqWUg2OUFwdw?oc=5",
         "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdm9VbUY5MXVFaS1fQkZ3Q21jeXZ1cUdrdWdveDh5bG44NzJvdUJUSzEwWVhBeHM3TDlVTlFpb0JfUjcxazcyZU82ckdsOEstTXRtMWI3clVud0poS0R3TWl4U0U3MGxlMGVWRVdTWGsyOWZMb2N6ekxiU0JKekFvejVWcVNFanI3Ui1VeVN2WUROVzY2T2ZHWFVWd3Z6MmFlRWhOdlFsU3ZqbDk1R2hxRThucmVaQ2M?oc=5",
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ2VQaEcxcndRbmt3ck1TWkh4amVLM3J1eWotbXRmdkVHUEpySjlUZ3M3X05PaHpCMzRMdVFXZ3RucmVJYTY1QzY3aGZkaVVIdGZtTG1IVXFvZ0RpcmtZT3RWTkJrdVlna0V0VkZKN3huRzRmMWpmcWJnTi1LY09lTjN6ZHlNbFRDZVdqNkt3eEhiVThOZXBXc3FPc255Vl9qZ09ua2xTQWhwV1BtbWpMZ25aSVFGUkNieDN1bUFFQ0lmUEZpYVVRc0h1bkNCUXN3Y3BMQXJ1Sk9HWlp2ck10T1NlWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3lMNlRZblFLc2ItMzAxblVFTGhpZU1HcnktQTZUczlleHY4ZzdLYmxMTFhxb01kcVZzSFRwUnhVSWpPZnVZalZoZ1JETWItQVBOaV9wZTZPbnQwa1d6VG9MYXdVc3NPVTByTzdsR1E0Y21YYVJFZUZjX2Y0NmQwNWVXcUVRWDhoMXk5S1l2MENjcW9Fbm9TaGJrWW1UNm80enhYUUxRcmJDeFp6UHpreEt3UnI5aVQzdk5YVHowSi1TVnlsZTlwY1c5M2Nnc1ltdkVJRC1DTmQ4eG1aRlFDRmRQOA?oc=5",
         "https://news.google.com/rss/articles/CBMisgFBVV95cUxORHFxekhhbXJqM1F2a21SSFpNbXFjWndKX0lVd2E3X1VaODNqNkxpZHU0ZVhpTlo3YTlTTk0yRTBkS194cjg4Ny0tV21ndnU0MjN0Rll0OFRlS0xrdDhRaFQ2c2hzQWF0TXU3VGF5RlloM2J4MkZJQVJINnE4eVVJQW9DSWtBLVJoVVl5WnF1WkttYk5CLS05SFNMNVN2dU5MbUswN18zVWh0RnBDd0pHaV93?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "1819 News",
-        "Yellowhammer News",
-        "AL.com",
-        "WSFA"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Alabama Supreme Court unanimously rejects lawsuit challenging Tuberville’s residency",
-        "Alabama Supreme Court rules 7-0 for Tuberville, ends ‘residency hoax’ in courts for good",
-        "Alabama Supreme Court rules on Tommy Tuberville residency lawsuit",
-        "Alabama Supreme Court upholds dismissal of Sen. Tuberville residency challenge"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQenJTd2ZhUC0wRzllbTU4SjF5ZXhzVmxYbnI3aUJjS0c3cUdHU185cnpiU3VaQnJiaDMyMkxmVFlBSXpacU9TNUViZ0tFTXRKSENrQm1hNkx0MDJjOFI5dGhDdVA2Zndmd19IVFMtOThLTDFZUkNKWjZPTklvdFE5U3F5Vk5nY3V5Skcwai1HMG92X21ZSUNVbUtCMFRXOWhmTlNDT2FCWU55RW9yRms0LXQzOFc?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWlBSbm9ES29aT2QtVFlQNTA4V01Tc0FiVEZoTzdYbEJ3WktXSXFFdTNqVEE5Zm00OTZhYjY3RlhxNVJWeW1xVHVlQ3ktRUxlUlRkOW9Kd2h4Q0hnSlNlejEyR3lTZVpyaXdmOHRIRW9iNUtHSW9jb0wxV2RKVDNtaE5hcHpCaF95MUU2Xzl1Z0ZQdnBFRG9DYWhSRG9KaGp6d3d2VlpfT3N0ek9SZVdpOXd5cUNRUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSHBvOWpCeXk3VGdreTFCajFEZXNBMEphX1hvdnNKYmc1ZzNfYUNoSURsU0FSTDBNamk3djZyOEsyWGNZY1p6RlBxclY5azUwQTYtZ2J0TG14d3M1T3lab3Q0SmhRaGpiaFNrOVBVbUw5R3kwcjdrSVRVSEtJbFFyZ05lTTFqNjlGT3Awblc2Uks5NUVsa3d0UjFiWHlRQUpsa2JBU9IBuAFBVV95cUxNdkYxaE5PcDhLZ1ljd0pSeDEtejNuTldYel90bGZKa3doWHRiZVJqamc2Q0hBMVRTVmVtRE1MQnpQLTAwWU4xMk1rSlRhRUFNOThyMHMwSmZJSDRiUmRLdkJnTXlwTXVibF9STTFONDdIQVlzZ0hSRFZVUHB4WmJxa19RaUkwYlVwbmktUW1YTTZubDhEQ09rbnJEU1hVMG5NcWVRa2pJVGt2QllQQmpFOVdxbTB0eEJv?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEV3RlllVnZPRmJ0aEdRSGYtTjRuYUVEbnlaeVVwOF9WdzRyQWlkUjNEcWtMNGE2dkFjTUZZbzVTQXFaLWVLdVROLXZWM1d2NWxfX0tmUXgwb0piSnN4QjNRdXBzSzFsY19mMEJkd3NobW80RV95V2VhNjQ4VFdLZm5OLTNodUxBd2hwOHRnWEpiWkVXOWx6UUdoVDk4amhZMXl5SW9lSmkzWTQ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "RRSpin",
-        "Carolina Journal",
-        "NC Governor (.gov)",
-        "WLOS"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Stein signs bill suspending state gas tax",
-        "Stein signs gas tax relief bill, takes aim at GOP lawmakers",
-        "Governor Stein Signs House Bill 3, Suspending State Gas Tax and Lowering Costs for North Carolinians",
-        "Gov. Stein signs House Bill 3, suspending gas tax for North Carolinians"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzBHWFdYaEJBb1FRM3ctUzlKSWp2Q2R4Z1FOOXR2QVoxUDM4aEQ4SGxwQS1hNWxHSkV1QWlnZHk3ZTZUbVJ4LUQwWm9aWEE5Qm1xRDhINlJpQldMUF84X1ptTlR5bjVFRHAtTGhQVU5iYnlZWUZNZGdpc216aWRfS0Y0dzFSVWs?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSG8zZnJKVE5Bd2JoRmYyMzNSYWN2cWROSlRrNVBvdFIxVjZ2dzNnUG1lNHQ5Rm5UcFJ6QnlxbHA3UzhWaEpwZXBWN2owQm4zRDh4S0kzVTU4d1hEZUdMQ0pKa245bGx0NG9DN3VCTVp2QTVsejdQWGZvMmdnWTFkNFdjM3JST3RIcU1pTUh4WkdMaHFpVWc?oc=5",
-        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbmp4NXU4X3dZYUVvQnpSb185dmVYRFVCR3pHWFYyTkRhVmVEdEZvVENHZEZlenlqaC1Yay1RdWpXM0VHTTVZWVU4X2RqQUFBWWxPY2kyNElDR3ozcllDOUc4V1pwcEZFb3ZLa2M4RW5ZSFN6V1llRW1qd2F3Q2JtX1Y3dE4xSjd0QldndzZoaml4RkJsWm5WRVF3VHpXN0g5cGRZSTEyWGlwNDhOSVN0dW1oYVRLVXpzUWxoUV96WnE5NHpVNk5NMVQxVUktcHhjd1NlM2ZkUjhDYVpEQWU0eG1HOGI?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFUyZXFncDB3RG5iYnNDazRGQmhKem1Zd0JsSnJxNFNOQ0o0UE5YdHRpRjAwWlhFYnNfTHlaUFlGcHlyYWVQYkNmWVh1d0ZNc2RxcFhnN3dYLU1HMlNxYjRENUV5MkJucVBoZG1aNEJjZDlFN3V3QWNIR1F4NHk4OV8yTVh3d2Q4bDBGMndPbzRNY2NCVGxBYWJfNW93TWtibGIzNnNRZmVnWmRwbHVYTXlWeG8tMVRldzJQSDltVQ?oc=5"
       ]
     }
   ]
