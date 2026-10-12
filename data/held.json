@@ -1,18 +1,16 @@
 {
-  "at": 1791769250707,
+  "at": 1791792162536,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Billings Gazette",
         "Arizona Daily Star",
         "Lynchburg News and Advance",
-        "McDowell News",
-        "Lake Geneva News",
-        "The Franklin News Post",
-        "SWVA Today",
-        "Muscatine Journal",
-        "DBRNews.com"
+        "The Grand Island Independent",
+        "The Bristol Herald Courier",
+        "Daily Nonpareil",
+        "Opelika-Auburn News",
+        "Lake Geneva News"
       ],
       "lines": [
         "center"
@@ -24,20 +22,40 @@
         "Can we still use pennies? Congress plots a penniless future",
         "Can we still use pennies? Congress plots a penniless future",
         "Can we still use pennies? Congress plots a penniless future",
-        "Can we still use pennies? Congress plots a penniless future",
-        "Can we still use pennies? Congress plots a penniless future",
         "Can we still use pennies? Congress plots a penniless future"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcV8xMnhTTkdhc0M3Q0ZWUlNCNWU3MDF1dmpiV1dFejJFVng0WlFqY2paU2ZPODRrUTZ1U2hLb0tiSE5CWFJJVm02RkZmNUVPUjhOZGxSM3JLcW9iTE94ZmwyLWU1emQ2b0FSbFBuNjVEQS1QZHdtdUQyTDQ2aGozOUhKRk1oYVdiRXk2SDNTdUJxcE5tRlNLT0NHdzhGcVhFZHA3UXlxdzM3ekJiR25hRU8tcnJSWG9DNmFCU0x3?oc=5",
         "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeDY4VnM2Skt4RHl2dndfVWI4TXNaUkV2cEd4R0toRGZvZGJCbFZ5X3Z2cEZRcklRWDBjSHRhMS11SGJVdmpvblRRWE5zUmdLbXVoVjloQnpxWUNockRoR2JFUUxnalB1NkpjSV9Xb1hnM1k1Zmo0X1JZLWQ4eUtzZEdac29QN0MxQTdfVzJFVURrekx6YUc3Z3E2dExzaHRoX2hyeW9ZMTJkazlVdHpDdWZR?oc=5",
         "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2FtbTY5b1p6Y3V1dTdCZ3lLX3lQYjFab3czZlNadlY2Ym1NWkhERHdxdE12bDQzTm55Ym5fQkp1ZlpUd2tlbi1MRkFFRElGZzdld09qVDE1aHlMdlZLQmFnNllic3JyYXdWdVY2eGw1Vjc3Zjlza3MxMFJ0cjlrM3Vrd190RDliTlNWcVZkNEJKc1Y2Y1B2Nk9WWjVLQzdCY0tLdFZ3TlJWTlZpTlVmUHhfejlGU0Yw?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaE1YOWVwWk5GS2dscmluV1k4cnU1Z29RMHpMQ1Z4aGNEa0NlY1pTRDNGVXpHRnBGRG8zcDRmLWxXZk83cF9TVkIwUnYxQlRHci02b2F4eFFkS1BoenBXS3hDdmxVWmpyYnRrSXNsejVTSWJkbFpMNDlRdm5seS0wb01oVGU2NHpUbTM5czdTUFhMOHEyQXhwM25KSjFmd1ZLYm1TbXJpbm9mVWZwOWZEdHNUZkJCRWNZRXc?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGVTck1Tb2hQbTBLUURYV0pmeVhSdVJkSDF4amdFVkp6QXMxMmpWdnpOd01PcXh3UUllYk9NUU9vUmEtZE9OZ1Y0RzhGMmw0NlRhRl9fUmNqek5NaklmdUR0NHR1TmI4UkhiLVdORjJiREJnaDhQclgzNEJob0tqbHhieE11NkJiSkRCZWtuQzVIbEFaV1NZeEtIMHlwZ1Zxb0JuajN1LWxOemE3dTBmMUpSR2ZvYUZDUjZvdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQal9OQ3VnVHdEZ1FZWWNqYmRlV0NpVkhGdWwyME1yODJ5NU40ZDRPOGFLZ21fdlNtdExMSW43U0tIOXF4UUlCZG1rU0dVeWxYZ3Rucmx0NUU4VDZOeTZFWnI1OXVhVDZuSE5GZENrV3k4N2Z6V04xVzM0MWJyckVSQzljMEw1S0ZDNGVfbnVYcnFlZ1RBQndkN3RYU0ZmYjlpQ1pTRGhxZndwQ0ZoV2h2V0V2ZGFDd0ZjVkstTUltcnRIM28?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxONUZORGZFMzFlQjM5ZXFHclZXNWE5cnlCdUlQeWNLdl82aUVSei16a2tOVGlhSVhab0dVYmg1OVd0ZFZ3LUY2a0RSa195RVBLVzhjSkJRZzE4WlR0OEh5bXJvSkp6MlIyNTZfY2JvY0UyLWtFSUhnN1BNM2xyTXo5ZnFKNjltb0tGaXQ4akpWMGEtWUlqd256aFdDWmNXSDJra0RCbFhEQVVDZU9rZVE2VkFqTGtudw?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3hWYU1sY0dVSlAyOTByaDg4Y2ZTei1SVWhBeGprTFg5LTlIM0pCaUtrYUMyTmZiYkxjOVNqUGVvZlBUQVlIa3BNSmlDTVYtcmMwcmJjZTg0ejBCSURhRlg1UFo5ZkZLOXFuUzY4WHo3WDhYUk5NVENOUFFWS2pXel9FWTJsaFQ1QmxTUGFYTnY3cnljX0l1MlBvOUVyV2JxenRWZDVZTjhlX3g3RmgzVU1jXy1UbGtPdEN6UFhxMA?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXZYcEZ6Mko5Mmh4TFVFMThTU3FBRDBMdlpCS2ZjZndzTTcyZUJ5aFBUVFZadi1yT296TmQ4RURqSnBiLUxYbUZPMFFSZzl5Z29Pb0FlR3VzOXNiTndMZE9OY1ZZUGZlMjNaUjRKWThBazQ5MjNNZ0w0dnREanRhQkJDRHlHMGttSXk3NzhpLXdDUTR0eWxhX2VNRTM2WnBnVUx6RGgzNzZSaUJnMHd3X0NSdw?oc=5"
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEZNa2UwSDFWR3NVNEdyRGtpSWY4UVhsYW1jaXdBZUwya2ZFWTY0TC1HdnRmbjlidVZFQU1iVnUyOU1pZ1dqYlpWWUNnUjh5eV8zMklCUnk1OW8ySFl4Sm45dGxGd3U3U21RdUdJNHpwWTZOMWxSbEpvMURRaTRMMy1zY29YeGpmTzJvYjhqMEJMa2JGSXE3N1VGOF9tS0xsMnktcGNKbzBVODBCVktiX0RhQzZxYndzd2YxOA?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1BHc1BnNDlmdzRGc1lmXzVQYW1kQUdpX3MxMzNtYnl5Y2dBQWpJcVRNYVBod3hlallEa1g0YW8wRW9Sd2g1M1NpT2MwNGhZUVdSdlhHYW5sQ2psMGtfVmdOUVczYnh0eGxVOTJOV1ExN19nbl8xYW1jazY3dXRienRWSmJMdnQxa2xiUlZMV1pPNHpoOFltNUZ3SVZKZFI3dkpTeHZQRDM0Y0JDTVZ3ckM5d1lndWJPRV9N?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjR5dTVVUlNJR3Nia0Q1Vkg2andQYk9QVGxQSWsxaTlHeTUyVmxJaHVvaXgxR2sxOUJEMUkyZnBDODJfRUUtdEhNTFIwMXl1dlFuTXFyOUVHQlVCb0ZZYkpzZmdOdUpZSEZPVDJRdFFSam9oVGlMMzlPbEpYTjBzRklyOEpZUHpBUWUxOFJxRm1Oek43RWxycWw3S1ZuRDVLVzNqalN3V0xkUDFBTXlvSFNONHNBUTM5NjVWTFBB?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX05iREpocnMxSm90NGYxZzRLbTdSd0Z6WDhueXVpc0NWNWttZWlzcHBVSnNxaDJlQjNKTWxHcXBMV183ckNaTDFrdzI5TERPSm1YcGZreXB4MFhhakhVMnRJNlByZEF2NFJjV0VIR25HRzVCbHNmaEIzVTZOT2t4SWNReFJOd3gtVEx3Sk1yUEJTTXAxbHBnak93NnQxNDVxcUstVjBPY2E3QnRkWTNXRA?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGVTck1Tb2hQbTBLUURYV0pmeVhSdVJkSDF4amdFVkp6QXMxMmpWdnpOd01PcXh3UUllYk9NUU9vUmEtZE9OZ1Y0RzhGMmw0NlRhRl9fUmNqek5NaklmdUR0NHR1TmI4UkhiLVdORjJiREJnaDhQclgzNEJob0tqbHhieE11NkJiSkRCZWtuQzVIbEFaV1NZeEtIMHlwZ1Zxb0JuajN1LWxOemE3dTBmMUpSR2ZvYUZDUjZvdw?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "guampdn.com",
+        "Northwest Signal",
+        "Rockdale Citizen",
+        "Iosco County News Herald"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Bill to let unaffiliated voters participate in Pennsylvania primaries passes state House",
+        "Bill to let unaffiliated voters participate in Pennsylvania primaries passes state House",
+        "Bill to let unaffiliated voters participate in Pennsylvania primaries passes state House",
+        "Bill to let unaffiliated voters participate in Pennsylvania primaries passes state House"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNGc2OTRlZnhsSG1zSGdpQXZfV2JoX3REOEdpTC1wNGhLNHl0OVBVTlhvVWxWWm5VcmhuajhGMXkyMlFPRGNUc3BoOUVBNnFzTkFXNmRrY2ZYeVBsMVVkLVNBcXZleG9fSUlRNHhDcUdwOFphTUxhZHpXRWhHOWhVZ1QxT3ZQbkozbWpkLWtTVHZiQ0dmUl9NdEhaTzY3RFYxaml2dkN5cGNyd2h4eEoxb24tU085cDRMNHNDYTFDaUdkOVhpSU1KeERxYzBPTkxEdjE2V0xoT1dmY2NPVEZlVlY4b09YSi1pSkdNcUlDTmh1U1MyaGZiRF8zb3hMVnNmSmhMYkRkTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQzNObUJna2szVE9RMzV6ZEp3dDFxUFhtb1A4U3pOanJDX2t5TFRueFFXUGwxV00xRzJNNzdxN1Q5MzVSZGk5eXYxUGNCQ1FYN1B1NVE5bzhRTFNMVzFDeS1FbmhtR3NtZUQxTjZ4LURWOGs4SDE5MjY5SU1FZ19Qblkxam9IbGJwM0lrU21EN0wtdVN4N284SHFqMHI?oc=5",
+        "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQ0UwT2swcGtjUzhNWEdRWHoyclFxZWYyMV9LTWJPY19wSW9YR0l4LUs0VWZOSG9aZjlaTmUyNUliVWpQS3otMV9acEVldGNueFdCS0lDZ3cwNERzM3hsRTk2UjlZbDJ6Szg1YkdrQzVVeXJNc2gwVG43NFBfaGNsOUM1NXRtLVRuaVlvWkpqRDFYYkdoRUd0cHpHZVhlZEZ3eFh6UEp2M0RpM3Vvd0R3YmVtSUpLZ2VvZVh2Qk9fSDg0Q1NhM1VBeHpQSmlYVE80VElKSnJUSHh0R19yR0p0S1hjV3dUaHktdGlLTE5nWkpidFlZdU9OZWFVNmFMenFVdkZ2ZTNGSWtZZVNvTVJHZGNpUTZwaFk?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTzBPY1paWGhRSXBqWFNXbkhVc1VPY1hoVTN6RGhQcUZCTmRfVnFib3Nmc0V1blFJWjU2RWJfSW1jdzdzclhVakp1a21aTjhsblkzaktBZ1BGM0M1UTl5dkV4Yzg1a1lpSEFURjJyUjM5R0llT1B2ZENudzRNamdnTFNPYTlPMDRuYTJETXRVRU4?oc=5"
       ]
     }
   ]
