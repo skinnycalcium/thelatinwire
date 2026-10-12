@@ -1,61 +1,51 @@
 {
-  "at": 1791792162536,
+  "at": 1791827775943,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Arizona Daily Star",
-        "Lynchburg News and Advance",
-        "The Grand Island Independent",
-        "The Bristol Herald Courier",
-        "Daily Nonpareil",
-        "Opelika-Auburn News",
-        "Lake Geneva News"
+        "The News International",
+        "CNA",
+        "Inquirer.net",
+        "Telecompaper"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Can we still use pennies? Congress plots a penniless future",
-        "Can we still use pennies? Congress plots a penniless future",
-        "Can we still use pennies? Congress plots a penniless future",
-        "Can we still use pennies? Congress plots a penniless future",
-        "Can we still use pennies? Congress plots a penniless future",
-        "Can we still use pennies? Congress plots a penniless future",
-        "Can we still use pennies? Congress plots a penniless future"
+        "Philippine lower house approves bill restricting minors' social media access",
+        "Philippine lower house approves bill restricting minors' social media access",
+        "House passes bill restricting minors’ social media use",
+        "Mexico lower house approves copyright bill targeting ISPs"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeDY4VnM2Skt4RHl2dndfVWI4TXNaUkV2cEd4R0toRGZvZGJCbFZ5X3Z2cEZRcklRWDBjSHRhMS11SGJVdmpvblRRWE5zUmdLbXVoVjloQnpxWUNockRoR2JFUUxnalB1NkpjSV9Xb1hnM1k1Zmo0X1JZLWQ4eUtzZEdac29QN0MxQTdfVzJFVURrekx6YUc3Z3E2dExzaHRoX2hyeW9ZMTJkazlVdHpDdWZR?oc=5",
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2FtbTY5b1p6Y3V1dTdCZ3lLX3lQYjFab3czZlNadlY2Ym1NWkhERHdxdE12bDQzTm55Ym5fQkp1ZlpUd2tlbi1MRkFFRElGZzdld09qVDE1aHlMdlZLQmFnNllic3JyYXdWdVY2eGw1Vjc3Zjlza3MxMFJ0cjlrM3Vrd190RDliTlNWcVZkNEJKc1Y2Y1B2Nk9WWjVLQzdCY0tLdFZ3TlJWTlZpTlVmUHhfejlGU0Yw?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEZNa2UwSDFWR3NVNEdyRGtpSWY4UVhsYW1jaXdBZUwya2ZFWTY0TC1HdnRmbjlidVZFQU1iVnUyOU1pZ1dqYlpWWUNnUjh5eV8zMklCUnk1OW8ySFl4Sm45dGxGd3U3U21RdUdJNHpwWTZOMWxSbEpvMURRaTRMMy1zY29YeGpmTzJvYjhqMEJMa2JGSXE3N1VGOF9tS0xsMnktcGNKbzBVODBCVktiX0RhQzZxYndzd2YxOA?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1BHc1BnNDlmdzRGc1lmXzVQYW1kQUdpX3MxMzNtYnl5Y2dBQWpJcVRNYVBod3hlallEa1g0YW8wRW9Sd2g1M1NpT2MwNGhZUVdSdlhHYW5sQ2psMGtfVmdOUVczYnh0eGxVOTJOV1ExN19nbl8xYW1jazY3dXRienRWSmJMdnQxa2xiUlZMV1pPNHpoOFltNUZ3SVZKZFI3dkpTeHZQRDM0Y0JDTVZ3ckM5d1lndWJPRV9N?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjR5dTVVUlNJR3Nia0Q1Vkg2andQYk9QVGxQSWsxaTlHeTUyVmxJaHVvaXgxR2sxOUJEMUkyZnBDODJfRUUtdEhNTFIwMXl1dlFuTXFyOUVHQlVCb0ZZYkpzZmdOdUpZSEZPVDJRdFFSam9oVGlMMzlPbEpYTjBzRklyOEpZUHpBUWUxOFJxRm1Oek43RWxycWw3S1ZuRDVLVzNqalN3V0xkUDFBTXlvSFNONHNBUTM5NjVWTFBB?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX05iREpocnMxSm90NGYxZzRLbTdSd0Z6WDhueXVpc0NWNWttZWlzcHBVSnNxaDJlQjNKTWxHcXBMV183ckNaTDFrdzI5TERPSm1YcGZreXB4MFhhakhVMnRJNlByZEF2NFJjV0VIR25HRzVCbHNmaEIzVTZOT2t4SWNReFJOd3gtVEx3Sk1yUEJTTXAxbHBnak93NnQxNDVxcUstVjBPY2E3QnRkWTNXRA?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGVTck1Tb2hQbTBLUURYV0pmeVhSdVJkSDF4amdFVkp6QXMxMmpWdnpOd01PcXh3UUllYk9NUU9vUmEtZE9OZ1Y0RzhGMmw0NlRhRl9fUmNqek5NaklmdUR0NHR1TmI4UkhiLVdORjJiREJnaDhQclgzNEJob0tqbHhieE11NkJiSkRCZWtuQzVIbEFaV1NZeEtIMHlwZ1Zxb0JuajN1LWxOemE3dTBmMUpSR2ZvYUZDUjZvdw?oc=5"
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT1U3YXFvTVdobFdlUGU2dVhQb0VCMHQwNkkwdVNvNEFraDJpSEF5UDA3b0NWQ0xUSlF3YjB0UmpCa0FmYWFoV1l4aFVUVDhDNHVDWVd6dGIweW93M1BzMUFjN1ZlbFU0clIycWV4VUVhd19kaDR4Y254YWJJSklxSE1tY0Y3TUdyVXpIYXBQZ0JGRXM5cHlNZUtvQ1ZhdzlaVTZYMjZBdThTbHlHLU1scmg2UXc2djRF?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQb2xacEhESk1wVXM5MnJ1cVc1OFlRUGc4T0J6Z29YNDNSYUVYVmZfbnozbHFxcC11VG8yOVlUMGlUWlNjTzFuelFiZFdObVEzcUdYZFlRX3Q1VC1zZ1Q1STltYVNKNHc4Q21UVFdQU0l5OTlVMzdhMVVQaWhSY3FfV1o1MS1vX3daaWFKWEptNlpoaGtaVU1ya3hoNFNIZw?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS0FMMzAxcEZpVGFmNE4xVEZrbXk0ZEkwYmpPSEdhcVlIOTZQTi1FRjhJcEJjQU5hWTlmUW0wT1pfY19YdkNCZWtaTXRkVExBMEF4dEYzdmoxM0NmX1BPaW1oWWNQbF9OTzYzZlhDNl84cW9ISDNQSnZPN0wwamFNUFdsR1JVVHhsazlqOGxpZkVlX3g1QWfSAZsBQVVfeXFMUDI3ZmR0TlJzZVZhMG5LWmpYNEpRcTRaZ1FuU2ZZZVp3R3JlS0l1QXVoWXZOakRncWVBcGtaMUc3SzVrYmhIajFiOWJlYTdHSFJyOTlCQkRIU3ZXcWlVbDV1d0p3QXhlTFRFTUJnWWhIMG5zRzRqTE1nbnU2Y2RNa2xZclJHdUFEc2RoNk5OQ2dxUjc3MHZ4SzA4OEU?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdmVsWFZPR1dBVF9waElSSi0wN19qdkJIdFQ4dTBIVXAtQjBIRnNxSFBmeTgya3BWd3NiYUdBYWkyVnZ2Zjg3X3pVUVFEdV9nUGdCa0x1QTN3dGpVcm9SeXBaU2VXcDlBbjl2ckJvQVpFYVRoOXFkR0tTanNwdFFoVGI4VFhCTmhBaTZkZ2Q3UUJwYUJwZ25OSDZiRE5kSVY5eGc?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "guampdn.com",
-        "Northwest Signal",
-        "Rockdale Citizen",
-        "Iosco County News Herald"
+        "Facebook",
+        "Inquirer.net",
+        "CGTN"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Bill to let unaffiliated voters participate in Pennsylvania primaries passes state House",
-        "Bill to let unaffiliated voters participate in Pennsylvania primaries passes state House",
-        "Bill to let unaffiliated voters participate in Pennsylvania primaries passes state House",
-        "Bill to let unaffiliated voters participate in Pennsylvania primaries passes state House"
+        "The House of Representatives on Monday approved, on the third and final reading, the proposed P7.2 trillion national budget for fiscal year 2027 under House Bill No. 10858. Read more: https://www.gmanetwork.com/news/topstories/nation/1005658/house-ap",
+        "House approves P7.2-trillion 2027 budget bill on final reading",
+        "Philippine media: The House of Representatives has passed on third and final reading House Bill No. 10858, or the proposed P7.2-trillion General Appropriations Bill for Fiscal Year 2027",
+        "BREAKING: The House of Representatives has passed on third and final reading House Bill No. 10858, or the proposed P7.2-trillion General Appropriations Bill for Fiscal Year 2027. Visit gmanetwork.com/news for more updates."
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNGc2OTRlZnhsSG1zSGdpQXZfV2JoX3REOEdpTC1wNGhLNHl0OVBVTlhvVWxWWm5VcmhuajhGMXkyMlFPRGNUc3BoOUVBNnFzTkFXNmRrY2ZYeVBsMVVkLVNBcXZleG9fSUlRNHhDcUdwOFphTUxhZHpXRWhHOWhVZ1QxT3ZQbkozbWpkLWtTVHZiQ0dmUl9NdEhaTzY3RFYxaml2dkN5cGNyd2h4eEoxb24tU085cDRMNHNDYTFDaUdkOVhpSU1KeERxYzBPTkxEdjE2V0xoT1dmY2NPVEZlVlY4b09YSi1pSkdNcUlDTmh1U1MyaGZiRF8zb3hMVnNmSmhMYkRkTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQzNObUJna2szVE9RMzV6ZEp3dDFxUFhtb1A4U3pOanJDX2t5TFRueFFXUGwxV00xRzJNNzdxN1Q5MzVSZGk5eXYxUGNCQ1FYN1B1NVE5bzhRTFNMVzFDeS1FbmhtR3NtZUQxTjZ4LURWOGs4SDE5MjY5SU1FZ19Qblkxam9IbGJwM0lrU21EN0wtdVN4N284SHFqMHI?oc=5",
-        "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQ0UwT2swcGtjUzhNWEdRWHoyclFxZWYyMV9LTWJPY19wSW9YR0l4LUs0VWZOSG9aZjlaTmUyNUliVWpQS3otMV9acEVldGNueFdCS0lDZ3cwNERzM3hsRTk2UjlZbDJ6Szg1YkdrQzVVeXJNc2gwVG43NFBfaGNsOUM1NXRtLVRuaVlvWkpqRDFYYkdoRUd0cHpHZVhlZEZ3eFh6UEp2M0RpM3Vvd0R3YmVtSUpLZ2VvZVh2Qk9fSDg0Q1NhM1VBeHpQSmlYVE80VElKSnJUSHh0R19yR0p0S1hjV3dUaHktdGlLTE5nWkpidFlZdU9OZWFVNmFMenFVdkZ2ZTNGSWtZZVNvTVJHZGNpUTZwaFk?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTzBPY1paWGhRSXBqWFNXbkhVc1VPY1hoVTN6RGhQcUZCTmRfVnFib3Nmc0V1blFJWjU2RWJfSW1jdzdzclhVakp1a21aTjhsblkzaktBZ1BGM0M1UTl5dkV4Yzg1a1lpSEFURjJyUjM5R0llT1B2ZENudzRNamdnTFNPYTlPMDRuYTJETXRVRU4?oc=5"
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWlLT0E4emQ3NERvUGJqVnNwUm9GZzNwbW5HYmxrZk9sc1loeW01YTlldktiQ1FOSW53S0kzT1g5QklESmRTaWFUNUNRZ2RDaWxXNkhfQlRlQ2VVVVY0UXJRNURkcWw5VloyQjNVbVJ2OWJweTJBSF9DemJYRUtFUld3dHRvMndiWldRLXhEdjBwQkpYTzNQSG5saGpma194U1UxTEF4NVlJMWJuSE9wOENnX3gxWTdYZlNLWFRFdmdmY3c2NHo4U3FYcG1YRnQtamlz?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR2R4MVI5eTZXcDh0cDJsSjNGQW9mN3F3YU1uYkdvZTZybjl6V2ZKYXEtUkgyS1RDZFd6RVFxZ2pQOS04STVBR3Q3djU1ZXNwemZKd1cwUm5GakhJd0E0cHVqT0FwQUFxem4zcjBLMzRsRE9Fd3FtQ200Z2E5OWRZRl94bVExRFh0bzlr0gGQAUFVX3lxTE1hXzg5c0RvXzJNUURFZU4zajc5cy1BWFlWUmszTzJDbzc5QTdXaFNQLWlNRjV2VXRDajdELVBZRk44WHBBQmdNNGM0SGpURFRreC1xRkVla3pmbzEwRVVNaGhaT29QVVg3YVlBU0d1SFJIbUVlT0ZOYzRHQm1mb2ZhWVBKdl9uMTBwTzQ1VWNXMA?oc=5",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE05eGNSZzA2SzlMVU1lUVBCOEtJSUlQa0Uxc1JLU1JfcU90MGM1dFBRMm1OWWNFcW4waTY1X1B4dDBCYjVxMmx4bUNTdkttLXloTEtZTXcxMkEwbmNySm05dUtIVUxxTnZtWFMtdU9B?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQXhGbldQVFVta0xDSzZVTXdjZkQyUmhlSFRzemtKM1pZWjA0S0l1d182b1R0V0h5RWlPSF9kWDZ4UHY4QXdybE1Eb2k2cDZkR182V1F2b2pFMjlPNmFuWF9TRkJMaXZzVHlCaWcyUWJ2Z3JaWlZlX0N6SGlaWHBjSlpDcHhhNnNlanpfaUFEQ3BDblRzb3B3dl9abjBnYktmbXE3dTdkRlkyQWJ0bnpsLTJPZFNjVkhFV1ozNmpZcnJETzhPazZILWZocDVDLU1YU3BB?oc=5"
       ]
     }
   ]
