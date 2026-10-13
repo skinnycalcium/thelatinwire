@@ -1,4 +1,26 @@
 {
-  "at": 1791874764074,
-  "held": []
+  "at": 1791903428544,
+  "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "Yahoo Finance",
+        "Financial Times",
+        "CoinDesk"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
+        "UK chances of keeping £3.8bn bitcoin haul rise after High Court ruling",
+        "UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOVZUdzVWT0dXd2NEd3Z6ZV94R3FfRlhxTXJyd2xIS01QZzdBV3JveWZVbk50OG5sV2tKRFlYWTh1QUxQaGlpQUpvN1ZkWkUyM1JMZ3RsUk5PQ3FqS3hOYW5ydVRNcVp4Rk03M3hycGMtUjAtUUR0d0d6ZVh6MnZLQnRUYlZYbFpuUTNCeGNKWnhhOEZlX3c?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX1RTY3JHZU9NMmVUelJYMVR4Z1Z5cFRONnNneVEtQjdGS3A1YXF1cnFlQlZ0bzdtRTl2QVN3aXphMXV6UDYtWF9Pdmh2VmY4VXgtMlh3WkNtcHZEblVyejdPRXVKN3d1WGdmR29jQWlMeFhZc3lmR3VVZG84TVpEdHR0WE8?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdS1raWY1NDRPd2xiYzhjWm10NEtfU2NCVmU2V1BLNUdvc0czcktHSEVVcDd2SklTeEt5UHBuQVVfZ05FN1hwbGpyVEh3TnItMmppdzN3WGd4UTdIODR6d3JRMkt3TTM5dURpaUhVaWFyX2hwRjNKMWZyMDJYbWNCOFhsUEt6eGlfa3JEdWlBMHFyeFQzb3lybWRRTmF6TjBJRVRRN1hQMUhYdUU1c3FSTFpvbU1jb1kydW1fNlFVVFZkZFQ3OWtZ?oc=5"
+      ]
+    }
+  ]
 }
