@@ -1,13 +1,42 @@
 {
-  "at": 1792076711567,
+  "at": 1792091346923,
   "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "Ohio Capital Journal",
+        "WKRC",
+        "The Columbus Dispatch",
+        "WDTN.com",
+        "Springfield News-Sun",
+        "Toledo Blade"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Ohio appeals court rules state’s private school voucher system unconstitutional",
+        "Court rules Ohio's school voucher program violates state's constitution",
+        "Ohio appeals court says private school vouchers are unconstitutional",
+        "Ohio appeals court rules state’s EdChoice school voucher program unconstitutional",
+        "Ohio appeals court rules school voucher system unconstitutional",
+        "Ohio school voucher program unconstitutional, state appeals court rules"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTldwM05QX1phLXdzOWdBbjRYVTdjQ2drRVdkWnc1cE1kMFBGbTBsbXFQZ1Y3QkJoWHdaUTU1c0N0ekVIRVIzeXF6dFJUSUJHRU52R0JLSXkzT3VENGJSZGRrdUZ5VjJvX0NRUkpRRUM3RUI2dmc3bWR6eUVmQWtJbWdqdHZJNVg5Si1IczNHZEJGT1M3T1ZfdnVLTGhkelhkZWUwM2JJSnpVc0ZYcjNOanJKcUd4eWFiQ0t1YVpB?oc=5",
+        "https://news.google.com/rss/articles/CBMioAJBVV95cUxOYzdCalQyWk9YTG50ZzZNbnNTcDAxTnFySUo1azJLbFNPVVo2ZzdfazNqQVlmQmN0RnB3bEJIXzctWkRmdmIyV1FCT2kyUUVwSWZHVGdBLWpyWmlTeXI5MHk0XzdpR01Hb1lxZmVEV0hyY3RhTDRMaUFzYTI5R2VIN1M5U0JySDlyV1prRWg2dWdqWG5XM3MzVEFDM0l3WDAyckRyb0U1UGZLYnNSVkdqOXJhZlZtb09TNGpTV1pkNk9lYUdTU0xFN29ZT2w1Z3ZncGVSVFhSa0FhU3VnY3Z3R3J5cHpUTmFwLTQyQ1VrYXl5Q1RKc3dWZHN3dXMzVXhPbTJXLU16QlFwYWkwcEFSZjVxdWNqSFR3VHZTYVMya00?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONkNnTmNwUEdhWE9YQnJjSDFaM3ktNVlZVFRGRnFUOWlieU1qeWZIOTE3WjhzOTlJVXA0b2ctVVlhaV9UVlJSNXh5OVhMR3lfbkF1TV9jUU83UHFJYm5QRHRVS3ZIVFRNMFV3czJya3Vtc09NYnV0ZFMtSktjWTR0SXFGZ1BBbjdvRWtmbDcxOWpYSkNva2ROMmducWN4eUJ5eGFzMUtPSk1qV0pLazdib2RfTHV2LWNTLVRtRF9mMVBwWmdfb2tZM2lwVDhjU2VJeTRsWFJ3?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2pJMlp1OGFWRDZRTVN1djNQNldCc0lGUHBCNHpfUXAyVmFwSl80QVhseHp6ekNQNjBvZlZSMnJZRjEwVHlXbnVZNGNLSUdoTjhmYVh1ZGVaaHJCZU1OYkFjUTB3YXJTbXVTeEcyNlVpUm5BXzJUcXlSUXdTNGlPLVRrWHZaQXVHaEhNTFNlM1FySU9ZWHZZQ3ZLTVBuOGh2NHJVZV92ZXAzNG_SAbcBQVVfeXFMUGRXZXQ2TGQyUmRBV2ZMWXc4dHpDMEtlTjlidEp5eWo0VnNDQWJ5aG5CZEJpNDk4ZGZ3aXFOWm9Sb3pPYUhOZEtUYWFFTllIc09YM0t5bWZkQjk5czFQWF9OS2gtdThTaVdNM01pdFlNQ2xmbFg2MldYS1BlcUxmeTBGTmliSF9HMDFhd0RCZk9oaXdHR2k2RWFob3J2UFFjRTVISXJHVS1FdWNZeTNqdkpZV3ZoeGhB?oc=5",
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbUVlRnRxMFM3N1hpUjJsZ0lXeEZoOThEemU1TWNyUi16ejl2SHpvdVM5bldNN1MteV9uY3FmQUt6RTR4SVZUZEloSTlyU2VZOWRES3RSTHVhdENxa0szcDRkNDNPUGhid1Atd0M4NHNwd0RlenZPam5sal9CUkNOT2VWeUczNE90LXZrdWp6S1VkSmpNbDhWeTF6V19EN2JET3JBaEpVbXRQQmRyR01JSEgzVTh5LUJxbmxHbzNub2swX0FNaVkzbzh4U2Jkd3NXbTIwcC1FYWR1WWJMXy14d1U2UmF1TnJqUWc?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbEx5Q1BFTy16Y2VGTDhNYXFUMHV1cEZ4MmpmU2dBYUg5OXI3QjlleFhqRFJLYUR5ckk2bnFyMHdKNXdjZjFMRzdvTE52RDAwemdSSl9OOUtSNXlSbm83MmxubGlmdnlvenVMUVZhbW82THlhM3VvLXBNXzEzU3VCZnZBN25CRUxNcmx2aDBXMGJ3QVFpVG1HdHd1eEdhZFRaamRyTFRKUS1SSy1XVFJzLXpzdldWeUxrZ2FtdElPNmw5MFFRb0hzc19fQlZsMENObjRGZUNFQ2FZeURz?oc=5"
+      ]
+    },
     {
       "section": "politics",
       "outlets": [
         "Carolina Journal",
         "Newsweek",
-        "Insideradio.com",
-        "SCOTUSblog"
+        "Insideradio.com"
       ],
       "lines": [
         "center"
@@ -15,14 +44,12 @@
       "titles": [
         "Supreme Court extends stay of 4th Circuit’s ruling in election ad rate dispute",
         "Trump administration wins 7-2 Supreme Court ruling in political ad dispute",
-        "Supreme Court Keeps Political Ad Rate Rules Intact Ahead Of Election.",
-        "Justices grant Trump administration’s request to pause lower court ruling in political ad rate dispute"
+        "Supreme Court Keeps Political Ad Rate Rules Intact Ahead Of Election."
       ],
       "links": [
         "https://news.google.com/rss/articles/CBMirwFBVV95cUxONG9TeXhnNWVDUFJQc0RNMnhWLUp2U2Vub3NJOWR2TlNNUjlNSWd2c04tUkJtSVdydmZLQUEyUFBGZHpXMmZFV0ZvVmd4UTBmd2V2YmhyczNZSS1qb2k4VzFtOVRkZGZZVVBaMjBsbU4yVnh0bGN1SE9rRDdPVzB3QWRHanJFTjh1NXNDOHg4a1VCanVIUUVRUV9uRWlVakdmd3l1X2xEaUc5U0tkRDdz?oc=5",
         "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkFtellLVEVNbThLbjI5eVJnYkt2aFBYSGI1QUQ3aXQybXdYUHYzaV9KeXBlS2diVmhVVUhNOVJ6TnB2SWpYZ0dBT2lmeGdrbEV6UUZFaHF3U080TWZwVERlYU8tSEMtUlJjNHJZQUR4YWM5WDlFZ2FpOHNBLU5OMkY0Sk5oYXpQTUNCNGZjMl9rcmZBRXlKQmNn?oc=5",
-        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNDRwVWpSSUVBUHM2SGpucW5JYWQ3RFFhWUlMMzZCckh2R25vOF9uX1ZNdzVNSW9QaEcwclNHcHlRN1p5Y0ZMdnRkV01xLVJramRYR19HN2Y1TjFBNWZfQWRBbFVnUXZNVFprZXkySFZNNE1GMnhfNDFfeEpMLUdyRTByWlRTMjRKWmhJMkRmRkR5MTgxVUxlQWtvVGE3QjN6OG9KMW12cEpYajNGUVh1ZnlHZUFzMXZuejAtUWMwZXhlX0I1NkE0bFJDTkVUMXl3MWdJNXdxXzFCNWxuRVZydlFQbHJWQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT0wzUFliU0Y0aVpHNHRYVjdya2NmaUFjR1RMcUY0TG5nY1hPdkFobW5obmJFc0w1eGNVeDl1VmRYUE15SzdrWS1wUFZzR0pzX0hOeHZla0NuYU5GZU91VVFYdllhb3JPUldvM1pPeUNmcDJPSU5ianlNZS04MG1xSHVJMDJjclg2SGJGdzFWbE9WdGQyNmtKU2lPTVhvNmxwVTFXRGY2dnhtOHFKc2hfMHRDVEJTejljOGNuei1sMHNaSG9XUlJFVWlFNEQ?oc=5"
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNDRwVWpSSUVBUHM2SGpucW5JYWQ3RFFhWUlMMzZCckh2R25vOF9uX1ZNdzVNSW9QaEcwclNHcHlRN1p5Y0ZMdnRkV01xLVJramRYR19HN2Y1TjFBNWZfQWRBbFVnUXZNVFprZXkySFZNNE1GMnhfNDFfeEpMLUdyRTByWlRTMjRKWmhJMkRmRkR5MTgxVUxlQWtvVGE3QjN6OG9KMW12cEpYajNGUVh1ZnlHZUFzMXZuejAtUWMwZXhlX0I1NkE0bFJDTkVUMXl3MWdJNXdxXzFCNWxuRVZydlFQbHJWQQ?oc=5"
       ]
     }
   ]
