@@ -1,31 +1,76 @@
 {
-  "at": 1792161466892,
+  "at": 1792175045378,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "WCPO 9 Cincinnati",
-        "Cleveland.com",
-        "Signal Akron",
-        "WKEF",
-        "WTOL"
+        "CTV News",
+        "Lethbridge News Now",
+        "Toronto Star",
+        "The Spec",
+        "CityNews Toronto"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Ohio appeals court rules EdChoice voucher program violates state constitution, refocusing school funding fight",
-        "Ohio appeals court rules most school vouchers unconstitutional: Capitol Letter",
-        "Ohio appeals court rules EdChoice unconstitutional. Akron students keep vouchers for now",
-        "Ohio appeals court rules EdChoice voucher unconstitutional, raising funding questions",
-        "Ohio appeals court rules EdChoice unconstitutional, TPS cites funding impact"
+        "Supreme Court decision says sexual history relevant in some cases",
+        "Supreme Court decision says sexual history relevant in some cases",
+        "Supreme Court decision says sexual history relevant in some cases",
+        "Supreme Court decision says sexual history relevant in some cases",
+        "Supreme Court decision says sexual history relevant in some cases"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdU9qVEg5WVZBMDNpLWU5a2QwN0w4RklWLUhiMGlvclc4bml6X05kVkFGSUp4OGNFRmRxQVZTSVJsdnpXSTlMWS1FLWxLM2FRaHYwTGg2TDJ0Y3FNM0FuUmd0Szk3cENidEpGSjF1X1BobnI0dTJNcVFqVFdxTnR5ZUpxYmM5N1BMaFd2QnhMQmhjUjdNM1c4cjdwdG5ma29JdndhMjBNdmctZURrSzJaZTJma3BQOXl0UmdUX2tPRVgzVFNRc1c5OXIzMi1JN2RRYWVycU9MMmNIY0Z1b05F?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVTQ3a3c1cFJJQlJrNVZwbmtyTE1UYWRTOGloT001WmtiNlVraTBzV3dON0pEMFd3NWhiUFQ2MkVubG9xOVk3aERQcTRNWC12Wkt6aVI1UG9NeHRYY0hITzI2bjlka1pUR1lsdGhiS05haWhCZGJiaFFvdllhTVBJMzE4UU5zN1FFa1lDSmNvR3ZjazlNNnkzNWZvUHFKUG0yY0VmQ2I4OXVOZVhHT3ZrU1J6cUtNSm9WWnl4RGVn?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcFBZdVRVRXhqamM1UUlTLVY2VnpvcDVvYXU1bTlOSU9IZFpoWVl1VkJjeGMxYlBvek5mOUdjejBuU3pWZUFfMWZYaFV3bWZPTndZZjR0SHdQZWpieFdsSEk0Um04RG5oR2UwNFJfZmFWZURISzlaVk1VZXVKNUM2ZVIwaFV6dVh6RXJmMmNHTkJzQXBGSHk3UDhiZ1Y?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZHBmbWkxT29faWQ1b3BPaGpMT3djSHl4Y2dYYzZSeXZwakJnZFBYa3pqWnc2UF9seDlTQWpHYzhOTVZUaG05SEdieVdaRzcwTEJ5SzN3TGw3ZWE1U0hGd3hzbEhwcS0zTmc5bmdQVHdnRlp5cnlkLVlUREdUcFFVaDdZOWpObG1sdzhRMHh3aFhDR2tZWEdicndOb3lSTzlvWkFKa2tyd3FCNWdvUjB5OVZPVzdOYkwtLW1lbA?oc=5",
-        "https://news.google.com/rss/articles/CBMijwJBVV95cUxPN1JGeVo3VTczbGZlUXVzVDA0SVZZbFlVaENFZUhmLXRuS3kteGhvRV9VOGREWWVVNnU1VkVZenZPRC11ZjMzckZ5S1lNUUNaNXNwWEZOOHpMckZXcV9BejNDaldaM3FtSXkxdzYza1ZBLXg3cVd3VDRTMkVTcmJvVldtT2NsYmhnRk5Dd2ZEQW9OWmtIYVh2T1plMi1UM2k2eXRUcE1ieDZFSFNzaVZzWTlmek9PeFBhT2hjbkZoMVI0dngwaVZQdU1aTzBCNTlmSm9lSE5uUl94RkRRdHNsOEZpTkQtcE45Q1M5Z2xvVzh1eGFyMmdMSmhWcUlwRHVGbTVqRWlIelE4cnRuTVBN?oc=5"
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEpOQnprbG1pcF9wcURxajVyekE2dkNKZGl2dXpYMTY1cG4yZXRXdkdicVdDcXZUYW9QTE9uUTM1V1h4LWpiMEpzam1CbHRjWjRNWF9udDk5Y19tMV8xbkxMbEVUSHhKOWJwdWxLLWRrVm91ZUp5a3VSNFhEVkptUGJrc19KS19feEotWFJrVExNVWJBR2ItWVM4NFF4WllnQzdvanQzWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDVhRXdQRGhWV2RhUEV3V2dHdjcyRmpFY3ZLenBmRlRfNzRpS0R3Ty0xcWpDd0QxNWRrQjlYeXItWlVfcHotaE5XbUZKS2w3MFJDQTRKQUdCUVA4TjExaGdrMlRMY3I0ampGUFg2ZkdfS3FFTTBsQzkyVjkzd3QyZ05VbVBnVFNqT1MwLWVHcEI4Q0xTNGZ3QVdoQjdGTkxXRmNTRG52MXhZTFk?oc=5",
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTmFtM2pMa2FyUEczbTVwbnRjUnMyT2M5MlEyOXRuWDJGbzJ6RVQyel9NZ1lscGdvR3dOaDQ0YXE5YmNoeEZkUzJPT0VNM21uT05nZjJhVXZidFNsZWptNm9JMWVod083WTUtY3hSTDJFdEZELWtoaVZlcUdacE0yT2ZkUEI5bXR1cDZNZWJtX3RqVHhKX0FyS0E4WUJYd3hMdmpPR0dpNmwyaG5ZUHVJbHhRbUlsbHRwYmgyLXlfYkNVdFNuVTJ6YUN2SzNIbnJmWktETERPUUNIZDRxZ1I5Y3pXZHhzUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYlZaemtONWNFd1NTcDJCZmRERThqNW9QVkxnOTdHQlR1QVZxWDVfWElsQjRfYmJrTlFsWUhIYWlESGVxVTZDVDZjbFVBYVpRLU51US1sWHRyQTRjUWYwd0N3aE1CbXk3d2tYU0N3S2pfaUp0bHdDYTBBT1ZfSFJfSktxV1BwWUY3b2xiRnhnY0NGSEx1SkV6T3pFMkpqV2JzNlR3MkFvVEpmNmhxMHJxSW5pV0t4aDhiRFpOZkNPcGl5U09BZXRaY1kwMVE5cG1pNHJEaV9CT0VzcDNvZVZNZXZCWFdXUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbFdQZUNNVElUaG1zYlNpS0RNYmNubHFvSkVoOXhoazQzd0lmUldyVG1oUWt6N1ItVWdGZVFsZ0lfVzdVS0N2Ukk2dzhpNXFya3o1eVkxVGdyemhlRzVMQTNYU3JLUkZUVkw3clc4bm1sbldSX3JkUTFhWjRxb0M1RXA3dGthc0VmUnN2RlVhTndGdWdxLV9sNFNReFRWN0FrVFhPT2NtZ28?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Universidad de Chile",
+        "Diario El Mundo",
+        "Demócrata",
+        "Europa Press"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "EEUU destaca cifras récord de deportaciones diarias a manos del ICE",
+        "ICE registra récord de deportaciones diarias en Estados Unidos",
+        "EEUU presume niveles récord de deportaciones diarias ejecutadas por el ICE",
+        "EEUU destaca cifras récord de deportaciones diarias a manos del ICE"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRkVEZUw2RldqX25TMkdXaGxkamJ5LTA3Ykt4M01UNFVPSmtUUXZqMlVSY3VVNTc0T3p2aWl1N2R0elNOckxjWmpQNDRsdHNDb2pOUVZWMF9TeVdBVXM0N3d4SDd2cDVnMXpldzlab2cteWFLOEVPMlY1d1Y5Q01aQm0xZmppalNSZ25DZDViT3JLWVlPN01lbUl0Y0lSODVrSVZjTkdB?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxPQXEtbUdBelRlU3NYR0ljT05FTU9RUmJONmlJWTY5TlFycFlDZDdvTjlhdThFZTVnZl9Hc2Z0Z2psY0JFUkRuOGZCakk4R3VEVHRnUWVaMk9NX3pXcHZSQkZWOUZuQmszZVQtNFBKUHpZRkd2M0RPV3RlaXgxLVd6N29zcERLMkZ3MDNVa0VTUng5Rm56NVNmX3Fad3ZvUdIBqAFBVV95cUxPOE5Tb3l1QjNRQlNhd1UyUUlReWJlblN5cktGMmJuaDljZHhidDBVUk5kNnVFV1ZPeDV1ZnFZb3JKbE45WkV4NkQ5dTRGelJDVC1WZWRMNElINW43cVJSS0k0bUJNQVk1TXJsb1N4RENfNnNaZnpVVmk1N2R4T1VBVDgtS2FuYmRrRERycnZQZEhvcTJUdjhOdjBCdE1QQnBrdkYzVGVNWUY?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSXhtWFVqZlBNSkpvMWJvZkhMdkFRTzVjbmZMMGtVdjk5UG1ZSUN1S2RmS01iajc1UDM4em5vOHJTMlcyR0VVbGNvMzVyUWplblVldGJ5VUNTOEMxTU5kX2JPczZJY3VfcVVHZFJUaHkxYkJLVk1yYmZuUVJ6amlmRnMzdlFfd0RCZ1BQM3FKX0ZqcGk4ZFFESEhYbFVINGFzbjM2M3haV2xjMmprUW5wQjVBdHLSAboBQVVfeXFMTkg1T2JMa2x0Qm42S3FNaDdDaWY1OTlheE9FSVFibXduUklKUUI5UXh2bXpSYUJQQmdHLWRPSWJlT0U1NllLUEZkbGwyZVVVNXdEMGZZblBaa01QWW1qU0ozNzhVMDdzY1BhN0dPNWdIUkVWTzFDSUNwOGUtRzJYM1VJaGE0WTJEb0twRnFBX3hVMk95empmTFdJRFFBdnhtTXVra3R2NDFDZnZkRTR0cFpzWEtSYV9mMzJB?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzIzcV81YXN4MlF6UmtMcTFkVGhyLVB6TklUeVF2S1J4aHAwQXJUdG5yRTdIbzlRUkp4RXFMYUZJZjhXM0s0aXN3cHZMOVFJbWZ6dGxOWl9EZTVqeFMzMms1WU9qV0stTEVwME5RNlRVbGVkSjk4SUhEVll2Y3pTU3E2dXlNUlZpVmktbWtjZkhjVi1hc1Q5bEdLclRYV29rNHVKNDVQUlo4M3drUkdDSVp5cnNiN1hmQklKczE1bG5vQzVlZ3c?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Quién",
+        "Zona Franca",
+        "Reto Diario"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Eugenio Derbez participa en acto político en Estados Unidos: Los latinos 'están siendo atacados e intimidados'",
+        "Eugenio Derbez dice que los latinos “están siendo atacados e intimidados” en Estados Unidos",
+        "Eugenio Derbez denuncia intimidación contra latinos en Estados Unidos y llama a defender el voto"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ0tOcUhfZDFJbXU5bEEyLWhTX3RYQ3p0MGtwWGl0cWl5T1lWdlVuVTRwX3h6NHo2UjZ0Q0hNOVU1WXh2WU1VRndzSkVtUjVpZzd0d2tpdkdFWGZKTDM5ZGZfMFZoWklzTVQtUFNLUnFXNkZLNEp4TUs4YXNoNjd3dTJVNmRURHN4Rl9iZmU2NDI4ZmN3cnd2aHJZV1JJR1dIZVVsYWVORXBPdXk5RWFVSXhWc0lhSVlZZTY3Snh5blpYZE5IYXBZUVlZNDhlbGZPNEg2WHMxbWZtOGFHQm12d21sVkZzaXpS0gH2AUFVX3lxTE9tdHdCcl9yOUI1Vm9uZXkxNTQ3MUViNXFkcUR1dzRBTHBPSkNzR0hpNUw0QmpSdnI4R0Fsc3VwNEdEbWlFanVBWmJjZWJqOW9iNnpKZWh0RGxUdVJicThpMXNtTjVvWTVYMlBNQTc2c0Ywb3RDbHNkako1WmRTb0oxR1RPd0ZKZ0J1ZFZadmZWOFZkc3JLVTh5aHBoRUlJQ3BtTkwwZk1jZVdrRVotcmdPRnAtMGN6d0lHUUE2clRTUkQwUDlzRTdMNXFrZ2xGcjVWQ1IyYkMtSGxrRmFILWVneEJlSlRneGszd2xUTlNKSVRRcVFiUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQckRDdG9tR1NsMXlUX1JIQmEwNV9jWXdvZnNsMjlJQmVMNFFFZ1JUQUkxNEhNenRxdkx2bDVXZGVPSWx5NldOcmRIMXJzSVVBa2E1bVFqS21hZ1d4NGhMT25ybU9YRHBjV0ZJMXBXc3UzNzg1LVBTc0w3UzdDeXFwMDZmbWpKM3JIRVQ3ZXpSMjFKb2ZHUFZ4aUNjUlpWWGF6LTg0S0JIWTBrWmJFVTZEc0NzVHNDZG13ZzFfZDloVEc?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUlhySEE3MnlmYi1uX05XbW5XdGtYX0lwRjN0WFU4NW9iUzZUWnpSY3BHRGRaTmk5QmhFcFFVUk14bGxUaXJmTi1MbTRDUEYtS3VoRVN5elU1Znp5eWJBQjdMbk1TQUZRVWVPUmgySzB6bWFqcGFwbjRPNldqTFFZNzJfSkFncDZYRlMxaEJHNUFhTV9GTWtlTzdqNHRxNWpvLXdaa0p3LVBaWnY3NkFteXRiZ0xScU0yR1IySE85RmdQS0tHV0ppMm84akdNTnVIX2JsbmlWcFZsZjIt?oc=5"
       ]
     }
   ]
