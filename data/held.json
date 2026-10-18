@@ -1,28 +1,25 @@
 {
-  "at": 1792350999049,
+  "at": 1792359678011,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "La Nación Costa Rica",
-        "Infobae",
-        "Reforma",
-        "Clarín"
+        "Crowdfund Insider",
+        "Mashable",
+        "Mashable SEA"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Trump vincula la inmigración con los disturbios en Francia y pide cerrar las fronteras",
-        "Donald Trump dijo que Francia “está en llamas” y “destrozado” por la inmigración: “¡Cierren sus fronteras y tomen el control!\"",
-        "Francia está en llamas y destrozada por inmigración.- Trump",
-        "Trump dice que Francia \"está en llamas\" y \"destrozado\" por la inmigración"
+        "Anthropic Proposes Congress Bill Mirroring Claude’s Internal Safety Policies",
+        "Anthropic is pitching Congress its own AI safety bill, report says",
+        "Anthropic is pitching Congress its own AI safety bill, report says"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZHlReUlqS2VESmlWN2VaeEVjNFBfR3h1Y2pqZU5weEd6T2djWXhXMW9sV05GYVlLN2R5YlJSRHd6bjZwSU5NYW5Wek95b051Q2QzOTRnaXZVVFVPX0hWaEE1bkxDXy01ZTg3UjBBa1Z1ZjgzZGxTNUtQN2c1VGs4aFRndmplNDR4RTRxQWZSQTRsOEJvVkI0SjkwU3d5RjZZb1d6NXN6OGdRak5na1cxN2U2REQ1OTg?oc=5",
-        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOT1RXOVJiVjdqazNhYjFZN0tOWlpCaVZWVFBXNDB2QURJOWowZzRoOWdsMEVNYWZ4bXQzdDJBbTN2V2dPWVh3Wkt2NG50dHFCRTNnVTBOSVNJWUVZUXZOeGpIcVJndk1vbmdZY3o4S2hqWWEtOGY0Z0ZjeDY5YzJtUnBrNlRGX0hMNkV3MEJXdVRRY0VHLWtBX3dYSFpWZFdGTkw5eHRSN1JqZ3J6M0VQU1ZGMmFMbm5PZnRCWlhwQzdHMjRHamNRX0tndVhwaGdHSTN4dW0xa2M5ZVJzR00weXJPUVpNM19UekJ1ODlkQVh0R0tEc2JraEZEMNIBlgJBVV95cUxNODQ2YnpxZDAybkZXS2dTWlNNR0V3eG9xcTdraDh1ejltckZ3cC1LNFlGSFRfcjhST2VlTjM2Mi1waXJHNUxGLVdWLW81Nmw5bXlSeEZKRGFZdmhyTjdzQi0tYTlPc2kxYkItTk9lRDZXQmU2czRYU2g4a0Znb1hIM3BLRUpHSW5BOEJ1VGFaRC0zRnMyOWgzRW9VOEV3Z1pGY3R4NWRVa1JOWVBMeWthdDZ6a0NGVHNpZk1CZHBnam02T3F4QjNsNHNKSG80WThIZVloYXA2RVFEZTB1aDVGQjh4dmxEd29GWGVhSXFqZ2lwaE9TRFVJcnViNVhiUldLQWRma1dCWDdMSFlmVTBVamZYbFN2dw?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZms5RDkyZnVEWHVVNDhNRkhGRnRTSFJaZ0lxOGJDOElaWk02YjFWb2E0WXFzTVJnWUM4NmZpdDZDa2RoQWRwdjVHOUsxM0lLd1ZvTFVqdEhRSWV6ZS1jNHFtVnNvUVNTWEpNdGpzNmsyQzJiWi0tVTJpNDlGV3FtbS1CM2s5NWpiclYzdGpNc1phREdVVnc?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTWU3cXpfbGptbEZ3Q2g0allZenpiOHNaMTRsOFBQWDJjeXNzbFNtTmtBNzNOYnZJblpTT1FNTnBaZkZkT2VLNjBHZ3ZLUWtpNk5TNWpQdlZ0QTFfb3gtbnB5UjRtbnk4WTVaQzV1LXN2VXR6RzB3N2NIMWhNS0VRZmZVYzdZUC1CMEJCLVFhN1VzcTJENW9CVXc1TUozMjh2bmYtd3ZFeVV4YnhfUC0xZVNqTk9fUHM2dGRnV2RQeGxtZG8?oc=5"
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2Y2SHZFZjFCR3R6YmZWcFhtVkMwcUJHYTAtZzQxbnFJLVppSlBmQ1RDLTVuclVGblJEeVFIMWN5VTJuMHJLMG8zLVp5UTM3VHJPU3RtWHRVeFhZZkM5djJmYWhBekQwcDhEV1ZrRlFjeHdtRGpRRHdhR0FDVGJIbmthOE5MZ1V2VEFFeHJaQXlEMHdkWmQ1RlBoLWRONlg2YkJuU0VtSG1kQUJtYnFYRXVrczRWNWNDUzRzWkZhRWF6dw?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE15NjVPYUtCV2RwQTJVZ0MtcDFJdV9INE9mOUpFdmUxQXg0bXI3WkJhVHNyN2ExOGFJRXAyZmpwWjY5SnMxYW05R2UtVVJzRHJGdldDcEdaU3RlcE1DdGFqT19CXzgwZnNUdk4zNEY1cUJXSWpsVVFn?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTnRnMGxEYURPbFRSWGdoaFBKQ3lubHFYZnJfajZVR2NnTzk0MUgzdGtmTjRYRzhobVRIOGU4ai1CR3BuYjRHUXNIUVhTS3AyMmRPQjUtc1g1ZDIwMUFTWkFUWmxuN0h6UzlydE5BMHBaeWl5LWlEQ09qMWNRajFvcEFpc0x4dUVTejh5ZmRab2VhV0NkekFOSC1VZGJOV1hVenZB?oc=5"
       ]
     }
   ]
