@@ -1,4 +1,23 @@
 {
-  "at": 1792315596817,
-  "held": []
+  "at": 1792330072391,
+  "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "Reuters",
+        "AP News"
+      ],
+      "lines": [
+        "wire"
+      ],
+      "titles": [
+        "Pope Leo pledges gradual return to duties in first event since cancer surgery",
+        "Pope Leo tells faithful in St. Peter's Square he will gradually resume duties after cancer surgery"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajlwczZReXZXSkQ1X1JuZWNGWlNjX2VXcW9hNVdlNXYybU00b3NkSFdpdXo4ZXFLZ184OENSdTZRbE9DdDF2ejZIRVpXUWk2MjdJbWM2Y0JMNzVfcGFvYzRxUU5LYUhpTTB6QWpQWHgwR0tEUXZkNnhBMkxJYkd4dTBydU1OWFpVd3lSNjRSSmF3QW9TUmFocVJVa1QyVUtJcFFHeUwwTGg?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGxoemZ1SU5mT0NtVU56WWxPclZWWXZ3Vlc2TkpJOVlIaUw5T3luaDlkVVE0YlJqOXRTUmJ5anI3eHdqTEdJemtKRGtxUmNaN2U3Z21CWUQ0UEVLSUdZX3UtZVlFRzBQSHZmTWRQTFJtWmNrcHg2NDkxX1RBRy1BVkRMZEtnU3BfR0dYSWk3M01RZlowenZCT0QwZw?oc=5"
+      ]
+    }
+  ]
 }
