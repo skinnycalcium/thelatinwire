@@ -1,31 +1,31 @@
 {
-  "at": 1792468538762,
+  "at": 1792487811943,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "The Hill",
-        "Dailyfly News",
+        "EIN News",
+        "The Presidential Prayer Team",
+        "NewsNation",
         "Common Dreams",
-        "Gulf Coast News and Weather",
-        "Contemporary OB/GYN"
+        "Gulf Coast News and Weather"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Trump establishes new women’s health divisions",
-        "NIH to create new women’s health division per Trump executive order",
+        "Executive order calls for creation of NIH Women’s Health Division",
+        "President Signs Order Creating an NIH Women’s Health Division",
+        "Trump signs executive order expanding women’s health initiatives",
         "'Blatant Hypocrisy': Trump Signs Executive Order on Women’s Health—While Attacking Women's Health",
-        "President Trump signs executive order aimed at improving women's health. How could it impact you?",
-        "Executive order directs NIH to create women's health division"
+        "President Trump signs executive order aimed at improving women's health. How could it impact you?"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxORk5CWVN4NTgtaXlpaWJ5amFCOGRlTjBwczlvaFoxR3FHcHo4M2dMRlpQSzJubXhneTIzOGoyT1RUWExYcVlZMFBOakRybzVzMGo2TkwtdVN0ZzZ4dndwaGpHc3R2MmhyYl9qUGFScU1yTDVHZV9oQmdIVE5LNWlHTC1kRU51YzN5dnJKaHRFT29qQlNWcVFjSFh0Y2huQdIBowFBVV95cUxOQ25QS0NjNUhxODlnNjB6OVZmZl9PV1pLYXZiMnIyUjNHU0JLZHdKd0xmODFuU1VCRzRTM1ZJbnVseU9QQkZLYS1rblBrWlN4aVdTTmtDRWNULUxIRmFLWEJkaC1IQWxlR1lpN29aSUttVm9USjVaeDdoZkdzWXF1YmFFZm5nN0pXTlppT1piZ1Jyd2wzZGtRQWpTY0xpbnlKTUp3?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS1F2QUdaV05JLXlxWDV5LWM3MEw1Vm1QS09YLTlkWEdfWkFGcGU3SGVmU29jTkpTZGl4Z0lDcE1SdlVhZjhSeFZjck5Fa2wzTmdmSk40cS10bEpNbTctbWFad3ROVS1JVVpiSnlyV3BaRFZVcUpRNEdud1gzbUgzRHhpbmpCVlRvMFRMbUo1b1JhbkJNclppcE9rN2pEb3JtMnc2clRB?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnpoX2pOSHZrbUYtdDFhU0xhQmFrekhNVHhNTkFuRl9UWEVCUzZ3Tnk3SGd4TWUzclFQSHk1VUxyWGR3UDBFNTdsOU5CaEUyeGpsYllSUzF0RFRHRWQzYmdzek5nS2o2YlVia2dkSF9kTWNMa19JZjhQTExGalBBZXB5VnowUHJQUHpZSEZjcEdOandVUWxJeGVKb01KQ0Rha1dIYjlEanY0dW8?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaXpHXzhmSXFObW1wTk5wY3R1T2hMd0kxZU80OUJvUmk3V25DS1kxekl1TlUzMjZZUG9HdlI2OGI1S3pTUU9fNWxxdjNESEV5XzdIemdBZVZYUGFuU0xhUzdTVGtCODQ1T21JYzExOVZsUm5TQURMbmZHRk54RkRRSlRZRVRVOEE4aW13R19iSjRGR1l0ckZ2bGxhQlBpMktLbV8xbHJ0a2hqdDcwbkhYX3U1aHV4Tk1p?oc=5",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yeHVhZU40Y1hBOGl0am1TaGVVa2lWZVVsdU9ENnJRSk9fNzAwSjJFM21IaEpDcUpXMVZCZlM4ZDNkRmVHWm51S2E5Tjd4N1BoOWJ2dGRVcks1WlBVX3lUT2xLd2Y3Z0ZpaGI5SDNxbFR4SWxVaEtmOGlB0gF_QVVfeXFMUGJSdmx1bGN5NjdsRkNiLTdYcFE0d1o1NEh3dThEYnJGWHdfTk8wc0ZhbHRKMDY5QzJJbkFkOENWV2M3NHZCcnlqV3MtZ19lUWlsaUUzLXpGZ2hmTG1Ed1RsaEhHN1dPNjlRRkt0M1pMNFE1aDNiNlVJUkdWY0lhbw?oc=5",
         "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkZEVWV1I3UDBZbUJxR0RDanZnYm5EYks0clIzOGdFR1dMUHhjRGdqWW5CODlhTWN1RWViU0hoeWk3a1NCQkU5dTZicEt0YWhfSGw4Qzl2bG1WYnFWWHhNc1JnRQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY3IyMzB1SEVBaUgwMDMxZEVBd2lLaHh3V0pTNlV2cDhwdXVHTFJ2ek5lSFVab3hYSUxBS3ZoOXVQaUVGYUxzemZoMU1SUFU4T2R1dlFITlUzZEtuSmowOG5Sa0JRR2xtcDFjS2wxVGVLMC1sQXJfeVJwWXcxMEk4RllsNHlGYVlnaG52SlNkX0Rkak1PZEdtbEFCcmxpUTJxY2c?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWkZJNVVBMUVlR3V2Z281elNyejRZaXlfa250d0h2MlgxNXhpTVVHOHVuWE12bExhR1BJZ3NLWGo2dEtadWcxMTRzRTRBbW0tRHNuV0ZlTDZzTENhZ29yVi1fazlQWXVnNFEtZDRjaHNWTTBCSVVvNGZLUEJObXJaSmgtbjFHb0F3VzVpRXpSZmRickk0aE52WW1valc5b0NGV1E?oc=5"
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY3IyMzB1SEVBaUgwMDMxZEVBd2lLaHh3V0pTNlV2cDhwdXVHTFJ2ek5lSFVab3hYSUxBS3ZoOXVQaUVGYUxzemZoMU1SUFU4T2R1dlFITlUzZEtuSmowOG5Sa0JRR2xtcDFjS2wxVGVLMC1sQXJfeVJwWXcxMEk4RllsNHlGYVlnaG52SlNkX0Rkak1PZEdtbEFCcmxpUTJxY2c?oc=5"
       ]
     }
   ]
