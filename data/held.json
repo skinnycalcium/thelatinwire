@@ -1,31 +1,31 @@
 {
-  "at": 1792453968431,
+  "at": 1792468538762,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Newser",
-        "People.com",
-        "USA Today",
-        "KTVN",
-        "NewsCord"
+        "The Hill",
+        "Dailyfly News",
+        "Common Dreams",
+        "Gulf Coast News and Weather",
+        "Contemporary OB/GYN"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Trump Signs Executive Order on Women's Health",
-        "Trump Signs Executive Order with Melania for Women’s Health Task Force Led by RFK Jr.",
-        "Melania Trump pushed Trump on women’s health overhaul | Exclusive",
-        "President Trump announces women's health executive order | Videos | 2news.com",
-        "Trump Signs Executive Order Creating Women’s Health Division at NIH, Melania Joins: 18 outlets compared"
+        "Trump establishes new women’s health divisions",
+        "NIH to create new women’s health division per Trump executive order",
+        "'Blatant Hypocrisy': Trump Signs Executive Order on Women’s Health—While Attacking Women's Health",
+        "President Trump signs executive order aimed at improving women's health. How could it impact you?",
+        "Executive order directs NIH to create women's health division"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeHdWTUVqaTRSN00tdlBuelZ6OHduVGpoc1RhNVdnUzA5a0VyenIyekdjdXpvZGczTU5QVVZQazVxODk5QXZGb3RmLTk4QWNIVzFPTVlhbGdkN3JZM0V2eTlzNlctcTJZTEtXeEpuQVMtdkZOV2ZDR0k2Mk40VzBiZkdZTi1uMkJ3SFJDNFRn?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcVlWMUJITFVpazA0X0w0ZjZjWi0zdHFRVnZ0MHhMbTFmTzhKaGRWYk41a0hWMGVlay1OY2V2X2JYN2lOSjMzMmpON2dlNG1Cc0MtNW5qU05QMzgwejhEUjNOV1VfT2w5ZGFoR1k0MjFuSERDUnFCVnQ2NEZzcEhxQ0NvcE9XbXpfRlNPdU5IcmFDZzNhc0dNZURuZTloYk5KQXhtLWJVRWU5akFHZkNrLQ?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV3YtRWg0Zl9uaWNLOTcxaGJIemw5cE15Z2U4Z3pUZmx0SVNob2xJNE9idFRmT2w2THU3ckpvRmNZWGczcktLSld2elZLOWQ2aXZuaWE1MGhVbDlPUjdxZEtHbGZXRk9TZkJZck9ueTFvdUQ3a1FJcm5FR3RkLWs3RkUtQ2RSckFncFB6QzdMZzNuV3VmWm5QXzdOU091eUtLNERWUzRB?oc=5",
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZHZEc3BXX25KMDJzSmh0ZEtaMVhLT2NrUWRtdGhtR1NqbHhOU2k1VkphQUF3bnBpUFBIMEFGV24xRndqU0JDUk5IWjlOU3pBZGdldkZiWHg5aERQMUZrWkhxYS1RRVBZWWRsVXNpSG5nb0ZQYVZEbGd5TFI1Si10cEdFUzNnRTBDQ0hrR0xZQ0tCc2FwbEJnWU0yNkRfN1F6b0E0b1cxSVNxcmpicVR0SDVrVEJRdm5xZ1p1OXVxdGV3NEczX0F6T2ZVMA?oc=5",
-        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRHc4TElBZTI4QS1ueFRXeG1kMm1xMkZlLWF4QUFBVWo4d0xYUm9tektia1Nac2hsbklMeTJ5VkJFNEliSndIajB2VlNJbklBVksxdDRqS0FWTjhnYjVwejk3SFNoRHFvcnhaS0ZkQWhmZi0yNEc2R0VocEl4NHV4dENJdU1XNjhNNDlOTHVJeFY5MXpZQTUwa0gzNWxtT2dMYklXT05JMkhGcVFwVWhBWkdKY0NjZkpMSVFTbk1KS1oxWHUwLWxRSVBkQmFKVEtJMlczenVfbFZXNzNPdDF1OEFLWG1ITHRmZGc?oc=5"
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxORk5CWVN4NTgtaXlpaWJ5amFCOGRlTjBwczlvaFoxR3FHcHo4M2dMRlpQSzJubXhneTIzOGoyT1RUWExYcVlZMFBOakRybzVzMGo2TkwtdVN0ZzZ4dndwaGpHc3R2MmhyYl9qUGFScU1yTDVHZV9oQmdIVE5LNWlHTC1kRU51YzN5dnJKaHRFT29qQlNWcVFjSFh0Y2huQdIBowFBVV95cUxOQ25QS0NjNUhxODlnNjB6OVZmZl9PV1pLYXZiMnIyUjNHU0JLZHdKd0xmODFuU1VCRzRTM1ZJbnVseU9QQkZLYS1rblBrWlN4aVdTTmtDRWNULUxIRmFLWEJkaC1IQWxlR1lpN29aSUttVm9USjVaeDdoZkdzWXF1YmFFZm5nN0pXTlppT1piZ1Jyd2wzZGtRQWpTY0xpbnlKTUp3?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS1F2QUdaV05JLXlxWDV5LWM3MEw1Vm1QS09YLTlkWEdfWkFGcGU3SGVmU29jTkpTZGl4Z0lDcE1SdlVhZjhSeFZjck5Fa2wzTmdmSk40cS10bEpNbTctbWFad3ROVS1JVVpiSnlyV3BaRFZVcUpRNEdud1gzbUgzRHhpbmpCVlRvMFRMbUo1b1JhbkJNclppcE9rN2pEb3JtMnc2clRB?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkZEVWV1I3UDBZbUJxR0RDanZnYm5EYks0clIzOGdFR1dMUHhjRGdqWW5CODlhTWN1RWViU0hoeWk3a1NCQkU5dTZicEt0YWhfSGw4Qzl2bG1WYnFWWHhNc1JnRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY3IyMzB1SEVBaUgwMDMxZEVBd2lLaHh3V0pTNlV2cDhwdXVHTFJ2ek5lSFVab3hYSUxBS3ZoOXVQaUVGYUxzemZoMU1SUFU4T2R1dlFITlUzZEtuSmowOG5Sa0JRR2xtcDFjS2wxVGVLMC1sQXJfeVJwWXcxMEk4RllsNHlGYVlnaG52SlNkX0Rkak1PZEdtbEFCcmxpUTJxY2c?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWkZJNVVBMUVlR3V2Z281elNyejRZaXlfa250d0h2MlgxNXhpTVVHOHVuWE12bExhR1BJZ3NLWGo2dEtadWcxMTRzRTRBbW0tRHNuV0ZlTDZzTENhZ29yVi1fazlQWXVnNFEtZDRjaHNWTTBCSVVvNGZLUEJObXJaSmgtbjFHb0F3VzVpRXpSZmRickk0aE52WW1valc5b0NGV1E?oc=5"
       ]
     }
   ]
