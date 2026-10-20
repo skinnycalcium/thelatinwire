@@ -1,31 +1,49 @@
 {
-  "at": 1792487811943,
+  "at": 1792506369314,
   "held": [
     {
       "section": "politics",
       "outlets": [
+        "FemTech World",
         "EIN News",
         "The Presidential Prayer Team",
-        "NewsNation",
-        "Common Dreams",
-        "Gulf Coast News and Weather"
+        "NewsNation"
       ],
       "lines": [
         "center"
       ],
       "titles": [
+        "Trump signs executive order to establish NIH women’s health division",
         "Executive order calls for creation of NIH Women’s Health Division",
         "President Signs Order Creating an NIH Women’s Health Division",
-        "Trump signs executive order expanding women’s health initiatives",
-        "'Blatant Hypocrisy': Trump Signs Executive Order on Women’s Health—While Attacking Women's Health",
-        "President Trump signs executive order aimed at improving women's health. How could it impact you?"
+        "Trump signs executive order expanding women’s health initiatives"
       ],
       "links": [
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbWR3ZHc1UVhvam1hSWhnUzFIaGdjcU4yMm5xdi1qSExqRUxyMElmeXNwQWk1RTU0dF9iQTlTbHFJa0loNWoxNHNBX19uTkpZU3RyeU5XMGNDcDJmbHc4YUEway01MjFQTm5aemFVOFFtaWxWZVJqOHZLek5TczluWjZTaVoxWnltWFhzU1U4V3pMTG5HYlRRZE9EZHpBaktLT1BoRktkZVpidDg3OENCY1FfcGFuTFZZLTEtdnhiVkMwZHF3YU80Rg?oc=5",
         "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnpoX2pOSHZrbUYtdDFhU0xhQmFrekhNVHhNTkFuRl9UWEVCUzZ3Tnk3SGd4TWUzclFQSHk1VUxyWGR3UDBFNTdsOU5CaEUyeGpsYllSUzF0RFRHRWQzYmdzek5nS2o2YlVia2dkSF9kTWNMa19JZjhQTExGalBBZXB5VnowUHJQUHpZSEZjcEdOandVUWxJeGVKb01KQ0Rha1dIYjlEanY0dW8?oc=5",
         "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaXpHXzhmSXFObW1wTk5wY3R1T2hMd0kxZU80OUJvUmk3V25DS1kxekl1TlUzMjZZUG9HdlI2OGI1S3pTUU9fNWxxdjNESEV5XzdIemdBZVZYUGFuU0xhUzdTVGtCODQ1T21JYzExOVZsUm5TQURMbmZHRk54RkRRSlRZRVRVOEE4aW13R19iSjRGR1l0ckZ2bGxhQlBpMktLbV8xbHJ0a2hqdDcwbkhYX3U1aHV4Tk1p?oc=5",
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yeHVhZU40Y1hBOGl0am1TaGVVa2lWZVVsdU9ENnJRSk9fNzAwSjJFM21IaEpDcUpXMVZCZlM4ZDNkRmVHWm51S2E5Tjd4N1BoOWJ2dGRVcks1WlBVX3lUT2xLd2Y3Z0ZpaGI5SDNxbFR4SWxVaEtmOGlB0gF_QVVfeXFMUGJSdmx1bGN5NjdsRkNiLTdYcFE0d1o1NEh3dThEYnJGWHdfTk8wc0ZhbHRKMDY5QzJJbkFkOENWV2M3NHZCcnlqV3MtZ19lUWlsaUUzLXpGZ2hmTG1Ed1RsaEhHN1dPNjlRRkt0M1pMNFE1aDNiNlVJUkdWY0lhbw?oc=5",
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkZEVWV1I3UDBZbUJxR0RDanZnYm5EYks0clIzOGdFR1dMUHhjRGdqWW5CODlhTWN1RWViU0hoeWk3a1NCQkU5dTZicEt0YWhfSGw4Qzl2bG1WYnFWWHhNc1JnRQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY3IyMzB1SEVBaUgwMDMxZEVBd2lLaHh3V0pTNlV2cDhwdXVHTFJ2ek5lSFVab3hYSUxBS3ZoOXVQaUVGYUxzemZoMU1SUFU4T2R1dlFITlUzZEtuSmowOG5Sa0JRR2xtcDFjS2wxVGVLMC1sQXJfeVJwWXcxMEk4RllsNHlGYVlnaG52SlNkX0Rkak1PZEdtbEFCcmxpUTJxY2c?oc=5"
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yeHVhZU40Y1hBOGl0am1TaGVVa2lWZVVsdU9ENnJRSk9fNzAwSjJFM21IaEpDcUpXMVZCZlM4ZDNkRmVHWm51S2E5Tjd4N1BoOWJ2dGRVcks1WlBVX3lUT2xLd2Y3Z0ZpaGI5SDNxbFR4SWxVaEtmOGlB0gF_QVVfeXFMUGJSdmx1bGN5NjdsRkNiLTdYcFE0d1o1NEh3dThEYnJGWHdfTk8wc0ZhbHRKMDY5QzJJbkFkOENWV2M3NHZCcnlqV3MtZ19lUWlsaUUzLXpGZ2hmTG1Ed1RsaEhHN1dPNjlRRkt0M1pMNFE1aDNiNlVJUkdWY0lhbw?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Democracy Now!",
+        "Israel National News",
+        "NDTV"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Palestinian Activist Mahmoud Khalil Appeals to the Supreme Court",
+        "Anti-Israel activist Mahmoud Khalil appeals to Supreme Court to avoid deportation",
+        "Palestinian Activist Mahmoud Khalil Appeals To US Supreme Court Over Trump Deportation Push"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXlCYXhNTHBQaTN5cTh2ZU1Xb0pNb1pkWTBaOFhqUklvZFR1Z1RjWmFHOTZkNXduV29uU2FxbEtTNE1xUGtFU3R1SFREUnEzeFlmQ2EtTXljLUsxd253T3ZJSHVjTDlRMDZkYURINXc3cklhSkdqNUhRUURvcHNNM1RESExPU29qeVB0cDZsYmprMWlhWUhFSWh0cnV6VmRmZkxzM29FLUJLaU9uc1Z0Ym5zbXE?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84MkpSaGZnSXZNQXo2SUtLQ1lhTDcwVlBRUUZhMG45ODVnUXk2VDJrejIxMDFlREY3dndpRnRzdTB1d2l1TjRzRFZaSjBCMFFrOUVYeWN2ZC1Ddw?oc=5",
+        "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTmFydnNycEd6WUV4WjFDUUJJWUhzSW5VbHltVG9ad1htSUN1N0NTNUUzQnYtT25VRnhwSF9OcWszWU8xUlQ5aWhRRjVUVUlMTVBobDRhaVVaMGtiNTc4RnZ4cF9VVHZ2TVlpT3BOWlB6ZHY5RnNoY29CbGVYUlR3UmFqblBiWGd1QnN0QnVfZjRUWURfQUl1cTluTTZwbUMzVWRxTUFHMWNJSkFKZWE3YnlWX1FNVXA0YzFpRk5aM3Q1bEgxM2txam5mSmN3Ulg1VGVnX1VkdW5iQ1BuaU9BaS1HTWtCcU9PYjZXb1U1emhCUWFGYllyX0RxQ09JX1dwSFHSAYoCQVVfeXFMT2FFSEN5bGlCemJFRjg0Y2NJSDFGeDF1bDkxWU1CVHhWbEI1MXc1SjdKR3FtZkRLejIzNW4zSWpQQWRDbDNmeXNHQ1ZiUDV6VUFuOUFLaE1fT0pkYWRjb3RjTi1KZDFEeGM2YjBfZWNZaDBuWVkxTHc0OWVKdDhYVnR5dEZQM1Z6ejdKSlc5U2ZsMHBqclU2YmptN0VuVWxXSEo4NDdYMW1qVk9HNVZGajdSQlNOLVpqS0xrZUcyYkQtdGtTNURiWC1LeVNvbjFBaUhOOEU2QjBpd0dKelZndjRxOXR2bThHVG5GQ1J5b2QwZms2YmNyUUwtbmNSckMtY1pzbG01bTNOWWc?oc=5"
       ]
     }
   ]
