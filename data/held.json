@@ -1,397 +1,93 @@
 {
-  "at": 1792521477601,
+  "at": 1792533232698,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Yahoo",
-        "Minnesota Lawyer",
-        "Hawaii Tribune-Herald"
+        "The Black Chronicle",
+        "Vermont Community Newspaper Group",
+        "The Moore County News-Press",
+        "The Texas Tribune"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Supreme Court Takes Up Accusations of Race-Based Middle School Admissions",
-        "Supreme Court to hear challenge to Maryland school admissions criteria",
-        "US Supreme Court to hear Maryland case involving race in school admissions"
+        "What the U.S. Senate’s permitting bill means for data center development",
+        "What the U.S. Senate's permitting bill means for data center development",
+        "What the U.S. Senate's permitting bill means for data center development",
+        "What early voting data in Texas means for results"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV01QWDE2Y0c2bGVKV25fTXZJLUJ2TFF5VExxQjE5UkJUYlVoa0w0dzcxZjUxNzZzMDl5dngxTV8xZkZOUThTbkg3aFBOc19mUDZzVkEwVlFhc0sza0IxQ3hUY0R6V3JfMmEwNWtIamk5Q2hURldaX3dqalZaYWU4SGFJYnE3UElWWGVfTnpLQ0JTM3I4ZVRKclZ0bHU?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS1JmUm9jNnp5T1R6aXlrbEY3bWhFOFMtbXUtWU5uUXRaRGRkdWFDY3hMd05uUUVLSHpBNmpMM2IxVnl5dHpicThxb2pnUWc4Ukwwc1g0NklpaFFtNTZMWUFJQU1DRGh0OWQwckdYa1RqdC1XZURBSnVoOFh6UldVWDJNRnZ6TzVKTGNQeTQ0ak4xOVNpUjlaVndjRGxGS2hXNDBCZ0dLN0k?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUEVabUs1VWNEaWtqSl85d1pHMlBodWo0a3owYnNhbWw3VTQzMFBhUFE0Uy1YLWRSUk1NSGxUOXZJRjJ2MGdCbTQzNk9SVWFwNm00aFVtbU90WlNJVnZtVElJVHhpb1J5enJDcjZGN01LNDJNLUxCTmFmWGNsaWtzTGU0eVpxc3ppN3I2RmtxMVRNZWppcmUxYXhON2F2QWV6SUNPRjFtQ3djdHc1TkZIdTd6V1ZlRDJIOUVwU0JOM1g3cnlkYkwtSGRweU1pbzgyOUx0ZUhyVnk?oc=5"
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3VqMVB3Uk1zUEhUeDlvQ2haTlNOUlo0UXlkV09JNkFnb2lFY1MwN3RxTGY4eVZDNV85Y3VqMnNjZ0VxV1FlM1hCWVNhMV9HTlJocWstanphMEpUSGF4eTRkaWxTTXltVWhWVV9MVFAtRFBKR2lBOUxZZU02SnYwcXBpTjdCWFdscFMyaUJFNk9RTW9Hd1Y4Q3RDMFNySmpKbll1dkNrSU9pRXRYcVRQM3E5UlN2cmFfX1BV?oc=5",
+        "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZFRxZHV1WXdfWGJJbVlJM2MwcERCVkt0NXJfMHFqVlpYZzdBYnRWbXpBUlNDSy1weFExOGxMQTBXODFZTk51Mzllc29vd3dkSkdQQkhXaHZDQnJaZzVJdXRINzQzRHZQRldtanNSS2NhNDYwcDN6S2UwQUtQUEwybWpIMVQ0MUVzdzdEZVJ2Uzg1UDdlemlhUGFQMnAzNVdYZWVLNUxjNkpodDE2VTVyZkNGenZiOWhBWmZNbV9tclJid3IzQ2JtMDBveXVleTZxenl4VjdCZVdPLWI5dHBtMVcwNC1RSk5JcngyVUxPV1EyUjExa2tyRjhZUl96ZzFiTXZ5NllXSnBJWUFNdVhoRg?oc=5",
+        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUEk3TGVfUU5BVjRsNFRJeWtKeFhjX1hOTGZJRTVNVUgxOUgyOVR4aVpjdF9jbnUxSlBKdmFwQ3RkZW1hX1JCeEEwbF9iVDZ5MC1OSDgtR3JHMjV0cVJWMEFOZi1tQ2x5Tk80VGFENklpd3Y3NHhFM3dCd0syU0o3N3k0MDR4Z0dJRE9acnUtTDdQRW41eXJteEIzc2V0RTBTWHk2Q2k4R2kycWUzWVdjOGZEdTdXdXRFTXFvU1NjbTAwQUdhclFCbTRtYW0wQ2Y1RktaNGp6Y1FndHgtYmpySTJmSEprMzhUQjNrRGF6bUlLUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQUYwVmV6S3YwT0o1WEplUklQWTZJNkVfY3ZBZ093Ynd4UG9BU3FQOGVwSFhWRnR0T21HVjlQbk91Y0VTMExhdEIzRFBPT2xzenNMVzhHT0dLellpdTBzd1RhdzJScmktay1LV29zU3loQXdvVWpYbXo4cTNhZ1ZxSXp3?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "Yahoo",
-        "Gadget Review",
-        "The Tribune-Democrat"
+        "K-12 Dive",
+        "Balls and Strikes",
+        "Yahoo"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Pennsylvania House Passes ALPR Camera Regulation Bill 190–13, Has Multiple Proposals To Ban Flock and ALPR Cameras",
-        "Pennsylvania House Passes ALPR Camera Regulation Bill 190–13, Has Multiple Proposals To Ban Flock and ALPR Cameras",
-        "Pa. House passes bill to regulate use of Flock cameras; time short to make it law"
+        "Supreme Court takes case on K-12 admissions policies",
+        "Association For Education Fairness: The Supreme Court Just Took a Worrying Case About School Admission Policies",
+        "Supreme Court Takes Up Accusations of Race-Based Middle School Admissions"
       ],
       "links": [
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRnF4TG5rZUZsTkxKXy13YkFpYV9GYUtVNzRUWFUtZHY0eGdGY1BNdkthRHdvV2Rmc2pwMmxGSk4yVllJeXJXME1RaVRjSGtIb0RVRGxIcXVxS0pIWkpORUZJMjhCR1RfTWhMUmdSMFI4RldwUlZGWVdudnpGV1gzSGxheloxMHhWNjNaWVZJa2I4ZmM?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWjlXdFdNbXYzbDFLaU1BQ1NYSDhjVThWdmxCX21SaU4zQW8zb0N0MmVoc1dBc1Qwb3NMdHptVFdOR1p0c0RBR3N2NE5QaW9WenZxZHVaaV80SS15d19jRFl0R1VJcDVLTnE0WF84M2FaZmFpYlMyYmg1MEZRWTFhb2Z2RTNPeEZfcmZvaW44aWQ5NDJkczhmRFkwTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV01QWDE2Y0c2bGVKV25fTXZJLUJ2TFF5VExxQjE5UkJUYlVoa0w0dzcxZjUxNzZzMDl5dngxTV8xZkZOUThTbkg3aFBOc19mUDZzVkEwVlFhc0sza0IxQ3hUY0R6V3JfMmEwNWtIamk5Q2hURldaX3dqalZaYWU4SGFJYnE3UElWWGVfTnpLQ0JTM3I4ZVRKclZ0bHU?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "TribLIVE.com",
+        "Yahoo",
+        "Gadget Review"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "‘Mental distraction’: Pa. cellphone ban passes state House",
+        "Data center regulation bill passes state House",
+        "Pennsylvania House Passes ALPR Camera Regulation Bill 190–13, Has Multiple Proposals To Ban Flock and ALPR Cameras",
+        "Pennsylvania House Passes ALPR Camera Regulation Bill 190–13, Has Multiple Proposals To Ban Flock and ALPR Cameras"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWm5NcmI3VndJSWVDT09oMjBVZjlqR2JodlNTeFYyWjZmcXQ1cjVEMElJcHlqaUt4N2JsMUEwdEtfU1ZlOUFTOWFHdnc2a3Nsa3lkSVc3QUlQNlFubXBnbGUwUW00OUdLRFc2X09ncG5YcmtPSUtNVmQzTmJQS0FhRjVnMkYyVEpJQmtEQ2t3MUFRa3hmZnB1VjF3?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWE5Zdl9RNkhxaGxCY29idkFZNnJ2ZjY5SlBzOHdlMkFJaWQ1aUFyU01kanpJX1Fma0Y4WEhDSkRDQ2NRZkJwckFlRkQwaG9EZGZ1T1hqNVdwTlRDenE5Z0xicjV4TFl1NWw4a3RnTVJwczZBYW53NjA1LVVMaTVwNGtLTHZRZEZFc25IbDF3dXZnXzVsSXBPLUNn?oc=5",
         "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0hGTTNNVmNGdlE1THprYUlNMUc3WFRWMHNqRUxocGVkaUtPTVVRaWctbjFxWU43Ui1Hdk5kU1ByQmJvbndxOGFvck9QTjk4X1NWcm1RUmJYTHE4Mk5yYTRvR2MwdHRnV3Y3QlJCbzRoMndyOENVYWY4TUpaX1B2d3Zyc0xvLU90a1o5WHdBWkZhNHNBbFhLZFZaRDIxQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQVBxY2YzTXdrVXdQS0dJeTR4eVpaZXdiNjYtUmRwcEdHSlpEbzZVRU5QQ3AzdWZXT3N2WEJKNF81S1laLVFwd2xFdC0xeEt1TjZFNVd1S1BHOVRyS25qU3ZJNUdUVFpoRDkzb1FHcDhrRkZJRWR1ek1CdG9MNGJtcDBzYy1CNjY4Tnhvc2FNMjRoQWIyWE1ndEpzUW10UFVzM25CT0Rnd01IMjlGYVZzY0dMQVdoSTFtcEdoS182WGJzaE5GTFpWSzZkblIzZVFIZml1Y210SGdqZw?oc=5",
-        "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRjYzN0p0enlxTGlqdWVQa3BuVzVKVDMwbXBsRGl6ZWlpTktqUmtzTk5TQlltWTFYejdCc3kzVkZ0ak5MS1dUNGNOZkVuQ2Z3bV9acGhPYkRmeFF2WGJ1ZU5seE5OcDhIMGVraE82VzhzMHNZTUR1cVJ5M0Z4YkNKdV9qS0lGV05iS0tYSmszclY4cmVyM0NpZjRjc3ZORk9ydTY3U0l6XzlDRUhZSmV5Q1JzOEQtVTFBSUtXa2pwUkNHd0xva3hoVUs3SVFKN2FLT0N6YXFhOE04X2pMYURXa3FJRUxCMTJZaGpRVU1FaXhTdkN3enhOSA?oc=5"
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQVBxY2YzTXdrVXdQS0dJeTR4eVpaZXdiNjYtUmRwcEdHSlpEbzZVRU5QQ3AzdWZXT3N2WEJKNF81S1laLVFwd2xFdC0xeEt1TjZFNVd1S1BHOVRyS25qU3ZJNUdUVFpoRDkzb1FHcDhrRkZJRWR1ek1CdG9MNGJtcDBzYy1CNjY4Tnhvc2FNMjRoQWIyWE1ndEpzUW10UFVzM25CT0Rnd01IMjlGYVZzY0dMQVdoSTFtcEdoS182WGJzaE5GTFpWSzZkblIzZVFIZml1Y210SGdqZw?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "VernonReporter",
-        "www.nationpathindia.com",
-        "FemTech World"
+        "USA Today",
+        "Source New Mexico",
+        "KBTX News 3"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Trump order sets up new women’s health research initiative at NIH, White House task force",
-        "US Orders New Women’s Health Research Division: Endometriosi",
-        "Trump signs executive order to establish NIH women’s health division"
+        "Trump wants New Mexico to change its name. Here's why he can't rename it",
+        "Trump renews call for New Mexico name change",
+        "New Mexico governor responds to Trump’s call to change state name to ‘New America’"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDBpV29YcGtHdTlTYmdTNVQzbnBqLTVlaWdma0dHRjVDTy1nYWZfQ3hVUkd0bXZCRFc5YTdCWFIwYUdJN1ltcFFFb3BDSUU0bzNucXc2eXJmQ1lxaWxLT3E0MEttZklrN3Y5SHdRYUpRZ1hrRVBCSG9Kc245Y1Y0bmJ3dTM3cmI3RGhuQ0hSRlhwUjlVT3hJMHRDQW1sYlpyckhHcGp6OG5ybnVRRkkzOVlxSU1xZw?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1ZldTZVZ3REbnZwV1luZm40N2hoRzVjdnBycjd4dzc2dnRnVzE4cE9pSS1QdXl6a2lWT0F6UV9YSG5FZEtXZ1Y2NjBvdElacE9yTTY2UGpjOTBzaGhDaEdnWTJuOHlnUWpTc21tejcwNkJOQjBubGk3Q1NJUWhYaExWZV85Qnk4d1E4ZVQxNE5heF9SN0dmczZPS3cybEU5dDNVaWt3?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbWR3ZHc1UVhvam1hSWhnUzFIaGdjcU4yMm5xdi1qSExqRUxyMElmeXNwQWk1RTU0dF9iQTlTbHFJa0loNWoxNHNBX19uTkpZU3RyeU5XMGNDcDJmbHc4YUEway01MjFQTm5aemFVOFFtaWxWZVJqOHZLek5TczluWjZTaVoxWnltWFhzU1U4V3pMTG5HYlRRZE9EZHpBaktLT1BoRktkZVpidDg3OENCY1FfcGFuTFZZLTEtdnhiVkMwZHF3YU80Rg?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "The Washington Post",
-        "NBC News"
-      ],
-      "lines": [
-        "left"
-      ],
-      "titles": [
-        "JD Vance declines to endorse Netanyahu for reelection as Israeli leader",
-        "Vance declines to endorse Netanyahu after Trump offers full support for re-election"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWVjUkhJeEg2RFQ3SDFGc0c4N2Zla0J6N184bUxWYktzR2RZT1hIMFpaTWpmMm1ncHRpbGhkQVlJWlRUX1d3dW5mdFFJYXc0NDFub3RON2IxX2wxNjlRWUI0UlIzZ2J1UnZROEVfSWNmY0tnOWdhbkxCT1lIYmxzS3N1aHNPdFVNVS12bEFtYklOUkYzdDJFVjR4b21LT1BrMEQ5Z3Jscm5Rd1FOcERsMWxFcw?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU0FaMklMNk41S2FuRUEwT1drMWc0eWdDOXhjcV9VM2gtZEozOXlTSVhCUm5PaGlSdDhDMFlBVXVSNjNhUERrYjdDN0pRSDZpRDlKV2ZLUm1TV0JsX2padVpIVFJna0dQRjJDQTVlcGlLNmN5emx4SndJV1E1cW5odl9SNzQ4TmptN1NOenhmQ2djMFd6Y2k0VXBCNGdmYXZFUWR3blMzalg5RG94QTlWcXpQdGdyWm14MGVv?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "The Washington Post",
-        "CNN"
-      ],
-      "lines": [
-        "left"
-      ],
-      "titles": [
-        "CNN threatens legal action if it keeps being banned from Air Force One",
-        "CNN warns Trump White House: Restore Air Force One access or face further legal action"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWDZQVzU4RTdORE5hX3VRR0EtSjVDZFNTUE1zX0NOTTE2VHlFbU9uNzNEQ1JOWjBDRXhmN0VncEVSWkJUdDFlZlpwRWJVZEtwR1JLRFVEbnhuTVUwazNCZl8xajlqYUhQWktvLUZfNHVSaHV5MDZYZlJ1eFJ1aGRGZGRjdjFqR2RITWppbE1LbmRFLXBpLXJEMC0ydnBiazdXTnBNVWVnOHdZc2VXaWdzaFM2ZTBrRTBf?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb080dXBVMnAtZ1hoaktoSzZXNHh6YzU4Sm53OS1JUzBlbVVIc2JZaWNRb0k0emZ1QVNQSnNwQ08zc05yUVUwdy1XMUNXeVFwM0tfR3VjamlwWkc0QVQ5ZGJnYkRvakpDSmZlNFBwY2oyaDZVYlgtR1BlcWU5Y1JEVVgwQmdLSWdrbGc?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "NBC News",
-        "CBS News"
-      ],
-      "lines": [
-        "left"
-      ],
-      "titles": [
-        "Tracking the 2026 Early Vote: Midterm Elections",
-        "Texas Midterm Elections 2026: Key Races, Candidates and Past Results",
-        "Louisiana Midterm Elections 2026: Key Races, Candidates and Past Results",
-        "How to find your Florida sample ballot and key races in the 2026 midterm elections"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNDhGdFFLbHU0dnFMZGZ5T2Z4LVNzYk5Mb0lHNXZhQW56U09sX1RmWmRLZmlvRnQtOHNHUlZlS3NZckF2WHF0LXVZOHROTTBCMnQzbkM2X1JCYkY5RGpwamRubEc4M3lPaFE?oc=5",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uWFNONTdBQ1dFOUxtbU1pbGVJOXF4LVI1TUFYaTg5SFo2U0YzY1ZRemY4bmxaZ191MHVwbzkyTHhlaXlKWEhtdXdqSFZ5ZFhFMGRSZXRxdVpZRTVFZE1Od2NnTUtMYlFNY1YzNGlB?oc=5",
-        "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pZHZyZnlsaGh6Qy02ZUpoN3VnVDJ2Z2xtNkRpbm1BSUFGa0RsV0t5Vzc1VW9wV2NrRUZqUHliRlY0YzVPZ216UE53TXdzbEhqVjJGc1NwMGVlbUJocWx3Umlmb1JRQzV2SnY2akZwQTZFb3M?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0E3T2w4NW1nMXd5dVVrVmJlS3N2LTJsNHJySTgwX3ltb0N5ZDB6WkVDbTJsLVpvdHIzTVVLQ2NnU1JicmNMN0dyS0dtQzN2QV9wdmlrUl9qZEVqa1NGU1c4ekNqSWZpVmx2NFNVRFRUYTF3emI5U0pIUkNXdGg3bENtbFpBbFgyNzd2akp5UDVmc0VQd0J3ZkNuaFkxd2wxYTQ2WEs0SlNnX2dfSWZNQw?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Mexico News Daily",
-        "Devdiscourse"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Mexico-US trade deal ‘very close,’ confirms Sheinbaum: Tuesday’s mañanera recapped",
-        "US-Mexico trade deal is very close, says Mexican President"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeTNNeS1vMnpaY0ctVGloTVhDTk9GdHNaWG9zT0RjLVZxcUUzZEdKSmdyVTZHd1B5WnU3Yi1wbWRIOVJkbUxZX0xUckFpam1JSE94dDVTZktodDZ6ZXVJTllkZ3kxbHIzVFZ6c05SMkVRYTA4WlBnYldxUVJza3VqUFkzRGlSWnpNWWJVTUV2LVpEN0ZkRHc?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTUhhb190TU92VE53Zmo3ZEdIQzd4NlNXUlNzM2sxaHR6TFl4S1RrQUY0T3llaDUtZnhISkI1MzN6OG10YmVuLTRZdzZlaHB2eDl3WUJ5bGVBRHlRc3hmc09ueXM0ZE9BM0JhbXFLYzJXLXJaSFdLX1NYV0tFTmdaX0EtWUpFUzZLUHM5VmhGcGFQckdkeGNHUFJ3YzRuamNHRlg5ZGpjSWFfdDkzSmdRWkQ1U0MzTHPSAbwBQVVfeXFMUHQ1T1JuTnpwaktUMlpOclFEblI2cHpqRktnV3JUMDdfWVAzZmtoZXRTMV9wU19XZEJac0RydEhXaFNxdVRxNGlpU2JwdnZ6WkdTcXpFdnkzdmh2MFJmQTZ3TXNXQ0V6Zl9WNFZVRW4waUtENmFNOVNHODd3ZHU2LVF0ZjZOb1NKcU9DNGdkOW5kUVA4UUFJQ1ZCNGt0a1FOYlRUVEM3cFRtelA2bVcwd3JlNzRxSlBiNXlVWDA?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Minnesota Lawyer",
-        "Democracy Now!"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Mahmoud Khalil asks Supreme Court to review detention order",
-        "Palestinian Activist Mahmoud Khalil Appeals to the Supreme Court"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxQODZZLXRTTTVxMzBBNEhGSk81X2prbFVpOHg4V2F3b3BONlBNRzVzUGktMzVJaTZGTXhtT05oQVZOVGFIQ2FMX09IWUFhZmFmaUNnYWx3RTBjbmJWdFB3SlUtYTNmQTFMMjZQUDRUbFQ2aF9CY1Myc0ppZHgtQm5FYjNqRHAyQWc2VlUxN293?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXlCYXhNTHBQaTN5cTh2ZU1Xb0pNb1pkWTBaOFhqUklvZFR1Z1RjWmFHOTZkNXduV29uU2FxbEtTNE1xUGtFU3R1SFREUnEzeFlmQ2EtTXljLUsxd253T3ZJSHVjTDlRMDZkYURINXc3cklhSkdqNUhRUURvcHNNM1RESExPU29qeVB0cDZsYmprMWlhWUhFSWh0cnV6VmRmZkxzM29FLUJLaU9uc1Z0Ym5zbXE?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Statesman Journal",
-        "KSDK"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Voter guide for Oregon and Mid-Valley November 2026 election",
-        "Missouri voter guide: What to know about your November election ballot"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONUFyeDVfY3pCd21VeTExMUlHOUVXSWd4a0gwNXhBWVZvcGlLS2NyUHpCNnpyc2V1ZktyRkVleFhzb19HREJpNjNEOGpPb2FvNmlZUUVtbnVBdWxOQm05Wmx4MXlKZzJUeHBvVm9ldU9NcFpBa1dwUnk1OXlnNlpmN0xGSHNDeVdiOUx0SDhWd21PdHE2WHdyMEJsSk5XRThtTHBHci1Mb1Q4cGZzeUdoazFsR0JOWmhoSnJQNGFnUzRJZkFRYlJBb1ZwS1NhSmRaQU13ZG9EZlRnek9yR2VVMVVR?oc=5",
-        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWHl2d2RGOEh3MDdSaWNkSE5lalV5eGd2OU4tSkp1bWc5dnBLRmYyZlhzUG9ENEZfbk9yR3prbUYybllCYjFBRDJvTVdiYnNGRWpiZXo4YjkwN3E3SE1CRXkzMVZtUG4zQjZFM290SUVtSjZObktVeVM1ZGtoLV9fN09BY21KSTJ5b21XUXZ5SF9CUDMzeHlTZGQwVzNPUnFOMnFZSWxEZEoxS0VmRHc3RG5pdnhqWVhoNTVoelNQaFBaQS0wVVNRcExyeFJBci04VS1OQ0JZTU9jNFp6YWFBWW1IbFU2Y29NZWZWN3ZCOWx3NDdPWjBv?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Business Journal Daily",
-        "Cleveland.com"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Ohio Supreme Court Rules Lordstown Can Reject Plans for Data Center",
-        "Ohio Supreme Court rules Lordstown can pause data center review"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMWhsY09lZjNsMnI5QWdZVG5ScUdzTFlVM3VTejB6M0NSMWtSYkRrdWNHdW5TSmZCNDQ0dlh5bWdOQm9sUXJZQmNGU1lBX1ZOUU44dG1LNFdYTHEyLXZsWmtXMHpxZTROTENJTUdZUHhJNnk5ekFZU2xWaUEyT05MV1c2bEhza0t1b0pGYjQ1UUZaeGFjUUtUbUMwR0lMOTB6YW1V?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUjl0NV9fNDQwcmgyRTd0WTY4OHRVS3FkS1FMMFpwWGhOaTFCaUQ4UXI3bHI0dGRoeGJFenBTUXp3emNlczdkTmc1T0NqRDAzbUJKY3E5OW1BRmRZUVZMN29QNXdIaTJkNm9hUDJzUldFUWl6MzFMeXJFXzhHTmpkcjg1UFVMZXo4LUhUX29SMzI5RzVBczhocFR4WkljT1dTM2w3RmNlUTlHazjSAb8BQVVfeXFMUFN3LUxla0gxSFBwUVc0U2ZjNVlSM250VnZVZDlNOHZUUWEwbFlleGtpWWpwWkU0Wk5JMXVWZHB0WVJZN3hhY3U5akZyYmdjb0ZIUkdLS1pjS0NuZDg2Tmw2cllZaEw4OUc2MWRkSTN0Q1lqUXFoa2lhWEtEZ0RHX3VaZFR4Nk9rSy1lSzk5UkxnYWpEbkw2R2xqdFVmLXBMRWhsbS00OGYyNXI0U004aDBlU0VwM09lUzVaMW1fSjQ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Reproductive Freedom for All",
-        "The Hill"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Reproductive Freedom for All Calls Out White House’s Empty Executive Order on Women’s Health Two Weeks Before Election Day",
-        "5 hottest midterm battlegrounds two weeks out from Election Day"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUmRYdUY1b0RWYUxwamZfUUI4Q2I1QmY4cWtScmY3WFVObmIyNFVUVHg5T2RrcUZOX0NvUkNkM0ZZRGFldkZDQU50a3RGR3lqYktncmdfdDgzY2F2UExiMTNzYTdPQ01KdEE0TklkVm1RanhUYVpteVIyQ2U1NmRqWVdldGJNdE9rYnd5cUV6ZGljcEJpWmZYdXBlTlhaY25DazZ0UWlfS2Jmc3RhOTZPV3p1WVVHUTBMQm9tcnZCSzk0WklMUE5Oa1BXcHJ3OVJ6RVJiWldJXzFhZTVudHZhZFB6SFlzcHgtYmtlZU1JdEFvOFRVQmxz?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT191bkUzNmJjbHVMNDNKbzJVOG43d0hqcmlaZExodU8tYWRNSEVpVy1mSGJpMC1Vdm9lellWam9GcTVlWjV2MWI4RGc3Rjk1REhTUG5RWmtNbzVyMTFaVGhSWWtLNzlxQ2dBc2RueUV0SW9iT1VYcHB2TnhCc2dFMlk4UGgzNVBIRWdPVVdzd25oS1Z4RWRZamdRMmQ5WmdNQmR1YlhvcjJ5SUZfMFdV?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "The Texas Tribune",
-        "Houston Chronicle"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "What early voting data in Texas means for results",
-        "Early voting is underway in Texas. See where turnout is highest."
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQUYwVmV6S3YwT0o1WEplUklQWTZJNkVfY3ZBZ093Ynd4UG9BU3FQOGVwSFhWRnR0T21HVjlQbk91Y0VTMExhdEIzRFBPT2xzenNMVzhHT0dLellpdTBzd1RhdzJScmktay1LV29zU3loQXdvVWpYbXo4cTNhZ1ZxSXp3?oc=5",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV25xRTM2ckxtb2Rsdl9OODZKZ2ZBU3haemRReG1ubDhjcWFVaXZTc0FCRmZlc0UzSDRqSUh0THJ3Q3dBZWs3R1BfNGdQa3psc1EwTlA0ZWpnSEswTWVxSmFkQjFNUkExcmRsQThUN1BEREJlM21USEVEUGJYeFJHSUUxZy0wYTBxenRz?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "AP News",
-        "Reuters"
-      ],
-      "lines": [
-        "wire"
-      ],
-      "titles": [
-        "Google Cloud outage hits UK banks",
-        "Google Cloud services largely back up in UK"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa19yZHNPSUxKdDBqd2FfTDNXbThvRC1nRWdsLWVzd2htZDhQTE1YT3BPRnFXOEZNdFZKbnJhUlUyZnFldnBIRnhkalRrVmNmazB6U2lEdjNzSGMyMURLYTFYNldpYlBTQk45VWF3UVhlVUpTbHluUHZWVDZxZzczcVRGUjNVX2ludFBOODYySGJHVF9X?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZzd1RmxxR0ZHZDNMako5RVJrX3o0Z1BPSmhmalh2ZmlLQ3lIYmtLRHIwVUloUWRwcjJGQzhhWjU3OUVMRmJWOU5QUmhpQ1NXdkhyeTNQQllBeXFNaHkydGtla05vZmltT2xTVU5jOHBmMjVZSm9aYzdRaFNzSjh0SVUyQnBvQTdlWDBlbEx3?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Centre Daily Times",
-        "The Black Chronicle"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "PA House pushes aside objections and passes bill on license plate readers",
-        "House pushes aside objections and passes bill on license plate readers"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UmdOOWNlUXMwc2ZHZXlvdWtTbFg0YU92a1BEX2lranBSU0FKMHdJQXRHbDdYM0o1d0hWeWNwWEpYTFhDdmNTRUU2eHFlRGVUb2I5ODhITG40amlDbWNEdTNwa1JYcVFFajFrRlk4OVlSeHE3dEgtY2hSc3hkQdIBfkFVX3lxTE5VNDRIZ19JWFhaTVp1UDdvdzFSOThqYWZCRFU2aHJSb19lbmlDOEdLYkNqWlBMZWZqZUtFSkstbWJzUmxsSmFUOFB2NVY3blhkM3BvRzZzSDFtcm01dEsxSTh0bFVVVy1iMzNWZE1CQk4wS0lBTHhaVFZfYVhlQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxON0ZmSzM4cGZUclZvc005ZmVOZFUwRFlvRTctRGpVOUF6bGlXR3NISVg1Y1JvRjFLdjJHV1lXS3Jzc2Y2bkY0TzNFQ2l4UWVDNV9MWGpucGI5NUJ4ZUZZQUVKVUNuSnNOdy1nSEtaQXFXVGFVRWxVNHRPZnJLZV9PYVZHWEhIOXhRcFdwa2VNT21HMHVUeDNBaUhhTHhMdlBiR2JWbGFR?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "KBTX News 3",
-        "KOAT"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "New Mexico governor responds to Trump’s call to change state name to ‘New America’",
-        "President Trump reiterating New Mexico's name change to New America"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWVJmbnJXQW9vVDRXOUpSU1JZZUZTTTdIM0lKY2tWSFJRNW1DdkFSRVpCVVhXT2lOZWYyMTVFRnRFMmR5Y2UtSFNFck0tbXFqQWJJVHNxeHU5VHNwZU1GR1J3Zm0yTUNFYU1VY0xFbmV5OVRWcEw4eGVmY1lnM090WlctQUVvNlFFSEpRbmJxLV9FdTB2NE5zV0ZwdU1ndWpEZElxSlRn?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWExpMTA4VlAySjNKWUZDdm4zWC14QnNVSm9fNjRWVmRWSGRaNGxWQ2pldmpORmJ0YUxNMkFVbFlweE5VZjBxZTMwMGZGQWZndm9pdklRMVBFWFRyQUhkZHdKeWxkNTJFNFFUdE81QWs1YUpxRzQtY2NnbDJSUV9LZWxoY1VxcEd3Q2ducWwwcF9TLXEtamtaaUxXZTRublJERG0yRzBVTQ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "thereporteronline",
-        "OregonLive.com"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Election 2026: The race to represent the 143rd state House District",
-        "Election 2026: The race to represent the 145th House District",
-        "Worker safety fight roils key U.S. House race: The latest on the 2026 election"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVpQb0RlWU5ibkRTMFlnRDdZUW40cjQ0S0FoMGZHYUlsSFZBUGVpcy05cUZvQUpwWWtvZ2JLdFc4YXBFb2VVTlFDODFveC0zQkUwcXFMVzhUUmNPZE94LUhKWDNxQ3BaQ0ZfcHNTT05KMXNOVm95VE8xcGNOR0IxVk4tWDhqZC01dVN0Zm45c0xlSXlNZWpaQUp0bWxGT3pocHVQSERGalZpbllhU3FlVkFn?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUFhIc0t6OUVCdkFreUg5TmdLYVRBbHdvUUh0NVExbEZiNENPcmNlcDY3WURxbEc4cC1PV2lmMDI1Q2JsczFVYkF4WlNyMUlxSUdSQVJTQzN6T2RJR1MtdXdwQV9LZGx0b0xjd2NVSTk5ZUVwZnc3SDlPamNtZjhCeURReXkwNklNaEk5TVdhbHJ3dWo4WEpYVDZXSmVBcnFkZ0l2M3YtM2RNUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjlmM0laeVVkVmlkYjF6WWF3X3R3UjVZa28xY19aWnBtOEpuZzdHNkpMcmt6WkRxSDJ0UHJrdm56V3NEVzB4LW14NThNVm9WY1RubHczdm1venNteDhoUVQtTlR2YUdxMXZ4cDVhcWI4emxmT0F2X0pmRXhmelNZemRPU0hRaEZlTDZCTHhjRU84UWdjYjJicm8zR2hDVG5Ma1Y3eENqdFp2dTQ1ZFB4ZElIT2NsNDJiSm1rRTRaV2JrQQ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Floridian Press",
-        "TheGrio"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "(POLL) Byron Donalds Up 8 Points in Governor's Race, Down With Latinos",
-        "Byron Donalds faces tighter race among Latino voters in Florida governor contest"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlcteVlUbzRENVZhRVA3Y1VBZmxTM2lLdGhpM0hLZ0phR3BVQ2phdXlkdFo0S3NGLWdfdG9fYjZSRDV3YmJfa1FYQVVYbkhNWlRVRnhOWVpBcW12dVIxOHdvUHRtVG5kdElKYjhteDNZQ0NQQnJIZ2ZwNU1BTVVGVDYzaWpzOU55RXVuQXlURlVvbk4wYk1aUl9oUjZ3dnlpVjNZNQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMnlHWlZUOGhWZVRiMk9ocWFaVTBsNFlmd1A1UmVXa18td1IwcGxfYWotalFIY3RLaWh4TUZhVU53Q2l4QkpVR1BBQTBTN0JMNTZzcnRQUFRkUmQtTmVvS254T0FFOTc1ZGp5d2FWcWdBYmIxOVFEZXd6aDluQXV4SHh5cG16WnlTWHc?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "ETV Bharat",
-        "Firstpost"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "India-US Close To A Trade Deal As Rubio Visit Focuses On Deeper Energy And Investment Links",
-        "On India visit, Rubio eyes trade, energy relief as Trump looks at India-US ties with new lens"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZlZ5aVVxcUVJdXlqYzlfN2dtNC1tcmJMRWRPQXpuU0FDRkNfOUNBODdSMTZ4TTAzRldramI1N3RPZTlqa1JXQkZpLTE2ZjM2MF9LMGpjcTZVMHQxWTRpajhDb1c0TDNMZVBZM0ZaQktidmZFNS0xRTFMcmc4bC1wQnIwX2RmOEUxdUtBdXBSZlZmTmpBSWpzbzlOdFU2Sy1OTnQweVFibm1DWVU1R19iZGhnQk1jR1VLN0R5bGtVajROOUpqZEJVUXBHQ29jT2hwczNFS0ZYcnNQMVBxclBBUkQySElnR0lwcE12R2pjcnhWZ9IB9wFBVV95cUxQcE94NXNQblVLal9ocTlwMlNwQ01fV1c2aVdkLWdfMUVZOE5Qc256RGRnU25DQTdHTVN1ZkR2ajFZQ0ZsNEJVR0tzODhYbTBPcVk5XzBVTDZITlBCbmRCd2NoTGJTT3I2Q1VPWWRLQnluOFlzZHNWNDhLNjdfVG9IMTdtQV9LSGl5WlhneERFZi1yR0FXc0Utb0dTV2pBNTRpSUl2eGRITHpRb3hZVHVoUUFCMzY4LW5fZWlLTDNreGY1Vk1ONnNYVmFfTGd5ZnlUNVpoNkVReUJrUUt4T2lRU2szekRRUkJERmQxclQ5TUJMTWNNcVF3?oc=5",
-        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOLVZ0cmd3NHEycVctbGY2LVRFcjJkaWJYcnlELUtmaGVoLW5lSEFyeFh1RzMzU0xXdy1oOHVkWno5U01qSXN6ZEJPTTkxWVBaMFRUcTQyX1VlWWhnMWx1Y2w5TWlfenNuZlg2MmtYemRONU04a2dPRHZlMGU5RzhjdURfeHgxbXRkVF8wU1FDREJuSFY4ZTNwaWVlakR5Snp1YUlFbTJsUGppSHlJN2lwamVxMDVQRmswQ214ckxsZTRLY2sxcThMSmlhWThRb1hRMldPb3ZUZDJnbjZxa1EyN040OTB1aVc4VVB6NExHZ9IB9AFBVV95cUxPdVVNc1RENDdVRk1zVjJiRjNoWURoWlVKbGlwYmZkREFqLVZBRUJSR3JrRENkQ2F5SGJOU1Y2cEFFaXA4d1J0eEU0ZzlnaVlmak1IcmNXXzZKUjlDajhvT2J1YlpGWVdkVE5DMTFobGRwQU00emdvR3U0bURsdUZXTGFhSG1JNUdTUV90LVlkS1lQeU1GMDZtdEJoeXpHTk53MXhPTjUxVVJkWEdRaVhoODM5VlM1VF8zU3N5X24zdDhoVkN1TVkxTDUxSTlwNlBLTHY3U0J1ZDNDUjFxOU1rLVhTVG5rTjVYLXRHWjJoVkF6WklB?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "FOX 10 Phoenix",
-        "herald-dispatch.com"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "2026 Election: Arizona Congressional District 3 explained: What to know about the Phoenix-area race",
-        "Election 2026: Job creation a priority for candidates in District 24 race"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdEZQRzliQU1uR243SXA0NkZaQUQyYThCeWcxdUdvc09LZ0FIcGl0Z1VHeGpfM0trT3ZYOS02dFhGRklodW9QamJHNjdXSk1qcUtCcHR4VXZmYUhoc2NXelYtZzlqTjlDd05udG5PMVpINHVld255VnplNzlPdmotbkJWMlVFUXM3bVBIak9xN2RhNnNZQngySF9LMnhfcUlQLXdWUWNIZzdvX28zdzFWQUxhLVlfVVZDcFpWMkdaUU90djZza1Nz?oc=5",
-        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZS1mSThiblFhZ2pORFFJRkRDd0NfeXhrdGdNYzdxLVIxNGFFMmtMYU1yQmtpSjZqeWhZcWZPMlhocDY4X05ERTFPbEFPNGt4THRjSFFEUDBfaFRyWURyVU5hOHJkWEI4TFhmS2tnU2VteWFfRXRoeF9OaXhZNGwxRjdlSDlDOFFfVW1oV2ZyRTlUR3N4dlZCenNzQ0lwaTdKOFQ5S3prcWIyX2hJeVU0RE5qeWdQalV3MmhQN0FSXzZOY1oydU5GREFfdUR5ZTdsWWdfMjlFVG8yTmQ3NmZjZXFLcXp6bnRrbU5RM3pZNi00dmNUM3lJ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Latin Times",
-        "teleSUR English"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Florida & Texas Early Voting Begins — Latino Voters Could Decide 2026",
-        "Early Voting Tests GOP Strength in Texas and Florida"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnA3OVYzMmJZSWlieERrYklyVHAxaFlDTENWYnMtWHhzSl9kQVh2RGUwQU9FSmdoYnF6VDd3NVdUTHhtQnhidGN6MUZjMWJZQXNDQ05XMzdicFhkRXlvWUhUNTgweHBZMG5nRUUxLUhZWHhmalUtRXMyYzBmODZyZjJFYkdKYV9CM0VsRUNxMmJEUVJhYkRIa2JreDNGcFdl?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jMzhIMVljRVhfeEpwMll1dmYzbVAwOEVMN3lvX0NWQUxiZFRGekVfdzhkR3NPcE45SFNBLWgyZjhZTmRhbEFoOTdoVFNzZEZSRF9od2FaRVVVSURJOXFfMU5KVG54OVJyYUxWbWpFQ2p0N2xmeVQ5cDFCVzk?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Washington Examiner",
-        "New York Post"
-      ],
-      "lines": [
-        "right"
-      ],
-      "titles": [
-        "Alberta votes overwhelmingly to remain part of Canada in referendum",
-        "Alberta votes to remain part of Canada, rejects independence"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUFlYMUxZQXF5V1hRSlJUandGd1NtWnpHQmJRSFM1NFBPallrMkNKX1hRMENBcDhtUHV6MDZDU3ZmTHhuX2ZObWJvOEc5SlpTZWtpZ3NYVy00Z1hfZmJvNEhWX18tRFVBRmwwTWs0ZkVUMW1jWEpxQ01Zb1lqOGU2dEVTbGRTTkVmWUlPTjNDQzhHb3czNGpwWEpNMXdOWVUxUEN0V1AwanNCMGhX?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc1VaM2pGT040bGw3Qm5rTlFEUjB2enMwSlBSVEdZSkUtNTBubmFycG54TjFaNjh5THVhZm1VYlhRVjFqN0s5WkcyV2QtMHJuYU16ZldUTEtyYlRuWUJFTzhLQlM0X1JaYzVMY2t3dTdxeElnQnZJeEdtOFpjXzg5OXVjeGFEcUtfX2VmZF8wRXdqU0VPM3ZzZHFVeXBrcFZtNl9n?oc=5"
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa25ma3hsaG1NOEQ2Vjkxc2MxOXdzUHhkaXZEZVFUbHR1RmhITl9PbzFvYVktcmliamhmZkJENXBzdk9xX0JEMUkzdzJYcnFtNHktVlFmNWllZ1ZhQzdkZlljaGtGNk04d0hyaUktMGs5b0d2ZWdtRXhoN3pLM1NPRmxMQ2ZheTQ0T1YyUl9IUmIzdVhtV1Y5SEdfS21CYnJOZXo4VQ?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVHYwY2EtSTBkUGR3RW80aDl2dTUyQm82d2FkZ1lRc2tOTF9hRE1nVjNQRVZhVnhhcGRXcXRtTzNOZXh0aW45cmhqcnN2M1R4amtoVmxRLTQ5SWtQbTlRNEpHT0QwMmpYSEdHUGp0MXdJOHBaaUN5cmtHV1cwRHY4VVYxcw?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWVJmbnJXQW9vVDRXOUpSU1JZZUZTTTdIM0lKY2tWSFJRNW1DdkFSRVpCVVhXT2lOZWYyMTVFRnRFMmR5Y2UtSFNFck0tbXFqQWJJVHNxeHU5VHNwZU1GR1J3Zm0yTUNFYU1VY0xFbmV5OVRWcEw4eGVmY1lnM090WlctQUVvNlFFSEpRbmJxLV9FdTB2NE5zV0ZwdU1ndWpEZElxSlRn?oc=5"
       ]
     }
   ]
