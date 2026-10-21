@@ -1,28 +1,28 @@
 {
-  "at": 1792610918624,
+  "at": 1792622354278,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "ACLU of DC",
-        "Politico",
-        "Law Dork",
-        "Advocate.com"
+        "Yahoo News New Zealand",
+        "Spectrum News",
+        "Orlando Sentinel",
+        "WTOP News"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Supreme Court Denies Trump Administration Request to Withhold Health Care from Incarcerated Transgender People",
-        "Supreme Court blocks Trump admin’s limits on transgender care for prisoners",
-        "Breaking: Supreme Court rejects Trump admin’s request to end trans-related care in prison",
-        "Supreme Court rejects Trump’s ‘dangerous’ push to cut off medical care for transgender prisoners"
+        "Trump team asks Supreme Court to lift pause on Big Bend border wall construction",
+        "Trump administration asks Supreme Court to lift halt on Big Bend border wall",
+        "Trump administration asks Supreme Court to lift halt on Big Bend border wall",
+        "Trump administration asks Supreme Court to lift halt on Big Bend border wall"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOb245SnZuWndvVDJTUUZOV0ZKaml0RTlYSl9NQXpOekJzTVpIYUNIRkxHNU9JTkw5YmhoOTBMdWJMU1BRVm56UFVMeE5mcjJaZ21icEhnR1Bhdll5Y3pQUTZzNkNGN1hnbjBSNVd4UDl1d1dsbmFLSGk1LU5KX0ktU2k3N1EwRlh4NkdtTkFTZXlLRlZMTFVLTVBzUlM4Nkw5RVhDdTVQODJ5elJiaXlXZ2g1Z2luQlkyV0lsSmtNRW5yY1hxM2N4TEF6X19vbHItTjJ3VEtZUTNEd2RzQWxySEhFMA?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNjZCdkJrMHhDUEhFeUpVaGtfcm1tTEVWNWJrUFU3QmdfQ2NIajBzdldkLXkyTlp4WXdFUVd1MUlIQi1qaGxPa1BvcV9PQkptQUZHYkp0ZHVUQTMxb2p3cFFfbkRQQTJFclhwWEx0cjg0SGlnQjBIb0dqR25wVl9mMkNPSjh5dzh3ME03aXlnbw?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KdWVBSE5lbVhLNnROel9uWS1uWTQ5ckpaZFQ0cVNVV2duRGlLcHM2aW5QT003VE1IRVR1OWhZOU1OWG9rT1pkZV90VnNGbGhjT0o1ZFhCS3YxaElqSXBJNkNLQzZLMTJiemIxVGpRNVduSVZTYUxTX0M2Yw?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE04MmZEVVZ1eHB5dno3cHVJUHlmNm9fZVNXVGZDMGwyRm5LTjAxZWw2aGIwTDUwZXgwcVpRdjNLZ0tEdkhkOWF4QUNYa01VamEzajFHTnNwNGdELVh6MVExRmZ2TUlYbzNDaUoydDNES1hEVWEzdkFBcFJ0S0pkcDQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NRkZiMUlOQ0U3bUp5V1JnQ3VVSU4tUVFadzBCZ0wyQThyUDB2bDdjQ1JCandGdDloMlQ3QnFaUFN6U1pCczlNVXd4UlBMSlEwelZnVGNnZXFWYTNzVkUtRXktS3dReUFsR0Q5S09WZG5abDI1OFhVa3B3?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQTVuNmk0TzFGbENDbklWNjVjSmt1MHpHZ00wSzBETWtPSUhPdTRqc1puVURmSGJFaG1IQnFGTEFpWUluSUlHY3JIenZtRmlnWk1BVFFBNEljbHl0Z2RobTRIaThmTVFiMWtTXzVvSzdWOXhNTFE5OWJCYXhnalBGdDdfWFVGaWdTa1JzejllUkdnaUNUQnFhVkdKVmpyYXRnUktvT3RmR0NMY1BBYnJaRHRmYUszQWJ2b29wNkYzYVk?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxORy1HNElCdHF1bGNwSnpDRkV4eTdxbzlnd2dqaURweDk0cG13OWpZYkszTFNaS1NudkpHZmlsamJBbk5ObkQxQ1pjVW12enBwdVhyTDZjbjVoTWpucl9wZWh3WndHRE5UVnFzT25sT25yd0V5X2VkRWJLS2VxcDFac011MTZ6M2dETktONQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXF2eGk0NkhfSzNnLV82WUQyZG5KMEVXZ2VNUkl4dFVVUXVhaEtqV1dsVUdlRUg4cjhxTUpBbTlkRnk5N3J6SWlyTXRyeDE4Nk96dnV4R2U0aDZVT2Y2SkgtcDFlXzBvQ2NtMDRhWlRMMUlXVVhwc2tjODJWajRvUTRRUUxQbGc5b2FLSHRLZUNNeVRrUjFSZlVFQW5YcWZic1RUWTBiNWd5TFhMX3VnYy0tTHJxenVWZmdJbGFUaWJUNk1iQldKZmdkdEVoZVhsTWRVVGFVdlZuY3Y0SkE?oc=5"
       ]
     }
   ]
