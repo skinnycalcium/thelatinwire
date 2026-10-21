@@ -1,49 +1,87 @@
 {
-  "at": 1792559379271,
+  "at": 1792577417287,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "UA.NEWS",
-        "Business Standard",
+        "DW.com",
+        "Organiser Weekly",
         "The Economic Times",
-        "ETV Bharat"
+        "UA.NEWS",
+        "Business Standard"
       ],
       "lines": [
         "center"
       ],
       "titles": [
+        "India news: India-US trade deal 'pretty close,' says Trump",
+        "“India-US trade deal is pretty close,” says Trump; Sec. Rubio signals breakthrough soon as three-day India visit begins",
+        "India-US trade deal ‘pretty close’, will be very different from earlier pacts: Trump",
         "Trump says US-India trade deal is close — The Hindu",
         "India-US 'pretty close' to signing a different kind of trade deal: Trump",
-        "India-US trade deal ‘pretty close’, Trump says; will be very different from earlier pacts",
-        "'Deal Pretty Close': Trump Says India-US Trade Pact Will Be 'Much Different'"
+        "India-US trade deal ‘pretty close’, Trump says; will be very different from earlier pacts"
       ],
       "links": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEY0SkRUOWg3NTVURVZFSGM2NEd5T2xtczhhUHpQMlBrVXZGSkZGTFFCcEJ4eW5sSzNidnJSWjg0MjM4NmVfNUpGdUYyMmxiS2xaX3c3YXppZ0hYMEZHWlhwR3lVZk1CbllSU1JKSlVDS3FzTmRuUUtkc0NWWFBPSEtNYTVUUm8wSV9reUI5NE9PVlI3?oc=5",
+        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYkJleWNTUGQxNzExY2hGLVRmUUJ2bnZoSDcyVFB6RlF3M3hyM2t5NkR5UV9Hbk1aNmtqcDJ0YmozZVVFYVNHRV9lZUZRTE40OWdOc0NVTUI0MVhvNWsxd09rS19IcDNQQVZERVpWYkZONkszTVV1akpiSWNRNDhuUkV4bWUzQTlWTXA4VkRJZnNwMmR1Q1hVUC01a3Y2X3lpcGZFaF9rMzRDd0lfUkw4VFBtdVZJLUZBYmd3eXF5VXZLeWVkbGJ5Qlp3UjVzZl9NRzFKZ1ZMZEEzalNlUnBmWnd6c0FIWVlPcFF1ZlQ3THdhUkXSAfgBQVVfeXFMTXhBOEJuWkVLSElMeWFuaWlIT1dwY1BNenJXNXFsTFB5NDZlb2dORGU2aXhONzU3enV5Z2hieHJ5TU1jREVQWkdlZW93NlQ3Z3FpVTQ1ZDFZaUgtN0k1aDdfNU81NUxlR05DY3ZkOUdDY2tEOVBaMDZqM0NNZDV5TEhYZVNFdHRxbWlxc1luc0QzSWxBdFI5cVF1Z0lkS0ZiQlYwOWdVeXY1TnJMbjlTM3hySTRjbFltQjV3aXAtTG9LN1VzcnRhZk5rU3kzSUdZVHhvM1ZxUllwSXFEUGtiWUFHTDRBTFhSZ3RfNXRSdGJIUUhCakxCLTM?oc=5",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbEhhdUhRUFFlUlU0YVdwWXViMU5tUTN4YnJsQ2Qzb1g1Rl9vWTVQZ2RoNWk5WThqaVhWM3VuWnhnVkIwNDRxQkdUY3RJUTJXZUdzRXNETWJqN3RXNFAyLTJBMkdlakJpa0paTkpGN2hreU5URDVOV3d1NHppSmowdGNJc3RadGhtOF9icDBXeEYzdnBPamoxM1I5Z01NWEctckh6cHk5M0liQjc1Z1hUUjdvN2kyTzIzaU94cUR3N1FSSXEzU2xmOTJkYzgxdFhmdW9OekVKTlN0c0h1VzkwTVo4c0jSAeoBQVVfeXFMTkxCNkhhSzBoSlRtamNfNXdka3pFYk13cjlGVklUQUk4ZU9BamxUZERsRTBtbmpsdVliaHV1S0VsYTcxMUdfLWRnRndQS1R2d0Ewb1hKYlVCY1BsYTR6UnBoUHdTYnZ5elJWWEZVeWVWXzZ5ZkhQUzJYZmlwVEl2X05hRXJjV0diRmVPV1ZacG9oSDdfQVhrakxpMTZmS1ZSeXhhYnlvN3ZyV1ctSWdITHpBS0ptWDJ2OTFfLXhydEJ1MVo4Q1ZqdUNDMzFYTFZRNGxMNnFCRE5ybmt4cFNSTDFqWWpJLXpGam13?oc=5",
         "https://news.google.com/rss/articles/CBMilwFBVV95cUxObTNBYmJMb25jZjh1MEZiZl9qYmk4Sjc1Nks2SXNmQmVYVFhtZm5ldVBoZHVDYmFrRDd0azRIU0R1dDYwY1FSRDk1bkk0dzYyRWR1a3NFX1ZUZnZUZzA0OUgwRTNnTEdWcGdHTThCOFpmRVVGMGtBSFpUd05icE83bWhfUVZOc184SDJjOVlqYjIxcWhHVWhF?oc=5",
         "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQanR4OGJNSU80NzAzTkJiM3p0ZXg4WW95bE1fTkZ2aURfYkF5RlgySnNLcU16Wno3NUpiUWptZGExQlRoRWsyVFhqVW1tdERKelBtaE1TbS1zdllhNVNMa3JZYjhJWkZ4Sm40WmNwZHlnUlY4TkxKaWRLbDQ4NDZ5TlN3QUsxZFdFR040dUxtMFdNckpKNWhOcVhwRDhrSTdPQVQ5NzNScTBHX2JoR21fXy1heVlGMWtId2w2Q0U5Ti1Ea25EdVBxd003enBGa1V5cGJTNDhDVTNtSjJwQUcxTzZCWmdWaEZTck1RT29VTzNxVEpH0gH6AUFVX3lxTFBhTklVTXdoV2JCOGh3bVFqdTFGU0xFSFUxVndxLW5LSEZST1NGcUZnS3ctN2xZNXc0RC1XTlkwbi1odlBIRmdxOXl3clpZZ2hSNkdPX2lfRHR4UWt1SENHQWhvcE5pWWJvaFNoRVl5U3E4N2N0Tlp6cUFtUUppYl9pclJrNktDRE9tWExpSUxoWkFjQ0Y2eXZnTU1La0RncmZSbDlVdHR4cmF1dFlMc1VzZ1pZMElxWU8yWnRpbzZzaGRha0k2Q2ZkUTZBc1R6WFRvWUhza1lVcjJKdDl2aUZaRXNBTWU0dmQxalRfMFliLTNLSXNfUFA2bEE?oc=5",
-        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNV9yWm9ZVTVuNl82dlVPSUNoNUVValJuQmZTc2xKbEJvV1MwZEk2Rm5LR0VLVHNEWlVManNvY3B6eVlsbmJpcWlvRndnRFJKd3Zvak8wbTJqUTQzWmNmWThBSmpxV3ZHNl9ETXlIcjE0cVlRMTFwU3otN1ZteEt4VkluY3BKSmRpSUtEYmx3NEtRclRCWHo5YzJObkUtZ3ZnTGZvV1N4V2dIZUotdXVxdWJtSXZfRzYwUVEwQTdQZXM5bVZ1Y2E2aTZoMFdWa2tFbGhUVEY2UHI3TWxUWlo1UUotR3BZbTgyTU9iMXUycjB4LUpndk5PLU5n0gH_AUFVX3lxTE4taS1oUTB6RzNrRWxJc0ZlZDBmdHZDSURfN3BkcEtzTGtndlBCVHdWWGZPVFhiNGlkVjlFLW92blpJOHFvWDRMeGVIV01rZkpiQl9FbzNIOVd4dnFDOWFUYy1nbTM5V2pWNEw4Znd5cm9yRlBCeHEyTm03R3FPdzNhTFVKWWhUQzJjcHRaZXY4XzBzUjllcHBqWWdlODhkcUE0NnZXamtTT0x5V2EtNUtqSlV2OEI3N3oyN1FLR2JLYzFERTN4SmZuMC1PR2ptX0JpaUJ2SUhLMFVHREZUYU5kSWNEZENlUnRsRmNraGdaV2NaR09IRVBROUxtSm53dw?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFZUSjh0ZG11Y05IQWdQR0Jrb0dTN2JiQm9zNUdjX21vT3BOVU1Sc1FSQWVKT3h4YnZJRER2SXR2aEN0LTE2MXNNd2tVbGZXQzl5UnBNS29PcFRjZjVzZG8yLUhDelh5WVYzbThna3VLZTFEYjRKUlZCYmdRVnBvblp3Z29xZjhadkR3Q1haUzVNWktBVjJLUms3S1g3MFBRcGFZdEVxaVdfeEZPeTVnVtIBtgFBVV95cUxPUzFBci1qRWI0MU0yWUt6QVM4dUJoUVRjWXJsNV93bGZVQUhGaWFvWkNPLXk1WDRJVTJPcVN6TEh0ZHRuUGl3MW0tWUdzMVk0RXA2MlRiSUphMkdfZVJ3WDUxOGlJLU5FRFBwV2N1bU13VDZTMU5Wdk5UR3c5SjMwTTdnMEtOUkV5RWRKMGpkTmpLR0FSZEJlaUtidDkwQTdMVTNKdGQxRi0xZ1psWFJqaG51X2plQQ?oc=5"
+        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNV9yWm9ZVTVuNl82dlVPSUNoNUVValJuQmZTc2xKbEJvV1MwZEk2Rm5LR0VLVHNEWlVManNvY3B6eVlsbmJpcWlvRndnRFJKd3Zvak8wbTJqUTQzWmNmWThBSmpxV3ZHNl9ETXlIcjE0cVlRMTFwU3otN1ZteEt4VkluY3BKSmRpSUtEYmx3NEtRclRCWHo5YzJObkUtZ3ZnTGZvV1N4V2dIZUotdXVxdWJtSXZfRzYwUVEwQTdQZXM5bVZ1Y2E2aTZoMFdWa2tFbGhUVEY2UHI3TWxUWlo1UUotR3BZbTgyTU9iMXUycjB4LUpndk5PLU5n?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "ABC27",
-        "Pennsylvania Capital-Star",
-        "Yahoo"
+        "Daily Trust",
+        "TheCable"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "State House passes what would be PA’s first regulation for e-scooters",
-        "Bill to legalize, regulate and restrict who can ride e-scooters passes state House",
-        "Data center regulation bill passes state House"
+        "After 8-month uncertainty, Mexico clears Omokri to serve as Ambassador",
+        "Mexico finally approves Reno Omokri’s appointment as Nigeria’s ambassador"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2QyMkRyNUUtR20zVi0tUEtyc0w0ZWlHSmpmVTBmSEVOUWZxMUtTNi00Si02MDBXV0dmUGU0NE1qb1J1MFFadDFRbzMwREU3YlUzVDI0WjlRUGdlVTBwZ2J0VDJVZmZsTTAxZTdZOGZPX00yMHVPck83RlVnYU5Mb21UcHZORllsNHJIZWw3MmxVeHM1MXVsR1NJalZkU1R1ajN1RkZzaXJTSEE2dmFQTmRRY9IBuAFBVV95cUxPSXdzOVU1YlZBVEVUMk1Nd0lkVk9MbnVjczI5REFDQW5ZQUtkNUJKNVVxVmd4R2dNakJqRTFEaVNlc1lFYUdkOTlibk1WWmlmVmRXbmtsYkJNOFdmUFZMWUJhUGhzR0ZHeXRsaTFkUXA2UTFwVW1PVnAtU2tVb2lvVExLWTEwUUdod2lPOHFJSDQyY2JCM2tLUUZ6RENxZWNrclJESVZSU2EwcVcxVTdJeVh4a2dmS0tT?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQmNCaEpMRWhPQnFfdXlLcHFfa3pneXRrc05fWGFQUEJaRHlFWG9fTHpsOGtzVEN3WnZkc1F4OEhZY3NhSGpIVENYN21pcUhxdVdNS2ttSkJ5S0JnQVR4WEgzVzdsWWFXM0NrUHBEbjFncFZFTEx4NHFyN0FDT3RyZ0w4R3ZLc1VkY0F0Q0pfa01nZGx0c2dybllMc01RSFlKcjNEWGppcjdRMXFZY0ZKZndJc3A4eXFzOFpYUEYxVEp3dDJwUFdzOHdfYzFhaTdsNFNDV2NpVm0?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWE5Zdl9RNkhxaGxCY29idkFZNnJ2ZjY5SlBzOHdlMkFJaWQ1aUFyU01kanpJX1Fma0Y4WEhDSkRDQ2NRZkJwckFlRkQwaG9EZGZ1T1hqNVdwTlRDenE5Z0xicjV4TFl1NWw4a3RnTVJwczZBYW53NjA1LVVMaTVwNGtLTHZRZEZFc25IbDF3dXZnXzVsSXBPLUNn?oc=5"
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT1U1bDdEdWROeDRRSW9VWHptY0VFSzRfdjU3QTM4YzExNEZnLTROeGJtdXB2R0xyWnpsZlNXQm5Ud3NpcVhGalp1QnVOU2YxS3N5Y3JOOVhrTFlJS0NCVlR1ZU4yWERCRXFVWlViV19ZSkRXZHF4UE1fSmFGSnRmX05WWU83MHJRekpKSTBtU3BieEVjMlR3Sw?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxObW85RlBBWmdpeDFEYk5zWmFRTWVrY3JQMmVUZHdsQVdMTGFkYVloZTdsenJCTEpCMmtrRkJLSkJ3WkhtQmROSUVnNmRWei01WDF5djI1b2dsWVJPZUIxdEZMcHUycHdyak5KdFZrQlJmOENMdnNTVXdURzlTck5sRjB5dVJyTlZEZXJHUkczTEtGcS1xTk1xUndWdm8?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "- SoMD Chronicle",
+        "K-12 Dive"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Supreme Court Takes Montgomery Schools Admissions Case -",
+        "Supreme Court takes case on K-12 admissions policies"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1lxX2VCVTBQSlhuZThwT3JqZWhqTnZpcF9BblFDS3lLMDlFX2daUE1lOXZTeWlXQS1jd21JNEs1LUZyWWZJbDliVlJkLVBfNTJtX2VsRVhnQ0t5MW9DY2ZjY1ZqY2lFc2lNMnYybzhZRUpyNExRRmRqY2hyX3BwTUFxdHRYYU5ZbGE1SDkxSEcxWE9LMTJrWUp4WkZJTThZNVZGeXNKVV8tYThFSGh6LQ?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRnF4TG5rZUZsTkxKXy13YkFpYV9GYUtVNzRUWFUtZHY0eGdGY1BNdkthRHdvV2Rmc2pwMmxGSk4yVllJeXJXME1RaVRjSGtIb0RVRGxIcXVxS0pIWkpORUZJMjhCR1RfTWhMUmdSMFI4RldwUlZGWVdudnpGV1gzSGxheloxMHhWNjNaWVZJa2I4ZmM?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "New York Post",
+        "Fox News"
+      ],
+      "lines": [
+        "right"
+      ],
+      "titles": [
+        "DHS launches nationwide ICE operation targeting illegal immigrants accused of SNAP food stamp fraud",
+        "DHS launches nationwide ICE operation targeting illegal immigrants accused of SNAP food stamp fraud"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjl5NjEweGZBNWtjRTAxWm9pbGFMNXJQdXFsT3RDZ0VLSkhDd2VBSGd6WVA2Rzd3XzcxUXVCa1ozOHhQRVZ2M25vUTdGNC1xanUtZzU3eDNzMDJKVG9QRW9hYVVFMl9PcHhvUklRTW9kT3JuVld2ekpFNXZWcmhaaXJub0xCeDBGTENOZzdoVGk1UFRSaVZ6aEZZcnlVdTNmNHVlWVZGMmJOb0lab2VJVXdfQlFkZmJ6MGFCd0JrTGczTFhrb2h1Q1dlREM5SXlxYkdaVg?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzBrVlo3Zl9HdmNjY1dtVFBmSFEyMlc3SGtRSTdHVUlIRlAwQ3hGT2FxX0wxVW8tZG5lMnJ0LVRhMl9GbC16bmRyVFRVTENBeGhDN2xRNXFyc3JCQ1VFUE4wdnBLQVp1SDQ0ZnUwbnh4UGFRc3ZjamFNc3BuelZkelpoYjdqUGFOdnM4NE8tT3FpbjJnZFRKbW0tckhyOU1keGxXT2U5MnA0NzdQWGQtMnJFdndrV0V0UzZkU0Znbm7SAcYBQVVfeXFMTTRZcTNNalRTaUZXWlpuRlB1VHFjd0o2dklVX05TR1dGYjdjT0czVjNHd0RHbUxkWXJNSWYzTlBYVU5penppWnctVlhyc3d2VnE1azVjUGs3TnI3UHVUUUdqZzhyWnpGdzFTcHNUNnpOaGtLeURWVDhYNFllbWhFRE9uYjBLT0k1SmFZRmFYVURWcU9may1WLTJiTUtBVm9wVldVbi1EWEVPc2luano0VlFHXzhvOFZxN3FpLUd4WE9TcjlRWTZn?oc=5"
       ]
     }
   ]
