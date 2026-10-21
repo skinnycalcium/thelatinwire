@@ -1,46 +1,49 @@
 {
-  "at": 1792542288470,
+  "at": 1792559379271,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "The Black Chronicle",
-        "Vermont Community Newspaper Group",
-        "The Moore County News-Press"
+        "UA.NEWS",
+        "Business Standard",
+        "The Economic Times",
+        "ETV Bharat"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "What the U.S. Senate’s permitting bill means for data center development",
-        "What the U.S. Senate's permitting bill means for data center development",
-        "What the U.S. Senate's permitting bill means for data center development"
+        "Trump says US-India trade deal is close — The Hindu",
+        "India-US 'pretty close' to signing a different kind of trade deal: Trump",
+        "India-US trade deal ‘pretty close’, Trump says; will be very different from earlier pacts",
+        "'Deal Pretty Close': Trump Says India-US Trade Pact Will Be 'Much Different'"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3VqMVB3Uk1zUEhUeDlvQ2haTlNOUlo0UXlkV09JNkFnb2lFY1MwN3RxTGY4eVZDNV85Y3VqMnNjZ0VxV1FlM1hCWVNhMV9HTlJocWstanphMEpUSGF4eTRkaWxTTXltVWhWVV9MVFAtRFBKR2lBOUxZZU02SnYwcXBpTjdCWFdscFMyaUJFNk9RTW9Hd1Y4Q3RDMFNySmpKbll1dkNrSU9pRXRYcVRQM3E5UlN2cmFfX1BV?oc=5",
-        "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZFRxZHV1WXdfWGJJbVlJM2MwcERCVkt0NXJfMHFqVlpYZzdBYnRWbXpBUlNDSy1weFExOGxMQTBXODFZTk51Mzllc29vd3dkSkdQQkhXaHZDQnJaZzVJdXRINzQzRHZQRldtanNSS2NhNDYwcDN6S2UwQUtQUEwybWpIMVQ0MUVzdzdEZVJ2Uzg1UDdlemlhUGFQMnAzNVdYZWVLNUxjNkpodDE2VTVyZkNGenZiOWhBWmZNbV9tclJid3IzQ2JtMDBveXVleTZxenl4VjdCZVdPLWI5dHBtMVcwNC1RSk5JcngyVUxPV1EyUjExa2tyRjhZUl96ZzFiTXZ5NllXSnBJWUFNdVhoRg?oc=5",
-        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUEk3TGVfUU5BVjRsNFRJeWtKeFhjX1hOTGZJRTVNVUgxOUgyOVR4aVpjdF9jbnUxSlBKdmFwQ3RkZW1hX1JCeEEwbF9iVDZ5MC1OSDgtR3JHMjV0cVJWMEFOZi1tQ2x5Tk80VGFENklpd3Y3NHhFM3dCd0syU0o3N3k0MDR4Z0dJRE9acnUtTDdQRW41eXJteEIzc2V0RTBTWHk2Q2k4R2kycWUzWVdjOGZEdTdXdXRFTXFvU1NjbTAwQUdhclFCbTRtYW0wQ2Y1RktaNGp6Y1FndHgtYmpySTJmSEprMzhUQjNrRGF6bUlLUQ?oc=5"
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxObTNBYmJMb25jZjh1MEZiZl9qYmk4Sjc1Nks2SXNmQmVYVFhtZm5ldVBoZHVDYmFrRDd0azRIU0R1dDYwY1FSRDk1bkk0dzYyRWR1a3NFX1ZUZnZUZzA0OUgwRTNnTEdWcGdHTThCOFpmRVVGMGtBSFpUd05icE83bWhfUVZOc184SDJjOVlqYjIxcWhHVWhF?oc=5",
+        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQanR4OGJNSU80NzAzTkJiM3p0ZXg4WW95bE1fTkZ2aURfYkF5RlgySnNLcU16Wno3NUpiUWptZGExQlRoRWsyVFhqVW1tdERKelBtaE1TbS1zdllhNVNMa3JZYjhJWkZ4Sm40WmNwZHlnUlY4TkxKaWRLbDQ4NDZ5TlN3QUsxZFdFR040dUxtMFdNckpKNWhOcVhwRDhrSTdPQVQ5NzNScTBHX2JoR21fXy1heVlGMWtId2w2Q0U5Ti1Ea25EdVBxd003enBGa1V5cGJTNDhDVTNtSjJwQUcxTzZCWmdWaEZTck1RT29VTzNxVEpH0gH6AUFVX3lxTFBhTklVTXdoV2JCOGh3bVFqdTFGU0xFSFUxVndxLW5LSEZST1NGcUZnS3ctN2xZNXc0RC1XTlkwbi1odlBIRmdxOXl3clpZZ2hSNkdPX2lfRHR4UWt1SENHQWhvcE5pWWJvaFNoRVl5U3E4N2N0Tlp6cUFtUUppYl9pclJrNktDRE9tWExpSUxoWkFjQ0Y2eXZnTU1La0RncmZSbDlVdHR4cmF1dFlMc1VzZ1pZMElxWU8yWnRpbzZzaGRha0k2Q2ZkUTZBc1R6WFRvWUhza1lVcjJKdDl2aUZaRXNBTWU0dmQxalRfMFliLTNLSXNfUFA2bEE?oc=5",
+        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNV9yWm9ZVTVuNl82dlVPSUNoNUVValJuQmZTc2xKbEJvV1MwZEk2Rm5LR0VLVHNEWlVManNvY3B6eVlsbmJpcWlvRndnRFJKd3Zvak8wbTJqUTQzWmNmWThBSmpxV3ZHNl9ETXlIcjE0cVlRMTFwU3otN1ZteEt4VkluY3BKSmRpSUtEYmx3NEtRclRCWHo5YzJObkUtZ3ZnTGZvV1N4V2dIZUotdXVxdWJtSXZfRzYwUVEwQTdQZXM5bVZ1Y2E2aTZoMFdWa2tFbGhUVEY2UHI3TWxUWlo1UUotR3BZbTgyTU9iMXUycjB4LUpndk5PLU5n0gH_AUFVX3lxTE4taS1oUTB6RzNrRWxJc0ZlZDBmdHZDSURfN3BkcEtzTGtndlBCVHdWWGZPVFhiNGlkVjlFLW92blpJOHFvWDRMeGVIV01rZkpiQl9FbzNIOVd4dnFDOWFUYy1nbTM5V2pWNEw4Znd5cm9yRlBCeHEyTm03R3FPdzNhTFVKWWhUQzJjcHRaZXY4XzBzUjllcHBqWWdlODhkcUE0NnZXamtTT0x5V2EtNUtqSlV2OEI3N3oyN1FLR2JLYzFERTN4SmZuMC1PR2ptX0JpaUJ2SUhLMFVHREZUYU5kSWNEZENlUnRsRmNraGdaV2NaR09IRVBROUxtSm53dw?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFZUSjh0ZG11Y05IQWdQR0Jrb0dTN2JiQm9zNUdjX21vT3BOVU1Sc1FSQWVKT3h4YnZJRER2SXR2aEN0LTE2MXNNd2tVbGZXQzl5UnBNS29PcFRjZjVzZG8yLUhDelh5WVYzbThna3VLZTFEYjRKUlZCYmdRVnBvblp3Z29xZjhadkR3Q1haUzVNWktBVjJLUms3S1g3MFBRcGFZdEVxaVdfeEZPeTVnVtIBtgFBVV95cUxPUzFBci1qRWI0MU0yWUt6QVM4dUJoUVRjWXJsNV93bGZVQUhGaWFvWkNPLXk1WDRJVTJPcVN6TEh0ZHRuUGl3MW0tWUdzMVk0RXA2MlRiSUphMkdfZVJ3WDUxOGlJLU5FRFBwV2N1bU13VDZTMU5Wdk5UR3c5SjMwTTdnMEtOUkV5RWRKMGpkTmpLR0FSZEJlaUtidDkwQTdMVTNKdGQxRi0xZ1psWFJqaG51X2plQQ?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "K-12 Dive",
-        "Balls and Strikes",
+        "ABC27",
+        "Pennsylvania Capital-Star",
         "Yahoo"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Supreme Court takes case on K-12 admissions policies",
-        "Association For Education Fairness: The Supreme Court Just Took a Worrying Case About School Admission Policies",
-        "Supreme Court Takes Up Accusations of Race-Based Middle School Admissions"
+        "State House passes what would be PA’s first regulation for e-scooters",
+        "Bill to legalize, regulate and restrict who can ride e-scooters passes state House",
+        "Data center regulation bill passes state House"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRnF4TG5rZUZsTkxKXy13YkFpYV9GYUtVNzRUWFUtZHY0eGdGY1BNdkthRHdvV2Rmc2pwMmxGSk4yVllJeXJXME1RaVRjSGtIb0RVRGxIcXVxS0pIWkpORUZJMjhCR1RfTWhMUmdSMFI4RldwUlZGWVdudnpGV1gzSGxheloxMHhWNjNaWVZJa2I4ZmM?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWjlXdFdNbXYzbDFLaU1BQ1NYSDhjVThWdmxCX21SaU4zQW8zb0N0MmVoc1dBc1Qwb3NMdHptVFdOR1p0c0RBR3N2NE5QaW9WenZxZHVaaV80SS15d19jRFl0R1VJcDVLTnE0WF84M2FaZmFpYlMyYmg1MEZRWTFhb2Z2RTNPeEZfcmZvaW44aWQ5NDJkczhmRFkwTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV01QWDE2Y0c2bGVKV25fTXZJLUJ2TFF5VExxQjE5UkJUYlVoa0w0dzcxZjUxNzZzMDl5dngxTV8xZkZOUThTbkg3aFBOc19mUDZzVkEwVlFhc0sza0IxQ3hUY0R6V3JfMmEwNWtIamk5Q2hURldaX3dqalZaYWU4SGFJYnE3UElWWGVfTnpLQ0JTM3I4ZVRKclZ0bHU?oc=5"
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2QyMkRyNUUtR20zVi0tUEtyc0w0ZWlHSmpmVTBmSEVOUWZxMUtTNi00Si02MDBXV0dmUGU0NE1qb1J1MFFadDFRbzMwREU3YlUzVDI0WjlRUGdlVTBwZ2J0VDJVZmZsTTAxZTdZOGZPX00yMHVPck83RlVnYU5Mb21UcHZORllsNHJIZWw3MmxVeHM1MXVsR1NJalZkU1R1ajN1RkZzaXJTSEE2dmFQTmRRY9IBuAFBVV95cUxPSXdzOVU1YlZBVEVUMk1Nd0lkVk9MbnVjczI5REFDQW5ZQUtkNUJKNVVxVmd4R2dNakJqRTFEaVNlc1lFYUdkOTlibk1WWmlmVmRXbmtsYkJNOFdmUFZMWUJhUGhzR0ZHeXRsaTFkUXA2UTFwVW1PVnAtU2tVb2lvVExLWTEwUUdod2lPOHFJSDQyY2JCM2tLUUZ6RENxZWNrclJESVZSU2EwcVcxVTdJeVh4a2dmS0tT?oc=5",
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQmNCaEpMRWhPQnFfdXlLcHFfa3pneXRrc05fWGFQUEJaRHlFWG9fTHpsOGtzVEN3WnZkc1F4OEhZY3NhSGpIVENYN21pcUhxdVdNS2ttSkJ5S0JnQVR4WEgzVzdsWWFXM0NrUHBEbjFncFZFTEx4NHFyN0FDT3RyZ0w4R3ZLc1VkY0F0Q0pfa01nZGx0c2dybllMc01RSFlKcjNEWGppcjdRMXFZY0ZKZndJc3A4eXFzOFpYUEYxVEp3dDJwUFdzOHdfYzFhaTdsNFNDV2NpVm0?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWE5Zdl9RNkhxaGxCY29idkFZNnJ2ZjY5SlBzOHdlMkFJaWQ1aUFyU01kanpJX1Fma0Y4WEhDSkRDQ2NRZkJwckFlRkQwaG9EZGZ1T1hqNVdwTlRDenE5Z0xicjV4TFl1NWw4a3RnTVJwczZBYW53NjA1LVVMaTVwNGtLTHZRZEZFc25IbDF3dXZnXzVsSXBPLUNn?oc=5"
       ]
     }
   ]
