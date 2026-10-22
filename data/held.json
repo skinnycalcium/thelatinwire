@@ -1,25 +1,46 @@
 {
-  "at": 1792668052623,
+  "at": 1792684688027,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "News and Sentinel",
-        "KFYR-TV",
-        "InForum"
+        "Democracy Now!",
+        "The Well News",
+        "Free Press Kashmir"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "West Virginia Supreme Court hears arguments in Tourism Development Act challenge",
-        "North Dakota Supreme Court hears oral arguments in election case",
-        "North Dakota Supreme Court hears challenge to 4 GOP candidates' ballot eligibility"
+        "Supreme Court Bars Trump Administration from Denying Gender-Affirming Care to Prisoners",
+        "Supreme Court Declines to Block Gender-Affirming Care for Federal Prisoners",
+        "US Supreme Court rejects Trump effort to end gender-affirming care for inmates"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcDdVZlhBQVRGTHdBQnQxMmhnUks4d1l0UF9KcFZHaVpjSlg4OGhMQlZESENpV2pJdzBKY3B5RFVlbGo0Yk9EaHo1dWRkZDFUVE5GY0JzeC1zb0NNaDlRcDdlOFFLakFmMEllcnVWYzl3TElMRGctcTMyWEZGbVBSMGo0NkpTQUhvQ3JSVWEwR2k4SGxIRk5JdmVkakpGZGJtR2hNOUdMeUZKeElWTExvRkxVanVQdzk0WC1kS2thNXFNS1lNcGZoemtzckh5elJQN3VF?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxONWNkOVUtS3Iwa3UwRjR4TlF3YnNIcDBVTEJsNUJGVWdDNlJ4NEdTcm9jSDgxdnB3MFN6aFdIN0xUQWQ1SUJCaHFhWXRWMklKWXVlakw4SDFGMjhtalJvcjQ5QTYwN2ZvblVOdFA3RzZycmpmTlpOZjZQVFVNQUp4QmozVXZ0cTFmT2ZPUGc4eGQwMTFXbW9WRzZ1WUvSAbABQVVfeXFMTkZ4OTVBSUEtS2pRUHd2QTAxNElMTFJEMzlNWi1TZWFNRlZnZHgtb1BCdEhOTVo5cFRBb1YzSkYyZGg5azNPajZFdHFrU3pObnUtZ1R1SUM2VUQtd2N0UWZrOVJpczhNNDdiT0tKdV9Ual9VSjhreVVKanhNNU41em8tZ3gxRlNmQWFXd0tFSlc5R05RWnVieFdMMGk4UGhReE12LS1lZVVlTXcwUExRX0w?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM21KenIzbHoyLUc4RV9nNUROLUtfb3dubTgwNWFXeGtEMlVRYTNZdkpUZmNiYXZ3cHFkQzNlQ09kUHhCUDNfSXBzLWlnNkNaU2p1ckU5T3pjcW1lakNJdTAxbFpsTm51b1luV29kbzlMNWE0aWVhS05scWo0N2QwT3docWZORENLcmtRTU1MaFU5RXNDNXpBdndROEVkbkl2ZVQzZS0tV29oOEJwS08zU2xPcWNzcURCcDlHV3JmcWc?oc=5"
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaFdQVWFSQzFnTzhJVEVTMFhoOFM5d0dfWnk3Wk0xdmk1TURLQ0UwdTk5VUJONmpLdlJRVG9WVWo4ajBGNHRhdlhURDRNWFBmSzNjRWlvOU9zdWJoZXY2N2RqTEFsVHhpcklPb2sydThZa0IxS3lOVTcwQWtNejdEUWQzWWRBUkFFd2tXSVpYVFNnTUdkUE9VX0NxdUhDeTFMdHJKYzI0V0xERFkzejk4bUxCZFpUeDVDR0ZVN3NUanpudlBUWW9fcS02UmNIV3BaTVgw?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSmhKbktScXVHV3ZUMHo5QU9xMDhyM0xQZE9UdHl0aE9UZFJybkdwVjRVZnJFaDN0ZVlfVjFYbG8zYUdodzVZc0hnNW9GVWtZTGF0dDg4U3ZVUy1GZTdmUTJ1RzVTQk1oU2xNdkl4SUVvWmc3QUJIbTd6SE1lZUpPZ2pUVUJVVzJfOGxDa3Ntek90ZlVOM05lUVk1bnc3Nkhqc3JuZGtmQnR5dFNtZ2tUbHY5akNBUlBFd2c?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2EwdV9MYURHUE9DcXNTYTdRUTEyY3o2TUlvcGJ2dm5rQmxOVzFCT25lZUtYRFFoVl9yUEFhWGdyX09QazFpcXFHMmxicnBwTG01NzAybmRQNi1NQ1VxRnU4QldVVHhfUmFOV0JUM3p3M1YwWXdnYXhQTHFPaWhENXBmaDBjZm1DeXZBOGNZRjFDN0dMXzMzb1FSeG1Xc29lNm54OGdtdURiX0dJcUtwUkFLZC1WWTJYYl96atIBwgFBVV95cUxPamFlZi1tSlYwTTlVclpGSXdKWE0zMTgtam9YcHhJWkozSGNldm53WDJIcmxCeVRxWHNocFlBbGE4SDc2TWttbWNPcjBIOEtvMFZLVDhYTG55Nk1CQzQ2amxEVjdHMzNfZWdRMjh0NW9jN29IbnlvX3RHY3Njb1ZlZTAxekh4am92ZERlMW9FRWIyWHAzdDhvX0djQUpnbUZUR0RQUWRiMnJMNTdwTUVoYkNVbjFIR3paTWliT3kzVXhHUQ?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Audacy",
+        "WTAE",
+        "WCCS AM1160 & 101.1FM"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Pennsylvania Senate Passes Statewide \"Bell-to-Bell\" School Cell Phone Ban",
+        "Pennsylvania State House advances bill to ban phone-use in school",
+        "CELL PHONE BAN BILL PASSES SENATE, HEADED TO GOVERNOR’S DESK"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVDdNWG9pU1FFX1Rpei1GWjhXdzVLUzVjVzk1Sy1OVUNlWGpCQW16cU9aT2RQZGZydmhHVVMtMGFvWERyelZtT3dUVGF1M1c2SGI4bEZHQTNtUm1mZk83UTdkeUk5Sy1XZnBad3VmX2p1UVhuMWRjUFFvS2Q5SFpFbzlsRlRLUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE1XeW1FZXZackhHVDJIRUVsa3k4b3BLeExMT3hPcG93emI4aDJWYjZ6dkVQZ1J6Q09sRkNNeWRJMHNvUWk1cEg0Uy1acmZ0MUFXLXBfc0tVNzVvVElsYmhLdjE3ZUJtQ0hvNUl1N0ExVmIzUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdlMxUUk2WlVhSXhZY3E5Y2hfeGp4dUJOa0hpcXZUS1VsdjVlTWJkR24yNldlanEzNVFGSjVzYnBxRTFlT1JPbnFFODlxMjJfZU50SkFrQ19SQndKRm8wc2JuTnFVakF0Tk5Pb2tDb0JBQXA2SXlCLUR4OTB3NUc1b2lzRERubk9TV2RqN0JscGFPYmc1S1o2bUZnMGQ?oc=5"
       ]
     }
   ]
