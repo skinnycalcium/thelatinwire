@@ -1,28 +1,100 @@
 {
-  "at": 1792775337106,
+  "at": 1792787231750,
   "held": [
     {
       "section": "politics",
       "outlets": [
         "The Daily Signal",
-        "El Cronista",
-        "Common Dreams",
-        "Courthouse News"
+        "Democracy Docket",
+        "The National Desk",
+        "The American Bazaar",
+        "My Keene Now",
+        "El Cronista"
       ],
       "lines": [
         "center"
       ],
       "titles": [
         "Supreme Court 8-1 Ruling Impacts New Hampshire Voter IDs",
-        "Supreme Court ruling: New Hampshire student IDs will not be accepted for voting in November",
-        "Days Before Midterms, US Supreme Court Lets New Hampshire Bar Student IDs for Voting",
-        "Supreme Court signs off on GOP officials’ student ID voting ban in New Hampshire"
+        "New Hampshire students face disenfranchisement after Supreme Court greenlights ban on their IDs",
+        "Supreme Court blocks use of student IDs to vote in New Hampshire",
+        "Supreme Court allows New Hampshire to restrict student IDs for midterm voting",
+        "Supreme Court Blocks Use of Student IDs in New Hampshire Voting",
+        "Supreme Court ruling: New Hampshire student IDs will not be accepted for voting in November"
       ],
       "links": [
         "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaDBWdzNmZTh2YTNzN3ZERUFyejNKQWU5S1BSelk0bjNEeFdUM3BZLW9rNUhMc1lsRTljMGV4bWpuX2xPemdRVFI2T0hmb3JoYkNIRXpSZ1ZPZ1RmdTRKbmh4YUlCdFR1MGFBaGJERHlQY3hQMnpvTjRpMG5KMXJFX3VWNURDSEw4MlJLcXJLTy1XNTRiMjRtT2wwa3NLOHpLVlhZYTljOU1sYkVnaGZVWnc1YUprdWVZdHJHendwWEpNWk5iZTVXUE04Q3hmMjlLMFNVVg?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFAwb3BlVG5nT0hiM0JuOElxSFo3eURlbUtXZFA0eTBQeHhqaXlHaUtWdjA3UHRhUGFTNlZsZmJGRTdhZ1dSMkQ0TlpyeUo0UGw2enpSU25pWWlwTWFmWHNQcEkxZnB5YjVudTlFVEx5QU1YOWt3bkFEZWRsbElKTFJFWFlqZDAtcXluTG1DNFdGaHRMZHlacjE5bHM3Zzh5TjB0aUYtT1M4SlBFbXdMMGhLRVlTaW43MzNjQ0hQeUotR3c?oc=5",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PZnhUT0plemJjbk1rbm5kQ3ROM3J1RjlXOXNPSTAtWW5DQ0ZNR3B1QXIyQnlucVpGQ29lVm5BUFpDeEcxYjFFTDkxaXJyOENUTWUzajB2dWJvUGU3cHBId2Y5Q3c5QkRDZEE?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1I1dUxOeXUzUHdFQkVkNjNFOGZwbS0tNGR0WTI5VUpRYncwY1lKdi0taWlPa0l0dDZ0SlppRjBvb2xuQnp0QUttZS1oZWxXTVVTU1otYzlvVUVaV09URjZBWG9ob0prTWNFUXJvX0stV180ZHE2U0JQQUdnUktOaGRkLWFpX1JQRllmYnJRN0dRMUxVRmRkQjVEMUNHenNiOE9fYkZWU2hhZTNyVFhwTA?oc=5"
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQmNrWGQ1Q1VpbXE5cC1Wd2FuU3VXSEd2UFBiLVh3T0dpVW9oZDZXVUk5dDhFS0FhUElZMUVvSVR4bnpQcW41V1JzcnJad2VodU9WSnZ2N0JRamM0VzJ6THFrOUktTG1scWtDb2o3OFhyaFdKU3RmRF9qTUdjNnJUaVQ1WHg4aGFjRUFod2RBN2tYRkNLM3BtMzB3YlpZWVZqaWVhaXZkVHNIVjRKd2RaS1FJcmFEYldNbUh4cEk5UUR1Vno3dzN1cXZya3ZtaDJtV29QVFl6Yw?oc=5",
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMWZXeERDLUtSNVVFS2dGcW5Jei1kZVVjUjQ4R2ZKOUpGeFhDcGFuUkdrdVpNUnRrWE1oMTVhX2FMNTNsaURzaGplRDZfOWxLTUl5dG9fbE5XUXZuS1hWTUkyM2N0WUdXUTJkLXZOSGJ5Sms2TGFIbHRPTDhlOWZVVUJTNnlEQXZ2Z2RYeDZJeF8xOFk0UktuN1JsN2REZDFiQThfeHdBTVRuVFBxeHJhWE5kYUxhRG1kQld4MGFGclZzaFFRakNjaHFZN3c3emNiRk5QU3lrbE14aWFWR3RvLWNRMGJfSjhwVWFfdmJVaUpRN3FmZmc?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0FsOExlZkIwZHBfLVIxTEZYQUdsXy1uN0RrQXgyRENROG50U2R3OFZqU3lGWWVpcHJhcWh4NjdSSVg3bnFCUk1kVWJKMTctQlRnMy01aDRVN3VraGt5bDBLcWp4aDc0a1dGQVZnNGt4aTFScEtQUnlDcUNxXzU2QnJfLWRjbi0xaU1JT1FwcDVvSGtXdDJtMDlQQnM1aVprejhvdUNLc3h6MTRzOFJXWmJMYm9IMUh0cUE?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeEFvaFgzWUxDd1JaYmJiY2VZaFhMcG9zOHVIbEREajhEWFhJQjBVTGJQRUFFUThxVkZlME5LZVgyV2F5U1NocFlGU1N0MzlJcjBjNFlqNXlQT3lsOE9nUDBLUmZ0RUxKcXh6b2I0UnlTdnJYb2luaGJqZWtqSzNob3FCOFhJT1hkb1JFUUdiVEVzcjBqNHV4NlVPMmlybXZC?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFAwb3BlVG5nT0hiM0JuOElxSFo3eURlbUtXZFA0eTBQeHhqaXlHaUtWdjA3UHRhUGFTNlZsZmJGRTdhZ1dSMkQ0TlpyeUo0UGw2enpSU25pWWlwTWFmWHNQcEkxZnB5YjVudTlFVEx5QU1YOWt3bkFEZWRsbElKTFJFWFlqZDAtcXluTG1DNFdGaHRMZHlacjE5bHM3Zzh5TjB0aUYtT1M4SlBFbXdMMGhLRVlTaW43MzNjQ0hQeUotR3c?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Radio Iowa",
+        "The Des Moines Register",
+        "KIWA Radio",
+        "KCRG"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Iowa Supreme Court rules in Dordt College student COVID vaccine case",
+        "Iowa Supreme Court denies student's COVID vaccine exemption claim",
+        "Iowa Supreme Court Rules in Dordt Student COVID Case",
+        "COVID-19 vaccine mandate did not violate nursing student’s civil rights, Iowa Supreme Court rules"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUxLRXhFTFZnR1JZQXg1Mm1OaVpVT2ZKOE12eUZkMHJMOENPRE9MYzFlbE80NVNyT3ZfcnVOQ0RjMDJaTDJraURtTk5lQm5nYlFPeWpUQzZmUTZhcGVoWW9IVVU1Tk8zMmdqWGtIa1NHY0NhVmxvMEVhVU1FTmkzZHBLX0pjcXNnekF3VHNjUE11bzh3R3hMOTRndy03al84bllwcTN1dEc3UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb09faTdGS25xaHZXcDd6Y05IMzRwcDBzMGhxUFBpNmJZQVdGcVRtQVFrdno0aFpVVm1FaklmbkNNb0plUkZpTENWQmhYWU1OeEZUdzVveEhQZUEyU1lXWFNFdmRyaFh1XzI5U25fVkY1Y1llb2tjNTQ2VGhTVkZEWVVyaUFMM253OUY3SHBnWFNDREM2TFRHZXZoZWJmOG43SXVQMHBkUUhRTUkyem0xNWpvZGxOaUV6SlA4VVRaRmVsUlJtVG50RndiZ3g4TmQ1ckQ1NEtMVDBFbUZWUXdWOGlnTy1uOXJu?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnNINjJkRlRtUmZ1NDZBZE1fTGlCT3o5MHYyYndUblhST1dpMTJZVEV2N2dfcmtjam1mTFJtTXZ1ZUVOOE51dTlGMU5jeVRUdXg5TzdQN2hEM2lYQ0E2S3VhSHdhVDNDSHFuWTlwUDFaTENLa2tHNnlFN1M1Qzk1ajAtejFTTkE?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQzVDLWJhOXpEbDlUWUcxTFkyNFdjT1BvWlpZQnhYbWg0NWk4WEJaYTdZMm01TkQ5VjFranlod0xCYk5Nb09QVHEwWXB3dHZXclJneDR6NUM5LUo4THhacGlxMTRDRkhTVFpGRlRMUkxzbnpkSXhvTS1hTldSTEpBeFh3X2p6MEY2SDJYdVJBX0EzeExmeFVVbWJnc2FaY0t2SG5GRm1NbmJOSjlYOFk5UEJnSEpPN3RzOHFIb2c2S1d6Sjk3R2NJ?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "The Paintsville Herald",
+        "Journal & Topics",
+        "MLive.com"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Education a key issue in 97th District state House race",
+        "A Closer Look At Race For Illinois’ 56th House District",
+        "3 compete for 78th District state House race"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSjliX1FiaXlnRXFpWGRwbzJUdExiV0FEZGVES1lpY1ZtU2FFZU16V2N5M3ZVdm5STEQ5ZmRkVXkzX3ZSR01VZTlEblJ1R0dJb2pDZGNRVWU3NFFsWEpBUFZzaWF1QXhMRU5scXJiMENhbkZnbll6TkdmTFd3Vm9sMmtNQWRINmZZT1RjSEd2em9ITTBxaVhUVUE1VWFmTjROVVFDLUdfNS12ZTBJRXMwUWNhcEhSb2NpRUlRVU5IRDJ5TnNsLXFxcHp5UWRLT3ViQ3BTQ1lQa0tUal93?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcHg2cW9LbTFLSWVyU0FoTFFuaWhGenVEeFRsLS12dTZPWWdFUkJKckNQNHpuaUhlelBDaGxuOWRSaHZkU3B5d2F1TUJURVhNSGRHSTZpVUJLWVhEMnBNVGFSc0VSSVoyM21OaGdPalRVWEgzckpDaHRzbmtVQ3VXcnFwTUdDTHVhOFdJeXh2VHJ5ZWFrMk16ZkVJMA?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxObXE2UTZtSS1xWTlKb2xiTGpjcm5WdFBPWkV4TGh0YU5RUWpuWmtScDc3OHEtNnZodFlTMzEwSjhQVXA0VklHeEpwYmpuT182RmVLX0lEbVAtZjBMNUdrU1ctdXhyQ2p3UmxVSTlZQlEzSEZsUEtaTlJOWUFvNHl4SklNVzBPa3BiYnR3eU16UnFMVldmV1J3aWtFbnJkUQ?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "The Dartmouth",
+        "Concord Monitor",
+        "New Hampshire Public Radio"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Two weeks before midterms, U.S. Supreme Court upholds N.H. ban on use of student IDs to register to vote or obtain ballot",
+        "U.S. Supreme Court upholds state ban on student IDs for voting",
+        "U.S. Supreme Court blocks use of student IDs for voting in NH"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMXd3RDZOTkdVbVBsZlZMY1E1QWNGLUVrakRtSUFKd21mcTEzQlRFSDdMZzFHN3ZBRmtFbmlkc0pwSElpUmk4LXgxVEpVcmRmUzhYWkdTUGJsNGpubElUTWprWnBEaWE5S1JHLTVfclZRUUFYTUlGWjBQQndsZDNSS2VHM3NHbi1QbEpRc1lCQ0hhYXg1anlwV1lnMzZ5d0VCMXFjZ3ZEM1hWUlBxSzFZMU56NDRONUtYR21aTGptT282UUdSTXBxUWR3V3RwM0FsWmVKbTluMnNGd2tlWHA1eXlSVEhRMFE3MlFHSGZUOW9pa25Sd2Z1T1d5d3RGaGprRkJwLQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS1Z3aC1pa19ZaGVLWDV2V3FlOUZVWU5zal92cWl6TnFkLWVWVUpfc1VoTjIwMWcyZzZqTXJOSUp6SEx1c3NYX1JCeTF6VkpBd3BtRFNTYUtIV09uUnB1enkwSy16amEyNTNnWjFQTUkwSWtTc2JFNGd3YUdaaHZ1bHJR?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVGhVUUp3YV85MHplckxhMmE3OUptWFJQMFB3RUFPVWRPR25uaDVzVVpndWVqbTFpRmhQY2JicmJJeWJwdFdrdWVoM0p2RnJ6SmFyb3JyRXREMHZKdzgycjZpSDBVeXk1MFAxN1EwVGZId2xkbElHN3BId1pyOU4wRUFqOFRlRTZOZ3lNcjZ6RHJnNzNfMFdScmhTWl9fdnQ0OFQxMDBiYWtJOTRaamdTODN3bFc4WklC?oc=5"
       ]
     }
   ]
