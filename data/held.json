@@ -1,28 +1,31 @@
 {
-  "at": 1792825063799,
+  "at": 1792843002477,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "KCCI",
-        "Radio Iowa",
-        "The Des Moines Register",
-        "KIWA Radio"
+        "couriernews.com",
+        "Bozeman Daily Chronicle",
+        "Cherokee Tribune",
+        "Bluefield Daily Telegraph",
+        "Goshen News"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Iowa Supreme Court sides with Dordt University in COVID-19 vaccine exemption case",
-        "Iowa Supreme Court rules in Dordt College student COVID vaccine case",
-        "Iowa Supreme Court denies student's COVID vaccine exemption claim",
-        "Iowa Supreme Court Rules in Dordt Student COVID Case"
+        "With hurricane off Mexico sharing name with Vice President JD Vance, the social media memes fly",
+        "With hurricane off Mexico sharing name with Vice President JD Vance, the social media memes fly",
+        "With hurricane off Mexico sharing name with Vice President JD Vance, the social media memes fly",
+        "With hurricane off Mexico sharing name with Vice President JD Vance, the social media memes fly",
+        "With hurricane off Mexico sharing name with Vice President JD Vance, the social media memes fly"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxObEcxa1FucXU0bkJtY3lBVG85NmxWeThGU0UyQXBzRGZaWDN4amlCNFRhTHhaalA1VFF4bUpLWnIzSkFTb2ZKYkpVRG41d1d1eUVoOU02aUNxZEdwRU9WNW1iT09NRnQ3aXpWcEVRSEVBSjQyUHdjZVZjanBTOGQ5RTJWYnpFdEpNQ2xONHNVY0JFc3BzMVh0djFod0RhMlhUNHFGQVV3R0dwQWdVYkE?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUxLRXhFTFZnR1JZQXg1Mm1OaVpVT2ZKOE12eUZkMHJMOENPRE9MYzFlbE80NVNyT3ZfcnVOQ0RjMDJaTDJraURtTk5lQm5nYlFPeWpUQzZmUTZhcGVoWW9IVVU1Tk8zMmdqWGtIa1NHY0NhVmxvMEVhVU1FTmkzZHBLX0pjcXNnekF3VHNjUE11bzh3R3hMOTRndy03al84bllwcTN1dEc3UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb09faTdGS25xaHZXcDd6Y05IMzRwcDBzMGhxUFBpNmJZQVdGcVRtQVFrdno0aFpVVm1FaklmbkNNb0plUkZpTENWQmhYWU1OeEZUdzVveEhQZUEyU1lXWFNFdmRyaFh1XzI5U25fVkY1Y1llb2tjNTQ2VGhTVkZEWVVyaUFMM253OUY3SHBnWFNDREM2TFRHZXZoZWJmOG43SXVQMHBkUUhRTUkyem0xNWpvZGxOaUV6SlA4VVRaRmVsUlJtVG50RndiZ3g4TmQ1ckQ1NEtMVDBFbUZWUXdWOGlnTy1uOXJu?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnNINjJkRlRtUmZ1NDZBZE1fTGlCT3o5MHYyYndUblhST1dpMTJZVEV2N2dfcmtjam1mTFJtTXZ1ZUVOOE51dTlGMU5jeVRUdXg5TzdQN2hEM2lYQ0E2S3VhSHdhVDNDSHFuWTlwUDFaTENLa2tHNnlFN1M1Qzk1ajAtejFTTkE?oc=5"
+        "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYjFRT2E4NjZmVjVyU2x1dFowdzNWMHI5Zm1sVG5PVnA5WVEwMUtJendUeGV1MnZtNFppeUg0Y3ZFY2hSb1VzcFhRVVhEUEJsRGltTm9kdE5iZlU1TVl5NnRtc3lMTkNkbG5PVTk4Nlp4enlmUTFDdXhLMnhyb0pKZlNHcDFkWHl2N3U5VXROeXo4akY3S05kXzhSQjM1ZENHNWtfcEFGR1hMOE5JT21EalpzVl9wSHNRcWIzMlptQnc1MGxEemo1eGNsSGxRT1pzRDlXR18tdWY2U1ljSnAyX0szZ3h4V1ZrZVdDTlFOUVFMaHlTQWxZY2tHOXpZOExpa0Ewb0h1akU0Ukxwd05B?oc=5",
+        "https://news.google.com/rss/articles/CBMilwJBVV95cUxNQ1c3cC1TQld3bGR5b0JvcmtkS2RaNEdNb0kxS1B0RUJNWTAtY0dKUm00MmY2UFlubE1EOTRoaU9YekxCMXpFX1cxZWdIOExENjRnYnpkVWIyYVUzbFlta1FQa0kwRVRPQnBqQjlEMGJNazVsRjluRjFXWnFaVjkzYm16MGlwOFFtdlVBVEdjeE9HT2FsaVh2YTF4dXNucDRYWDAzMHU1bTZzNmRoUmgxbFFDUG00TGFFSmVzWWFQWjd5aWxlOGFOQW92RzBjamdrU0pwZWJfMmNJRzFwN0JwcWlnTnVmUnhhTU9aWDJPZXlpcHZuTGNIbmNJMEhJSTRSbG5Rb1NEYVRhUDNVdEZmdjJ1Zm5UZVk?oc=5",
+        "https://news.google.com/rss/articles/CBMirAJBVV95cUxPSHo0enRUNzd5RHdUU2sxU2xEVE5lakhtYlQyS3AtdG9aYzRpeXZWYXRSWUNMZ2d4UTJBVnRnd1hIdTdscUpGUS1xcGpQRnA5LUF6MGRya2J2SF8tb1p6NlRFV3RReDNrUFVpRHhYZ3dVbDlPM0puR2xlcXV6dTZwOXJ0R1ZjWTNPOFBSdlIwYnVPekhlc2Z0Nm43ZUlJeU1pOHlyR09GeDctY004MWw1TUVFTXF1ZkU2blVMTHFSd2tUV1h6ZEsyOFc0MEg3RUlZMHluVVhfWnhsbnpBaXB0d1JpalJPeU41MGpNWUplOC1tMUIwcmZsMERNeDl2V1kxRTA4Z0pudVR2U216SEtwZ1Q5dElJZzNteXlkbWlQclJQdG1MYV9vbWZuT1o?oc=5",
+        "https://news.google.com/rss/articles/CBMikgJBVV95cUxNc28wZHZVbzNRS3FnUENhZFE5OC0tb19JZndmemRyb29Mbnp6S0NZVndoR3M5Ui1LQjdfT05UYnhlSEZZVHpwY0hhcmhvV1N4T1ktaGhqdHhvZi1xTE5BeTAxeVAwaXNtSC0tTzNYeFI0TmRQRGYyYnlnUUQ3U3NpOGcyS3gybldxcVJQQmRtT0g5WTYtQm5DcVUtZHluWm5EWjdwTkhEQWN4ekNhb05Sd09WLVRVWGRfaHNjWk5FQ0VmbXNpUW5kYURWVFFLN0NqU29sLVZPSjREQWpkVTNwWXF4a1RMQk5QOHJVN3VBV3RmeWdBQ3VKSE1ZSERuSHZqdjJ0X1BacWZBTkFQeWhkX013?oc=5",
+        "https://news.google.com/rss/articles/CBMilAJBVV95cUxOMW44dUFMQkl2MlJWX3pVajBsdE9BWWpkNnZrTjFpTWxSelk2S09DUnQ0UVZ4cERRZXFWazRwdGc0VHBxR0hQMEpmVHlaa09MeVFRemh0UkdxT2R6OTBnWGdLbFJJOVJISms0WE1DQkh6UWl6SEZ0UXQ0elREUG9xUEptZW9idTdhVGp3QnhCNEhuYjl4c0R3YmxYejJMNWpReGNmZmtYYVU1d1RKTzFXU0l4YmcxUHp1ZzN1RmxYZnlmRm5Qc0Y3N0RhWXQ3T1BnN2czamR4VUx3bTNiRW1vNWJncTlIRFJsVlIwTG1hTXFfM3p3UHkzbWcyajFkaEZjVVdza0hZMHNIQUstSTBpWENQODE?oc=5"
       ]
     }
   ]
