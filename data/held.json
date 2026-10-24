@@ -1,28 +1,76 @@
 {
-  "at": 1792797812122,
+  "at": 1792806610776,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Protect Democracy",
-        "https://ssrs.com/",
-        "Yahoo",
-        "MS NOW"
+        "Los Angeles Daily News",
+        "San Francisco Chronicle",
+        "Davis Vanguard",
+        "California State Portal | CA.gov"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Frequently asked questions about the 2026 midterm elections",
-        "How Latino Voters Are Experiencing the 2026 Midterm Elections",
-        "Latino voters could be major factor in midterm elections",
-        "Latino voters could be major factor in midterm elections"
+        "Trump’s National Guard deployment to LA was illegal, divided appeals court rules",
+        "Appeals court, including Trump appointed judge, sides against him in takeover of California National Guard",
+        "Appeals Court Rules Trump Exceeded Authority in National Guard Federalization",
+        "Governor Newsom on court’s final decision holding President Trump accountable for illegal federalization of the California National Guard"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGc2YzZlb2ZjZmFHdmFUZ2o2eGtYX0phYl9lWUcxaHVFV2N2NlIzbjFsejdlMUJLdnZoclpkakw0d2U1VjlTODBETDVXNW9iWmZGMU93R2lRRy1iYW50eXZmQnduUmhlZWRZbWlPNlRkQ1IzTmdTTjM2T21kTnhZdHlhYlVROEFVY1NGN3ZDRVZGVENsTTVzYk9n?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNEIyQi1WNWNaSlRWZWpCWGk5cVo3UEt0NjNUdDhrMHpKenk0QjRQZjhkSHF1TlhlMGJUQlU4NW9XbVZjV2NFSFdqbElQTG1zNnpyVEhlbWJ4bWx5WU1DTGVhNXpkUFZGSGpXelZjdEk0WVZZTHJORWxLQkxDZEtfRVVQQmU2WWhGeUJkeg?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDZUSkxldlVuRWlCM1E3bXlZUkpmbURUci0wRFBiZlp0eWdXSVhLSE9hRVNVODZoeW1adzNoX0lNOElGanVobHhyc3ppd0tKdlhPWWpaS242VmhiR2JjdzJNbnlsWEFKU3JmWDhPaktodnMyclpBdXM1TkY5LWY4ekZwcDhZbkFI?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV0NCQ1hlVzZmV2dGenBFYUJxd1p6b0xvLVhKckVCMGpRaGlXMERtdmJoTERiYjBucE40b3VYWlBEa2ZiUFAySEhzOEF2RTBJVW84QTIxcU1abzVORWdlTG9lS3Q1cmFSUUR1LWs2SzhmcGhEUE5QNUxBcUtTS3Y2c1o5QnIxWU5JQXdXU1RabDdxajEwd2U3ZnczaXFGSXE2dGxqOGRBbG9IQlk?oc=5"
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdVlDWENSOVNXSnNkX2dwNFQxX2ZFU2FCNFAxa1JOazhmOHhLdThhQmNaSnhxM1h3VlRmOEQxeTlPd05FVGUtTlVPWkprZGZvZTJzb1cxWXIzR1NLQzdrVmk5Z1VJQU9Tb0JnZXg2RDlPRUNtcDBUMmgzSkJqYzVyeGdrT2NMOUIzOXg0RzR3ZDJZZVNzLWl4T21xS0lpT0UzS0ZlUlRsX2Y4U2w5cnk4VnNlaU9MaXM?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdFByLVdrTUVHNHdGR0dLWUhEYmlTSWVBZ0dVc3dSc3NsRmZmZGhLZTdEMjJwSS01V3RlTFgzb293Z3VDZFlhREJfSlIxU05uTHpCcmkxaVdMYjEzUDlCanhSb19UdDAtS2NEUXgzMVZCaDlsdVhxS2d2T3Jkbkh2akNFUE5uNHRMbkF1THMyVnl2TFpRaHc4NWtETXF5TW1v?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVVxZ2RoMkZPLXZaYjdXcjNoMy13VzN2WENBd3dONTQ4U1BQRXFXcEROOXV0YjE1Z2dRWW5rMWtsbUVGUTdMUkhGb1BEd0Y2aHZaS3hEclNiQktzTEdRZkRPZWh5aTNlTElEN3duVkw1eERBNUQ2QmdyR3ZGYnFhR0R5MzBMWlIy?oc=5",
+        "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdWduSVhTeUZNc3RkSEJQdnRVZzlaTUNvX2Z5XzRvX1ZPUU42aENWQnRRYkNUbjA5UVdIcENNeUNQaW9rb0gwS3RNVkhjUzJ3dVZQVVJhN0FabWx1RGE0MHV6UmpGY0VlUFZycUR5d044ODhORElpMzFldTVYUHVwWTlQVzVQeGlaV2Jtc2VWSFdfbmNUZ0NfMnd0bzE2bVhaMnREZzZ5d3lPSGR2RVVDTktSbFFPZGJkb3l5cHJoYUl4b3B5eTVTQjFvTU1LcHkxZUI5TlJGb2xtM1l6M01BWHRTTnRzZlhHWVRJUGZic0xnb3VsRWNLOTNlWlNpX0Uw?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "KCCI",
+        "Radio Iowa",
+        "The Des Moines Register",
+        "KIWA Radio"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Iowa Supreme Court sides with Dordt University in COVID-19 vaccine exemption case",
+        "Iowa Supreme Court rules in Dordt College student COVID vaccine case",
+        "Iowa Supreme Court denies student's COVID vaccine exemption claim",
+        "Iowa Supreme Court Rules in Dordt Student COVID Case"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxObEcxa1FucXU0bkJtY3lBVG85NmxWeThGU0UyQXBzRGZaWDN4amlCNFRhTHhaalA1VFF4bUpLWnIzSkFTb2ZKYkpVRG41d1d1eUVoOU02aUNxZEdwRU9WNW1iT09NRnQ3aXpWcEVRSEVBSjQyUHdjZVZjanBTOGQ5RTJWYnpFdEpNQ2xONHNVY0JFc3BzMVh0djFod0RhMlhUNHFGQVV3R0dwQWdVYkE?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUxLRXhFTFZnR1JZQXg1Mm1OaVpVT2ZKOE12eUZkMHJMOENPRE9MYzFlbE80NVNyT3ZfcnVOQ0RjMDJaTDJraURtTk5lQm5nYlFPeWpUQzZmUTZhcGVoWW9IVVU1Tk8zMmdqWGtIa1NHY0NhVmxvMEVhVU1FTmkzZHBLX0pjcXNnekF3VHNjUE11bzh3R3hMOTRndy03al84bllwcTN1dEc3UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb09faTdGS25xaHZXcDd6Y05IMzRwcDBzMGhxUFBpNmJZQVdGcVRtQVFrdno0aFpVVm1FaklmbkNNb0plUkZpTENWQmhYWU1OeEZUdzVveEhQZUEyU1lXWFNFdmRyaFh1XzI5U25fVkY1Y1llb2tjNTQ2VGhTVkZEWVVyaUFMM253OUY3SHBnWFNDREM2TFRHZXZoZWJmOG43SXVQMHBkUUhRTUkyem0xNWpvZGxOaUV6SlA4VVRaRmVsUlJtVG50RndiZ3g4TmQ1ckQ1NEtMVDBFbUZWUXdWOGlnTy1uOXJu?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnNINjJkRlRtUmZ1NDZBZE1fTGlCT3o5MHYyYndUblhST1dpMTJZVEV2N2dfcmtjam1mTFJtTXZ1ZUVOOE51dTlGMU5jeVRUdXg5TzdQN2hEM2lYQ0E2S3VhSHdhVDNDSHFuWTlwUDFaTENLa2tHNnlFN1M1Qzk1ajAtejFTTkE?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "New Hampshire Union Leader",
+        "The Daily Signal",
+        "Democracy Docket",
+        "The National Desk"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Supreme Court allows New Hampshire student ID ban at the pol...",
+        "Supreme Court 8-1 Ruling Impacts New Hampshire Voter IDs",
+        "New Hampshire students face disenfranchisement after Supreme Court greenlights ban on their IDs",
+        "Supreme Court blocks use of student IDs to vote in New Hampshire"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUmI4Z3F5cEltcGlTZm96VE9xdDk2QVVMTUExSjRtMXljWkJnVjFLLWtEOENKRkhJN0R0NUFHZnZtN0dOQTdhVWNybURvQkxEMmpwSWNZOGZ3VDdyQzNjTHFzMUs1NXFxbERHVFpZMDFRR2ZtWmotV0hKZXJobUFrYVpEWmFSRVRfdkFONDZ3WUF5NkUzWTh0aGMwNFB3V05iR19QQlZuSGpoYzFxVzFaS1JqMDYyRkZabjFSV1JyMA?oc=5",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaDBWdzNmZTh2YTNzN3ZERUFyejNKQWU5S1BSelk0bjNEeFdUM3BZLW9rNUhMc1lsRTljMGV4bWpuX2xPemdRVFI2T0hmb3JoYkNIRXpSZ1ZPZ1RmdTRKbmh4YUlCdFR1MGFBaGJERHlQY3hQMnpvTjRpMG5KMXJFX3VWNURDSEw4MlJLcXJLTy1XNTRiMjRtT2wwa3NLOHpLVlhZYTljOU1sYkVnaGZVWnc1YUprdWVZdHJHendwWEpNWk5iZTVXUE04Q3hmMjlLMFNVVg?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQmNrWGQ1Q1VpbXE5cC1Wd2FuU3VXSEd2UFBiLVh3T0dpVW9oZDZXVUk5dDhFS0FhUElZMUVvSVR4bnpQcW41V1JzcnJad2VodU9WSnZ2N0JRamM0VzJ6THFrOUktTG1scWtDb2o3OFhyaFdKU3RmRF9qTUdjNnJUaVQ1WHg4aGFjRUFod2RBN2tYRkNLM3BtMzB3YlpZWVZqaWVhaXZkVHNIVjRKd2RaS1FJcmFEYldNbUh4cEk5UUR1Vno3dzN1cXZya3ZtaDJtV29QVFl6Yw?oc=5",
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMWZXeERDLUtSNVVFS2dGcW5Jei1kZVVjUjQ4R2ZKOUpGeFhDcGFuUkdrdVpNUnRrWE1oMTVhX2FMNTNsaURzaGplRDZfOWxLTUl5dG9fbE5XUXZuS1hWTUkyM2N0WUdXUTJkLXZOSGJ5Sms2TGFIbHRPTDhlOWZVVUJTNnlEQXZ2Z2RYeDZJeF8xOFk0UktuN1JsN2REZDFiQThfeHdBTVRuVFBxeHJhWE5kYUxhRG1kQld4MGFGclZzaFFRakNjaHFZN3c3emNiRk5QU3lrbE14aWFWR3RvLWNRMGJfSjhwVWFfdmJVaUpRN3FmZmc?oc=5"
       ]
     }
   ]
