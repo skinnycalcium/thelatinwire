@@ -1,25 +1,64 @@
 {
-  "at": 1793167413327,
+  "at": 1793192183690,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Free Malaysia Today",
-        "RFI",
-        "The Straits Times"
+        "Anadolu Ajansı",
+        "vijesti.me",
+        "Serbian News Media",
+        "Euronews.com",
+        "Citizen Digital",
+        "ASHARQ AL-AWSAT English",
+        "Vanguard News",
+        "Yeni Şafak English"
       ],
       "lines": [
         "center"
       ],
       "titles": [
+        "French Senate adopts bill requiring protesters to pay for damage",
+        "French Senate passes bill requiring protesters to pay for damage caused by riots during demonstrations",
+        "French Senate passes bill requiring protesters to pay for damages in case of riots",
+        "French Senate approves bill to hold protesters liable for damage",
         "French Senate passes bill to make protesters pay for unrest damage",
-        "French Senate weighs bill to make protesters pay for unrest damage",
-        "French Senate passes Bill to make protesters pay for unrest damage"
+        "French Senate Passes Bill to Make Protesters Pay for Unrest Damage",
+        "French Senate passes bill to make protesters pay for unrest damage",
+        "French Senate passes protest liability bill to make protesters pay for damage"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUmNJTWlReHQ4TkVxXzYyODhZTmFYV3FxYlhkMEdwYWdBcTg0MzhzWUI3WGJJQnFBR2o0Q1RxVlI5QmdkbkdQU2NPSFJTbUt2d3luSXFhWW9xeF9LVUFRR0p3ZkpFbEZyUkRCX0VUSUFIeDVQWjJIRDJJdjJDZkZuYlRzYzBWQmlSNXNlaVR6TWtkSGg3VzEwME1VMkxfdjd5Rlc0c09xVVJIVzBHX2F3d3dSWnZtUDhIZzU1QVRQS2c5WjFo?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZmhHWG1pMURQUjF2Q2xGMlVRWEduQVotLUhGLTdqUnZ6TzdDU242MVZBVmU5VXFkU0t1X3F2VzR0aEVHeEx5ZExMR3JlRXRfNWZBMUxWRUJmczFTSVUtWlNRZXB2dm94OFpkSHltcW1va1ZfSXEtdnZqaHRZOExLeW51U3p1Z2s0UVZWanNjcmRMY2E1WUdzVGJOQXIzVFRvRi13bGktekYtZUIxVHVQSGpVTTJVQms?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMGVZRFRyc3lCSmhjak9RcWs5bDJFT0hkVHpLUlBva0ExNDFWQzRqSmw2eDlMTG5sRGMyU1NJTWlFUmR0cDROMlZqd1g1WHc4cUhmc2RkSzhaRjVodDdLd3Nuc1JadnFaR3ozVVhIY1pCRnFhWnR0LUNIVUx6aUY0ZE9UNVhLUkFncWVWQ3NMUnlOSVpTU1RMeVE4V2d3Y3FvTnVGRnU0Mk5Na1NV?oc=5"
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcnhhNnJGdWM1MHNJVjZOLVVfSnQxRGRuTnJpVjRKZ2RwN3BrZ2dFa04yai1XYjBkRkpwT2FXRGxOeHRHdHRuQTNwUXhkRGg1TUZTNnpaZHlnd2E3ZVM0alFKRF9zZzBDQjJta2swREZBMmZMeDloQTZGTjQ1aGdfR1VJNEFiMnpqM2JSaDdKa1lsUjFHeW5pSUtkek12aDl2YVRjUE02UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY3phNVFzM3d4d2I5SXZBb1c2eVdBRVJlaUNFa3B0T3l6VXRZRHJDUDBKOEljRlFDRE1rVkZVYk5Qdl9rOVpWbmNZbjVidU1qXzhtZTB0MkhaX1I3cjYybDhDemdQak9rMFQ4Y0trVlc5UUx1TUJKUW9zT0ltYU9DVUpkZ1VzRVBfWmZmaXhaWnNkV0JHR0F4ck54NURtS1YzREZPSkRtbmFVYV9aNUFqZnNWN3YtR3owN2JrMWdESUhlMFF1OERDUGRGajlEa3l0cDEybk8wOGROd9IBywFBVV95cUxOZU5nOGFWMXNFXzNvZkdLbFZ3SlV1MHROSG1SMUJ0a1MyY19pSjkzRG43MVpPdEhGZlVXVDVwOUJVQTNfQWRQbWIxbmtSNlVMVjViQ2x3X3NtVmt0UHVmb2lLV2xrZ2JnR3BBRU5abWRybEdra0hsVmJ0cWZMcEg4VG8tTjE2RkZnZ1pTRkZoSTdMLU9VZlRfM2tBbXlUUGNzZFFyZ3VDb01UZHN5SDJiaGdmdGctN3lId3BnNnFiYl9KU21JYkE5MHp0bw?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUTQtWkNXbU5iLWhSeGw3NTF4eHpOYlZPZDRwRlZmY05TRVgyNXY4OVZXbXY2VURCaHRpUWE1Zm9xS3dxSTNJUWhmU0NXcWc1S2Z5SXgxTUpLZTV6YVRIX3E0anpmUkdxNGxfa3lFQkNMZFhfcnFQbU5TV19CaUZtTkNpWS1MSjRoTm85ZUszYVVIMzdMbENndDBNcE5oblE?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM01ZWHh5UEoxN0FoU1RaemZyWU5ZVzFCWWhHT3dCdllhamg1VmFJM2d3ZDJmd0E5SEtLbzJhYUZYcEtmcTN1cXJmaXoyRy1zcks5eUhaN1NIMTk2NW1HYlhWRkJWVXhLN08xekV3WGo4bGg0SmN1cE5jUVpZM1IzTEdKemR2bWJ5Z3hZMnRSZFZrdUNhZmJ3YlMydXpVVU5DVlYtNFVsWm1IOFZielZ0QWJR?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmFQNHIyajVsOXZ1cXhNeEpaY1pzNGVMMzg0M2ZaRDROaDItcl9kVEk2anZYN3Jyeng1NUNONDRReGRKbkpXT2xLbXkxdlE0SFhETGM2SDdQWDBtOFVyYVh4Sk1EbC05OTI4SjN4ZlVuMWgtVkVzUWVJUHNibW1aTlpBSG1oVVRKSFJNc0pfYXpodkM4Nm5NNXZNTkxHSjZaTU91VGZ0Xy1mdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdWNEZE1WcGVlbmFJN1pmVXg4RzJuV1dSS01ESi1ZNmFBd1l4ZVUwalFLLTJDMFlFNnIySFRWeG02QkJVZ2dkcDh0MktyUWV6X2laVWNDXzdYUHpzZkZXWU9ZSlhWVjhXZVVfZEQ1bFlYbFZUamxiN05YYlZqTGdvU3Vob1lid0QtZ2VMd05GR2JSS2ZTSUR0QkJQM3lYcE10ZHc?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWHFNTERCWnAtcjh5NGV4UVdtcXUtRjZ2WFY5VE5KLVJCcWZhTTF6ZU9YTUYzbWVwT3pyTmhmLW5sUWdHcEZTbkpCT2pmOFdiTldSRV84bTdGbkRzNjR4Vi0wbUJKbVBwWDN3c0tVTGN5R2k0UkNOTHljRk9INk1FRzdqYmpvTm8yN3I2QmZVXzF1M3RuUXdUUTVOalMyTUFxU1pnU0pB0gGrAUFVX3lxTE5JUXVzcUM3NjZGakFGMW5RdWdKWlFkZjNQWlQ0YTZnck5BUWhnRGJBelVJQlpXbWxWaGhsZEtRa2x5d2NCblZsUnlraDNIQ254MUxSRDQ2QkVBOExIaXl2X012VGozdXpJUXltYkcyY2xBS0JMSjZHdC1fbjlfLXM5bHBEWG9Ub3JnTnp3bWJPdUpiLS04MDlSNjdiV0xiOVpSS2VjbkhPRXhocw?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYVZQam1ZYzRleGU3MDhVcUotWFV2Ykc0TV9RdGNNR2VjaEJlZ0Vsc2w4dkVCMEJaeWdvTGJsUDY1a05UaUN2QnpNOXpzTFk5YlRQQldEdFFDZWc3dUN5LWF3d0h5U1daQVFCUURYSXRnVWhxY19teDlYa1FkazY0QVBZdnVZTm0wbUxLcHlDb3RzU01ac2pIUWxNQVlxd1ZYbDZNTHJaT2YtV3VQdUk3MUVQR2psOHM?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "CNBC",
+        "Al Jazeera",
+        "Gulf Coast News and Weather",
+        "The Japan Times"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "FEC campaign finance system offline days before midterms after hackers reportedly target site",
+        "Hackers target US campaign finance system days before midterm elections",
+        "FEC campaign finance filings website experiences outage ahead of midterm elections",
+        "Hackers target U.S. FEC system, disrupting campaign finance disclosures before midterms"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcjRkbjM5Nk42MVJwWVR3UEVwQmREQXhRcnpGaFliSElLTFkwQTItWEZxQzREMUU1eHJZcHBJc3lYT2M5Z0lHVHNYU1dDM3MxVlpkdWNCN2pwdERiSGVzcmFUeklTTDhwdkN5Y0RNRW9FVlB6VzNDZng3RURQa3NmR0hWWdIBiAFBVV95cUxNNXhoV0NwTk50UkNjZE9xSGpsSDR0QnNXSXBqSVF4dFhuYzlKUEU5dnVOOTNUUzdTeHRQN1ZYVzB3a21JR3dKZ3VIYTEwQnhGNGlGb1dOaGNja1g2cE5mTVZhZW5jUFVDbWJLMGNVTDNuWHZVSk1kbUhwU3ZyWFh5WlJGVlRVUVRx?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnJIZkQ3emRyMVh4ekl6OWx5Vkl3N04xa3Rub1lfVnJhQ3hpdHVsc2pab1NXQkhRLWowYzNGSWhMRVExWTNjY3psQ251Qk8waGhJVTZmVzJKYTh6X2xWNS1ySmtqdFZ1NDYyX1hHZE5aSGlZaTh0LWVYZHEzc2NDUmV2Tjlqc2laN2sxOTRESF9OcHkzYnB4WHNFaVhVcTFqRFp5YjV0N0t0ZFI2SHAtUC1mb9IBuAFBVV95cUxQWjhvRENPbm82TGFuSnVxTzRCbTFuOXd1LXh6cUVZdVFteVdmZWk2WVotbG5rNUlZMEZQaHh0QzVLdlk2c3BUcHIxcDZodEZ1NEIyazZlQTlYT1NvWVNJTzZCNEE0cVFTTVJtMXUtYjl5TGJWRFN5WU9KTVRuOTRuNGRpc0VrYzloZnkwN1EzYnZmWEpMRjR3Ti05M205UWhDbElXeXU3NGJTMnpzcUVoa2EyS2FtTE9w?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMW5fNG1VRldFNXNFSHFlb2Vhd3BnMDA0emduZFRxcl9yVUxmTjFlVDl1Uk5ZQ0J6ak9ERVU1LXVpOGgyQjBPWVBtYnctclF4UXpXUUgtUWVCQS1hWnVtVGVhY0czVFZSNXcxQzNBc19waENHR1l6Mlh6a1J3NWMyMy1HUEgzM0tjREVPSmFCYmF4RHZPRGc?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxOYU5uYV94OVVfVlJCZldMQXR6YVF3WHE4MERXdFIxc3l0QXFGenFQazZYamkzMEZFbGFXRVltRFBjbS01T2ZCVUVmVDh4ZDgxYVNsUmY5MTY0dlNOXzJTWXV1Mm5rRFBFcEpHWlZTc2RxQnBaSW50Zy1qNFloV1JpMnYzU3VyOTltQ2tHM2ZWaFEyRG5jdHZRRDhHLVdkdw?oc=5"
       ]
     }
   ]
