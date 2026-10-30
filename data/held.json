@@ -1,4 +1,47 @@
 {
-  "at": 1793306313025,
-  "held": []
+  "at": 1793319927327,
+  "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "BNO News",
+        "UA.NEWS",
+        "Mexico News Daily"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Arrest of Gulf Cartel leader sparks roadblocks in Matamoros, Mexico",
+        "Matamoros roadblocks reported after cartel leader’s son detained",
+        "Cartel roadblocks paralyze Matamoros after arrest of Gulf Cartel leader’s son"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZkk5OUVDeVpVRm04bnVFMzlWY1hfSFBoMV9OQ0JQMDY2WmxMa1BxNVFxb01WTnB5QjAyR2RDNFpBeENOeTdtQnNpV1c3NUh0OUNRRWstSjZLWmF5ekkzZFEzTHRqSjd5TWtPcHg2ZGdCaHg2RjN6bklrUjhHOEVXS0VSaDk4QUR2WFZtNlhqTjNicTBjMDc3eVpWUTI2d2lVZFBzYkVRbVU?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeDBMVzNIUHc2OFlBRVRaUDFseTBOWElUcVdBNzh5cHNDaHBuS1hnVm1CWFBuemNLZUdGS3NmMlZibzgyc1NubkRiUV9wUnExVUpmNEN1Ym52TG96SU1XM1psVWJVREtJem9KRWVVZnhhODVpdHRabldZSzRJNTZPWnRiUS1MaFZncDJfSTc0SUJlcDZRWnJyNlZEcDA2MnZCc245MWotMmt3dzBMcGdmU3V3OTVyLUNORWhkWGxiVmxIVmkzR1FUM1hvSWc?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1dxWWdMb1M1N1AwUDktMDc1Q3BMQ1FtSTB3VEdXWWFLNTJjMTJEOHduaTdFd2xNbW5KV1hLU3dLR3VMYmstLTk2YkxnaXNtMzg2ZnYxcFZtZV9kWDVnS0NsZEhtN3BHc1h4bUdrc0J1dUYxbEFpRm1SQ2FGejh1cTlaUFQ5alEtVEhrdzZuS19TU0J0OWc?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Hanford Sentinel",
+        "Baltimore Sun",
+        "Maryland Daily Record"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Maryland Senate President Bill Ferguson names new key leaders",
+        "Senate President Bill Ferguson names new key leaders",
+        "Bill Ferguson makes new MD Senate leadership picks"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbG9JUXFTOTJGWnZqSENxVjg2RGpzcnUzMl9NcHg3WWhaMUtmbjJaT2k4ZFlTYUdtMnJER0wwaUduRkl2NlJfb1BGblZJWXVBbWh4LTBWcHNJNU1rLXR5UVlkakNLM1hNbEVMUmd1Q2Y0ZGhMWWpFRVJSbGVkWm4tUW1HVUJhdXdYQnFSRDZCZXdFa25aelBhN3JJTWpVcm5oS1RFZ3JPX1lORENlUjJVanhRSXFkTnJ3VUF2aWYzN3hpQUZBeFlqM1lfMkx6dHVYUThLMzZlU3lzYTNnckJCVjNiOVBBZWgx0gHuAUFVX3lxTE13LXdCMWhOcFZHVkxsRnZERmtXQnZjZ0xIeVpEVmhmYnNlLVJpOW5aMnVKNzlpMDhjN0tHaDlNRGszRDJ4eVpob3NDUkVGWF9yQkVfVG1DX3ZtSkwtdjdCZjVSVVB5NmQ5N2tqTXRra28tT0JKdDhVTmZnVW5ubzlVRnZKS3hQenI3M2RVcTRJZE9WMW5laENuY1N3cmpkUEZxOWVVVjVIZkVCZHNGVmVveGxRQUlBTEtlOEFCbzFvd0p1Rkx4UHdFVVY5ZHRiWXNPRVJNVHdsaERaZnpTTU85aW9fdFFwNFBwZFJLMWc?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWM5UFFycWgyMjQ3eTI4RGlqV3UtUWlhN0tzQ2ZEdV9jWGtOSVBwRi1UTF9LY3VzY0pYMnAzRVk4UjM2WXFIdlllQU5GNHcteW0wNEJmaE1QQlpMMEhnMmVvUFBZYkp6MzE1cG4ta29YbFFiTFBpOGk1eTI4UXZ5Nm9sdlFpRVU?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeDRYQzNqRVNDVHppN1VoVmttRldEVW5GZ1hkdEREbWw4Z3VjczBGSWNsT0NCUUdJS3BoTmJ2MjFPRU9UdlhwUFNad1RBTmhPaVNnMnFqRGoycXA2X1diN1FsTXEyakxBM29iLS1SUHFCaG1YTUg1a2F2R0NDX1FKM3lXQnc4UQ?oc=5"
+      ]
+    }
+  ]
 }
