@@ -1,19 +1,83 @@
 {
-  "at": 1793385937827,
+  "at": 1793400579034,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "KFDA | NewsChannel 10",
-        "fox10tv.com",
-        "FOX Carolina News",
-        "Live 5 News",
-        "WBTV"
+        "Fredericksburg.com",
+        "Star-Herald",
+        "The North Platte Telegraph",
+        "Lynchburg News and Advance",
+        "Richmond Times-Dispatch",
+        "Martinsville Bulletin",
+        "KNSI",
+        "The Pantagraph",
+        "Wisconsin State Journal",
+        "Tulsa World",
+        "Waterloo-Cedar Falls Courier",
+        "Opelika-Auburn News",
+        "Statesville Record",
+        "The Franklin News Post",
+        "Muscatine Journal",
+        "Lake Geneva News"
       ],
       "lines": [
         "center"
       ],
       "titles": [
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSENhUTViQjFMclRDRHQ1a0xVcGN1d0UyZUs0YlJNc1hwb1BqbmNFU0lDV0xvc3ltbXY4ZjNpSllualdqbFo1Q3dyR0RNSm1pUlhLRGhmOWJ4RmlBVlVRUVVYMlVtMFlZbmlGZTU5YjJ0QVM5eFlhVEI2Sl9FX3ZvZ2hBdHcxalZTcUVLUHNQUWhfcjVSQklTTGpR?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWY0N1ZBNmdvTlRhSngxYUs4TFpwLXVMZGE1QWc3OFM3N3lDMGZRYlh4SVRuMUNmaDRzRzZhVzZ6TFN5OFYtYjdVUUl0azljTE5McHNTSkFxd3k5MHlsSW5JOHVEVEpRMkx0dXNEUjJCWHpBUEFodHNNMTlHcjZnNFdxUjFqMDNnNWYyemxvRXdxQ1p4?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSjZvOGpVUEhNdGhsNkd6blU0YUIxaFdXckk4aEdsVkhMQ193WDF5STR5eGlGVUF4SFAxc2gtN1lpSTZiak1Wa2ZVUmkxTER6U2FaS2hlM0d0YnhtVEh3ZzIyZElVRUVZVkhheWwtWkZpYlpsVmtJbHJTNWdLNk0wVDNxdW9BY194Z3drenNTWXZ5cXBzNVE?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb0dwakF0REdlM05XeVE0bDdxQXhJbmJORWNsenkzMGhRaHJnZFRKYU9JUWZ2OHF4ZThkNzI3eUZDbnA1Vzd1RE9CYWI3YUw4OVJIdDJyTGIyV3Q0dmVwdzFEcU9haHBRNk5qV1NtTEFpRElzV0lVNy1PRkZMdGdQaEpqUi1WNzBPVXQzVGtrbDhMVFRTQmc?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREVycDktNVdMbkMzaEVhM1pzNVluRjRfbUpvSjZTWUNxSmwxNDZfYlVFbWx6OXF4Yi0tQUtJU2JMdnNadFJCQWdZa05DaTA0SVRJZmtzUk9IemYxU2dCaFE1aDJta3ZWQ0pKdFZCV09mZ2JwZVBUaEhLbDVqcEpBdlBydDJRRWZaRnVfSUpnbXFzZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeUljZXp6c1RGQUJ2SmhPQkdMR0dETVo0QlNrSmRmRnM4UFctWXo2VkxGby1qQlo2MmxxWFRTSWNNYktWMHJSeVdwMjRxbUpEcjhVaDVLUUVFTDdOTGtoTW1DaUVqMWo4Wkp1aTV5V3ZpTFdyUTdMNkluMTIyZFA3NDlQT0huWFd1Sk5ubXFWZDdJRkQ0WmUzcGlBTzhZMTM0dmc?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeE9hVFp6QWJmTTFXQXNMX3ZyLTFUSU5LRFZET1BVWGZ5MDZuTUFNS19zR3BVLVVVdGxNc19CM1FZbWR0VXdNeW5oR09Cd2d1OUhqbkNFNFBMZGNqN1l3Q3ViLWtKdm5xbHJMSU5TS2lNOUlybFNVd21BaFlyWjhtbmppdUhtOVFlMW9NRUVBa2s1eVluM0MxVWRIQXMyR1A3Y0lMRi1RSGZWR0ZMeGc?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkhsaldOVE5sRXJGeTJtOTlYS2lhNW5pVU9vOS11dEdiWmhfaUJmX29sN05Va0ktUWNOSkVwcFNzSHlvUWh1MUNYVW5PZi1pcHlEeE9BVTZvRTJacXNsNXVFUXVYVGdrN2Fjb21rbE1rSGFFSXF4RU5Vc1FPalFpbHh5TVA1d2dHamFqRl81TWtkYjAt?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeFdqV1c0ejV3R2NKd2NKWDRkQnM5SmpwTFdQVmZqbkktVURBWVFyelRGLTl3OHc1QXNlQUhyRV94bVpZak05TUJtRmFjYm8wRjg3VmlGY0RyakhvdTJ5SnBMUzllYkdWaE16NzRpZEZnSFJjSVNLTzRuN2lRS29mcnF2Z2h3eTJMRjllaDk2WkQ?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZmw4Ulhqdk9yWi02enZaQ0hmWDdxcHN3dk5iWDlUVU5nU1otUXgxT2h1WmVLU2ZHcFM0MlIwZ28yUkY3YTdRRUNjTU4wWURuNFhEOXBzMHdjVTBSMG5ZNGhyTWJwUENWTGFBSDRTVjg2bEkycFhVZmJrZ1NEMkhMTUVlOTVNeE9kVE5SamRjSVlzSUxx?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLXJraHY1MEp1VVZKeGRyRlprNlAzMWRMdDNKV2tLaTI0U0FUdXJ5d0NBY1R1NWhZaXVQRmwyU2p3YVppN2Y0UTU5TzFxLURHRVdxdVpLMnFpc2w4Wi1yX3FseTJETWhSSmpqaHFBb2V0ZzV1UGVPOWNnTmNWR193UTlGQlJuaTN4Rk1DNWdndHp2OTd3?oc=5",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNallmYklGUTBrc013UTMtX3lJdUl0eGdDUXl6ZWVMY0VLdWFqb2wyQVhLMnJhRlhrR3FIUUM3NU9IdDNsdVd3ZkpKVnJZcE9hLVNTYlN5RGtiTHhVZWJOS2VVTnFtYWNTYk85Yng4eUdsV2Vwd0FJWllNRDJjOWs1OG01M3U4dmJldFY4bHZB?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdHBNcGhiV3Jqb1lJcnZteUdkUzdBcEE3aDA3QzFhemR3ZEhJZkNGNEVFLUpNd2ZKbWRXZFRzNHZTb1VBV19oVTdMZ3NQemplUWt0TkFFc0NnTWhkeHJZQlFNU1FRdzBTSERCS3ItWXJfUVh6Q3BHUnNOcFhvbHRhbEFmWmlMZV91T2NlRGpQQXBUZExrdnc?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM0E0N01xS01WTGlwd1RkZ3UyZFU0OEo3cVFtTW03bE5obVAtY1RMdjRuWW9fQnRrNDF5YnRzeTYwZllGZ3l2WHd5QjdMcHZHa0Z3OGdaYXFNUU5FNUZZWDFEelpkQTdGZGVWandSNEhqUy1tdk8tNTRvSldwQVpmNTRnN3dINTBZRHZyNVZlVk1pcFpPckRRWl82VHAwS2Q1?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXo5VnZfdjNiN1dnWk43aVZUSGZLS3MtVlotUkUyRVpjajBWd1IwalkySnh1TjY4NVM1b0NwUTZIMVEyMHVBakk0dHJwUEZWZXN0a1dSa3MzcFFoM1NLc3FVZS1vTjNZaldlWVU3SUVWWkt1b25fM25oTzlhVGVwM0w0TTFJYWU1c3JsMXZsUEk3V0pKcE9mVUJEZnI?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdl9kMUlnNjhJVzdSTGJMZmFGMTYyWGtpX3p4Qzl2ZWVHT3B6Z01BTVZiaXBmS1l4dmd1MGlJR1VpYjNzUTA1NjBJN3c5NE1xRm1kQVNIc0pWenctaTNmTjhWQnVCMFItRE16UUswNmJDdUdXWlgtOUlZbnBzVDAzUTdKekF6aVNfVmotaFdNUm1GV215Ujl0cmZn?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "KFDA | NewsChannel 10",
+        "fox10tv.com",
+        "Cleveland 19 News",
+        "Live 5 News",
+        "FOX Carolina News",
+        "WBTV",
+        "FOX19 | Cincinnati"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "New Ohio house bill protects peace officers' identities",
+        "New Ohio house bill protects peace officers' identities",
         "New Ohio house bill protects peace officers' identities",
         "New Ohio house bill protects peace officers' identities",
         "New Ohio house bill protects peace officers' identities",
@@ -23,72 +87,58 @@
       "links": [
         "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLVJVOE4wSkk0bXlTT3FaYmdqYlBkVTQtTVBfODNwd2FhSDZTc0V2RUZSbW84MHVKOHVibTgtZ3U0SnNqemRYc3cxS1I1WEpjRnR2WGdjZnZBaHh2MEdWMXJraHNNVV9iYXFGTVliTlQzLVB4cktlQlhEUnBkVWtxbVVHUVJXTW9rQmxvMDZuSG8xai13b09oT05jbVNMbFUyckpVWA?oc=5",
         "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjRkQnhWUVBoUWNFTjc3T3RhcjItMy1QdUd1MENiMzg2Q0NwVF9fT0p3UGdIUGtWam8xeGM0VzlOY29kT0ZLMjI0S281VXkwcFVwWmZpRzFoSlBQMk1CelozLXV2ZC0yOXBZNGJjbzQyT2d6cURLY3gxbGZiVEFWOWdwSVdqSUJqOEFSOXNaS1ktaUgzWFphLThfTks?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRUtSbnl0UkdTSjdTNmZvU0ppX19IbE9SaG9NQWh3TGxJUllDWVJ5OUhuTDNpVjE3bmx4MG1ZSGdJTEpLXzF3eU95TXJ3Nlc3OWJFdWpEbnkyS3liNmpkTGQzTlJLWGRYQXVWZGtQUkhaSUZwanZkd2E1M3ZkNXcxRGQ4bTRiaXh3Y0h1ZTNWYU9oR1pyYW1CRjJZS2RtTFZsTlE?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT2wzT0FCTy1VQTd1SU04QjYwbjR0NnRNYWlfLTVJUXN2REJHVVNpZkllakhPZkdXNGhsOElRUUdBMnp0MGV3UlNROXRKaWZKdWxCWGQwX1duaWtjcnhib292SURqanUwTDdPTkhxYUFkVUMyLWZTaVRlUjc3ZjFOQTRrUXlEWS1uU0xfRl9fTFBSN3RfcTdEZ184THQxZTVqVGc?oc=5",
         "https://news.google.com/rss/articles/CBMinwFBVV95cUxNenBOXzV1NFJRdGx0WThlMWRIX2ZQU01yRE9DNThObDF3WjRTVXlZcHhmcE83SGF5WldPbVU5NURYN1Iwc3dTRHFZRWFiVDlKZnp2VnJWRkp2X0FmY3ZhaTRqbS1OMTRqdHdwUFdMS2taYzdFQk1XbGU5dldYLWRyTmlQVzUwRERmQld2cTMwekdPR01xRXlhdHY3Y3ZfcDA?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN01lbUxpVlZzOVAtLVVURy1SNUNTbnA4WVJXQlEtSHBaaXFWbzM5R2RTVWRKaFVyekp5WFJ6TXNla3NxNUljRC0ybU1lQWs3NkZ2cldpYUlnYVdrOUl1VDRYNm0yMmlZSWlvLXdUZndYLUxYTnFDMDNYQUdubl9semdmRXhrcHQ1QW16R05HX1JCaUN5ZHFRMw?oc=5"
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRUtSbnl0UkdTSjdTNmZvU0ppX19IbE9SaG9NQWh3TGxJUllDWVJ5OUhuTDNpVjE3bmx4MG1ZSGdJTEpLXzF3eU95TXJ3Nlc3OWJFdWpEbnkyS3liNmpkTGQzTlJLWGRYQXVWZGtQUkhaSUZwanZkd2E1M3ZkNXcxRGQ4bTRiaXh3Y0h1ZTNWYU9oR1pyYW1CRjJZS2RtTFZsTlE?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN01lbUxpVlZzOVAtLVVURy1SNUNTbnA4WVJXQlEtSHBaaXFWbzM5R2RTVWRKaFVyekp5WFJ6TXNla3NxNUljRC0ybU1lQWs3NkZ2cldpYUlnYVdrOUl1VDRYNm0yMmlZSWlvLXdUZndYLUxYTnFDMDNYQUdubl9semdmRXhrcHQ1QW16R05HX1JCaUN5ZHFRMw?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVkhWYlRMaGhXeEEtdDhBQ25BVzc1c2gxYmgyNWlyWnVKY1I0ZVJjbXI1c1VBSmlkR0I2MTA1eVBpblFLbC00Q29oT19uVkI2WlRuTTFsM2xpXy0tTS1qSXJWaUhYVl9jeFJqNkpfeWx4RGRpTDVqV25sREw1elJrMlZFODNfYVVOSkFsckRONUEwQS1XbDZTeGZB?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "The Washington Post",
-        "NBC News",
-        "CNN"
+        "MinnPost",
+        "The Mighty 790 KFGO",
+        "WTOP News",
+        "myMotherLode.com"
       ],
       "lines": [
-        "left"
+        "center"
       ],
       "titles": [
-        "Oil giants report windfall profits as high gas prices loom over the election",
-        "ExxonMobil and Chevron report blowout profits as Trump touts benefits of high oil prices",
-        "Big Oil is raking in huge profits. Shareholders like Trump are cashing in. You’re paying for it with high gas prices."
+        "2026 Minnesota Election Results: U.S. House",
+        "2026 Election Results: Minnesota House",
+        "What to expect in Minnesota on Election Day",
+        "AP Decision Notes: What to expect in Missouri on Election Day",
+        "AP Decision Notes: What to expect in New Hampshire on Election Day"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOU5SZVJUMWtmRThGVWdONEhkWVNJNnV1NU5ta3UxaXlfR3ZvUzhtUWZUbGw2a0wwdHp5bDZaV3ZpVHZiZ0ZBaVVPOFhKNk5tMk4yNzNfQlo4TVBtbmE1U0JJSFBieDlsNmdZRVJEWFk3ZkhGNVh6NkNjWUxxUW1kN2Y1ZDZSZEVLRXNXSFpoZVJZNGhOSU5tOXEtM3FiZ3lGWkpBOVN1MmhPLVBibU5IWDVBWnUxRFk?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjhodndJTm9MRlp4bnZKWjNpSmlKa1I1VUJON1d4NnFHcVdGeVpmb0JHalhYdGFma3NjOUdJN05wWnk1U3RfenFvUi1nVENLcG91VGZFTlF4WjJpZ1RyS1I2RjEwdGJINUYtSUZmQ2NEQXpPTnE3MDJ3OXB6M3FLSWhwYnU0UVpsWHdGa1prN29ZRDBRUEtTQW03WGNZZmtV?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Sd0x3WGpwQ3hLWF8wVVNkS3FxMThzcnNUSUV6WHZ6Uzhpd0lQZ080Tm14aGxSbzJ1MXgxbmxNTDVOejltY3BHb1V1aTNjaWMwRk1uUmkycEVTMWFUSTJrYTZIeURIYlhXY2dfRjJENUZSQ0FoM1I1V2szcHM?oc=5"
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSVpKc1FUbTl6V3JlWlFxNkVTeVJJT0pIbHRqTkdmdVpKQkpRaVN6cTc1ZHlJWGM2RF9sRlNUZlRlOGhLMmJOV1pOaDVMdHlkZ2lDb0k2WExnS0R5YUo4TnVjb3N6eElwMXkwbzExaVZXOUhsRTJQWU5vYmIzdU9LSg?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZjB0cS1ybVAwZmM0VnpjbzZYSUxGcV9OR0o4LThmcWg3bmppUzlvelZza2VRN2VicGsybVZNSVd1ckhJN2VvX0g1T0tFanM4UXNiY3A5VlhEeUtrSjBOQXJZOVBoOWxBWWZWdGEwdkpHZkYyaVJER0UwYnhaYWViRXNZQm8zWlJG?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zbjRGUks4ZWR3M3kwWlQ0N0lOUUxHdzJhREpndFo4UC10dEhCWG9nbFBDWWRlejh5ZHEwSmFmV0prZTFVZlJoMmw0TzdjMTJaMVJWd3o3UUU5aERGb0V5ZmJLSHJGN3JRUERjZTBUUTNHcjQ4QXV6ejRpaDU?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNk8tSEhoQ3F3MG1zQ3Z6Ump3aHN0c1RqY3plaHBXT0lXdmphQS03ZjNMNWZrMnVsTzdrSWQ1TW45czZTbEN1WHdtRHdLellDV0dTZXl0WmxEREh0Vkd3X1laNS1qa05FVFU5QVdvV0dQbTJ4NHg3Q3N2ZmdxZ2xTdjFWWjFaTURzTlB6RHcyVVg5TGpyUXFVdkNmeEk5ZHM?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1gxVUh0c25oQzhVQm0tN2lLX3BjdU9aRlZIVVZmVkNsSTVmWXhDVnpKamRnX29Gd3JOOHF3Tnc5Sk1nUmVHaGRzQnN0M05TVFVxckpkQ0k4WnBMb0JMVDRsMVN3OXh2RG9CM1FFSzVidFNkbC1aRHJqeWdKMUdmQXdicmk2NVNvWjJSTnd2ckgxMFYtN0lObllLT1VwU2hWQllkdEhhVC1Hd1RZdTdZX2pJRW1NUzZJSDlFN3FKcWFhb1RadU5tQmdhZW82eDg20gHWAUFVX3lxTE5UTmtUUWF5YW5EM0EtNXlpTExZdHB3ZGVxY3hsQzBLWjNoQm1lMVAwaGFoRk10Y2F1eVdmdkhjajZXNUE3UXJZM3FsU185X1BUckk5ZzZUa2VpZFBPbENHQ09EcVA0cDJ1RUZqNHBadVRmaXJvOWJhcUdBT0VmdDhoOGgyMkhUb1k4dXBQR09IaWU5X3V1OWc4OG84eFJuempLMWs2YTMycXRaZy1pOFNtSlhLN3VNOW1VajJnUkxSOGUwSUNiNEdzc3I2WFFrZFJyQjFlV0E?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "Herald Times Reporter",
         "Oshkosh Northwestern",
+        "Herald Times Reporter",
         "Fond du Lac Reporter"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "What's at stake in Manitowoc County on Nov. 3? Tittl-Able race and more",
         "What's at stake in Winnebago County on Nov. 3? Sheriff and more races",
+        "What's at stake in Manitowoc County on Nov. 3? Tittl-Able race and more",
         "What's at stake in Fond du Lac County on Nov. 3? AG bid and more"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbEVBTGRNYzlXd0xlMzB1b1ZzR3k1UTQ2bGpfT19LN3R5dGVnaFJZeEVlRS1oamJ2VEZtb19WOVlDSUFYeWE1VmE5cG9PTEszX09RamljWU1COURhaEhJdHhDZ2otemwwYXBSd3ZVaUZ3ZG9Oc0NiQ0ZSX0szNFY2Wm9GR0d2NngtRF90WjVGWE1PUjMxM2pEaEFMeDZLTl9vY2FkVTVIZkdDMFpVR01TZnozOTcxUW1qRE5LRkhXVWRzeUM3MUJsQ3VndDVjN1pITGx1YzE1UnNOTi1IV2xCUUFUc1pKblBXdVE?oc=5",
         "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUlQxM0dmckRQMnZWV1RNbTBjbUpJb0pnWFdUOVRvX2FsNUxEMjhSVW5iVjlzQmNDSUVyclNQVjhYSUkzeHVhNC1FSThEWXNRM1IxWjk5Qkk1MHJmQTJhYTdfdVVYUlRQaU1vaURGR0JsS0NuZk84ckFRWVI0aEFXX2ZDTWVRZHV4RFN3aUFjNC01R002b1NuT0dUakdVN0lIYlAtMGxIYVNBblBLY2Z6eXRhRHVTYjVhWWJyMXFPb0dxR0FHdzBxNi1SQWQtQnctZ1JjRjR1dGVURzgwWkM0U1pDWGNpdw?oc=5",
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbEVBTGRNYzlXd0xlMzB1b1ZzR3k1UTQ2bGpfT19LN3R5dGVnaFJZeEVlRS1oamJ2VEZtb19WOVlDSUFYeWE1VmE5cG9PTEszX09RamljWU1COURhaEhJdHhDZ2otemwwYXBSd3ZVaUZ3ZG9Oc0NiQ0ZSX0szNFY2Wm9GR0d2NngtRF90WjVGWE1PUjMxM2pEaEFMeDZLTl9vY2FkVTVIZkdDMFpVR01TZnozOTcxUW1qRE5LRkhXVWRzeUM3MUJsQ3VndDVjN1pITGx1YzE1UnNOTi1IV2xCUUFUc1pKblBXdVE?oc=5",
         "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVWZWLVRwUFc3My1TNTNwdjlJLW5xUDdhTWNlSTNVeFR1MElyQm8zblBpRV9MSTJfZGZUbko2RzR5cHBHeEFoRUR3Qkl4bl8xVEpzWGN5UmFUdGNCUDJ3OXhZUC14X1JWTm13MnMzck1Da3ptRXhHN2YyRm5WUklzamJuSXdJOUZqa1AzM3pWMlJLYWZmQm1jT0dTaDIxRG5ZaHdhNWlILTE5TzhvU1hmV0E5MzFONDl0TVdueWJTdzRGUVFTSlBObm5OS2JQRnBEUGtONVRRYXdCbm5VMmlFTGdHN1hNbTlSd0Q1RnRxcjN0WlIyWnJZ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Rutland Herald",
-        "chronicleonline.com",
-        "The Killeen Daily Herald"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Senate Space Committee Hearing",
-        "Senate Space Committee Hearing",
-        "Senate Space Committee Hearing"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQejd3WHJnX2VQazVMTEhLVjl5V0pvOTBMV21GN25lLTh4ZjM5X0ppOTI5UVdTOFFzYXBEMU5WZVNWa1RjZy1YWS1ycUJiRnNxWF9mQkNEV3BFbUJ2Nl9neTdJUHdEdFA2c29VaGt0QmFDdHJ3ckFoQndTbzZPeTZiYWxrRktqQy1YQ1BGTExaVVRBa2VtQUxWVHBOTTRteFB1VHdmc1pEcmVYVjFkeEpqTWl5YUItQWVybXI4aw?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUXJYeWUyOUZrTzlhZWhLb00xRkRhcG1GMEo3WEhKSDVtSDJGN0xaazJfTlIzaVl3ZW5YNjZDR01yYVhuMThqTnNOVHFtSEszR2p5a0xoOHZKUjlkM0p2YTkyMkNhTEdHdzFWdzl3ZXk0Vl9SQUV3ZS1HeHFmdkh6bXU3b3FNQzRjTVNFNDdHVmJnOHdPWnVTTGNkamdQMGZ1Y243UGRJeTBuV0NKUFBiVHlXUGhOZ3pydFhWWDZoZkM2UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNanlFUDFhclpJVVQzR2FlUFpHaVFMZmtXZ004NURJVHg1cHRBdl83UU82NlJoUmljakxBd0JUN2stUUN0UWstN2t4LVJwVTdhMlZOLXVBOXZvVW9ULTVVa2dnYzhNNWZlR2xQTHlTcUJNaXY3ZG1jOVJmMkxmUmsxYzZESkpMRlRUb1BsR2VWZnotY2ZjbmJJSE1zXzBPWk9wcTB2Z0pKYWlXN1gzSDVwUA?oc=5"
       ]
     }
   ]
