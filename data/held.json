@@ -1,30 +1,94 @@
 {
-  "at": 1793366529795,
+  "at": 1793385937827,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "WSJ",
-        "Seeking Alpha",
-        "TradingView",
-        "marketscreener.com"
+        "KFDA | NewsChannel 10",
+        "fox10tv.com",
+        "FOX Carolina News",
+        "Live 5 News",
+        "WBTV"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Bayer Shares Rise After Win in First Roundup Trial Since Supreme Court Ruling",
-        "Bayer wins first Roundup trial after Supreme Court ruling (BAYZF:OTCMKTS)",
-        "Bayer wins first Roundup cancer trial after US Supreme Court ruling: What changes for 65,000 claimants?",
-        "Bayer: Wins Glyphosate Case for First Time Since Supreme Court Ruling",
-        "Bayer's Monsanto Wins First Roundup Trial Since US Supreme Court Ruling"
+        "New Ohio house bill protects peace officers' identities",
+        "New Ohio house bill protects peace officers' identities",
+        "New Ohio house bill protects peace officers' identities",
+        "New Ohio house bill protects peace officers' identities",
+        "New Ohio house bill protects peace officers' identities"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnY4b25PaU85N251VE4zS2pQMVg0QklXUnc2QnQtdk0zU1RtYzlzQnBQWHBvWElBT29mSnFMM0ppcm1FU195MEVlR1E4Ym1XeE9QQXBWLTd4WnF2d0dWX1RTU0I5c0dCZ3lFYmZJb2dhMnZrN0Jkb3E2a0tEem1lRmFQcTlpYXRpT3VZWjE0YW9ZSmt1bldNeWstQ1pWTWJZdnVaTlBVMktWWUE?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzlBZHJVRWpSeEFwU0dLZERHbmY0c09fdWp1cXhqeDBpVUNYWFdaakpCVEFMelhVLUVCYm5oWmxHN2xraEQzNTliTUNISjBLVGpTNF8yNzRsaC0xamd3OHM1Z0NWVlBQdkNFd2R3Q2FBX2RtcS12SUFud2FKMUtfSjNLQWVMV191dlpFTWhBU2lqYzVVSXozaDEzZw?oc=5",
-        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOX2JDSDc0RGZGX1FGZnZ4bDVVdGM0TGJQSVV2Z3pPQUZDS2FOQ3ZrWlR6YlZtc0xxVTVGa3NqWFJMdTFJV0trUUgxUXlsMmtIcVZqNkxkYnYySWVlR0NiVUt0VW9ObFpVTTM2YWhRY3U2aHBPMW1UTkNJUjdIOEItbXhxbnhjNHJabXF2Rkg1ZE5CSnR2Q1F1cUtyb1FUdVdGLU5mSklJRHNiX2kzZnlVdFIyVGFZY3pxa3ZzR1I2TGJNY1ZnNmNqbmJ1OC1ZaXFzai14N0xtS2VWRmJaZHpCbmktSW1pbng0dEJWcDRkcw?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOczVkMGFENEVQU1UzLWZnMFlUZkhPUE9HTHFxbnlwYTh2MUdFUzU5Z1FSUlEwVTVPcXNLQUNrV3VUczFKemx6VEpkZ2U0RktrUDdlZllLa19YZjZyZl90OFkwWnJNUTVOM0xYd2N1RE5aRXdWU0NuV1lmdjhyZmkyZWNNd0hxRGNqS25YRVpmckl2RlBwdUxaZGc3VUV2MzdNQlRrRG5jaEgta0dWaGhKdlY1WDFvVHl1VVNEUkp3?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjVGbkc2WkYtMTJKMmstNkRSaE56WVV1ZkNPSDBFYWpnLUc1dTFia2tfMFNDYWgwVmk2aUFSN0Q4WVhMa3BNY1l0eEFzdjRGR2ZGcTh3cjc4QzlHUVNQR3VNMmhQNXE4Y2wzdGFNaE40Q2hNcmg2aHhIQ3pCSlA3SUJGSzdPUGliSWFlSGZnanRvck1TY0ZQYUprcW1YcEJJZ2dUTDN4d0YxRkJzN01fdU5yMDVMXy1nR3J0MFplY3REUQ?oc=5"
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLVJVOE4wSkk0bXlTT3FaYmdqYlBkVTQtTVBfODNwd2FhSDZTc0V2RUZSbW84MHVKOHVibTgtZ3U0SnNqemRYc3cxS1I1WEpjRnR2WGdjZnZBaHh2MEdWMXJraHNNVV9iYXFGTVliTlQzLVB4cktlQlhEUnBkVWtxbVVHUVJXTW9rQmxvMDZuSG8xai13b09oT05jbVNMbFUyckpVWA?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjRkQnhWUVBoUWNFTjc3T3RhcjItMy1QdUd1MENiMzg2Q0NwVF9fT0p3UGdIUGtWam8xeGM0VzlOY29kT0ZLMjI0S281VXkwcFVwWmZpRzFoSlBQMk1CelozLXV2ZC0yOXBZNGJjbzQyT2d6cURLY3gxbGZiVEFWOWdwSVdqSUJqOEFSOXNaS1ktaUgzWFphLThfTks?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRUtSbnl0UkdTSjdTNmZvU0ppX19IbE9SaG9NQWh3TGxJUllDWVJ5OUhuTDNpVjE3bmx4MG1ZSGdJTEpLXzF3eU95TXJ3Nlc3OWJFdWpEbnkyS3liNmpkTGQzTlJLWGRYQXVWZGtQUkhaSUZwanZkd2E1M3ZkNXcxRGQ4bTRiaXh3Y0h1ZTNWYU9oR1pyYW1CRjJZS2RtTFZsTlE?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNenBOXzV1NFJRdGx0WThlMWRIX2ZQU01yRE9DNThObDF3WjRTVXlZcHhmcE83SGF5WldPbVU5NURYN1Iwc3dTRHFZRWFiVDlKZnp2VnJWRkp2X0FmY3ZhaTRqbS1OMTRqdHdwUFdMS2taYzdFQk1XbGU5dldYLWRyTmlQVzUwRERmQld2cTMwekdPR01xRXlhdHY3Y3ZfcDA?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN01lbUxpVlZzOVAtLVVURy1SNUNTbnA4WVJXQlEtSHBaaXFWbzM5R2RTVWRKaFVyekp5WFJ6TXNla3NxNUljRC0ybU1lQWs3NkZ2cldpYUlnYVdrOUl1VDRYNm0yMmlZSWlvLXdUZndYLUxYTnFDMDNYQUdubl9semdmRXhrcHQ1QW16R05HX1JCaUN5ZHFRMw?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "The Washington Post",
+        "NBC News",
+        "CNN"
+      ],
+      "lines": [
+        "left"
+      ],
+      "titles": [
+        "Oil giants report windfall profits as high gas prices loom over the election",
+        "ExxonMobil and Chevron report blowout profits as Trump touts benefits of high oil prices",
+        "Big Oil is raking in huge profits. Shareholders like Trump are cashing in. You’re paying for it with high gas prices."
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOU5SZVJUMWtmRThGVWdONEhkWVNJNnV1NU5ta3UxaXlfR3ZvUzhtUWZUbGw2a0wwdHp5bDZaV3ZpVHZiZ0ZBaVVPOFhKNk5tMk4yNzNfQlo4TVBtbmE1U0JJSFBieDlsNmdZRVJEWFk3ZkhGNVh6NkNjWUxxUW1kN2Y1ZDZSZEVLRXNXSFpoZVJZNGhOSU5tOXEtM3FiZ3lGWkpBOVN1MmhPLVBibU5IWDVBWnUxRFk?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjhodndJTm9MRlp4bnZKWjNpSmlKa1I1VUJON1d4NnFHcVdGeVpmb0JHalhYdGFma3NjOUdJN05wWnk1U3RfenFvUi1nVENLcG91VGZFTlF4WjJpZ1RyS1I2RjEwdGJINUYtSUZmQ2NEQXpPTnE3MDJ3OXB6M3FLSWhwYnU0UVpsWHdGa1prN29ZRDBRUEtTQW03WGNZZmtV?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Sd0x3WGpwQ3hLWF8wVVNkS3FxMThzcnNUSUV6WHZ6Uzhpd0lQZ080Tm14aGxSbzJ1MXgxbmxNTDVOejltY3BHb1V1aTNjaWMwRk1uUmkycEVTMWFUSTJrYTZIeURIYlhXY2dfRjJENUZSQ0FoM1I1V2szcHM?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Herald Times Reporter",
+        "Oshkosh Northwestern",
+        "Fond du Lac Reporter"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "What's at stake in Manitowoc County on Nov. 3? Tittl-Able race and more",
+        "What's at stake in Winnebago County on Nov. 3? Sheriff and more races",
+        "What's at stake in Fond du Lac County on Nov. 3? AG bid and more"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbEVBTGRNYzlXd0xlMzB1b1ZzR3k1UTQ2bGpfT19LN3R5dGVnaFJZeEVlRS1oamJ2VEZtb19WOVlDSUFYeWE1VmE5cG9PTEszX09RamljWU1COURhaEhJdHhDZ2otemwwYXBSd3ZVaUZ3ZG9Oc0NiQ0ZSX0szNFY2Wm9GR0d2NngtRF90WjVGWE1PUjMxM2pEaEFMeDZLTl9vY2FkVTVIZkdDMFpVR01TZnozOTcxUW1qRE5LRkhXVWRzeUM3MUJsQ3VndDVjN1pITGx1YzE1UnNOTi1IV2xCUUFUc1pKblBXdVE?oc=5",
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUlQxM0dmckRQMnZWV1RNbTBjbUpJb0pnWFdUOVRvX2FsNUxEMjhSVW5iVjlzQmNDSUVyclNQVjhYSUkzeHVhNC1FSThEWXNRM1IxWjk5Qkk1MHJmQTJhYTdfdVVYUlRQaU1vaURGR0JsS0NuZk84ckFRWVI0aEFXX2ZDTWVRZHV4RFN3aUFjNC01R002b1NuT0dUakdVN0lIYlAtMGxIYVNBblBLY2Z6eXRhRHVTYjVhWWJyMXFPb0dxR0FHdzBxNi1SQWQtQnctZ1JjRjR1dGVURzgwWkM0U1pDWGNpdw?oc=5",
+        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVWZWLVRwUFc3My1TNTNwdjlJLW5xUDdhTWNlSTNVeFR1MElyQm8zblBpRV9MSTJfZGZUbko2RzR5cHBHeEFoRUR3Qkl4bl8xVEpzWGN5UmFUdGNCUDJ3OXhZUC14X1JWTm13MnMzck1Da3ptRXhHN2YyRm5WUklzamJuSXdJOUZqa1AzM3pWMlJLYWZmQm1jT0dTaDIxRG5ZaHdhNWlILTE5TzhvU1hmV0E5MzFONDl0TVdueWJTdzRGUVFTSlBObm5OS2JQRnBEUGtONVRRYXdCbm5VMmlFTGdHN1hNbTlSd0Q1RnRxcjN0WlIyWnJZ?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Rutland Herald",
+        "chronicleonline.com",
+        "The Killeen Daily Herald"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Senate Space Committee Hearing",
+        "Senate Space Committee Hearing",
+        "Senate Space Committee Hearing"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQejd3WHJnX2VQazVMTEhLVjl5V0pvOTBMV21GN25lLTh4ZjM5X0ppOTI5UVdTOFFzYXBEMU5WZVNWa1RjZy1YWS1ycUJiRnNxWF9mQkNEV3BFbUJ2Nl9neTdJUHdEdFA2c29VaGt0QmFDdHJ3ckFoQndTbzZPeTZiYWxrRktqQy1YQ1BGTExaVVRBa2VtQUxWVHBOTTRteFB1VHdmc1pEcmVYVjFkeEpqTWl5YUItQWVybXI4aw?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUXJYeWUyOUZrTzlhZWhLb00xRkRhcG1GMEo3WEhKSDVtSDJGN0xaazJfTlIzaVl3ZW5YNjZDR01yYVhuMThqTnNOVHFtSEszR2p5a0xoOHZKUjlkM0p2YTkyMkNhTEdHdzFWdzl3ZXk0Vl9SQUV3ZS1HeHFmdkh6bXU3b3FNQzRjTVNFNDdHVmJnOHdPWnVTTGNkamdQMGZ1Y243UGRJeTBuV0NKUFBiVHlXUGhOZ3pydFhWWDZoZkM2UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNanlFUDFhclpJVVQzR2FlUFpHaVFMZmtXZ004NURJVHg1cHRBdl83UU82NlJoUmljakxBd0JUN2stUUN0UWstN2t4LVJwVTdhMlZOLXVBOXZvVW9ULTVVa2dnYzhNNWZlR2xQTHlTcUJNaXY3ZG1jOVJmMkxmUmsxYzZESkpMRlRUb1BsR2VWZnotY2ZjbmJJSE1zXzBPWk9wcTB2Z0pKYWlXN1gzSDVwUA?oc=5"
       ]
     }
   ]
