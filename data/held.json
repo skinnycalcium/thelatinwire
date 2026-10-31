@@ -1,76 +1,55 @@
 {
-  "at": 1793457656990,
+  "at": 1793472405460,
   "held": [
     {
       "section": "politics",
       "outlets": [
+        "Winnipeg Sun",
         "Tampa Bay Times",
         "Yeni Şafak English",
-        "Local News 8",
         "Dawn",
-        "Kuwait Times",
-        "Statesville Record",
-        "Roanoke Times",
-        "Richmond Times-Dispatch",
-        "Winston-Salem Journal",
-        "Muscatine Journal",
-        "Press of Atlantic City",
-        "DBRNews.com",
-        "Opelika-Auburn News"
+        "Kuwait Times"
       ],
       "lines": [
         "center"
       ],
       "titles": [
+        "'Trump betrayed us': Arizona's Latino voters sour on president",
         "Florida’s Latino electorate up for grabs as voters sour on Trump",
         "Arizona Latino voters say Trump 'betrayed us' ahead of midterms",
-        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
         "'Trump betrayed us': Arizona's Latino voters sour on president",
-        "‘Trump betrayed us’: Arizona’s Latino voters sour on president",
-        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
-        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
-        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
-        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
-        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
-        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
-        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
-        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?"
+        "‘Trump betrayed us’: Arizona’s Latino voters sour on president"
       ],
       "links": [
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQXhUZjlRUy1wWE8yLWZmWkhEd0NBNngwWFZXYVFQNm5qQUdOMnRpbXVYOWpFSl9rdHhUc21tQ1BCa0l6NWZmS2drT2MzeFBsdDlmNEVQNFRxYTJHdm1YWUxOQ1I1cGdCMnpqSzVqb3g3MGMwNHRnbU9ENG82QllBcHM0UmxWaXJjUGJuUjN3VDVabUhzNzVQZUY5cDFkdjFlbVV1VlRHQVUybDlTVXZ4eVRDazNvSFRfX0xEaDNtS0pIR0tzMWFyTllhN3NUNW1iLTJQY2hZR1htMkhpbzRzTg?oc=5",
         "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOVU5dEtlaWM4cEZRVDc1cnd3OHNKZUVlTFN1TU9FQk9nOGc1X3dydGdUWWNRNmEyQXkyTmVMZzQyVHp0emQ1YXpqVHY0X2tXREo4STBsS0NYRTBibmV4enQzQnFWR0JRbHZqWUxtZHZZbnY3SmlOcGowekVRYi01SHZrbXpwT0s0X1p2a0p2bjRHc0psS0dFa3VORG9pTjhHV2N1OVN4MzlLYlVpMzFhdTM0WDhyN0o2X1JNMnVEdVE2bkNOMklWZlZRcmViS1o0M1lV?oc=5",
         "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaF9ORi1mV19CN0ZpLVFxSGNFV2tTSS1DZ0hmRXdOa2hVUU9YN0lLUHdJNm1lcGpmaU94eV9FVmt0S21GNnFzTmFBclNnOEtvVDZIODQ0WnJqajBXb3R2YTVibUctTkdFVUFVN0d6OHVLSk95TDJNOXBGdXN0dGktbldmcEI4YkptdTlDWHVMUVBJT3U0OGJabnBrOFg1d2k3SGc?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNG45NWFxQmtPbXd4WXhwOEhrazNpNWFrMEE3ajdIY3JSVEhHd01sTVR0RGlnMFpUZkNTRFJpNkxUekdhVnVfSWhrTWhBZXpjdUF0MGtYdDFWaTdxZXlwQUp0M3NvRW9CbjFRMkw4emhYbTJqQWwySEoyNWxqT3lUQ0VRUnRYNE1oZlJiN1ZKaFZKZ29sblBFdHVDOElDYlluMnRwdkpfTVVPd25LYlJmd1JTUE9MM1JUTUpMWDlua2ZRVzVTY0FsVFNwU0RCYWFMZ1l1bQ?oc=5",
         "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLMWtUZmNENk5ROUs0Rm9LcWo1aHVBbTJiV0R1R3FOUjJIbTUzZzBBdFNyb1NDdkFxUkYweHFpV0ZJRGl1ODRaaQ?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0ZSZUp2d05RcHRVMmY3RzJsdGNISk9JVUp4QkdtblRYMHZ3eWU3dzhJU0l2Qzl1QXpfbkp4VjlXcERWUzlaLThleE5FcFhRRkZMc3QyNzRVdUhhYjI2c3h2dHBFMUNsbGwwZUc4UDdwbzYzZ3ZxUkV3bHd3dThXeXJ0Z1hENjF4S21idm5VWU00WlJnaVNESHhJOENKc0RRRnFUYV9n0gGqAUFVX3lxTE1pMU1qOTN2VW5pN19RYWU4R3JOZ3BFbzMyNl9MRTFsNFgxcFZIVVFiOHNFdDhkSGtGNUFteUd0d0NMcExSdFNhbEV5bmQwRUNYLUNkdjllWnFqTFNzbW0zUlVXWGQ0a3FsMWwyME5kWE5BMU9YelhhanlZWUhaX2U2Q2trbnM5Vjg2Q2hvQWFBVTlURVhtdWg2T3FIcnFsQk5HN2U0UDAtSWpR?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdHBNcGhiV3Jqb1lJcnZteUdkUzdBcEE3aDA3QzFhemR3ZEhJZkNGNEVFLUpNd2ZKbWRXZFRzNHZTb1VBV19oVTdMZ3NQemplUWt0TkFFc0NnTWhkeHJZQlFNU1FRdzBTSERCS3ItWXJfUVh6Q3BHUnNOcFhvbHRhbEFmWmlMZV91T2NlRGpQQXBUZExrdnc?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjlvbnA4QzE1Z0hOdUIxbVZDam9FOTBUU21UMGE5REJWalB2dk9UdlJzcm5iU204ZkZPekVqdXUxWk5HT2IzTXBwSmo4bG05N3BBM2p6NWJBRXAwRW1QcVdLUWpVcUJPWl9PU05Yck1ndDEwR2VhM0pHY19zV21oMTlnazhicTJ5VjVyai01SVM?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREVycDktNVdMbkMzaEVhM1pzNVluRjRfbUpvSjZTWUNxSmwxNDZfYlVFbWx6OXF4Yi0tQUtJU2JMdnNadFJCQWdZa05DaTA0SVRJZmtzUk9IemYxU2dCaFE1aDJta3ZWQ0pKdFZCV09mZ2JwZVBUaEhLbDVqcEpBdlBydDJRRWZaRnVfSUpnbXFzZw?oc=5",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdXZnZlpHRGNsei1XSUZ5bkJuX2tMV25KSU4tM2xFVHJ3Tlk5WGo4ZENodFpqWU9SMzk2aGE3UTR4UGRKQ3ZmN0hja191ZWJDSGZ6R0pQMmtiNlg0cmRtQzJYODZPMy1uRXBtVTlBQ0dxTzIxRENNR3RVTG9JMENCQTBKUE9LbU8yRi1VQjBsMnpHVVdn?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXo5VnZfdjNiN1dnWk43aVZUSGZLS3MtVlotUkUyRVpjajBWd1IwalkySnh1TjY4NVM1b0NwUTZIMVEyMHVBakk0dHJwUEZWZXN0a1dSa3MzcFFoM1NLc3FVZS1vTjNZaldlWVU3SUVWWkt1b25fM25oTzlhVGVwM0w0TTFJYWU1c3JsMXZsUEk3V0pKcE9mVUJEZnI?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWTRCUFUybGVnZzdrcHg1d0RJWktBRHgtUEdGQm50Yjgtd05OY3BNN2RudHZKdnJRZXk0QkN6Q0ItWDZwR3NfTzZGMjJaMUZTWWxOdjlVRC1OZ2U2Yjh6aTEtVFh5UEE5SzJhOVQxSUxUc182MnBOU2tvWDNtZlp0bzhva1RCZEh2cFk0WTRpbVljdWJZY0lvYzZPbTlqYl9n?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY2htdUVzVFlWQXFxYWk0WnJRd3I5bWVoWjR4RHFQS19DTjluZGFLcGJxQ2JTRkpSQWwzUC1FSnB1RDVvUkJITnlZMEhGQ2Z2VEl5SmJpeFVMeU01OEwydFRfZFI2emNfSHVITWhibW9yUTU3UW1IVGdkVC1fYlVDX3J5MmFmUHE3UFNMV0t3OXg?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNallmYklGUTBrc013UTMtX3lJdUl0eGdDUXl6ZWVMY0VLdWFqb2wyQVhLMnJhRlhrR3FIUUM3NU9IdDNsdVd3ZkpKVnJZcE9hLVNTYlN5RGtiTHhVZWJOS2VVTnFtYWNTYk85Yng4eUdsV2Vwd0FJWllNRDJjOWs1OG01M3U4dmJldFY4bHZB?oc=5"
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0ZSZUp2d05RcHRVMmY3RzJsdGNISk9JVUp4QkdtblRYMHZ3eWU3dzhJU0l2Qzl1QXpfbkp4VjlXcERWUzlaLThleE5FcFhRRkZMc3QyNzRVdUhhYjI2c3h2dHBFMUNsbGwwZUc4UDdwbzYzZ3ZxUkV3bHd3dThXeXJ0Z1hENjF4S21idm5VWU00WlJnaVNESHhJOENKc0RRRnFUYV9n0gGqAUFVX3lxTE1pMU1qOTN2VW5pN19RYWU4R3JOZ3BFbzMyNl9MRTFsNFgxcFZIVVFiOHNFdDhkSGtGNUFteUd0d0NMcExSdFNhbEV5bmQwRUNYLUNkdjllWnFqTFNzbW0zUlVXWGQ0a3FsMWwyME5kWE5BMU9YelhhanlZWUhaX2U2Q2trbnM5Vjg2Q2hvQWFBVTlURVhtdWg2T3FIcnFsQk5HN2U0UDAtSWpR?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "Bonner County Daily Bee",
-        "Idaho Capital Sun",
-        "KTVB"
+        "Local News 8",
+        "UA.NEWS",
+        "Roanoke Times",
+        "Richmond Times-Dispatch"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Idaho Supreme Court upholds dismissal of legal challenge to state public defense office",
-        "Federal appeals court upholds Idaho’s penalties amid legal challenge to state’s abortion ban",
-        "Appeals court allows Idaho abortion ban to stand as legal case continues"
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
+        "Some Latino voters in Arizona will not support Trump-backed candidates — Dawn",
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?",
+        "Latino voters disapprove of Trump’s presidency: Will that decide the midterms?"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdHRad081OE5FaUExZkg5NTM3Z1otNm93QlpUQ2p5NlVnSHlncENUdFNOSGh2SnAwZEpiMTUzZndyV1o5cnlRS2pqbzR2cHVsSTZNLUZWZWVsR0NZcFRqMVNfTVo5c0xjZm5xank2OUVrTXJpVHpiSVRRT1NnN014cDh3R1JXdWY4S1NXeE9Db01iNjJjODFWZHgxSW9OVERkNzRKUENGbUpXc0lVcDFUX0t4cnJwU2M3RzZwN3hfMEdaQXNGNkVtaF8xaEpreG93WUpRSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVERxUTVPN29fVC1lVkpoblFRYktIUTdQRHBab1ZZX0lGRjkwNVBUTFJzLXExcExxbGxRYXF0V25uMlRrMU5oc3gwbE5rUi02RHVCd3B1ZHlqM2luTVhpYmpoTGI1VjBGQUlGdUZvOTk4X2RPQ3MtTDF1WnZzS2hpdENtcWpxcE94NWVwSG5EdWx2akJyeHFMVEEwNGk3cVV3U3RmTnJnQ2h4VndXSHNpSlNaRC1mLUtiVnBCRXMwUlNObk82R05aZGRR?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQVpMY3RHM3NQMjVXMG1WSlk0d1VpcEtCUi1OSlJXNWRhVHhQeU44a0xDR09vZzUyQ2c2V1hZbDhuWnlSQk9CNk42M2Q0aURmX0JjWEFvbmVaa0NuYU93ajlqT05UOVB3UEVtc1F3dzJEcjVxcnhSODlSSmF2emFrZlBRd2pkbEk3SWtPNlNYbThJOERhUENReXpSeEtZWVFHQ3pDWnFWNGdHYWZZbGhCNkZ1UTJDZWFrYUx4ZWR0LWdJell1Uk0tMEdwXzZ3UF9IQlVycldvTQ?oc=5"
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNG45NWFxQmtPbXd4WXhwOEhrazNpNWFrMEE3ajdIY3JSVEhHd01sTVR0RGlnMFpUZkNTRFJpNkxUekdhVnVfSWhrTWhBZXpjdUF0MGtYdDFWaTdxZXlwQUp0M3NvRW9CbjFRMkw4emhYbTJqQWwySEoyNWxqT3lUQ0VRUnRYNE1oZlJiN1ZKaFZKZ29sblBFdHVDOElDYlluMnRwdkpfTVVPd25LYlJmd1JTUE9MM1JUTUpMWDlua2ZRVzVTY0FsVFNwU0RCYWFMZ1l1bQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeTRLRDdVc1R5dlRUNk14UXJyUFQtSnRHTnYwVko4c3dCa1RqbEVueHlYQUhzTW5US2hhVnlyeHlzQnlVX3dhM0JlVW1UcTFyQkU5X3FJYk0xV0hVSGI5aDNZQjBEVHRJTVVFLWRveEtSWGxHR1RadVZta19UYUlkbFUtdFNtRmotUjV0OXRmQVBCMWtCenhiOTNNU3NBTUd6WmRKcFBlc1M0VjU5aVpxN2taYjZQQzc1UUJsZGhOZnJsQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjlvbnA4QzE1Z0hOdUIxbVZDam9FOTBUU21UMGE5REJWalB2dk9UdlJzcm5iU204ZkZPekVqdXUxWk5HT2IzTXBwSmo4bG05N3BBM2p6NWJBRXAwRW1QcVdLUWpVcUJPWl9PU05Yck1ndDEwR2VhM0pHY19zV21oMTlnazhicTJ5VjVyai01SVM?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREVycDktNVdMbkMzaEVhM1pzNVluRjRfbUpvSjZTWUNxSmwxNDZfYlVFbWx6OXF4Yi0tQUtJU2JMdnNadFJCQWdZa05DaTA0SVRJZmtzUk9IemYxU2dCaFE1aDJta3ZWQ0pKdFZCV09mZ2JwZVBUaEhLbDVqcEpBdlBydDJRRWZaRnVfSUpnbXFzZw?oc=5"
       ]
     }
   ]
