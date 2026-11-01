@@ -1,34 +1,25 @@
 {
-  "at": 1793485014739,
+  "at": 1793496088402,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Tampa Bay Times",
-        "Winnipeg Sun",
-        "Yahoo",
-        "Yeni Şafak English",
-        "Dawn",
-        "Kuwait Times"
+        "KXAN Austin",
+        "NewsNation",
+        "The Texas Tribune"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Florida’s Latino electorate up for grabs as voters sour on Trump",
-        "'Trump betrayed us': Arizona's Latino voters sour on president",
-        "Florida’s Latino electorate up for grabs as voters sour on Trump",
-        "Arizona Latino voters say Trump 'betrayed us' ahead of midterms",
-        "'Trump betrayed us': Arizona's Latino voters sour on president",
-        "‘Trump betrayed us’: Arizona’s Latino voters sour on president"
+        "State of Texas: Paxton, Talarico make final push for votes before Election Day",
+        "Paxton, Talarico make final push in Texas Senate race as early vote tops 6.7 million",
+        "Texas Senate race nears Election Day with much at stake"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOVU5dEtlaWM4cEZRVDc1cnd3OHNKZUVlTFN1TU9FQk9nOGc1X3dydGdUWWNRNmEyQXkyTmVMZzQyVHp0emQ1YXpqVHY0X2tXREo4STBsS0NYRTBibmV4enQzQnFWR0JRbHZqWUxtZHZZbnY3SmlOcGowekVRYi01SHZrbXpwT0s0X1p2a0p2bjRHc0psS0dFa3VORG9pTjhHV2N1OVN4MzlLYlVpMzFhdTM0WDhyN0o2X1JNMnVEdVE2bkNOMklWZlZRcmViS1o0M1lV?oc=5",
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQXhUZjlRUy1wWE8yLWZmWkhEd0NBNngwWFZXYVFQNm5qQUdOMnRpbXVYOWpFSl9rdHhUc21tQ1BCa0l6NWZmS2drT2MzeFBsdDlmNEVQNFRxYTJHdm1YWUxOQ1I1cGdCMnpqSzVqb3g3MGMwNHRnbU9ENG82QllBcHM0UmxWaXJjUGJuUjN3VDVabUhzNzVQZUY5cDFkdjFlbVV1VlRHQVUybDlTVXZ4eVRDazNvSFRfX0xEaDNtS0pIR0tzMWFyTllhN3NUNW1iLTJQY2hZR1htMkhpbzRzTg?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM0JteXJDWWFJSmVHbkNfMFZveDEtTkdQSmxqOEYzWUtZMUQ2OW5HQUkyRG1jaGhKaDFhaVFydFROZmpLcnNZRjhpNTNianRRS2lMa09UY1VSdnJFRUZLUDVnR1ZEVjZ6OFEzQnRpV3ExY2VzZjAwSzZuVU5TVXlHbnNNUjVITS1feHNfb21fQ2kxamRtcW9wRDZoV2dOclE?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaF9ORi1mV19CN0ZpLVFxSGNFV2tTSS1DZ0hmRXdOa2hVUU9YN0lLUHdJNm1lcGpmaU94eV9FVmt0S21GNnFzTmFBclNnOEtvVDZIODQ0WnJqajBXb3R2YTVibUctTkdFVUFVN0d6OHVLSk95TDJNOXBGdXN0dGktbldmcEI4YkptdTlDWHVMUVBJT3U0OGJabnBrOFg1d2k3SGc?oc=5",
-        "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLMWtUZmNENk5ROUs0Rm9LcWo1aHVBbTJiV0R1R3FOUjJIbTUzZzBBdFNyb1NDdkFxUkYweHFpV0ZJRGl1ODRaaQ?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0ZSZUp2d05RcHRVMmY3RzJsdGNISk9JVUp4QkdtblRYMHZ3eWU3dzhJU0l2Qzl1QXpfbkp4VjlXcERWUzlaLThleE5FcFhRRkZMc3QyNzRVdUhhYjI2c3h2dHBFMUNsbGwwZUc4UDdwbzYzZ3ZxUkV3bHd3dThXeXJ0Z1hENjF4S21idm5VWU00WlJnaVNESHhJOENKc0RRRnFUYV9n0gGqAUFVX3lxTE1pMU1qOTN2VW5pN19RYWU4R3JOZ3BFbzMyNl9MRTFsNFgxcFZIVVFiOHNFdDhkSGtGNUFteUd0d0NMcExSdFNhbEV5bmQwRUNYLUNkdjllWnFqTFNzbW0zUlVXWGQ0a3FsMWwyME5kWE5BMU9YelhhanlZWUhaX2U2Q2trbnM5Vjg2Q2hvQWFBVTlURVhtdWg2T3FIcnFsQk5HN2U0UDAtSWpR?oc=5"
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVXljUmt3Zi1hTUdjTkVQNUM4djhtdTY2THdPMlc4TmR4LWJ1V1R0RWd6WG1jTU9xNTBZTFRwd2hmS3RtLUtQNXNHb0xxalE2MHRpdTRrVzRxWmxmNjI1amZaa3hqWkFYWklGOFhPd1lzb2k2bHBuSVc4ZWZLRUdheXJWWWdBUVNOSVhYYVNTbUVRQ3dsN0RNaEcxaXVuMzVpeXgxa2dRbnpORDlFQnBzMUN6ONIBuAFBVV95cUxQZzFwQ2t0NUFOV1FGei1PQ19UQl9SMVBJSTMwZEVFZUw1Z1E5cDF3aW9JUUM2REdXTkIxeEQzZVNEbG9BODlnaktYbTViQ2p4cWMzc3dtQjRqbW4zNlRxekZOQUlqc0NQM055eGl0NHFlMm1pMzRrOWdyTGZTZzJyZVF5ZHg1cUhIbjZYbFVXREw1RzVWRnpGdDFqVmNiN3ZrREhiS194VUpjQkxqT2FzaW1XNGNZYldR?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnk0cnFtUlljcl9MSVAydF9NcnRzVHNGREFpNGk3Y1NSOFZabG1HNzNUcFVya1hHbi1lMGliYUlteWRHTFRfQnBEUWQ3YkFtT000THlBOGlqQklONi15ODR1ZFRMUHAzbXNOZ1NYUkRNVkRFLXN0SnFVeE9iWE1zWENwVXNrOU1JM0RwTEhQRVFyQ3pQMzYzWGNsckxaUG13STVyaU1LSEpOcjZ2b0FPcGRJa9IBuAFBVV95cUxQQWVaUnBUY0JBa3dvOW1rMVhXRDFudDNOUXFUNk9mWUZKS1hCZmllbUZjNXJ3NGljWkJjRTVfNmZJRjdKX2h0SVlMaTNRcmJoQm1GcXV2NnAySnotTmtiMlJmMWNkZ1RUOS14bEg1WHFtckg3Ri13cVM5LTRfOURMWmN2ZTlzZzBnaUFjR1QtRG1DVUVTRXo4eEN0bHVNZVlaWjZvdTZEbjR4X2Y3TFNqeGRkSHRRN0Vp?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdl8wTFNCS1pYc3lYZEVEdWVjQjZHbW9vX1BaOThmSnBZOUZaV1I0T2J4YnBoVU9qOFdXV3l5ZDU5XzhEajVFSzJuLV9PYXJDSHREMmZFY3BLMjIwekNfWjFqWlFSUjgwSzJLM1FxRnplUkJiWGpaeUVpNTd5Q2prcUtqUFU4ZEpaaDRfdmViY2lEVUg1bXV2Vl92cVd3MmpjUl9wN2xzQ0M?oc=5"
       ]
     }
   ]
