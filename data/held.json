@@ -1,4 +1,72 @@
 {
-  "at": 1793612938682,
-  "held": []
+  "at": 1793649679779,
+  "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "The Times",
+        "The Tennessean",
+        "PhillyVoice"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Michigan Senate race polls: who will win the 2026 election?",
+        "Who will win Tennessee's biggest races? What polls show before Election Day",
+        "Ahead of Election Day, here's what the polls show in Pennsylvania and New Jersey"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSkxtMUVUdWZyaUthanNTVnV6UVN2Q0o5dUdoR3YyanFTMERQS25Wbl9sNHpEalNmdzB3cTFGOHdRRWgxTWItY0FENFZCTERZZHNkX0tVcklkeU9uYi1xbVVWb2VZd0t2U1hjRlpoYW1wZHk3QkkwNG5GX2VEUHRqSjJYV2tTNWVvNlFZenJkLWFvd2lGMmFuUzI1aC1iTHVPMnctM3h5NFlnRGFQSTJwLXlYLUhYQWwyQ0QxMV9Vd1hCLTg?oc=5",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb1doTzdNcXQ2R19YOEhCLXYtSURPMnJKSWN2dW9FVFJHR2VkQVlOVmV5NERWVGltR29QMDE2R1NIRV8zcFkxZE5yaUhqNWowU0tENmZQb3BSOHBVbzViczUtcHJhck5VZnFIVmZxZWcwYjVyWjFGTVczbFRvNjVpRGo5eXpMR1U3aDZVUVU0eVRlZ0NveUxCRW05bWFpX1VVV196V1hpd2ZqOWNHMXNPQW9FdnpyVnduN0tiUGRMeXVEQ25MTWtydC1ra3BsNFU?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQzZCZzFYOWl2STBKOHhfRlU3WW1Pd2Vvb25sc3dockYyWmVsdmI3dHpBLTZaTmI2Z0NkZWg1ODN0WENXb1hpSHJYMVF3WF9nb1dob2NIVWJ6QnROLUZGNUNCZE1MdzV5WXBiN0dDd3MzeTE2Sm9qbGNmbTAxQjlaVkNR?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "KHOU",
+        "Patch",
+        "The Detroit News"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Midterm Election Guide 2026: What to know about the races",
+        "Brookfield 2026 Election Voter Guide: Meet The Candidates",
+        "Michigan voter guide: What to know before you vote",
+        "Glastonbury 2026 Election Voter Guide: Meet The Candidates",
+        "Newtown 2026 Election Voter Guide: Meet The Candidates"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQmVkLVlYNjRoVXZCdlliOHU3aTdYSGVXUWFVUmVVdGF0RFhmWDB1ejgyUDhJSDdocHA3S0txVnpNWURNRElNdFprYzVIX0hSZm5WZ1VKQWEtWHNVRG1mdFAxZlFsdlNMa2ZqeXd5dEtLM3RaZjlxaEIwcDMxa19ZSml3THBNOGQ0dG1yOXVPTXpLeDZFano5NTJsWF9uU212NlhMR0VNWFAyZ3dIOUU5VVg2OEphSHZfZFJISU9ac1dUSkFHbHBKWWRXSWh0T3hCcTZXQg?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZnRhZ3RZOXlnN3FYX2FmakZaUE55bm9QX0pzY2JrdDFDVVgwdGV5aS1oWVJmZGlZRVdyWE0ydzlsOWE1NzB0LWNoRDFmeG9ZXzY3N0tuWGZFVHRHZUVjdURLd3BnYW05QWZkTTl0OWF3TTJVUFlfVktNZS0ySWx4X2lkZU4ydzBCTlFDMElfTFA3Z2ZWUVdFddIBrwFBVV95cUxPb25LdWRyV0llVDFkcUdrclpkTDNVa1dWaExWZjFwUUI2VlVaWVlVLUdyNVhyYmFkWkVZMWJTeXh4RjN6V0J4S3lsSjlCVjVSTDJmUzRpSzZjZmVSdVpVaTJ3ZWZaeWYzV0RRY3ZQOW1tRU54d3VGNUp5ZXNSdEhrdU5xNmI0RHRQT0dkTmR6b0lzZ2Vld2pLaUVkc0c2Mm4tNU5jS21zMUdqZGUtbTY4?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ3JZZm5yUVNxeU11X1FzM3czNnE1LXV6NjBjWjA2OGN3OXR6WUdzYTRjcDFtTE96a1JfbU5zTzhxTmk1U09UalMteVM4OUxoSW82WHJNUk9Ba0plaHFXTl9yWUJROHdJU3IwaXhFT1h1V0FwQ0ZOR3ROd3o4ZklKVmtKRTNBSHpaUzRzX3V0MWpvZVlEdmhxNGc3QkpQS2xiS1pXc0tlZWpIc2xwNEctMmkwUmxQeFJ5UTBoTGNaYjIwd0hjME5rTGtjNkNKc1hncFVHeXhSWm5PdGc?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFrbE5wa3lQRVlGZkgtM25hdzNVMnhBeEhsMWkzUEpVR1l4VjVlenVHMTdnZWFGMFR3dS1uMXhjQ2VVc3pIR05va2FJM203M1BiMXJrUkVfRHRlOVI4ZEpvX2xjTmxrRjlFaGpyeEYzNzhlempnN0FJT1I1bTE2U3FsY3RxeGFaVkMxd1JyMDIzeDVsNmlvZ0RMYw?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdUJzTXBiN2QyZ1prZ3JRMVhaemgtN3VleWVfOExGTGFsM2xaSi1hMFo1YjZmN25Mcmh4clM1c25lOVJZcFFPdTlmSXNFZlRnZzZlSmU4MjRUVjAxN2pmcUhGLUhnQmd3ekV1VV9NVTdTWmo0akU0QzJRZm5rbjFKRmU2QzFQZW1adjBhZXhYSUnSAacBQVVfeXFMT3pjdFRTUDVoNklTR09hUmdKcDdnQU5PV19seVRoOG44Mk5ROGJOUnJyNWFid0pNT3pna3lIWWFDcnI2S2s4UWRJRExZalNBRUlCX3h5U0xRcDlLLU1jbGFlQkNwQ1ZnV2dyQ194RGdBTTJTSm1vOF9ZX3UtTnVSY0xjY0M1dldTa2g3SnVCSHU2QmNjR2RiRVhGUEMyVm5vNXdVbWxvMkk?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Berkshire Eagle",
+        "Civic Media",
+        "Alabama Daily News"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Election Day is tomorrow. Here's what to know about Mass.' 9 ballot questions",
+        "Election Day is Tuesday. Learn more about the candidates and questions on your ballot.",
+        "What to know about the lieutenant governor amendment on the ballot Tuesday"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ1QtcWliODlpUnJENkVSY3B4Z3hfVEs2RzUwNmpwYm9pSE02WndWVGxkWTJZbTU4RGYza2FiaVcyN043b291djdwWWxpV2xIWmtGbllDY0lrajVHd2o3Q1h0S3FVcnVGVWpTNzg2eERWa2REVW9WX0EzZFF0Vnh1OEFTU3ljSmVnNU9IMXJyNlI3VDNmZEFZbExKTGlTNG5jeTZjeFJXU2VJWWJTUmM4RUxxeTVCdXY1bVR5STVLNA?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTEN4R1h5OFhON3ctcWdETTgwRXlsR0ZkbGZ3NHQyaHV0TmQ1dUJwWVRCVnhFNDB6ZlV2ZGJZY0FqVnlsTHBUUTZsVEJuTDJ0Tk1JQlZodUg5SndjdU1pOGVKbEhUckdTZVh4dTI4YmRfVjA1TldGSVluUmxkYlpWUlBGOTd5bG9EdFQ3eVdYRm1xbTdfNFgtS2FYb1V5RjhpV3p2bERDelI5T0p5OW5oQWlWbmJsazZHb00xZnJQMA?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdENMTEtGd2FJdjFxaV9CNW1EREVGTlhWY0FDdnRidU84Qm9IU1hDTk5qUnhBcnB3OUxoVnc0dnpOenk3SzdseTlXdjhRNTJqazdfVTd1ZGtFQXJhU1hFOXRMQkthTzgyR2swMjRfenptQk9TMVVKMnRpZkc3TzBOXzBOYWRkYVZNQXJMMWx5NnRhcXZZSjdqajNUMU9GRDU3?oc=5"
+      ]
+    }
+  ]
 }
