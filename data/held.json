@@ -1,55 +1,31 @@
 {
-  "at": 1793699585083,
+  "at": 1793727386146,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "allAfrica.com",
-        "The Japan Times",
-        "The Eastleigh Voice",
+        "Minnesota Reformer",
         "WRAL",
-        "Hoodline"
+        "Alexandria Living Magazine",
+        "Pittsburgh's Public Source",
+        "Idaho Capital Sun"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "U.S. to Cut South Africa, Rwanda from AGOA Trade Deal",
-        "South Africa and Rwanda lose access to U.S.’ AGOA trade pact",
-        "US moves to kick South Africa, Rwanda out of AGOA trade deal",
-        "Trump administration will cut South Africa and Rwanda from the AGOA trade program",
-        "US Suspends South Africa, Rwanda From AGOA Trade Deal"
+        "It’s Election Day. Here’s what you need to know.",
+        "Election Day is Tuesday. What you need to know to vote in NC’s 2026 midterms",
+        "Election Day Is Tuesday: Virginia’s Closest House Races, What’s on Your Ballot and How to Vote in Alexandria",
+        "Election Day 2026: How to vote, what’s on the ballot",
+        "Today is Election Day in Idaho. Here’s what you need to know to cast your ballot."
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lUGpTWUZhN25hTEc3TUUzdnVKS1J5a2x4YUZWbURmdjFyT2FIbkZpbHk4bzZmUFBvZFlWRjZScG5zUFlQMGZQb0d5SHB5dDg0U29CaUl6SFh3NlNLY2tFdmJHWkZoTHhwVVdz?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdFI0R1Nac18yOHFKTnI2eU5PMXE1WkJRZEtHZGl2bVFVNDhFWC1KcXBwQlBuQXJRaFZfcmMyblFqb3RFN2UzQzA4ZWVTUTRza2FRNmx2NzBsSWt5QVpPZVhrX0pSU2FHVjdYMC1sRDcyMjgzSlFSbTV0RkpxYlFLajFuSlN4MXlnU21uT2tMQjlYZGc?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjczMXpGaHhlX0d3WWN3OHdFRzllYjRMRl9GN3J2SllFLXhadDYyOVppM1lDalFFLVZESU4xUk1xVjRUYmI5aFpHMmphUlhsN0lrVVRsZU5VQkFZMGtTWURCRmRHdEEwTGdQTHhISmVQaXFyMmFqLXFMNUZETTZCY1BPVnRnZlhjRmg3bW93ZDBBdV9nS3lvUFZ4Ymd6amlHM2V0MkxnTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQXJrVEhqdEI1dGxWOUVnNkQwVUs3MC1FdG1jXzZIUjFEMEdlSE9zZmxKOHlmZXRfZnBHaFlMLXZZc0FtX21jRUhQTmdlVnlzSWNZcEJBTkZ0dFc2Y0QtYjZySlBmQ1VVUVlnMGJHOWE2MC1icFdqRFRhY0oyd3JXSHlrN2o5MHhRczZGSlpnamlEVmNhUllqQ2NKNlZOWWl5XzRoYWJGVnFZYjBSTWg2bXhLZHRKUXJ2ckZUY3VR?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWDl2VU5GVFNmWlNFSTJIYVVGeUpvX0FaSDluVk9DTlAwRmJiOGJxRW9felRrS181QXNWRllLazFhQ2RTNXZzT3Ewekh5MmstLVpsWUhtemYwYUhablJ0UDZ5SXRYLWZ3ZnVab09YdEp1b0tSWXJjdTRsOTM5UDQ2RXdGQ0xnazROa2YzdkREQTlNUnJWeFlBLXRKVzg4dmxnWVpNSFdaZDJZUkdrX1Yydw?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "WION",
-        "Moneycontrol.com",
-        "indica News",
-        "News18"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "White House list of 127 ‘promises kept’ by Trump claims India-US trade deal, India-Pak ceasefire",
-        "India-US trade deal, India-Pak peace claim feature in Trump’s 127 ‘promises kept’ list as White...",
-        "White House Lists India Trade Deal Among 127 Promises Kept",
-        "India-US Trade Deal Among 127 'Promises Kept' By Trump, Says White House Ahead Of Midterms"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQmVCREJBb2lxZFZ1U0EyNjlFX3E5VzFoTk1lblJfLTdybmxDSWQ0QmhRNzFVLWJqV1dmSDYybGhlM1Izempzb0J5X242UENmOW5tY3JnRWNIYWxaTWdoZ1BsS0RUdUdYS0JMZzZKU0ZvWEhVZHhYYkZpc2toWTZPel8tdllZTk1KOGxWeU9jZ0J2SzBGSFltVkVBejV0ZU1kcEJpX3d3VngzX1dHdUUtQVdWTGVCeG8tWVBPU2Jkdy1OZWNMNzFQeDhveVd4TDYxRU1kTE4wakJtd9IB3wFBVV95cUxPdlNaMUZCQ1FtUHVFRTJSVzRDc1JhRGhuQWZmd1h5dXRUODRHZGdPdy1IZENVNTB3d3kyQi1yd3h2LTM4UWtlOUtCbE9hTnhIQWVBUHNxSlBTM3h2NXAxZ2VMUVRyWjZ2SVJZdFpWa1dhRmo2S09WUVVCSU1wWjVHUlZ5cUJxZ094V2cxRng5bWxubFo5Znc3bHBPcVV0VTRVMEIycC1oU253WE5jWk1tN1VRS1hWTGlqNWtuWndVVkdHckRNMzZTS200VDBsTWpXX29HeVNtV1g4eHptY3lB?oc=5",
-        "https://news.google.com/rss/articles/CBMikgJBVV95cUxQVEEwdkRhM2Z6a1lmM3pKT1d0M29SSWV4WE5wUDNoYzl4ZjE0VDVuMmRnQmNVeFhtYWNIcDJ2SWlEU1lLMDZlQUIyYi1LbjNjTVVDQXFnWDJkN1NkUVJZRlBwWGRoajBTUE9ScEl3Ml9hajlnc0UtcnN4VklkLVgwZjVTcEZpLVM5dDlwMHM5bF9tWnRGVDYyWVJ5YndVa3hTUXdfTW1KZ1hIQ2tlQ2lxTTQxT0pPMEdLVGZZeWZWWlhCRGo3bEhucmRYY08zUmVBbi1qU3BCR09RbVBQblpqYWE3UFUzRVdrQUNjTU1yc0doOS1GZjNXdU12SkV3VDhmb291NzRobHo4SmFVeXppTFJ30gGXAkFVX3lxTFB1Y0tnMVI5cVB4aWRVWm54YUhtY281cGNFb2xjSVJZTmhwTzctQ3gtbVlIYXFwZ2RXaGdQQjRuc2RvcWtlVS0wM3RNdFptY3dya0Mtby1rLWdDNndaS05pcEFueElISmdseFktMmhXbEpqMUxveTJCVkhJdlRyT3F1bm1xaUowWk43R0c5ODRnMjZSblh6bERGb3M1enlKeTNvWGo0ZHQwUEY0cUZfNjJRUFhnbUtDdEhpRXRBUkdHNlFNbXAxRDgxTGtyNVdTM29EM2Z5Ql9pX2hqTFpFYUNIazlFMnRGODloYVVJeFlueVhpVkMzUzJWOUw4cU5kZzZuY1c5aGVNRGxvdHJoNV9fSDd5X0cydw?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX3ZTdUJPaUZONTZzRFNscGVZZUJieHRWSFVCYUVFcVV1UHRkRURQZ09oVHBUMjBEU3hJcWZ1S1VOS0RiWnNXQ2Rhel9MSHpOLUdjWnJhRVZsVkZvaUJPRFQzc2JnRnFJR3R1UE15RzVCcFh6eVRVLTFla19tUGlQbEt1QWwwWGlfbkE?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdTBLV0Z3VHNMXzVZWl9HQ3YxeFczRXhhTXludTA2M2kyMFNab3doUXYzRXZxdjZxdGlsOEFfekFMUFZVM24wWDk4cWFsLUxIbmd3bTNJNF82bFFWNE9qZVZjSnFrS0FZS2t2V1pkamUycWtRSlVFMi04dzJCc1Y3a2laMHRVd3h5SHpoMi1XdFRwaFFVekwtX216UmxCT3VXRmVScEtjWUpkRUxpYlFqczR2azluVC1IbVk0ZDFrQ01GYzNfejFFV9IBzgFBVV95cUxOWTFuaEVtTE9adnZuV1I4Zi1vM2IzNWpOemNYdDFMdy1TREpBSTdKZFZOeVktUWVBMzZ6M0Y0dUxTdWh6b0ttNVN4UlgzY0ZtT1FpemwwcVhvLWFTRlRnMENxNGhkY1Nkclc4NTdxNXpaNHpQOTlYaGNTd196S2FUWUduNWRncHdtdF9Gam5heEFTYnhZWHpxT1dadHlET2NnWnd4ekh0SzBudFEtbHZTRDRrYVpCcXpRQnV3Y0puck9Ib2xQc1lrOTNZQkphZw?oc=5"
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTk1CS3ZUV2lEYzdSTVlGMnBOOEpkc2N6LXN3TGtBSENRLXFqMl9IMU00VU1nRHE5dEVTaUFiaXAweVA3d1ZTVnMtWHBpYTdLUk9qa2gySmNWbVA2dnptNzBHVHh5LWpQRlVnbGlzR0dCMDdHWFRMUlpMSlg1NnUtSEM5T2tNQk9US2JoNFE4eS1EdUQ5R0E?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbGtpdEI0X0hKSVo1allwMGtPZG9kNVdkTTFGVkd6ZUNQV2Z0ZmFHeHRmaEdRTHJ4VmZuRXBpelBqVUR0YVhuMmstX2VCUUx1R3hLRXNfcHZ6VU9oNms0cjlNSnhPS1ZlaFAxTzFicUZLNjBnRDRVelRGR0xTQzNIVWo4Q3lTaXlZNkV4bUdBbjloTExId3V2S3dCOTJsZndCa2w3OUhtSm1YdTVOcmlyLWpNenpKNDdsS3BIbA?oc=5",
+        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EakxrMFNqU2haU0RWVWUweDhYS1hXUkdoNWZjM0VhY0cwSmJEeG9wVU9EV0oxcXlLZmtNZ3o2Q3R3R0V1RGRpNVBtbHptVUZCVGxoRllrdEFmUVVORlFxX2NYd2pqdw?oc=5",
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE1zLTgybFdDekhITlJNZFE5eDhZWXQwamJxU0dFSGt0ZEVCclgwZ29sSlhiNEtUVDRWMUhsbk42MWV5eWNJc19YZ2NEQmR0bU5jZGVrSVFiNlB5Z19tMnJ4UEpTdjhpT1htMU1fVm9OOGFWdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSlJiQ0RZOWxsM2kyN2xmSjFzRklJYlFxdnJSUW1BZ05OdHk4U2NEQWtycmMzUTBKc21BOHBEcWhsX3BrWGhPNUZyNUZqTzFQQW1sdW9FSmNDOWNnT2xGd1ozazQtU181LUVmNkRPbU1wVjVlcmhZMUplUUpzcENnbHpHNDRFcVNaMVdWcXFzVzVWSzdxd0tIMFBhQjI2a0ZVVU9iZ3N3b3BJOG5mTWppaUhXSEJORVhZMFE?oc=5"
       ]
     }
   ]
