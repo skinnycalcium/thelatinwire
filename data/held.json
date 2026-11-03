@@ -1,71 +1,96 @@
 {
-  "at": 1793649679779,
+  "at": 1793672359057,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "The Times",
+        "Nashville Post",
+        "WKRN News 2",
+        "WPLN News",
         "The Tennessean",
-        "PhillyVoice"
+        "Axios",
+        "The Business Journals",
+        "AOL.com",
+        "Nashville Banner"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Michigan Senate race polls: who will win the 2026 election?",
-        "Who will win Tennessee's biggest races? What polls show before Election Day",
-        "Ahead of Election Day, here's what the polls show in Pennsylvania and New Jersey"
+        "State Supreme Court upholds law cutting Metro Council in half",
+        "TN Supreme Court ruling: Metro must cut council size in half",
+        "Tennessee Supreme Court rules Metro Council must cut in half",
+        "Nashville’s Metro Council cut by half in high court ruling",
+        "Nashville must cut council in half, Tennessee Supreme Court rules",
+        "Tennessee Supreme Court upholds state law shrinking size of Metro Council",
+        "Tennessee Supreme Court upholds law slashing Metro Council at least in half, to a maximum 20 seats",
+        "Nashville must cut council in half, Tennessee Supreme Court rules",
+        "Tennessee Supreme Court Rules in Favor of State, Cutting Metro Council to 20 Members"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSkxtMUVUdWZyaUthanNTVnV6UVN2Q0o5dUdoR3YyanFTMERQS25Wbl9sNHpEalNmdzB3cTFGOHdRRWgxTWItY0FENFZCTERZZHNkX0tVcklkeU9uYi1xbVVWb2VZd0t2U1hjRlpoYW1wZHk3QkkwNG5GX2VEUHRqSjJYV2tTNWVvNlFZenJkLWFvd2lGMmFuUzI1aC1iTHVPMnctM3h5NFlnRGFQSTJwLXlYLUhYQWwyQ0QxMV9Vd1hCLTg?oc=5",
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb1doTzdNcXQ2R19YOEhCLXYtSURPMnJKSWN2dW9FVFJHR2VkQVlOVmV5NERWVGltR29QMDE2R1NIRV8zcFkxZE5yaUhqNWowU0tENmZQb3BSOHBVbzViczUtcHJhck5VZnFIVmZxZWcwYjVyWjFGTVczbFRvNjVpRGo5eXpMR1U3aDZVUVU0eVRlZ0NveUxCRW05bWFpX1VVV196V1hpd2ZqOWNHMXNPQW9FdnpyVnduN0tiUGRMeXVEQ25MTWtydC1ra3BsNFU?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQzZCZzFYOWl2STBKOHhfRlU3WW1Pd2Vvb25sc3dockYyWmVsdmI3dHpBLTZaTmI2Z0NkZWg1ODN0WENXb1hpSHJYMVF3WF9nb1dob2NIVWJ6QnROLUZGNUNCZE1MdzV5WXBiN0dDd3MzeTE2Sm9qbGNmbTAxQjlaVkNR?oc=5"
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcHBaM2s4OXpad1MxSmpITEl6SjNYLWlRYWgtT0RKYnBwdW94SzA3eGFxQ1dIVjlNblZZRkRubTlMQ0NhM1kxQ2RUOXZlcHlRZExQLVVnM01BWVBkdXdVcDlmbVVlWjFqNDRTVzFKUTk1Q1k4d2NPVUI4bF9IcnBMY1F4VmNXV1d5cDc2cEhqZDBnUDlEMWVwam5zWXFLSER3dU1oMmZNVEF1MjlxMFlzdjJpRG1YZG5zUVI0UzdiUkFoYjczb2lOcEc2MmJlVVc2UmhQUENfX0Z6Wm5EQXc?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmZLNDZoTGczM3lVQlhtQ0tqTC1GUEV6T09oVWFac3FGSzQ4cmh2V1F0MWw2T1d1MHpvSjFoQTlyX2xPel9fMjJ3Q0Z4SUhPcm02dkl2RFFNZE1kV0hIWG55VlVHNmc1Q1ZBR3hEWkpYU0FwWVNrT1A3dWtEM3I1NloyOEVvM29qZ1Jub0hBM3MwQkJwSF9tZlBtWVg?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxNcUpMU2lnQVR3bTVtYS14MmIzZHZ3NU5Zald4VXpULUQtVm1TaVBxME0yc1VpRWdIMWNRbG9rblpaSU52MG5uZkhOZ3ZFTWRVejdNOUNSOEFnenM4ZWdnYjZUUWJWY3VLV1ZqOElCN2dWUzRUZHFYSUkwMkF5SC1jdXhrSzFJZ21GQ2Q0UFcxd1ZaWXBTSVM5a1lPMlFXUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0dTNjhaZGtvSkpUeFEySmYxdmZNczQtdzM4OVZQS2p2aWtSRmJqOGJGVGt2QmJjR1ZxNXl5cEt1Ylk3Q0JrNFRfWmtta3cweDUwS1lRVjFRUUI0UlRaMm1JVndYcDNkbnhvOFpPN0s1WnhxdWZKZUxvOTZEc1B6UHl1NGZ0Tzg?oc=5",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNFUwVlQ3RmhXRzVVekpXOEZSRHZfVWh0aFloLTdvRzFhZjM5SEVMajJhdWJUOHBIdGxOVEhtX1hfaDVfOFBtR056WnpxWTNIblhrSUZzaExPbWZ4cjVvRU9sVWRJY1RuZVk2dTRNeFU2MHRhS1NvSi1Cb3dIY1djSEx4UHREYzVRRmZLUVZYZDBEbHBRTGJQTjg4LVNSMTBQSHk5dncyRjJCaTRQM1ZQSFREcWRNYzVKY05pVXNiSkpaX1hYTEFjdTdublRqc3lSbU1xNA?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQWtEbU9TcHgwX0RFdHVpNDJZakZ1M0xaRGNhOEJVazBlWjVCVEdoVlVVRi1KTjBkWktyODJTSnFHQllWRjRWMm9ndDJrNk1xb0ZNdi1vRDJtNUlGS25NUVJmUEc0OF9zc0s0TUdvRnJIS0ZuUFVWMHJUdFgxSWFBNDByMWJsY2dTWDRmWFhPV204V0t2MGc?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzJCRm5teHNhcFE4MlNlQzRvTm5lNWNSZDNMdkdzU2prWnprRDliMDBEY2VCa0FkOEpKTkVCX0FTRXg5aTJCdTJOU0dUX2tyMm5ORWpWX0dSTWt5SURqbmJDLVlXY00zLUNYRzJ4bkJaNVpWYTRwTXhVN09lRHl4RmM2TFFrMElKQWczRDVWWDI3LWNGcG5uRg?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWVF5QU80MHVzYUNiZ1I3d3Z5MWlaa0pYOFZBMlBBZjZ4eE9wNl9pa1hibjE5SU1nSngtTXFhUW8wRHlyc0pQeXZuU0hFSEEzVnpRcWtXeE9wMzc1Y1FsZERVU1RQOVBPX2djeVMtbUtIZll5eFY2TWZDR2VhRXBuaA?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQUh1cGx1RWg4eENVX1NGWFdBUHpVVEZuekM1ZHpHS3VCNG1qcVlfM19sZERFUzZ2WmZrQnp1VXRsdFc3cFpCRy1YMlZWcHNHNmN0b2lGQ1dwdU5KMEM5Z3U0aFNNVF9RX040aWNPYkpRMjZ5ZGN0aU12NmppZUo0MQ?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "KHOU",
-        "Patch",
-        "The Detroit News"
+        "Firstpost",
+        "Axios",
+        "The Hill",
+        "SFist",
+        "Sacramento Bee",
+        "ABC7 Los Angeles"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Midterm Election Guide 2026: What to know about the races",
-        "Brookfield 2026 Election Voter Guide: Meet The Candidates",
-        "Michigan voter guide: What to know before you vote",
-        "Glastonbury 2026 Election Voter Guide: Meet The Candidates",
-        "Newtown 2026 Election Voter Guide: Meet The Candidates"
+        "Trump loses last-minute bid to stop California from counting 20,000 disputed ballots",
+        "SCOTUS rejects Trump's bid over disputed California ballots",
+        "Supreme Court rejects Trump administration’s bid to set aside 20,000 California ballots",
+        "Trump Administration Takes Battle Over California Ballots to Supreme Court",
+        "Supreme Court rejects Trump bid to set aside 20,000 California ballots before election",
+        "Supreme Court rejects Trump administration push to set aside thousands of California ballots"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQmVkLVlYNjRoVXZCdlliOHU3aTdYSGVXUWFVUmVVdGF0RFhmWDB1ejgyUDhJSDdocHA3S0txVnpNWURNRElNdFprYzVIX0hSZm5WZ1VKQWEtWHNVRG1mdFAxZlFsdlNMa2ZqeXd5dEtLM3RaZjlxaEIwcDMxa19ZSml3THBNOGQ0dG1yOXVPTXpLeDZFano5NTJsWF9uU212NlhMR0VNWFAyZ3dIOUU5VVg2OEphSHZfZFJISU9ac1dUSkFHbHBKWWRXSWh0T3hCcTZXQg?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZnRhZ3RZOXlnN3FYX2FmakZaUE55bm9QX0pzY2JrdDFDVVgwdGV5aS1oWVJmZGlZRVdyWE0ydzlsOWE1NzB0LWNoRDFmeG9ZXzY3N0tuWGZFVHRHZUVjdURLd3BnYW05QWZkTTl0OWF3TTJVUFlfVktNZS0ySWx4X2lkZU4ydzBCTlFDMElfTFA3Z2ZWUVdFddIBrwFBVV95cUxPb25LdWRyV0llVDFkcUdrclpkTDNVa1dWaExWZjFwUUI2VlVaWVlVLUdyNVhyYmFkWkVZMWJTeXh4RjN6V0J4S3lsSjlCVjVSTDJmUzRpSzZjZmVSdVpVaTJ3ZWZaeWYzV0RRY3ZQOW1tRU54d3VGNUp5ZXNSdEhrdU5xNmI0RHRQT0dkTmR6b0lzZ2Vld2pLaUVkc0c2Mm4tNU5jS21zMUdqZGUtbTY4?oc=5",
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ3JZZm5yUVNxeU11X1FzM3czNnE1LXV6NjBjWjA2OGN3OXR6WUdzYTRjcDFtTE96a1JfbU5zTzhxTmk1U09UalMteVM4OUxoSW82WHJNUk9Ba0plaHFXTl9yWUJROHdJU3IwaXhFT1h1V0FwQ0ZOR3ROd3o4ZklKVmtKRTNBSHpaUzRzX3V0MWpvZVlEdmhxNGc3QkpQS2xiS1pXc0tlZWpIc2xwNEctMmkwUmxQeFJ5UTBoTGNaYjIwd0hjME5rTGtjNkNKc1hncFVHeXhSWm5PdGc?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFrbE5wa3lQRVlGZkgtM25hdzNVMnhBeEhsMWkzUEpVR1l4VjVlenVHMTdnZWFGMFR3dS1uMXhjQ2VVc3pIR05va2FJM203M1BiMXJrUkVfRHRlOVI4ZEpvX2xjTmxrRjlFaGpyeEYzNzhlempnN0FJT1I1bTE2U3FsY3RxeGFaVkMxd1JyMDIzeDVsNmlvZ0RMYw?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdUJzTXBiN2QyZ1prZ3JRMVhaemgtN3VleWVfOExGTGFsM2xaSi1hMFo1YjZmN25Mcmh4clM1c25lOVJZcFFPdTlmSXNFZlRnZzZlSmU4MjRUVjAxN2pmcUhGLUhnQmd3ekV1VV9NVTdTWmo0akU0QzJRZm5rbjFKRmU2QzFQZW1adjBhZXhYSUnSAacBQVVfeXFMT3pjdFRTUDVoNklTR09hUmdKcDdnQU5PV19seVRoOG44Mk5ROGJOUnJyNWFid0pNT3pna3lIWWFDcnI2S2s4UWRJRExZalNBRUlCX3h5U0xRcDlLLU1jbGFlQkNwQ1ZnV2dyQ194RGdBTTJTSm1vOF9ZX3UtTnVSY0xjY0M1dldTa2g3SnVCSHU2QmNjR2RiRVhGUEMyVm5vNXdVbWxvMkk?oc=5"
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTVljQjY1UGd1cFJ1Rk13UXl4RW8zaTliWVJjTkJGeDVRUFluUExiUzFVV3pEczhpUWRVV293a0dBTnU0NTFOMGdUR1VKN3NqNUNianpiRVkxQnJvNGVtNUcyZFR3RkFPcmkwb3dRdjQzeFhMdFFVVmhVbThWdHl0SXJKZlFtSGZOYWI4bm1SSzFLTG1vWWJkSUxuZ1RxOEN0YTdvTVRhNFFhTEhwdWtWME5DckRrMkM3SWxpTkc5WlhRaGdZOENzWWpXZGJ1UV9xdS1QelFEY3ZtQUnSAeABQVVfeXFMTlNDbElJTjZ5TXFzcjNhYmFDZWpLQl9pajg4R3c3SDdVazd4Wl85cC1ORGtlWmlibkxYUzFCVFYwVkhUU283ODNDUUhDejVSSzkzNmkyOE9NRENxdm5DQTRkbW9PbnVOb0dhMS10RzNHa2JuM2xTSjRlMURpaDhwekFneDNxYWFjSHhHZHEtb2U4TFZKeWpSYzl1dTNYTU1ndlFWcDl3OE8zNTZnSVA0d0ZCb1lXczYwMkZIME8tb2hyVGE0ZjRTZ1JDRGRTTG9nMklFMW9nVDl1NGVtUi1iUnY?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQVGduRmpYTnVpTDV3OWRVaHQyN1RTblRjNkhCWUZEak5vUkhfMHVla0RtSUhlRHIxVm9yOG43Z09fX1RCYkF4MUJJdU5uTGwxWnJfM3MxWlRQWnVteTNQZW9yeTl1UlpUYWZZVTNiRFZuVUJLdDRrOGhETTFhZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX29jQ3ZDOXZxWEhwSHZ2RzJraUM4S3VjRDdSLThuc25JNTd4dC1MTFpMVXQxNy0wdHc3Y0FTVTVNd0huemU0cjc4WHVRTmFIb3d3WUF2WmtxRHBQWndrNjJfVEdCUnJERmFra3NYWjBUR3BBOEJvNU5hekxCajJVcjhRTTM1X3VHNUJZQVlCQnFwTEo4QXZlSU1jZUs0Y1pyb082c1FpdmNNRTjSAbABQVVfeXFMT2FZTS00OV9jZjB2STZvenFiZ0duMGlOb21lMGFjTjFQRFpjYkRrdjE1b0Y2cmM1Ui1DVWJzanFJX2IxaFpSekpyODRNNThyOTV3VjloTHlMLWVGbmNGYklLdlE2X0hsOFBqbFFUTXRuc2tIMjRIZmFiall2WWM4UzN5V0QzRGxGLUdwZkVnc3p1SnJBc0tRZ09ySlRHQ05DVXROeE5KOTVuNUV6cUtqQjA?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFlIeG9aUVpWWXpHbVZnVkdDTHUyUjZkLU5pQTc2YUhEajhGX2ZSWXliem9sM1E5VlRxRERKNkRuRHpxQ2FOcHFlQ1VtQ1RFcWU3M1l0dm5qYW9hV2RPY2swSW00b19zanA2MjVkbVpscDRZQ1I4MHZqcGYtWU5HOUZva2RnUUVlNlRrVnRfWGg3NzNDRjJSNXdxQmxvenBaRWt3dmxjMA?oc=5",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XZ0N5dHF6VF9FV2p0bV8zYmF1NmU1TEtLaGlNMVhjY2JrQmRtSWlvSTRlRGRyX28yOUtRUEtiY0F6RE5uT3FROTdsT1NDSVBEZVRGUElUcEFfR0pGTUhTN1lQa01pcDVZLTRna9IBbEFVX3lxTFBuZGNWZXctQlZwWE04STRNOC1uUTJ2SXl6Y3dkNmhiN0Z4dF81SmpoeUFwa3oxMlp1VVczWkhoRWM4ZmZDZmZPb0pBLWUyN0pBSm5NLURkLUozRDRqemhmM0V3b2JPZTFfc1ljaA?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUh1ZnAwSl9RcGhhTzlIdGEwa2FMQ19FLURCbk16b1Z3by1XNUVEVjNjN1p5d0I2ZWVqdmJ0VFhmNkc4NktkdDJId1djenktSHZEWWROdldVdTJjbVozMkVYZFhyaTdzSzcxTW1CNHNSYXFtUU1teGxoS1VBUF84LUxCVnZHM3QzNVY2d0RWQ2UwMDNiOFViUTR6dUpGcnphT3hybEVPM2ZUX3llTVRrdXlDU3YtSjMzRlHSAb8BQVVfeXFMT09jak1tTlhTNXFUQjMxUGozcjNfQ244OVMybEU1RHFvZkxvSU9qWXZscUxWNGUyd2hlYXh5WjA5NlRYRTJ0dVdYS1NiWkMxSU1KbEw5MEdNdFhzdzMwbzdobnZJd1BBTGZScXlfRk5BUTN0d0t3ZE43d01sdVpJLTBRVVJIcUpkVUlaWVBVVW1KYzRVWDVKNnhTVkVlN01qTHB3cTRaN21ndF9WdWFzcmtjdFpvSjFwNF9iSmthUDA?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "Berkshire Eagle",
-        "Civic Media",
-        "Alabama Daily News"
+        "News18",
+        "The Korea Herald",
+        "The Korea Times",
+        "ANI News"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Election Day is tomorrow. Here's what to know about Mass.' 9 ballot questions",
-        "Election Day is Tuesday. Learn more about the candidates and questions on your ballot.",
-        "What to know about the lieutenant governor amendment on the ballot Tuesday"
+        "India-US Trade Deal Among 127 'Promises Kept' By Trump, Says White House Ahead Of Midterms",
+        "White House cites S. Korean trade deal, Alaska gas project among Trump's fulfilled pledges",
+        "White House cites Korean trade deal, Alaska gas project among Trump's fulfilled pledges",
+        "White House releases list of 127 “promises kept” by Trump on final day of US midterm campaigning, claims India-US trade deal “secured”"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ1QtcWliODlpUnJENkVSY3B4Z3hfVEs2RzUwNmpwYm9pSE02WndWVGxkWTJZbTU4RGYza2FiaVcyN043b291djdwWWxpV2xIWmtGbllDY0lrajVHd2o3Q1h0S3FVcnVGVWpTNzg2eERWa2REVW9WX0EzZFF0Vnh1OEFTU3ljSmVnNU9IMXJyNlI3VDNmZEFZbExKTGlTNG5jeTZjeFJXU2VJWWJTUmM4RUxxeTVCdXY1bVR5STVLNA?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTEN4R1h5OFhON3ctcWdETTgwRXlsR0ZkbGZ3NHQyaHV0TmQ1dUJwWVRCVnhFNDB6ZlV2ZGJZY0FqVnlsTHBUUTZsVEJuTDJ0Tk1JQlZodUg5SndjdU1pOGVKbEhUckdTZVh4dTI4YmRfVjA1TldGSVluUmxkYlpWUlBGOTd5bG9EdFQ3eVdYRm1xbTdfNFgtS2FYb1V5RjhpV3p2bERDelI5T0p5OW5oQWlWbmJsazZHb00xZnJQMA?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdENMTEtGd2FJdjFxaV9CNW1EREVGTlhWY0FDdnRidU84Qm9IU1hDTk5qUnhBcnB3OUxoVnc0dnpOenk3SzdseTlXdjhRNTJqazdfVTd1ZGtFQXJhU1hFOXRMQkthTzgyR2swMjRfenptQk9TMVVKMnRpZkc3TzBOXzBOYWRkYVZNQXJMMWx5NnRhcXZZSjdqajNUMU9GRDU3?oc=5"
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWTFuaEVtTE9adnZuV1I4Zi1vM2IzNWpOemNYdDFMdy1TREpBSTdKZFZOeVktUWVBMzZ6M0Y0dUxTdWh6b0ttNVN4UlgzY0ZtT1FpemwwcVhvLWFTRlRnMENxNGhkY1Nkclc4NTdxNXpaNHpQOTlYaGNTd196S2FUWUduNWRncHdtdF9Gam5heEFTYnhZWHpxT1dadHlET2NnWnd4ekh0SzBudFEtbHZTRDRrYVpCcXpRQnV3Y0puck9Ib2xQc1lrOTNZQkphZ9IBzgFBVV95cUxOWTFuaEVtTE9adnZuV1I4Zi1vM2IzNWpOemNYdDFMdy1TREpBSTdKZFZOeVktUWVBMzZ6M0Y0dUxTdWh6b0ttNVN4UlgzY0ZtT1FpemwwcVhvLWFTRlRnMENxNGhkY1Nkclc4NTdxNXpaNHpQOTlYaGNTd196S2FUWUduNWRncHdtdF9Gam5heEFTYnhZWHpxT1dadHlET2NnWnd4ekh0SzBudFEtbHZTRDRrYVpCcXpRQnV3Y0puck9Ib2xQc1lrOTNZQkphZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4ZzU5MklhMjdGQ0p6OVpGeENDUVRlaVlMbVlYRVlzNXlvendIMkRCcU5hT2dxZWNmUlhoSU5nckZQdzJ1aHBXZ0RQSTVpamFLaEVVd2M3dw?oc=5",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUlZZdU5MMjNhMC1TY0IydFNGQnoxenhpNW53RXpxV2tndEFZY1J6RVprZWRVdFRodnI1QmJxR0lXaW1kem02OGpWLWtid3Jud2ZiZmZMbXdDOTFYWnBzY3BkTXVNa1lIRzFnZlZMMnNuYUpySWQxN3Rfcmllb2ZLVXdmVkRHS2JiYUtwcXk3TWlzY3RlLUR2eThLamZkNWhnaW95NHVsV2V1M2owTk92RHBVX053elh3bE9LQkU3el9uMlRKMnJtWTNiRWN2WFBhWjh4QdIB2gFBVV95cUxNSzdHZzN4cWJDb050T29Za3g4cXB0TXlfTy1aZW51UTdDLTl5TEtId29mdzJ3TVpsQ1lRdjFXQ3Y0OHZxbG5zWThxcU9oZXZ0VGpMb3lLd0NiNG9TOHN0ZlpvaGNIQmpUMG5uT2xxeS1OVEZ4R01HdEZweWZTQmEyeV9jOTd6X2FwQTVGWHB3c2dVTjlncnhYTm9tTWZTVEN6QzRHOFJKSDV1V05ZMnFwUjNyeEg4bDRkUGZyQWc4alBNa2NEQXY1NElVZm5jRVRtMmRXM2tfam93Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMiogJBVV95cUxOZ0lqVzZFMEtFaHFXc0Q4NnByMlljOG5uMG9jdmlvR2ExVmkwNkhBOUs1dlR3NDI3a3htaFY5V1VzLTg1dlNlZ2haRnJna2NJdl92ZTczT2pXQUVjZ2FJdDYwaGRKQ2NWYlJvUlFXM0VvT0ZpMGgwSDlXQ21XbWVDMC1zXzJDTDZ1TVZJZGRJS2R1YXNBbHRrX3pLMnZWZHlvRkw4MFBWRVZJTzhaRmdtYk44RmFCU0hKdllLZk8tVlVJQ0xnV2kyX2l6aDhrV3IzNS1HNURObGZZTm9RNUtSaUMxTjlnQ3I3SklJcGlTeHFQMnl0dGh0WUtZby1kdzVtZHVxRnBhVjFUR0dJRkVXb0prZXdBZHNuUkVkNXBBVFc2UQ?oc=5"
       ]
     }
   ]
