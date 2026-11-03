@@ -1,31 +1,28 @@
 {
-  "at": 1793727386146,
+  "at": 1793745120854,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Minnesota Reformer",
-        "WRAL",
-        "Alexandria Living Magazine",
-        "Pittsburgh's Public Source",
-        "Idaho Capital Sun"
+        "The Commercial Appeal",
+        "Pennsylvania Capital-Star",
+        "Iowa Public Radio",
+        "Milwaukee Journal Sentinel"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "It’s Election Day. Here’s what you need to know.",
-        "Election Day is Tuesday. What you need to know to vote in NC’s 2026 midterms",
-        "Election Day Is Tuesday: Virginia’s Closest House Races, What’s on Your Ballot and How to Vote in Alexandria",
-        "Election Day 2026: How to vote, what’s on the ballot",
-        "Today is Election Day in Idaho. Here’s what you need to know to cast your ballot."
+        "Memphis election results 2026: Get Congress, governor, statewide updates",
+        "The latest updates from the 2026 election in Pennsylvania",
+        "2026 Election News and Updates",
+        "Election results for Wisconsin governor, Congress and other statewide offices"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTk1CS3ZUV2lEYzdSTVlGMnBOOEpkc2N6LXN3TGtBSENRLXFqMl9IMU00VU1nRHE5dEVTaUFiaXAweVA3d1ZTVnMtWHBpYTdLUk9qa2gySmNWbVA2dnptNzBHVHh5LWpQRlVnbGlzR0dCMDdHWFRMUlpMSlg1NnUtSEM5T2tNQk9US2JoNFE4eS1EdUQ5R0E?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbGtpdEI0X0hKSVo1allwMGtPZG9kNVdkTTFGVkd6ZUNQV2Z0ZmFHeHRmaEdRTHJ4VmZuRXBpelBqVUR0YVhuMmstX2VCUUx1R3hLRXNfcHZ6VU9oNms0cjlNSnhPS1ZlaFAxTzFicUZLNjBnRDRVelRGR0xTQzNIVWo4Q3lTaXlZNkV4bUdBbjloTExId3V2S3dCOTJsZndCa2w3OUhtSm1YdTVOcmlyLWpNenpKNDdsS3BIbA?oc=5",
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EakxrMFNqU2haU0RWVWUweDhYS1hXUkdoNWZjM0VhY0cwSmJEeG9wVU9EV0oxcXlLZmtNZ3o2Q3R3R0V1RGRpNVBtbHptVUZCVGxoRllrdEFmUVVORlFxX2NYd2pqdw?oc=5",
-        "https://news.google.com/rss/articles/CBMickFVX3lxTE1zLTgybFdDekhITlJNZFE5eDhZWXQwamJxU0dFSGt0ZEVCclgwZ29sSlhiNEtUVDRWMUhsbk42MWV5eWNJc19YZ2NEQmR0bU5jZGVrSVFiNlB5Z19tMnJ4UEpTdjhpT1htMU1fVm9OOGFWdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSlJiQ0RZOWxsM2kyN2xmSjFzRklJYlFxdnJSUW1BZ05OdHk4U2NEQWtycmMzUTBKc21BOHBEcWhsX3BrWGhPNUZyNUZqTzFQQW1sdW9FSmNDOWNnT2xGd1ozazQtU181LUVmNkRPbU1wVjVlcmhZMUplUUpzcENnbHpHNDRFcVNaMVdWcXFzVzVWSzdxd0tIMFBhQjI2a0ZVVU9iZ3N3b3BJOG5mTWppaUhXSEJORVhZMFE?oc=5"
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNXZJbU9lWXhZOVdnRnk0TWdZUWlNLUtBOHdHLUNoUkFVV0xHU2tkRU5yS0c5X0ttSndyTThRQTRMMWFwYnJndjMtamdhRGJCby0zRGlEcGcybnV0UnFtSDV5N3VxMERoVTlzZ09RbDJqU0ZBSEZpTDFMaGozRVVyNTJ0WlpBS1VZZy1JZEN4dGlaWDFJcEVtVENhMjE2WmJJZjgwNHBnME5WR05YNDdfOGRqWDM2ZXpvLXhYT3RhZERZbWpDSFg0M2Jsc28ydG5ZODNmcUlvbHZ0eTIydS1heQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWViOXV1OVRJdGhzQ3dFeWF6QlZWUzRPUm9PTnltTVlyTnNzM2FmT05ucEFlVVV4YldMaWYxRHFSOXB3bVI3VTZVOUpVM28wU3FQYzVmMzVzeXg1OE5KNUtMNDZ6aXp6WWs2bS1sOEktSmpoOVZxSDgzY29hc2cxWTdrWFJFaFF3cnVNUzY3Z0JaVm1nOUxhQ25mY3NaakhFcTRB?oc=5",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WVlFxdFFidnVSemUzcG1idlRYYTJsdU01c0NQT2dnT2UzX0pSeTZSZzZJSzBGQXBXS2FjVVQ5MUwxZE1KWkFUb3hPbFphSmFNN0QxVlFfak9mRlZsQTFmMzJQOHplbWZyNWc?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcjN1c0M5U2hCa3JiaWdqZmN5RzA5Rkw5VUtHYW1UNXlEMmd4VFE0djY4RWw0MlRkbmV3YV9OYXp4TFUzak5nVGE1TTAzSUpRUUgzcW9aNDlmcXFhbDlpd3R3RS1iUzRPUWI1QnA0aGJCdDNpUGlST2trdGN3NzJxbkFDM2l6THhyZnFDaGdpV1FncC1sWDdZaUVKQXpyYUw5YlE5VmUzOFZIMmpuQTRtWXpnWWhYanFxZVpFUHM1RjROT2NGM2xSWUJLSk5oMVZtc1ZfX1lNZk5CYWM?oc=5"
       ]
     }
   ]
