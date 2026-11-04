@@ -1,28 +1,31 @@
 {
-  "at": 1793745120854,
+  "at": 1793760243689,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "The Commercial Appeal",
-        "Pennsylvania Capital-Star",
-        "Iowa Public Radio",
-        "Milwaukee Journal Sentinel"
+        "The Capital Times",
+        "FOX 9 Minneapolis-St. Paul",
+        "The Contrarian",
+        "WREG.com",
+        "STLPR"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Memphis election results 2026: Get Congress, governor, statewide updates",
-        "The latest updates from the 2026 election in Pennsylvania",
-        "2026 Election News and Updates",
-        "Election results for Wisconsin governor, Congress and other statewide offices"
+        "Live updates: Madison and Dane County fall election results",
+        "Live Minnesota election results: State House Districts 61-67",
+        "Live Election Updates",
+        "TN Election results for governor, House and other state races",
+        "Illinois live election results: U.S. Senate, governor and congressional races"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNXZJbU9lWXhZOVdnRnk0TWdZUWlNLUtBOHdHLUNoUkFVV0xHU2tkRU5yS0c5X0ttSndyTThRQTRMMWFwYnJndjMtamdhRGJCby0zRGlEcGcybnV0UnFtSDV5N3VxMERoVTlzZ09RbDJqU0ZBSEZpTDFMaGozRVVyNTJ0WlpBS1VZZy1JZEN4dGlaWDFJcEVtVENhMjE2WmJJZjgwNHBnME5WR05YNDdfOGRqWDM2ZXpvLXhYT3RhZERZbWpDSFg0M2Jsc28ydG5ZODNmcUlvbHZ0eTIydS1heQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWViOXV1OVRJdGhzQ3dFeWF6QlZWUzRPUm9PTnltTVlyTnNzM2FmT05ucEFlVVV4YldMaWYxRHFSOXB3bVI3VTZVOUpVM28wU3FQYzVmMzVzeXg1OE5KNUtMNDZ6aXp6WWs2bS1sOEktSmpoOVZxSDgzY29hc2cxWTdrWFJFaFF3cnVNUzY3Z0JaVm1nOUxhQ25mY3NaakhFcTRB?oc=5",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WVlFxdFFidnVSemUzcG1idlRYYTJsdU01c0NQT2dnT2UzX0pSeTZSZzZJSzBGQXBXS2FjVVQ5MUwxZE1KWkFUb3hPbFphSmFNN0QxVlFfak9mRlZsQTFmMzJQOHplbWZyNWc?oc=5",
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcjN1c0M5U2hCa3JiaWdqZmN5RzA5Rkw5VUtHYW1UNXlEMmd4VFE0djY4RWw0MlRkbmV3YV9OYXp4TFUzak5nVGE1TTAzSUpRUUgzcW9aNDlmcXFhbDlpd3R3RS1iUzRPUWI1QnA0aGJCdDNpUGlST2trdGN3NzJxbkFDM2l6THhyZnFDaGdpV1FncC1sWDdZaUVKQXpyYUw5YlE5VmUzOFZIMmpuQTRtWXpnWWhYanFxZVpFUHM1RjROT2NGM2xSWUJLSk5oMVZtc1ZfX1lNZk5CYWM?oc=5"
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaHFZNjk2X241emh6UWN1MHUzYzBzVTljZXRPQy1DZ2t6LUVoQnY5aDFPRGhVVHZfVE8xMTEtNmxkdGdPMjVnbEZMLWltaThyQ2tRWWhUckFfWmdMVE82ZkZ1b0ZPZ2ZaYzhyZDNGTmJ0aGtxakU5R2FVWFI2akdxQXlwUDVGVEFuVXBLM2tuQmlXckEtNXYwWU1TelFWV2RXTlJXc05pMFhrUEhDNWdIcXdfYjVoSDRoTnVxZ3lIbTg3TUs5bXFyNHoyX2ZsMnU1TmdNU0xRNTNMTlg1?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa0hYUERaajY2UkVMaFNrUG1HV2VQTXRpY3JBejZQRjdxX0EtN0ZGWGRwX2FXcXVfcDdNRkpic2ZXcmxmY3dPWnJUcFdzMGVBV3YwTU5mSUdLTnprNDFlVUE0MzFtTTNMTm50Qjc0X0hzUnQxdmcycHdMSlhIaC1leDBSQ0c4OG8?oc=5",
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ldWdoWDZJYXRndkk1c045Q3Q5UEpIRDF5XzBSM3hNYWpNaVdtajRJdVJoR2pOLUlMaFJCLXlJWVRDcXdBX1IwajNiRFN6QkExT1NVd0hqUVIteFc2UXlybGk5WURra2RrUlltYTU2NA?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWDFiaXA1Umx0bW9NRXhkQjFjZXVpVDR4emlVY2JCdlZwZVlmclFKUHpFT3ZxVU1EWmZGSEpsWHcwa0VCeVpnNDA3QXBXRU1IeXhjaHpIQzBacUNCUXh3WkFfQmFJdDYzVHRKLVRudTRVWmlUeG1yN3VQeDVDTG1FTG8wVk9NS3hQVkZaSEZTNzZPWXEyVDZXYjJCVzVaMTVVWmdndnREVnN3TkItd1FZM2xaeGJfZU3SAbwBQVVfeXFMTUpiN25XT2tvdzhSQmFLVG1EUUhoN1Q4Q3RadTZfWncwQ196R2Vha0l3RUJnMWVKM0JDLUp4aDZRVXZBNUtjaFFwTDFCbnRtcjhPcWtBaThDb1dNc3ZmdzVvTjZfZzlWUmRSaVRWNFNhcmNwN0tId2l3WVBnbkFSMy1ldGU1RXlLdGVDaHZJRm9fRUs2SzNPaHFBMnFMMDgwbWo2S0NtS0hBcWdzUS1FMGdOT2FEWlg1MkdjcDQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNGVRT0JzdFlwWnhpQ0xUX2xFLTNXNEJRVWZPVldYSnlOQTNOVXpEeXRNMzZvSFdQWHAzTVZuQ3h4WTZTLUE4TlNtaFlwZEgteVFsTmdIaG9jdDM3cGFPaFhjdXRYRHdNMDBUWVYyRVB3SzVZanJmaS0xODliNl9PM0FnQmdaRVhaU0k3bDVCUk42M2lTWWdSUmpiUUxxUW5ITG5MRnYtWjcyVDJlU2dSbGNvTDc1LXMwS3BXX3hQVGVmRjdZc190NktB?oc=5"
       ]
     }
   ]
