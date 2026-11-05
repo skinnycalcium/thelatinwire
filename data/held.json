@@ -1,31 +1,46 @@
 {
-  "at": 1793878389448,
+  "at": 1793905185839,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "La Razón",
-        "Noticias de Navarra",
-        "HCH",
-        "N+",
-        "Clarin.com"
+        "fox8live.com",
+        "GV Wire",
+        "KGNS"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "La derrota electoral de Trump no frenará las deportaciones de inmigrantes",
-        "Trump asegura que las deportaciones seguirán pese a la derrota electoral",
-        "Deportaciones en EE.UU. seguirán tras derrota republicana",
-        "Administración Trump Advierte que Deportaciones Seguirán pese a Derrota Electoral",
-        "La Administración Trump asegura que las deportaciones seguirán pese a la derrota electoral"
+        "U.S. House could vote to impeach Pete Hegseth",
+        "Massie Could Force Hegseth Impeachment Vote as Congress Returns",
+        "House could vote next week to impeach Hegseth as GOP support wavers"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZG9UOFJlSThuSjdNeC1IbVlPV0dLODdlQmhtWDFjOUFobGRiSDU1SElXZWR3dVN0YjJLc1lWTjU1LXJocjBUdHVoNVMwd0doTGluSnNQYTdCcThFYzdCNy1vbHpOazJSVjlRS2l6enRxdEJyRE9GWFdlOEw5WVhFNGM4SUlWTHluV0hpTWpxMm5EMks2bTZtZzAzSi1pWHR3SWpRMFg2eUZRMFFSR05BRVdkR2VBN19tZ21WdU15b2oyeXBxVmJUM0tEeUrSAeABQVVfeXFMUEtRUVhVWW9RbTQ5LTRwbEpIMHpvZzRuZExkYXB0OWxjM09senhFdkdCOEFmSjE2Y284R2RrMUNMRnF0TzFKSnBMME5zekM2Tm91emk0RzhBZzNpdzlTU0lJR1Z6REltTnVpLThLbnJRQ3oySHREbkg0VzNoNEV3NEN1bDNqaUlFVU9uR2tFdzFmcDdESHJTdm9TZ1JtcmYtUGhjdTlZdlZ5TGpBMTJNNFN5S254UUg0Q21NeWNUV2dTeFBVRjBBSWIzeFdXS19STWdGS2lUTlJEdG81TTVfams?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcEJvOVJ6UlFFNXlaeEp2YVdrbVVvdUdPdWRrYWJNeEVXMU0xN1BncHFtUFdoTXRTZFV6Wl9jMmRDaFp4TDIzQU1GTm56SDA3VHpNY1cyRUZlMk42YmYxblZSNlcyVDNXY2dmNk04cTBfdEtlTEVzdnZHODBqZTYxcHUtS1JRQVJCTTFPU0VIbEFBZzZwV1dMME1WU2FPVEtHRTd6TmtySGdMZ9IBrwFBVV95cUxNbEFPUmU3c3NDV0t1R0lTTGlLZkhuZVJlOVl4NlNWaEh3blBDc2pUUVYzWTRUT3Bod2Z0TlA0R29yN2x2V2tUc3lGZ2Juc3lUR0JOQjhydS1LNzd0b0tHY1p3OEIzZjZheE9vN2NfaDBVRWRRY1RxMEI4N3NKWXE2ZXF1a3BBTTQ1S3IxZFlVNzZ6UDlGcHJTRDdNREFjeHcydkkwYnJaYzFDNXNyMGtj?oc=5",
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HRUV5V1hIREE1VHI1VDlzcjlaTjl5ZFFlSDkzODY3ZVl5TUNLR0Etb21FdXVBNUk3U0NGQS1JOVFXb0FWRFhDa1NFSDc5aGR0Y0RaUjN1N2gzTGJOUUVWTlVySzIzazRvZGZpbV94T2E?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEcxbUtkakhyRHY3V0MyUnRNNGVndjE0WEtOM3BQWG1GOU9LbTdrTGtCUkZDcC00OXg3XzVEY2xvOXlGNTVockNUTWFCczg4dWszUE9zVzlQVFFHVXlpSmRsbTcwOEFOX1FVRXBkOWlWUTQ4NHZVcXdod1BPS01ncmJvWmxGdDB2NmNCTzhZdndTZ2p0bXJiSEhHenc1TTlXNW5mbWttMkFnc2JYbWlnNTA4cjNud3pYZEVPTg?oc=5",
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNlVHMmRwdGRHQUd0eGNlbTJkcUdteUZlRFFINWgxa05BNmRsWkZiY2RPeDhHQmFrOFhXdy01VHBGY1ZDYmNIY0FPSkE4ZzhJX1Y5MXBpUHhXblc3VmU0bERjN2YwWHJwRGlNeDJEbUxwU21TMnREMElyRVpSNUVtSlhQYVotMnc1WVJmc245VHpVeS1EajRyMk1zLTg3eVRGcXdVWHpGdXgxMXp1WnNhOUZaejRMQm8yM3E4bjI4UHJodXN1SmFWTlhmd3pCeVJ4dzBrWExnbVNnRmNaYU5j?oc=5"
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1VKdW5TWW8wcmNSM0VhT041SW04NWNSOTRLcnZTVi1yWDRDUGVsTUo4Wmt1YUVwcTEzaUxXUzBWOGc3Z2Z3WFptbU4wU2haR3RPV0RXaXI0cTU0QUV2YVVIZW44LTVBZE5zTEpXZXRhZUxjc0FNTThqTERzelVReW9seXJQVG9rTVNn?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTTZqS0FWa1ZEenpaS3hPOV9ua05HWk5iX1A5TDVYWW4xZlk3TUFnbTRfbk95M19mVEZRU2FFTnFGckxqZGxmQXNTUnUxblJqY2Q3MFh2ajc2enllOEZZY19yTTB3NzcyUXlCM25XN20yNjRILWlwaU40QkpQYXo1V3NVNjd5dkVkVTNuTGIwdHBBSjktZFBXMmRB?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR3NOeVpSV3VJaEdCaVRwX3dWUzB2Mnpaa3BSNmdFWGFLYXRvS2dqbW1IMzIwNEpZbTBnTjc4Q3pLYTBQY1RYaEVWWlpIaFhQOEtMbExTazZrRzVvNHRBcVNKOVgzT1JsRkhLZThZemRHaE5oY011dU9BZzQ3MTZvR3M5X1lmTm5mbFd3d09TTDVVQUFnbGFnaNIBrAFBVV95cUxOSmNmNXllZnJfVms0ak9TT1UzdXBEVlBaZk9XTU9WMGRxRVhLMms1d19ZZHAyQjE0NXRMVFE2V2EzblNvOTM4UEkyY3BwUjdNbmlUZ3ZjODBDUERXVkQxMDZNU2pRSTlVZkEzTkVnNHZFalNuMFlOV1NBNTA0UjZaTkJkY1Rkc0tFek5JLW9GdFBQV2RWZ3h1cXhUalFmb1VYRGZnUVVFWFduMmNZ?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "https://ssrs.com/",
+        "The Times",
+        "6abc Philadelphia"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Health Care in the 2026 Midterm Election",
+        "US midterm election 2026 results in maps and charts",
+        "Live election results from 2026 Midterm Elections"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LTjFGd1RRUkRFQ3FQUEl1MXJEM3hKbXdtRi0yWFJXMEtLTjRsTDZIb0g4M1NGNVo2QlFCWEIxX1o1NUJVeW1rdjZiQmNuVXdMV3VUeEhYUjhvNVNYZWYxUDQ5MXdSRHpqdUkzZGMxYkY?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGtPUWxwRmtWQkNNSVNGTWxYMFVpNkJyRW04R1E1M0dfOE5fUEFGbXEzQnk0V09heEtiQmYzQkxURjZqZVowcHRLbElQLXpTakt2Nl83elJzOUlYM196WV9HYzJwYWhWcUhzQ2R1VXFtN1kyLU1WdVBSSi1xTVJ6RnBJYTNWWWpmazlTOEF6dkR1Z2dmRlQyQWVvRUpJZGdES2xvc013QkhFZThzTGc?oc=5",
+        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03Y3JnMHBxZG9abHFSZTNCcm5EYlQycTJXLUE1T3Z1dGMwb2Zjc29HUHFRNkJrWnVlME5STy1URFpkMEtrMEREcHBTSVpwSTh0VkU5dg?oc=5"
       ]
     }
   ]
