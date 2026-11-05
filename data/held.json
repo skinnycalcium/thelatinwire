@@ -1,85 +1,31 @@
 {
-  "at": 1793849893975,
+  "at": 1793878389448,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Uniradio Informa Baja California",
+        "La Razón",
+        "Noticias de Navarra",
         "HCH",
-        "Diario Las Américas",
-        "NTN24",
-        "El Comercio Perú",
         "N+",
-        "El Nacional",
         "Clarin.com"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Secretario de Seguridad de EU afirma que las deportaciones continuarán pese a derrota republicana",
+        "La derrota electoral de Trump no frenará las deportaciones de inmigrantes",
+        "Trump asegura que las deportaciones seguirán pese a la derrota electoral",
         "Deportaciones en EE.UU. seguirán tras derrota republicana",
-        "Secretario de Seguridad Nacional anuncia que las deportaciones de migrantes continuarán",
-        "Departamento de Seguridad Nacional de EE. UU. ratifica que las deportaciones continuarán pese al revés electoral",
-        "La Administración Trump asegura que las deportaciones seguirán pese a la derrota electoral",
         "Administración Trump Advierte que Deportaciones Seguirán pese a Derrota Electoral",
-        "Administración Trump asegura que las deportaciones continuarán tras la derrota en las elecciones de medio mandato",
         "La Administración Trump asegura que las deportaciones seguirán pese a la derrota electoral"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWhnd3NLTm1jVUwxakFVTFg3LXNrd0pfSm9WUjFLZnZpeWxkWjR4TF9PREdXQWJKSEhkQzlSMVRNQVBhc2M1dS0wQ2NzYU0xN3k0akhJR1BMU2JqakRRMU5lZzk2b3FTcFJ2N1FCQkF0bHNNc1JrejJPZU9CZG00WGt0ZWs0czF0TWt0Y25JM3VmMEl2N0E5NVMtbDItanMyaFVja0NidGhKc0NaRHdVblBJMTlYcXBzVlJ4Q2R3cFFfR05VN2fSAcsBQVVfeXFMUEtUczNqX3JnUWo2Rk5uZHlVZzdkNWExRExVMktodk9QNlBZYXQ0VkZCSDhtRl9Fc1I2QUs0VjVBUlBXQURiYkRhdmJrTjFQRTl3X2VBT1BkbjRKWGVON2lKWVQ2SzA4dFZmeFJZR05VbUZBdVV0bC1GZUZHOXRSdzFXMHJHVVdtdS1IUmtmZFoxWHBxTC1DZXRJQTlfV0wxZVJYSGRUdHdwOHdoNnEwdmlHREU3WUlJMngwVzdXRHZqMGdqLWQtVUItclk?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZG9UOFJlSThuSjdNeC1IbVlPV0dLODdlQmhtWDFjOUFobGRiSDU1SElXZWR3dVN0YjJLc1lWTjU1LXJocjBUdHVoNVMwd0doTGluSnNQYTdCcThFYzdCNy1vbHpOazJSVjlRS2l6enRxdEJyRE9GWFdlOEw5WVhFNGM4SUlWTHluV0hpTWpxMm5EMks2bTZtZzAzSi1pWHR3SWpRMFg2eUZRMFFSR05BRVdkR2VBN19tZ21WdU15b2oyeXBxVmJUM0tEeUrSAeABQVVfeXFMUEtRUVhVWW9RbTQ5LTRwbEpIMHpvZzRuZExkYXB0OWxjM09senhFdkdCOEFmSjE2Y284R2RrMUNMRnF0TzFKSnBMME5zekM2Tm91emk0RzhBZzNpdzlTU0lJR1Z6REltTnVpLThLbnJRQ3oySHREbkg0VzNoNEV3NEN1bDNqaUlFVU9uR2tFdzFmcDdESHJTdm9TZ1JtcmYtUGhjdTlZdlZ5TGpBMTJNNFN5S254UUg0Q21NeWNUV2dTeFBVRjBBSWIzeFdXS19STWdGS2lUTlJEdG81TTVfams?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcEJvOVJ6UlFFNXlaeEp2YVdrbVVvdUdPdWRrYWJNeEVXMU0xN1BncHFtUFdoTXRTZFV6Wl9jMmRDaFp4TDIzQU1GTm56SDA3VHpNY1cyRUZlMk42YmYxblZSNlcyVDNXY2dmNk04cTBfdEtlTEVzdnZHODBqZTYxcHUtS1JRQVJCTTFPU0VIbEFBZzZwV1dMME1WU2FPVEtHRTd6TmtySGdMZ9IBrwFBVV95cUxNbEFPUmU3c3NDV0t1R0lTTGlLZkhuZVJlOVl4NlNWaEh3blBDc2pUUVYzWTRUT3Bod2Z0TlA0R29yN2x2V2tUc3lGZ2Juc3lUR0JOQjhydS1LNzd0b0tHY1p3OEIzZjZheE9vN2NfaDBVRWRRY1RxMEI4N3NKWXE2ZXF1a3BBTTQ1S3IxZFlVNzZ6UDlGcHJTRDdNREFjeHcydkkwYnJaYzFDNXNyMGtj?oc=5",
         "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HRUV5V1hIREE1VHI1VDlzcjlaTjl5ZFFlSDkzODY3ZVl5TUNLR0Etb21FdXVBNUk3U0NGQS1JOVFXb0FWRFhDa1NFSDc5aGR0Y0RaUjN1N2gzTGJOUUVWTlVySzIzazRvZGZpbV94T2E?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYll5QXpLOWxaRGxmb2dTQ3lJWmd6WTFjdXp2OGVEanVLd01rTTkyWGNnNVpweU5BRGtkNGxjcS00M2FWR2t3T0xVQ0V6WUZRVzZqTzc2RVFfN1N2dGx1V2lrR1YzSGlLRDQ5dlFuTXFvSVV5U2QyVWN0NWNtUkZvd2ZQbUc1Q3ZUWmZYa2N0TWN0bmNGTXA1dk5LMUxybjFNWE1SVXdaQzNzZ201QUdjMWVfc0JWcnFhWTB2TDNsNVl6VEJBdmd3ONIBzwFBVV95cUxQVWtuSC1UaWMzTFRDU1NOdXlDakswem5RVVdfSkstd1FYSE9xbURBUzFmMGoyaTNMQWtvVWJQLUxBb2tKNTlJU0lubVhqUFZqcnFrX2poVVUwQ0hBLWpQeGgtVTNGd2Rjb3hUQ3hUQjZiYjFDQTlmSG40NC1nV0hKY191UC1DXzhHZ3hfZm5wWkNNWlFiZDFfVUJSRG1XaDRjS1FCeTJFMnZPckJKbnFoZVFRczVpdnRBa0M5WDdGVkJ3WTVVWmJlNDIyaHM0UUE?oc=5",
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRXRKa3dKbTlzblRDU0NhY3lrWE9nTXJNaXZVd3VIenhFd013ZnhoQWlFUy1wX1I2SkZqbFBmZXV0bUJDQTdWbGxlT0NTcWw5Sjl3bVpLSFoxOFVZN2xoVWhOUW56VTZiLTdMcXFHZVR3c1ZXeHlOc3oxZTdGalIyX0psSHBLZGtJSDg0bzlTXzlldlIxRU5GSEpyaVRPX3M4cUxvODVxd0FkSHpHN1ZoVUJrSThyTWsyel9MM25LdFNHc1ZZMnJpdDllZThUSkJpUzlnSER0YXFHbkoxRXBzMVFnWUN0UE5icGF2WFBsaU_SAfABQVVfeXFMUDI3dTdYT1ZvWWk0NFF4Wk16TjZfTS1Eb0VTVkdXYWtQLUtnRzh0LVdrR0VBTUlvS3U5dEgxYlJyNFNibW03RVlTZ1BaUEhkcUhrN1h1UzJ6VXFyelg0bU5fOC11U1JGMWZsUWFHMFp1SnRoNWQxdzEzek9TYURkVlJpSFhMTkhTRHBDWVBkREpaZU00WXpGcnhIcUNxaHVRMGxVcWNxLVVoYk8tZGZzcTljRUFBRE5ZYml6UWZCb0duYmM0SkVZUDd4QkFMSEJsZUJkb3NvMFpDNm9Md0FpRDJtNTFyLUxFSmhtYWtWbEV2?oc=5",
-        "https://news.google.com/rss/articles/CBMiogJBVV95cUxNbkZQUUhMTG9aMHZhZ3NzbHVTTU5DYjJIUmpYUndLSlY3bHZRVUpGcnZsNzVmamNreHJNOFFqY19JNDhxcnI2MWV4ZWpqdDFra2VyZEFyVUNocXR4a01sRURZTEk2Ym5nRnU0VkhBSDBDeFd3MVBqcHBqRGpVaUp6ZENTcFVoWXJJdWlZZE1GUm43R2gwY25ELWZnc2RMRHlCQzNJbjh0WmdZQ1lHNW9BUWFmVjNOSmZzOHBTNVhjdXdOY1RQb3NNWkkxRlJqMVl6MEVoYXZnc1AyUFpvRDEtUkZXZTJUR1RQa0s2SXJ5cU5DWk8wWTFvYlBRTjlFcFhVaHBqUjJQelJLZm1vcU1zUEJ3eFZ0NFVpQTVlUTM4SndZZ9IBtgJBVV95cUxNbGhZYzFpVzItV2hJWkxTc0I2T1g2UkFUNXRrMkJxRVRMdnRLLTduWTIyRy1HQWp1UHVsVVJya2VpaXBRZjJPa2E3aVBFVEdiOHBkYlRuX1B0MTNNUFJRd2x1YkxSN2daZWppUEFsOTI4U1hpYnVCenVxeUxVNl9HNlVJNWZ1dkNSNF9QRVIzUlVqU04wX2NyYzlvOExDWnVPeXdTb3RnVHBCbjdYR0ZSSzR2emdIMzlTWW4wamZmWFVkTDEzbGdyRHZHekp2YzFxNUI0ZnhMVlV0S0tEUFhuMU1CWWdYX0J6M2FyenpHTEFPaW1MYy11am9MV1Qya2VrRmVpVUg0WTliLXNHc0g1LXJTRWtTdlBJaDkwemZyLUQ0V2IyUXJmWHlZdjlsZTFxbzRhUE9B?oc=5",
         "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEcxbUtkakhyRHY3V0MyUnRNNGVndjE0WEtOM3BQWG1GOU9LbTdrTGtCUkZDcC00OXg3XzVEY2xvOXlGNTVockNUTWFCczg4dWszUE9zVzlQVFFHVXlpSmRsbTcwOEFOX1FVRXBkOWlWUTQ4NHZVcXdod1BPS01ncmJvWmxGdDB2NmNCTzhZdndTZ2p0bXJiSEhHenc1TTlXNW5mbWttMkFnc2JYbWlnNTA4cjNud3pYZEVPTg?oc=5",
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUWhlelB3ZGI0VmVZaFdvbzhiendBM2hnUkFWS1d0cUhCRDg5aWw2bDV1ckVTbmdRaW0wRFp5Y2dja0ViMnhYNURaMnV6bk1keFY2MWdDVGZLYzNnVVhDT2ZmaHZrM0dBd0V3Wi14bUdKRkNmV1F2dGJSb0xTNXd4bFVfQ0tGbTgwOWxfODh2QXQyYmd5SG1EbGtObkNCR2RjWjdhWlVERzF2NDdtUi1ETnBfRXZRZGk4MXZ3WVlTRlR6ZnJ2S2RFX2IzcXZkU0dqYlNRR1E4SGNQSS1zZWNGTW5HOA?oc=5",
         "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNlVHMmRwdGRHQUd0eGNlbTJkcUdteUZlRFFINWgxa05BNmRsWkZiY2RPeDhHQmFrOFhXdy01VHBGY1ZDYmNIY0FPSkE4ZzhJX1Y5MXBpUHhXblc3VmU0bERjN2YwWHJwRGlNeDJEbUxwU21TMnREMElyRVpSNUVtSlhQYVotMnc1WVJmc245VHpVeS1EajRyMk1zLTg3eVRGcXdVWHpGdXgxMXp1WnNhOUZaejRMQm8yM3E4bjI4UHJodXN1SmFWTlhmd3pCeVJ4dzBrWExnbVNnRmNaYU5j?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "El Comercio Perú",
-        "El Universal",
-        "ABC",
-        "ELHERALDO.CO"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Los latinos en EE.UU. fueron los votantes que más se alejaron de los republicanos y Trump",
-        "Claves que explican el rechazo a Trump de los votantes latinos en elecciones de EU",
-        "Los latinos en EEUU fueron los votantes que más se alejaron de los republicanos",
-        "Los latinos en EE. UU. fueron los votantes que más se alejaron de los republicanos y Trump"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMlgySGVOUG9Bb2pqeEpLR0kxTF9XazFDSFB6ZU1LYUdaV0taVWgyVXUxOTJRa0NqLVR6QjdPcWplTS1nVkZvSnlnZzB4MkRyUVR5QlVyUXdKRUhURzZCTVNQYkFhQzRGX1BISVgxOG1Ta1BJT0NnRElLNTZMRlNrSVpFYUlzbFBTREtzd0otZHBTMWhhb2tVZVM5NDBkMmZ5Q1BKQTlWVEVrOVR3YzhuTFhmZGI2bF9hY0VCYVk1b3FJbGh0alREXzVvZlNrUzg4c1FfRHl6TTFhNndiTzg4cTV5bjFYblFaeV9HQjcwSE41TUYzeG1mNGpPRFhGQTBUMDF4Mzhnand6Qm1q0gGgAkFVX3lxTE8wQnlQMUdLTWRkTGFla3d6RHBaTXZFYVFLSTlzUjNpZWhGenJNeWZESTFvazNoQXZsbnBYdzBDUFRlb2RHNGhtMFlDdnV1R0FwcHNRUk1DOVhsQjFyNzdSeDJpdVNZQjZqV0NoWWNDeEFDR2liNHhvWnQ5MTZZOHRwWW9PSmVNX1N6S1JDZnFNanVVdHRaRW5FM2tkUW9EdHhMblpaY1Fqd2dQLU1PTnE3MFM1a2x5Smp3SWJ6R2pqWmx6M1ZGcUJPUGVGS2FzTjExX1pIeC10T0ZKNEpTOGdVSXVmbC1iTmotMnp5amQ0RVh3RFZ2VVoxT0RjMC1lZGsxODZzSkx6Tm5DbkZreTU3dWVwWm1KV3JldHE1b2hwWA?oc=5",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVktYZ1BFZkFuSlJlM1ZEcExwVTYzNkprTjBlZW1hbFVVWTVBS2I2cGtCM2JNc3llU0RMOXZWOEhianlSc0RObmFieGJ5SFVTbkJNRmFaOGFTMEU3Y2gxNW1URGdINFA4a1BrTHlqR0hLZGV3OVFOQWdIX0l6bEs5aXNIZmVINE9fM3VaTlpkekJSRDhPVE9DUm5jdGo2UlRubHRNclZkVnVLODdiWk01UDBlY0dCMlZiWjFBMFgzZ3Y1TFFOWEZ0dGtubFh4NFNLQTB2WWhR0gHqAUFVX3lxTFBkcFNMYnp6QXk2TVF3S0twX0hjYnN6RjhDZHJpVTVmMXBQc3NTam9hQWpQdlZjQVVnTE9lbGhHakM2bktkZ2JNcGp1M2xJR0EzX0MtbTdCbkRXZW1HY1YtZjdVSGNUcUQ4aXZDeEVRaFdtR2pwdWNQU1FMU0tweE1nMzVsa3czOHFwamVlX1NxQWJTWnFEekRUelRwbjJaWnFqb2UtV29jQklvRVNYNG02SUMxbXJ1WktnaVpobXRUTXVrczRsMEd5SmhVM3k4cGVIWTRHX3JJaHhkMnhyZmZtTFRRNmVwbGU5UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWFwV0VvR2NoV0RYdExHTG1JelVEaXY1TWF0dXZka1N2ZDl3NjZtdWxSU3dpSVBqME1CSm5hX3JfSlFqQzVNU0diSUEtWGdTbkMyWmtQWEJDMnppVW1GQVBVd1dYSjREYjJ6cDJCUnZVSDFzb1hlVGNXODBDbnBaWWFhejQzQW1YWG1sejRnRjY0NU1XTGJ2cTFvSznSAaIBQVVfeXFMTmlRVFhBQkd1dFZOQ25Xb3pWdWlYWEJGLVN1aXhJc19DeDRtRGlQQVlwR0h6TjVzdktUa1l6dGxUZHV0Mkx2Z25RLWZtTFlqbnFMNlVYMFQ0T1BXMFlxVFhiaE9GNUJyN3U3STJvbjN2N1RFQ3NQRjljb2hXZkdmYVprc3E1LTIyb3dZenMxbGEyMjNNMUYxaGtPekRyNmNCUEhB?oc=5",
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWFfcnhIVVp0cXdSUWpuZEwyOEtWNjY0eUE0OWJjRWg3ckNtUVdfZVozV2lKajA4MEkzQkFtdDRxdk9meDJOZmpzWDZwQnIzWk9XOHV4WHl4dy1pSHdPRm9sS2o5ZnlNQl90S1E0NlNrM01pU3REQmJvdklsUWJSUDk0aENIUTBlYnhDbGRRTDhEblRvMm04TV9IeERVWmtmT1I2NFlNelVkdWFUWUtxSk40djhZaWVQLTBkMHpjRE5IZy1ZSFNMTEl5SQ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "KCRA",
-        "MPR News",
-        "Brownstein Hyatt Farber Schreck"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "From party control to voter turnout: These charts explain the 2026 midterm election results",
-        "Voter turnout up in Minnesota's midterm election",
-        "Colorado 2026 Midterm Election Results and Analysis"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIdHAwS1kzU0VDUUtXN2UxVnNsZTJ6N0xqMVFXRUtPZll1VjAzQlY2b2s2Zk42UXoyNUdLUUFaWFEyaU04QTBzX19pZ25EYzM3eUloVzVPQ2JMTkFmZ2JzYno1YlVDYVpxbFhhZFNUamRFVFFQZ0xB?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVhCZmx6MFZzM2l3eXY3TXpDT3hONlpJWURfR2VWWTFuWDRLeVNYbmo5OXlTbU9BQ05ublpBZU9LTy0za1l5amJEdktTNXg5emYzYWVkMmhsOUowbGY4aHpsSE53QnlJcUtQZXRoaGhIMU5md2g1eW14NlVycG1Qa2tDYXBWMnFQZHVXYS0zS3lWQlA0YUxYZw?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1RHUUpIN1U1QzJMUTFzOTI1YlRlUXFLRU9naDFWY1Rqb1JVWFZBT3NHRmVxZDBKZlpTUExqcGZrYzFfbWJsblVGYWxicUFTekZMc2tGZnZSTE9mV0RkWXU1WHZ3dUN4QWNsSkVRa05sN0hTcWktaG9Fd3gwR3JwdGtWQzhtOE0y?oc=5"
       ]
     }
   ]
