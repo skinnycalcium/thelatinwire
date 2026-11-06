@@ -1,49 +1,28 @@
 {
-  "at": 1793923529156,
+  "at": 1793947685743,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "TheGrio",
-        "The Independent",
-        "Yahoo",
-        "Yahoo News New Zealand"
+        "Mezha.net",
+        "毎日新聞",
+        "Japan Wire by Kyodo News",
+        "News On Japan"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Trump wants his golden Oval Office to stay. He’s declaring it a national monument",
-        "Trump tries to prevent anyone from changing his gold-covered Oval Office by declaring it a landmark",
-        "Trump tries to prevent anyone from changing his gold-covered Oval Office by declaring it a landmark",
-        "Trump tries to prevent anyone from changing his gold-covered Oval Office by declaring it a landmark"
+        "Lower House passes bill to cut food consumption tax",
+        "Consumption tax cut bill passes Japan's lower house",
+        "BREAKING NEWS: Consumption tax cut bill passes Japan's lower house",
+        "Food Tax Reduction Bill Clears Lower House Committee"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rWnFUYzNJMFFFNDd6VGxUeGNXaEtnb01qZlZsbVV1RnhJM0t5MGNEMlNTSHJhVnZxYTlCMkRfc2ZKZkw5NVFWejE4dTRsZVV6RVdvVGVtelp1MTlIS2dUd202X0dSSGFST211a2l2ZlRFWkhUckJIRW1XSnF4SW8?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNmFzd3ZCbk9sS0dLUm83V1hrUkZOVExJSVlBLUdLTk4yRS1feXRtMWdiZEtWYzNIRzVpYU10dWxGb2o0THVVUUo5VEZVb2YxUWZOZDhGNjJpLVV5UjZBMXJNTXZhNnl3YUpSSjhfS3h0c3c2LVUwYWpNWVB1T1V4UFFZcktQSnFNa0xYZ3duWEhKQ2VmbFpObEJtbHAzbXVKeEtsZHVOcC1rX1RXcWFwdnYyQ0kwTGc?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcmJ6aGtMblFRR01MUU1iUlZpLUdyS0VmV3ViYWRzR2RuRFYyOXVyQVd1Rzl0MDlpOWUwaFlMMU04eEo2NXZQV0NWOWpFRUl0TUJveE1DMTVnTVA3WVd4VVE0V3ZTVFB5TWVLYjNvb0VsNGRaZWR4eHF6Z2pSWnhRYXFUd1pISUUzQzFGM0R0czVMdG56NEFhcWtkTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNC1HTW1xdE1fbzg2NFpTdnpPcEJwdHBiTnpBd19PWnhVOU1hWnkwTHBwRTlHX29vZU93LS1DNWRMM2pGYnJKVUMzVWRTN3VBc21YZHoxTlVya1U2R3p4NjdKTlh3SzBhbkRFQTBnX2kyOS12NlpCSnZVS0ktQ2ZlVnhn?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "KFXL",
-        "KTXS",
-        "The National Desk"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Fact Check Team: Hispanic voters shift back toward Democrats in 2026, reversing GOP gains",
-        "Fact Check Team: Hispanic voters shift back toward Democrats in 2026, reversing GOP gains",
-        "Fact Check Team: Hispanic voters shift back toward Democrats in 2026, reversing GOP gains"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR2ZhdWw3emNGYkpDWkRZVld5WkU2NU9STDItWWlYdm53bk1ZWll4OHM4OU9qZEJQdEpFWlpfYUtwTEZBTzBlbURUU0Q2RmZxRmJfQzFBdlplLXQxa0Z2QjB3OTMyRE9fWkdORG4xTUw0Vk1RQXpScG5FT2d3U3FfV1VjRS0xRmFoWUdNZFd2VDJWdkdhT014QlRMM3ZQdjJiNngwbFEzcHhoY0pLOFUzVlBnX05xS0t0aGFOSkstaDRwSTdxUEh2aExRRlJsLVZm?oc=5",
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSm5XYnU0RlYxcUdCcWhVdVZWcDc3SnlORllpLUJKLUZEbFBtWmdlNWJWZHJKTWV1ZGtVWU1sbUF0VmtGVFExZ3JVUFNFUTh3Rk0tSmxXQzJuZmk5WGtkbm9vVXpKQ0ZwTWd2bWw2ckRudlQ4bnJyOUNwOEhXWjQ3X21GWWdQWm05Unpkcll2ZHB0bUh0MW92YmNicEFadGNQbk5QTV90UTliX1Y0cWxXLXJYdlRGSWNfSkszVVBxb3AxSkNUOEV4M0tReGVicVVPbWc?oc=5",
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTzlKWTFUU0hQdkRiWXVTcmhuRnNhWktBLW5yam9TNHVVMVJBZ0kwbW5JZFNhWjl3RW1jZkRKUmxsRkJQRmtwbTdHX1RHV2lIZmZuYlNXY05VYVdlQno2WkJ6QWJ4R0NWdkxVY2tCTnY3aHVkSVY0ZkJMMEx2U0piMlFiT0hOdk0yR1VJSFZLb0trMGxmWTZTTmZIYW5iOHRBNWJuQ0ZMWlVLNlVOZXdCZ1JVMUtodVpJalZuOFBqbmZ5NFhwTFJPTDJwRTYwY0lDaTh0cHktZkFlQQ?oc=5"
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMnUtVEpjQmduOThmM1FhUHVkbC1OYnpnSTZVbG85Nkh4czMzbHU4WENwRnpFaE5EQzBjeWFpN3ZNMHNIVHo5UVJtY3hoYnUyc3E4clAwakxkUWZwRWx4SnpyMkNETEN3NmlyOXlzSnlROW9SeEMwcldMbjdQLS1nMk5WOA?oc=5",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSVC0tMG8xSFZETjVFZEl5LTJleTlDN0QybEpsZFdXcEZPTU1Nd1VvdFhVcUxPZFJyN1VXWGJmdktmOFNrTHoxMklIYUEtTDhLT1FESE1IWUZrNnZCeUZQaGNCUTQtR0U3czk2UEtuWlhITkU?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hWkUyQ0FtQVZtRG82bmJ3ZFpuYV8xTjVTeExRTlRRVlhGSFJvMDVnc1JGcjJUM3dfY1JsQ2hUeGdsV3FUdmxaR1drUmR5UWFXMlhIS0tacUZrQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MNWhiR2tQckwyQWFaemZGZXdQOEpXNkZ3VFpyUHBXRFh1QjJ0b3M4TUNOVXZ4YTRKSVVSdjdIdkx0OV9LLThJTDFsN21tYXdYYmVJdg?oc=5"
       ]
     }
   ]
