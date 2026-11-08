@@ -1,4 +1,35 @@
 {
-  "at": 1794164361311,
-  "held": []
+  "at": 1794177992019,
+  "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "El Economista",
+        "La Nación Costa Rica",
+        "Excélsior",
+        "elsalvador.com",
+        "Clarin.com",
+        "La FM"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Trump admite que su política de deportaciones fue \"demasiado dura\"",
+        "Trump admite que su política de deportaciones fue ‘demasiado dura’",
+        "Trump admite que su política de deportaciones fue \"demasiado dura\"",
+        "Donald Trump admite que su política de deportaciones fue \"demasiado dura\"",
+        "Trump admite que su política de deportaciones fue \"demasiado dura\"",
+        "Trump admite que su política de deportaciones fue \"demasiado dura\""
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOREh2TjJqZjlQOGtpZVJMZTQzZXgzRERwS3NQY21Fc3ZXdWlNNDJnWk4td2tzbE0tXy1fRmdGZlhtR0hoOENycm5zMUpVRDZPYjM0cy0tOVkyb3VnS1ZpczFrSTRMWnRWX0hsbnpFeFM5Z2FHeDdfT3lmZ1NEaUVJLW9JZlZUN0JEY2xqeDZLakU0XzZvaGxUMDJ3R2duamFWRU00THhjdVAzU0FuOE1aMFo5QzVocGt5TjZV0gHAAUFVX3lxTE9iWFQ0cXJvTENNUXpiNU9obGdyTnFWRGk4RUFacldHcExGMl9sNnZTd0VPRkFLRFBUMDkwX3p3QWJKTTNqRXJibDBKTWZocEYxTnZCTWZZSlRuTXl4akxfZ2pQaUZManFFTHMxSzRtR09qM252aGo5NkNWVmJQanU0OVQwMTEwbU1Td2JQVHp6bms1Z09SWVlTdW9Wc3hrQmV5WHk0bWZKczQzd0VIVkktVUFtVDZLRjVrTHhOVldPTw?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxONTF1d2NsZV84RzVvQ1prNGFSOE9KQm1uN0lhcTd3WGI5bTQxYWY3SjhIZlR6UzJBZ3RCb3RHZFF6WWJzTUE3azY0blFmbTk4X3dTT1VNTzR0V2xQQWlkakRaZVBFQ2luZlFOU1JCdnlSaFFoSHN4R3UyOFpZLW01SWVwU1g3N09NbWI2Mk5od0dlSWhsNlYzWVU0eURPYTEyalBBemtla0c0ZEhRYzhadjhrX0sxUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkaUwyWk9WYU0wMFZldTEwLW5rNEdYenlzeG0zVS12WlBVN3RzX3FoQWpINEFOQkVCTXVlUHp5SjN2LUVzbkxnb0NmU0tUNndzeXo4SGFMR09zVE91elByMGxablM5bmUxbHdVdk9BdWhwcUZCcWJ3T1RYd9IBgAFBVV95cUxQOGV5eGVzenkxRS1laFpFdm56RzY2dW9PV1BLR1FfUnNqYmZxb0xRNzZycjVDY3lSNFZ6Tk9DQktJRzZDMlJRZGdEQmg3UEdUVXoxdFZKaG1lWXNmZnIwQ1pVY2wxZDJnWERzSG1LZFFwTW8xcUV1MXd0LWZHZjB3aQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2ZhTC1ya3l2cEsyaEFwWmNfRDhEcEJaM0FYd045ZjBZRFF1X2MxYy1Xd2ZIQ19xRDFaS203QlNha290ZnFXYWZ1Y0U4R1pGYXUyMi1kM1FCNk1Tb2ExOVM1ZlVzOXVlTzFIUHRCMVVDMWg4RWZkTUZpYjJTcTFiWl9uOS1rblhYS0MxaHdIZHdfR2JPQ2hLY1RkR2VlbWJuTnl6d3p6U1JHSFF5?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxObmZRTFNhSGZUR19iWUNXcVVQSmNjdlhpNWVyVXNPMF9hRWQtckh5UGVheTBWcXNJRFNMN2p1SDJzVjUzYy1ybGlUanFvTHFBTDh2TXZ5RjVJRlZHZHNlaXV2TjlpSGVMS3JiTTFkamthVFg0dDMtdlJ3WU9LWDd2MUdaUzVWbjJMTDNUWnJ6alVoR2tiLXFUZWlHNTNzcHphV2JINE1tOV91Z0lIYzdNbmVjM0pFQ0VFUWdqMw?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa0g4eHZsNlRsYUpzc2w2WjRQZnp4RDNHR3RwR1V5VVI2d2FwWUdCc3NqY1p6QjZoT1RwQjRqVXIzRDZ3eVRkRTZPdnpXWEJyb1MtN2RUamtKcVR6R0h1S2lLaDZjTXVwTFFvS2hpTzRiNzctcmVqMGVCNTVmaXlxVHJSNFI1bUlsOE8yMGhTSWRkZGExVDR5QURCR0jSAZwBQVVfeXFMT3ZYRURFVC0yZWJQZy0xSnFmeUpaaWhKWk9ONXZaTVhQWENMQnBuWHc1WVF5YzFybjRBTHRHNVNEaFVDb3dvNmhZTGtzRHhOUlppcy14Sk1EUkVtTjAwTDFCMUhzZ25RcWc2allDcURqcWpESXZKWXdzaVJCYkE4VFVqYVViOWtpVVJiZm1nOEdwZmRHd3A4RDNfQW54?oc=5"
+      ]
+    }
+  ]
 }
