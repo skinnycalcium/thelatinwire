@@ -1,142 +1,55 @@
 {
-  "at": 1794257147378,
+  "at": 1794280554533,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Canal 1 En vivo",
-        "Prensa Libre",
-        "Conexión Migrante",
-        "Reforma",
-        "Kienyke",
-        "USA Today",
-        "El Telégrafo (por eliminar)",
-        "El Comercio",
-        "Diario Tiempo de Honduras"
+        "WPDE",
+        "Eurasia Review",
+        "Caledonian Record",
+        "North Penn Now",
+        "WRGB"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Donald Trump admite que su política migratoria de deportaciones fue “demasiado dura”",
-        "¿Cambiará la política migratoria? Trump admite que las deportaciones fueron demasiado duras",
-        "Trump reconoce que su política de deportaciones pudo ser demasiado dura contra los migrantes",
-        "Admite Trump que deportaciones fueron 'demasiado duras'",
-        "Trump reconoce que las deportaciones fueron demasiado duras",
-        "Trump dice que deportaciones fueron muy duras. ¿Cambiará ICE?",
-        "Trump admite que su política de deportaciones fue “demasiado dura”",
-        "Donald Trump reconoce que su política de deportaciones fue ‘demasiado dura’",
-        "Presidente Donald Trump reconoce que su política de deportaciones fue ‘demasiado dura’"
+        "Massie files resolution to impeach Hegseth, forces House vote: 'Violated the Constitution'",
+        "Hegseth ‘Not Worried’ About Upcoming U.S. House Vote To Impeach Him",
+        "Hegseth 'not worried' about upcoming U.S. House vote to impeach him",
+        "Hegseth 'not worried' about upcoming U.S. House vote to impeach him",
+        "Massie files resolution to impeach Hegseth, forces House vote: 'Violated the Constitution"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGJhNkl5Z0VlNXBWTE9iRE5TNHI2OTFXbVd1WVJGZGZ6ZEprc2toLVpOMy1JMXgwZXhTWDZSTzdjMnpMS0Nvc1V4YlEzblJYV3NoSFloajZGeVZnYm5iU216cndVaC1NYWQtbkpuYmJBWWtHeTM4Zmg3b2hLb3prY1pSbGRNTkNuRHJjNWZjSEE0NHR4VWYydUpaeUNNT0RUMkFPZkNnZWx5UlBMclh1UzBqcFRYcTEwclVBNWs0QXVOaDVGcDc00gHMAUFVX3lxTE9JdDVaYkZQalVtRTlwUUZiSzZYNEtzUXZ2ak82YlRKUEFPUUxZemd4WlQ5SnJnUWdyU2p1QzFVaFpQcVhWdEwtMHl4ZXNPTmhqbUdfc2NfNTVRVUxSVkY4OFctcnFCZGVXRS1xQTVTUy1HQnlzbEZrR1VhTnVvSHU0REJSOGgyUkY0eUNzOWlFOWYxU0V1ampwTkUtLUNlRmNlTnhsSU5EWWJKa2NMM1lUUmhNbU1BZ1JLb2cxMUdNSnM3SU9Sa0R2WW1lWg?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSTNuMUlWYUw4WkM5djZvS3NnNE9EZV9heWkwUEhsOVVHNllWR0ttT3VaLVktclUwUXQ5TXY3M19BUVo2S3cxYXM0a24xRUpqSXNrUDdsc3JCRlhLTkljUmVUSzRZMTNkTG9ZMEdGSEpKY19BN0NheWRIUGNyQzRTbDhMSngxVGVXYktsS29iR1lmVXM0T3ZWN1VjSHBibGh3YS0tMHctaGFybld4UUJKSUFkUmRFLTl1bWVoUTNpUEx0NVlzLWwyeG5xdGk?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNajhzUjQ4cjRacEloLV81ekIzVUZJY1dqbEZXd3NCR1FHQ3piNVhzX21HZkhiaDFVeDZqTXgtTGlidDIydWRZZlcxTFhNaUNZdUl4LWYzdTMtME9DbjJDWFBZNGhwMVhYTjQ0U3VnaGxQOFhwQnlZTWwtMDdYVXpmMXZnRWRGU3haRzlzRVlBZVhiT0FORkdyUF90dGh6cDhldzlDSEUwRzZ2U09LUXVpY0E4MHJYQzA0R0ppSTMyVEpBdVN2VGRCTlk1Q1ZjZ082?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSXh0c1FVams0Mzlpczc2YUpuTUIwZlVyQXFIOGdqZFhPMmJGRWM3d2xDeG1KY01FWTdqSVZ1R1l1TmI0T0JoaDk5eHU3RXFJN2xwNHU3b1VjUE1rR3lqd3Z1SWtVeHNPZlRKY0NCVmZTd2txRm9hZU1yeWFHY3dRdkJqRXJpVzVKQ0VuWkNnMWY?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTNqZkpvZTJOTTBzNnJSZThzZ2RJcmhpa2dpSFBSX2hDaXczdkVfZWpIcXE0UXNURVhrdnBRNlFMTVdNWFFfTXdsUzJ5eXZ6bjZLY0pXYUV2NXlEV29SQk1leVF5czFvY3VlNEpSMlRRVHBrS1hKQUJMV29kNmhzLVpGaWU5Mkc5cFFGcUpB?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTE9NWnVQSTdpWWtQc19YNDBsdDFXS1RSY3ladHpKS0xPU3BfWFpMSWs2UUNUd1NjczJxOTBSNTFRcDJ6Tm5mbktBaGUxXzlVS0VYMWE4R24tamVMdkg2UkEzY0JZVTFKSTFkckJScHdFZGU3TXlTVi1TX0hrUUhhcDRBdU9UcjhsTFh0bnhpdWtWUDU1Y1FxNFZnQUgwWVhvN3pCSWVNeFByekF5NkE?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQamVobk54THZjOUtNb0RRQWVaR3RCa2w0Zk9vaVgzREU1c0FwNkI1WFZENGpxbzU3d3JPU0x4SFQ3cl9QcEdwQ1lmUmhRTUVmNVZtQUNnVTBvQ3B1amlyRzFScUhCekpHZDB5NVdVQk8tWS1JOEs1cVplSmgyRDFrMno2NW5wcXVnLVI3d2NtemhtdjYyTncyeUE0RjNmQmhhM3VuZE5KTkZCRl9ZbEs0?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWtaekd4Qm5MVUtwMUlHUlRhZ1hNMVdPM3J1Q3hUR3pQYlpFWkdjSkp5OWRqVnRKNGlyanViQ19UMDlvMWZmOG5yMEEzaVhGZnFfcWYwTWlwNzREdGc5NHVhSVlQd3NZeHVQYzdBSk92aGY4Y1ZNVkhtNnZka09JendTVlJZUVBhbjRtTXVnVzlvYmxSTmQxUVo2RWdsYWhfbUNlRS1tTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd2YtM1ZxTzhMU1NRbXVJdC1pU0VrZ0ZTbjNaY0Z6R0twVGVRTU1KRHphTzE4MXpscGlTZjlFcDJqaWxwMHYxVm80S0tJOUMzUFhvcjlFU29PalpiTFU3dzZUaEJyU2pIMElwUFZlMDAtd3YzX2dUaE82LXZ4SVdhckJNUlBhMkRoc01feUFzSVhibkJIeXN0TQ?oc=5"
+        "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPbGNnV3Bmc0pDaktQY1hWQWJua2RQNHFXS3lfbnc1Q2lfYVZNdU1PRHUwY2t3dzdoOUY3VUZpcklzTHFZZ3I0aFlMcm8tOHB6QWpuZ2h3SUQ5ZUtZYVl1cG8wQV9xaEVOanRHcjBDWXNuMmVNaWJGZTdlUU9OWEwyZUkybWpmVERGOEhZcF9sbFhVVWVqcDRCQTIxVDYtZERZRnVtRWtLVlQ1cU9Kc2dfQVhDZ2VSS1hEWjd0ZWZFTUtHczdnS0c4LXFUbF9XUHk3V2VfVlBnNnNYbUlZRnVMQzJRN2dWZmhpNWo5OVJMaHdnaE1LZ2k0YWluTlFRM21pQVZMbGhZSHl3LXI2SFFfY3cySkhmdVVoeGljWlhQUktDZVdBRGhVd3hMRXN1VmJ4c3BMeGx0RXppeUZuYVgyYWNYazJWVFE2ZXpQc1lhZ1J4YTVV?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVhGWG13WHBrT3BBdm50QjAyN0tvMFhFc0JBaVpPbnZBaUdOOHp5NGJjb2Q3TkVTWnJhMV9EbTk0NmpSclE3ZzZUcndGM0luclFEdTRsXzJQUG1iaEs1YkRFeTdLXzVjNmg2YURUV2xzNUJaenE0OUdyTDJVTGJwUGhpNVJocWw1TjNhZGRLM2w5TTdqc3BjZjlfQWlFM3RkUnVqN2xYcw?oc=5",
+        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRURXZ2c4aUhjY3pGRnFZYjhqMkZRSlJrMjBFMEgwTmd5dnJXZWFuNW5oMDNxQ0FJOGhFWFVRaFo2R3dHZ3FCRmMtLW8yNllMcm1hU0NXQV9DQ0ZfNDQxdUQ2bFNoM21xNXhXczhFcWhEZ3lUcXFFVUhGdWZsX3ZtZ2hMRndreG9BSFV1Vk5RYXZSbnRURVdSVk13WXZhS1UteEgyRjY3ZUtIWVk3VEktM3NwRFIzelJleWZvb2pkUUQzSDRRNTVpcTNicW1zRE5HMjNZSlZjWW03aUgtMTF2cGNXLXRvZWlJVkM5czBIUmRBMUU?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2lTUFQzb0FoMmo1cm9ELUQtbmFscEM4VzFkSVlqSkdlRGxBM0xyNXFYbjVDUVJ0TTBPSGtuMnhuY2w0R01DZ3o1VmdXemNCNURTLUNsbWpHTlhQOTNmQWRNenRid0Q3MUhJV0ZpVzAzUXRucU1CdWIzaU1OMy1KcTR3YzNOby1ON1JwVDdNN3pCVlFReTF5aW1oREwyLWdwdUNMRWlkZw?oc=5",
+        "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPTF95Wk1sTXlxeDBaYXZxc3FZZVJMc0V0aFBLdVlncVJNcTFzbEtLSWZpcnZFd2pfbDBtSnkyT2d1Q3l4ekUtcm5GWjhrdmVOemRMakRjZ1VGcnRhQVZKTzZNczVNanVwLUpwYmR5T2VuWEQ4aWVqMjVPemRMX1JBYmxXdEd6b1Q1eTBwaDhuQUtjUnAtTVpQTXNBMFlRdTdwYXE4d2tNNXY3a1lJcnBhRjUyOERralBGbTFTbkJaX01ZblZtSkF1VW1uQy1tTlBOU2hzMlFBZThULXpob0xfTTdIUVlLNm9vb0NRTVp6QWlmVjNlWGZWd19Za2VhRlFzLS1fN2ZBMmpZM3VVQWpvNm4xejRYQmc0WjFQMGNobGJTSm1kMDBHTUVsSGxfeUg0Y2g3U2tWeFZDT0xKejdhb3gzSDczNEZQNlFDdl8xQV9ZNUNBUm9aZXJtY2JJaWVXaFNEejBwUQ?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "Nacionale",
-        "The Courier-Journal",
         "MS NOW",
-        "BBC",
-        "KDNL",
-        "KFXL",
-        "WPDE"
+        "NewsNation",
+        "WION",
+        "The Courier-Journal"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "When is the Hegseth impeachment vote? Massie's move could force one by Wednesday",
-        "Rep. Thomas Massie moves to force House vote on Hegseth impeachment",
         "Rep. Thomas Massie files resolution on Hegseth impeachment, teeing up a vote",
-        "Republican Thomas Massie will force impeachment vote on Defence Secretary Pete Hegseth",
-        "Rep. Thomas Massie files resolution to impeach Hegseth, forcing House vote",
-        "Rep. Thomas Massie files resolution to impeach Hegseth, forcing House vote",
-        "Rep. Thomas Massie files resolution to impeach Hegseth, forcing House vote"
+        "Massie ‘clever’ to force quick House vote on Hegseth impeachment: Cuomo",
+        "Pete Hegseth impeachment explained: Thomas Massie's eight charges, House vote, Senate trial and what happens next",
+        "Rep. Thomas Massie moves to force House vote on Hegseth impeachment"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0xGR2lFWXM1ckpfTm1EcWVneVFCZ0FhU3JUWm1sWnNvdXB4YW9CMzRoZFpEcnp3Uk40bzV2ck1ab2d3WmtBSFVnNHBuUlBVTjNwTm9od3ptRGZHM1pJenNCalVLMXpnN2lNTkdZdWtXcWllcVVESi1uZlRzUUpNeUhDVzI1RkdFZWtWVmRQZ243ZU1JOTJSUVRCU0ZZNzZnRXktNzdUd3VwZ1pIREFQVzJadE93UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdlotWmFZMWtBX3JDbHNBVTc1b3E1VjBXLWRvQWRoNDdBN2FQSGZmTnExbTk0aFdfdGk1Yy1VcTliSE5QN1VkdlBnaDl6X3Nfc3hRcW1MU25IN3VHMFZ4M2QtX05kUDB6eUkyMjZwX0hBRHptNDRrVXJqQ0tYVEgyOEVzZGp4NWotejVlZHV6THhfRExiT0RWT21JcUE3YmFiYzJ4M2cyVHZ3Z3dOeUNOeVhaRUlxVFhCRHJFZEl6UWF0Q2lXVmlxMTNIdVR1dGY3RmR5S3FWNE1nejc0?oc=5",
         "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWE9BcTNGc0pJaENtUDlFYjAwYmp2b2haQVVwN2oxRlhEd19tY3FmZkI4OE9UanI4WWtCWHU4RHZOZ2t1WHh0TFN5QXVXTjRvcm1qR0FfWjV4ZkdSc0F6UWJWMlhabWdTbWtmMzRhcnZNclZQbk8xN3RQMVVTWm1EdVRCRFV2ajc2bF9CZg?oc=5",
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aUEhMZjZyYlU4a0hnUHJCLVA0X2YwbTlvQ0lCR1hXdnJQOUN0dGZKNjhfUzIwYnJoQVYyYXM2Vmh6T0gtd09CbU9JdWRaenlZRjJ1d0RyUkZJTEU?oc=5",
-        "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQdkNadlhtTzVEYlQzdDZBS3BlQWJkWUlPYnFaU3BJZ3ViYTB0Y0oyeklMRXloLXNEVnk5TVFOTE9aczFRR3pvanNWaVB2QlBvbWJ2X0VZM2ozcHFhOXEtWHVKVzB5YzZCR0ZKbUtLWE42SEpWaUJNblVlUjk2TUNjSGV1NTR5bWtTcnRuQTRNRUx1MzBUR0xuTWxKQllxaVg4dEVIel9JMG1RQndQOVBmeGhaSmtyUjV1WXdmNHZLc3NvWDdGdkVqT2thOVFJM2NpeHE0WGhDTmg0QU1PNXVxZHMzMmhGTTEzNWZleWdlcUdlVWl5SW81dFJDVElwWUlnLVdHdG5BdEdyT0gwYkhOcWZRcGVfdzBNakhtcXBUMDJBbl8wUkZpcFJlTTUyczczSmEzMEVKZ08yRWhyek01aHo0X1NHb1gxQlBFOXhXNXBUQzZmNVlUT2hFT2g?oc=5",
-        "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPM1hGbTF5OFpiZ1Q2ZlBUdEZMVTFGRVRIbmZBbzJYcXlfTUFfeEd3UVNUMmthS2U0ZEpfanlrVGZTU0VjYWtXMGRPT0NHVThpbTYxeFZIbDdhVU1WaFdVQTltY3AxRThtN1hDTzVJd3ZHamYzR3pWblpTVk83MDU0OVYzdTd1Mmx3b1lhWjlPdHRrRGFRVE40RW1mVGJxX0RCeGdpdEhqZEZHaWFiaHpIYjRpenVRUG8tOVl5Y01Xd181UHV3d0QzSkxCbXZId3lqZGFtYTl3UlRyMHRsdUdWaktqbDljUHNTNDJEODF0bkN5ekQwRTlvUEUtelh2YzdEVG1pQ2xVZFF4aWJ1MjRzYzZkQ0pyV2JHYjN2NHpDX1FVVVIwUS1oUzlwWFBPcnV1VTg2VWFzYlBhSnJiTWNMMWFpckUtajdPLWJmSDlLb1Z4bS1VVlFTbWMzN01MZw?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPbGNnV3Bmc0pDaktQY1hWQWJua2RQNHFXS3lfbnc1Q2lfYVZNdU1PRHUwY2t3dzdoOUY3VUZpcklzTHFZZ3I0aFlMcm8tOHB6QWpuZ2h3SUQ5ZUtZYVl1cG8wQV9xaEVOanRHcjBDWXNuMmVNaWJGZTdlUU9OWEwyZUkybWpmVERGOEhZcF9sbFhVVWVqcDRCQTIxVDYtZERZRnVtRWtLVlQ1cU9Kc2dfQVhDZ2VSS1hEWjd0ZWZFTUtHczdnS0c4LXFUbF9XUHk3V2VfVlBnNnNYbUlZRnVMQzJRN2dWZmhpNWo5OVJMaHdnaE1LZ2k0YWluTlFRM21pQVZMbGhZSHl3LXI2SFFfY3cySkhmdVVoeGljWlhQUktDZVdBRGhVd3hMRXN1VmJ4c3BMeGx0RXppeUZuYVgyYWNYazJWVFE2ZXpQc1lhZ1J4YTVV?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "UnoTV",
-        "The Objective",
-        "El Pitazo",
-        "El Nuevo Día"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Trump reconoce mano dura en deportaciones: ¿qué puede cambiar para los inmigrantes?",
-        "Trump reconoce que su política migratoria de deportaciones fue «demasiado dura»",
-        "Trump reconoce que su política de deportaciones fue «demasiado dura»",
-        "Trump admite que su política de deportaciones pudo costarle votos: “Quizás fue demasiado dura”"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOVQ3aVo4dm5kMGwtd053VG54TWVWTzBFa0Vnd1duUi1xZF9EbWlvNWh5aGRjLVVTa3ZpTnd6ZXFDckp0dnFlelROcTZFbkY3TkJtTnFHZnpCOGkyNmhwWHlyZFJYOEphZkZZRkxaV1F3TzdBWWtxT3dNX19WNENoMDRjQlc3YThZNFpxYkpSLVN3TXF0eUFmUzJ4T0dkbUhHQWtUVGpIM1JXUndfUFd3MzI3YzE4MUNZczBJRVBn?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOUUxMnJxZjFEaFlXSE9pSXBPbEQzbnBraVU3bHFscDN6SGhKVEt5aUNyX3lxcGRsOGRGYjIxR2J6TVBXRDE4d1NYM2RjdXdSLWJGQ0w5SlNHU2s4cV9ISWQzR24zOEk1dExJcnFaNTNLaHFkWlJjcUdURnRWaVdXSEw0QXAyLTNUYmVTeEMwUzAxWU1CT09IbjVMWENqaEk0SXYyTENfMlkwSl9tMjFWOXBZMXfSAboBQVVfeXFMTmM1SEtUemlwR0JxV1phMHkyWVhQQmNiTkdFdzI5eDJjdzhVM2pfU3dTRnZOcFZneTVuVXpNWVlsOVZHUDk5VXRUaUgtWHA5Q09HdzZJU3EzMWR3Z1JINTMxT0xpcGJKOTJhNDdITjlKMmxFd3YxcjI1YVBLLTlVUW9HOE8xXzV1eXEyTE1TcWlTT2R6TV9pZndwcWFsck1CTml4MTlfMjZUTHhpTDBuNk1nNkVwaW1QMDdB?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTndUNGdSSjlPSXU4MFJfTWJlWmZPOEx2THZDdUJnREp3Q3g5T1A0cGFCN1ZPSHNwZjNsOGNtQUFlbE5yd193OTJhUVlyOUdXcDZEcldFZWhPNWJlRzRCLWZvdmtlMlBWT0VVUTZPN2FUUWU2VXEzcXFlQ18tbE5CS28wQzRPNjU5MExsV0R4WU5BdEdQVXhpVVVkekhKWHc?oc=5",
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQXhrUG5KdU1lTkVpSklPTUZqN1E5VFc2RlJScnVkY0NQTEVNdUQ1SFJvTmN6cmdCM3I4UkZsaTdvcDRIbmlhS1FNbC1mS3Zhd2xSYkRsRkdIYm96MHdwWHNtTHJ5TWRRSUh4dHExUnRMWmVWQTRNSlNDVkQxU0Z2OHgzbDFkQXZERnQ1aGNHUTFBQkRPdzRwc3dnbU9aWXdtc0tNb1dyVjZsaUN2aDNoUUR0aTVMLUtHOEtXempnUk5tQTVOU1BhSGNnNGo5dWVWZ1FPaHZzV19Idkp2d1JMdWlOZw?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Deseret News",
-        "Sky News",
-        "Time Magazine"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "House Republican forces vote to impeach Defense Secretary Hegseth",
-        "Republican congressman takes step to force vote to impeach Pete Hegseth",
-        "Republican Lawmaker Files Resolution to Impeach Defense Secretary Pete Hegseth"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa1BTNjQybHdfTlJUVzc4WlhpNHA5bDE2dFVaMl83N29yY1hCUExhTGF4TV83WnB3YWlUYzBzbXhZTXpzZU5LXzRmRld2N1hZNzFNVFh5NXRHUXdoQ0RpYjEzWnBSblVrN3BTU19XRTJUSllKY0xsVzVKSEUyajY2Y0NwU2syZGluS3ZoajdlNkZNMWs?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQndiNU9ORkE4ZnY0dDFUTjQtakNmOV9PQ0JGVWxGVVBLOW11UkllaGFlekwwOXpJUjE4dFpWdmxTMkVMQkN0UGZuaVNMbTZIcUdENHRVUlFLN1BqUTZIN1RKVmIyZC03UW9JeDdraHVuQUhCUTl1TWR1UjVra3c4WkQwRVc5UjloTVZFMlloQU1maWVUb2RtdlU5NERzLXU0Vmd1Q1JZbw?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdWFVaU9SNHJQWmpUMmhrTElNcFJDdVpRb1RZQ01jTGRZclh5WHo3TG55SUwzWHktT0dPazN2a214WTNTQUhXNXVkcWo1SUVCdkNCaEszMnVlemZoT3VMLUlPckNnNHNsWVpqTGF5VmRvWGExYXN2ZDRITVFUbTZFZFFxMVIwWWVidm1ZWm9fU2g0YnQ5c1hqZUlNNjRrOTdH?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "KSLM Radio",
-        "Forth.News",
-        "TradingView"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Democratic US senators see hope for permitting bill ahead of key Senate vote",
-        "Senators Push Bipartisan Energy Bill Ahead of Senate Vote, Facing Tribal Opposition",
-        "Democratic US senators see hope for permitting bill ahead of key Senate vote"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNF9iQU5fc0hoejBtT1dTV3hkcXhmcWNKYVVLRlZPNzhuaDRTVVliUk4xSTFlOW5wZFQxU1pKRzUydmZ4WmdYNlp2c1NCMlNnblNtRUFFdHhLTGFLd3hqajZyeTJvcXRGSDNtWm11eEhDcUVMd2RnQ2xIN2ctZXU4aW5HRnJTMDBnaDNBVzVubTRyLXVLQmpUbkt2cm9vaWNlanBEV1Iwc1hFa0JaQVRWNjNB?oc=5",
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tQjQ5NzI0LU5vdGZSc1g1NG0zNHdqVzNpam5JbkNJMnh3dnhoaHZOMlBZNUEtdVVwaUpyOXktSUV6SDBSQm1abFRxV0Q5aTI1OEhJT3psMUZCd3R1TUw4Ym1n?oc=5",
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUVpkWTlfcmZVbjdmNG1KV2s2NVc2ZWpiSkZNeTJEbmFWS3o1WDI3cEEzbUgxQXlrNmFHNkQzMzdYR1ppaXZMQ3BtclE1WjJEbDd5T3ppbGNDMW1UT25FazhLTldkOEFfeThLS3l5NDNwbjg2NmtwU3NOTUpqOUw5cUdxSnpBak82alprZ01Sd3BnMDgwUFpqUF9DV3djUGtDZzN0dDg2TUM5MmpQODZwMXVTbGdzLUN0eU01UEdETHpXdmVVQ1FXd295emVEaHduY1liZTZMc1BJdk95QTln?oc=5"
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSDROSFRTelRFY3lkNHJqN3ptTGw0Z3psdzItczg5ODdLNElFREdnV2M1RnBFdFRjZjJ3cnlSOWtGSG5nZUE2TklWQ29lMmlIOVUyekUzWjRWQWU1VHV5ZXJ3NThtV1hBSFFxRDR0X25UN2pnbWJQeGVBSEJ1OHpxVWxfU3M5WG5kZHNrUk53blljQ0g1Q2VBSEU1X2NSRVVCdEpiVk9BdWRqQ01lYzk00gG0AUFVX3lxTE9CdXNqc2JXczVFd0QwcUE1dUVUckhVRTg5cDlmU0tMNzF1MzRmcDlDczgxTkZudTd4YTRYLUVTanFHUG9ZME8wRmNEdVV0WnJjaFpDaGpla0tFMTE1N0xaeXNVRm13bXV4T2Q4QlRuem9nOWMzZ2VVNUNVYWVlSndtdzdpaGxRV2RMbXh2blVXd3BaaWMwN3JVRUZvZWFVQ1REdGJMc0hqN1BzcGJEdHZsNXBrYQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUWtxc0RZLUFPVnpWaGNMOThFT2xiTURiYnhTYVdPTFN2VHVkX0M0VjJyMnVEYkllZmRORDBkb2QxRV9ZN25paXlsQmxnTFdmRWFyQ2xlcE9HTG90S0hJaUZOMmExQ25VY3JWUFY2eXAtTlBRcHN6WGZobnNBZlUxbE9xQ1JmVVh4eUJ2dXlSOTFCWDBWVGpTN2hCeGtkeXhMQk9lTlNZdWEyTU12QW1Uc055OWU1aFRjdjZVMGtUZzZOOTl0QVhPdUlNTDNnZ25ISHdTTVNWbDZyWDlHd3NGM0ttYU81NzcyaFHSAe8BQVVfeXFMTVllVG0zWEp2Mk85THBmLV80Zm05NHd6X2JnZzgwVnpWWjJMSFR5S2RFR3hVRlFlVlJPczdZaS1lY21ndktLR0xjdXNfNEF4YmtWMndmTVdCMXRwN2FiUUw5cFdvWFYwRGh2dVpxYmRNS044QzRzV0ItOVg5czRPNXVGVURpYlFER2VLYWhKamc1U09NYXM1VUV3RVB2aE1QRTlVME52WXhjR0hVN3liR0h3TEh0ZWtYaXBMa3dXVXdEQjJMQnFMNmNmN2V2QXFobDFPa1BFUWxJTWd4Q0V3RTF6RXFYOHFGem9QNG82Wlk?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdlotWmFZMWtBX3JDbHNBVTc1b3E1VjBXLWRvQWRoNDdBN2FQSGZmTnExbTk0aFdfdGk1Yy1VcTliSE5QN1VkdlBnaDl6X3Nfc3hRcW1MU25IN3VHMFZ4M2QtX05kUDB6eUkyMjZwX0hBRHptNDRrVXJqQ0tYVEgyOEVzZGp4NWotejVlZHV6THhfRExiT0RWT21JcUE3YmFiYzJ4M2cyVHZ3Z3dOeUNOeVhaRUlxVFhCRHJFZEl6UWF0Q2lXVmlxMTNIdVR1dGY3RmR5S3FWNE1nejc0?oc=5"
       ]
     }
   ]
