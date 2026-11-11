@@ -1,28 +1,31 @@
 {
-  "at": 1794401590213,
+  "at": 1794427314401,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "The Hill",
-        "Al Jazeera",
-        "USA Today",
-        "Law Commentary"
+        "Axios",
+        "Scripps News",
+        "Law Commentary",
+        "Democracy Now!",
+        "WJCL"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "11 Democrats miss Hegseth impeachment vote",
-        "Did Democrats save Pete Hegseth from impeachment?",
-        "Hegseth impeachment vote was never an attack on the troops | Opinion",
-        "House Blocks Pete Hegseth Impeachment as 11 Democrats Miss Vote"
+        "GOP House rejects Hegseth impeachment effort",
+        "Why 11 Democrats missed key House vote on Hegseth impeachment effort",
+        "House Blocks Pete Hegseth Impeachment as 11 Democrats Miss Vote",
+        "House GOP Blocks Impeachment Charges Against Defense Secretary Pete Hegseth",
+        "‘Killing children’: Marjorie Taylor Greene slams GOP after House blocks vote on Hegseth impeachment"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWJFVjd2dW5OR0QtR18tX2lYTDRBdWRUU1NVaFdibjFieUhpVEVIdnJnMXFhUVVxWTlOTkMxOFhKRklQUmRGUnRqb18wZmtGSU1QaHV5M1FGYktHN3NXd2ZKRG9UWEs3RUsxQ2JmbHJzQ2g1RERYRVNramN5Q1NPMTVvellmM0FXTWdBbDdFeDYzVzNNZ1VrRnQtOGtRUW80VXlReWltMVd2TEp1Q3R4VG5QUFd6WjU2bGlxQ3FZb2xuTnAxbXc?oc=5",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbXFnZ3A3NUVfbWRuQ1EyaFF5Y2hUQ1pUYTFicERCRVFlVFFfUDBhcVRiVGRhTDkyVzdQcDk0eHJlNzRZZDVpMTA5QTBvSkp0cFVNVl9FMFVNaHlJcUhzbEtpVTZhb2lFQk9jSnhWR2xIanVoNU1qZ2NlcXJFVjBhUHd1Y2NUcHRNazBfc0NmTFNpZmpf0gGaAUFVX3lxTFBlc2xpNzhVdWZLdy1QU25CWGluSWh1X1MxaXJ2ZG54TTluX3hXa0ppTWVfa2psaHd6SDdYWlBhY2ZYX0pFeFNBdjBjUWlpc283YWFycm41TURhUl9hNTdEU2lfbWMyZ2laN2VyTDVnbzFWR21IRnNfOEtGR3dpek15RUFPVUZ2eS1vSnpGVDQtUFZvR1JDY3FPdUE?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOem1EUHJYZ0dxSHdyTW1feWwxWnlGbHpIYVMtMmlYWWJ2dzROcGRMS3o5WXpRMUVSdzE5dzE0VlF1QzFaeUkwSkhMa3hwcjQ1QUlRRzFMMk0xS3J4ZG5aZElsdElxUDdldk11SnZiLUNDczc4b1NnTVNzenQ4MC1Tdy1QeVF4X29hb2JzcTB3YWNBNWhNWXBZVzZGbnVRZnVybHk3R3VzMVExUkltQzVyZWNFMGF2aHVTTkJVZDlqUlI?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNekJYbEV6UDB3MlFDX2lsVXV0eUV5blpURmdVTEE4X2ZLdjIzTTVLcXl0cEZhNVBKam1lNERSMnNMRHE1NU1jOVhZUlVxQTFTaVhtRjNYLXdNQXlqMERUR2hyQU43bHJQdnJUM295STE2c0dpb2JaQmVzT2dWNEgzbFZaWnlDYlR6NUYtNFcxcmdhTTNRaWR1c0xn?oc=5"
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUJzMTFhd3lUc251dHJmSkd4UnNTV01pQ2ZibnZ0SlU5S2ptR2plbzUyektJaXdValIwMDkwOHRlVE5pR1hZZGJlWTRUd2VDN09KQ2NCNTg4NUZGaTNyZUJYaGgzRGNwTzhQZVYwUE4yUW1ObG1NQzFuVEljN3B1aXgyNUxxVTgwZ3c?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnppaE5nNWhOU3RqUE96N1VhOXVRUHJNR0hnTmdFdWx2dkt3NmJWOElfTEktRlZoQml1SmwxZnFyR09MU0Naelp6M2lwVG4ybHVqdVV1bUNHRDdOSW5ZZDZYS2I3cE1pTTlqdUR2VnpXX0JNbjI4dHpRUll2eURBNDFVRFZIWWVXV3FjWW55azZmWjRIcjF4dEd3NW1FUGJNWHdBMV9Da0IxVDJTbGI0ZXVEWng?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNekJYbEV6UDB3MlFDX2lsVXV0eUV5blpURmdVTEE4X2ZLdjIzTTVLcXl0cEZhNVBKam1lNERSMnNMRHE1NU1jOVhZUlVxQTFTaVhtRjNYLXdNQXlqMERUR2hyQU43bHJQdnJUM295STE2c0dpb2JaQmVzT2dWNEgzbFZaWnlDYlR6NUYtNFcxcmdhTTNRaWR1c0xn?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDBNbEh5MFg2VHpKa3JZemFQSTlpOTFEWkpGZmRicWhkQkNUenc2Y09mcXE3NnpoaWZLRl9TV1kwRVQyWGpZWUxrN2pFbWQtcXdXeERaTDA2UEFERjczVkRlb3p5VU1LSU9uYXAwYzVmT215SzRfc243eHlmN2JBSjY2ZzYtYlNUZ0dvV3ljSW4tUnFGYm1SZ3pjbEhfdk9OR1JZbmVqUzZIU1FyNEFDYklWaG9MM3VGOGl1Z1d5Yk9ONWc?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdEp5VkhzTUlZcHBnQlI3SnhTc2hidG5UX2ppNVRNRUZfeDlIRFdJbWl4MGs3VUNqLXNKLTBlak5EQmJyZVVMbmNNcWZOZk04a1Y4QWVSaVBFRG11aGhPWFNVcV83S21JTmx1aFRQcVNDR2c2Q2IzS0dWVGdHaC1ZZGF4bzRObWgzb0FCcQ?oc=5"
       ]
     }
   ]
