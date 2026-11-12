@@ -1,31 +1,28 @@
 {
-  "at": 1794427314401,
+  "at": 1794448458400,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Axios",
-        "Scripps News",
-        "Law Commentary",
-        "Democracy Now!",
-        "WJCL"
+        "news8000.com",
+        "Wisconsin Examiner",
+        "WPR",
+        "WisPolitics"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "GOP House rejects Hegseth impeachment effort",
-        "Why 11 Democrats missed key House vote on Hegseth impeachment effort",
-        "House Blocks Pete Hegseth Impeachment as 11 Democrats Miss Vote",
-        "House GOP Blocks Impeachment Charges Against Defense Secretary Pete Hegseth",
-        "‘Killing children’: Marjorie Taylor Greene slams GOP after House blocks vote on Hegseth impeachment"
+        "WI Supreme Court to Hear Act 10 Arguments",
+        "State Supreme Court to consider lawsuit that challenges Act 10",
+        "Wisconsin Supreme Court will hear Act 10 lawsuit",
+        "Wisconsin Supreme Court to hear Act 10 challenge"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUJzMTFhd3lUc251dHJmSkd4UnNTV01pQ2ZibnZ0SlU5S2ptR2plbzUyektJaXdValIwMDkwOHRlVE5pR1hZZGJlWTRUd2VDN09KQ2NCNTg4NUZGaTNyZUJYaGgzRGNwTzhQZVYwUE4yUW1ObG1NQzFuVEljN3B1aXgyNUxxVTgwZ3c?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnppaE5nNWhOU3RqUE96N1VhOXVRUHJNR0hnTmdFdWx2dkt3NmJWOElfTEktRlZoQml1SmwxZnFyR09MU0Naelp6M2lwVG4ybHVqdVV1bUNHRDdOSW5ZZDZYS2I3cE1pTTlqdUR2VnpXX0JNbjI4dHpRUll2eURBNDFVRFZIWWVXV3FjWW55azZmWjRIcjF4dEd3NW1FUGJNWHdBMV9Da0IxVDJTbGI0ZXVEWng?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNekJYbEV6UDB3MlFDX2lsVXV0eUV5blpURmdVTEE4X2ZLdjIzTTVLcXl0cEZhNVBKam1lNERSMnNMRHE1NU1jOVhZUlVxQTFTaVhtRjNYLXdNQXlqMERUR2hyQU43bHJQdnJUM295STE2c0dpb2JaQmVzT2dWNEgzbFZaWnlDYlR6NUYtNFcxcmdhTTNRaWR1c0xn?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDBNbEh5MFg2VHpKa3JZemFQSTlpOTFEWkpGZmRicWhkQkNUenc2Y09mcXE3NnpoaWZLRl9TV1kwRVQyWGpZWUxrN2pFbWQtcXdXeERaTDA2UEFERjczVkRlb3p5VU1LSU9uYXAwYzVmT215SzRfc243eHlmN2JBSjY2ZzYtYlNUZ0dvV3ljSW4tUnFGYm1SZ3pjbEhfdk9OR1JZbmVqUzZIU1FyNEFDYklWaG9MM3VGOGl1Z1d5Yk9ONWc?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdEp5VkhzTUlZcHBnQlI3SnhTc2hidG5UX2ppNVRNRUZfeDlIRFdJbWl4MGs3VUNqLXNKLTBlak5EQmJyZVVMbmNNcWZOZk04a1Y4QWVSaVBFRG11aGhPWFNVcV83S21JTmx1aFRQcVNDR2c2Q2IzS0dWVGdHaC1ZZGF4bzRObWgzb0FCcQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzU2RXlzQjZxV1IzNVdJMDZKSlFPdGpFQU12alZYS0lmNlIzbTZIMld1cmd6SnZSNTljWjlqTzhZVzR5d2xmcFFpLS1nbURvXzR1SzhoWDlWMDRneVZEeGw1RXVQMFJteE9XWS1XTjRxYXBTTHFhMmJ4WkxlTU9CTW5iMnB0bDUwaDQ2RFlaV2dYT3NhaVJ1a3RxajRJQVVvUktMS3I3MEJ0LVBtZnJ3WnN2MlVLT1RuVEtr?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1RuUzIweThROEZmM2xMd1RqaFhsdUcxdkNNWVpHcktqZGctTVdyblRKaURmWm9nZnR3YVZUY2hJcGJOQUxUQk1wNmREb0JFcWkwQzFQQ21TZGF1RHRkVHBPVU5TWUU5dEVWcV82LTNjd3ZIOTFhX01GMU4weWZwa1RqRjE1TWlQMGFmN1pPZVBrdUNtSjAwdlltakVJb1FYcDJxbm8yWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wZkNLMl9VNHo1RW9TQ2VFNnBZOURoRmZOSUZ6YUdYSFk2Ul9vNXU2Y29jcHA5ZE5FWXg1ZGR3ZWlaUDJobWQtS1hUWG5CbTZ6b2pBUTlWUUwxMUZ5b0l4QkhnQ2JmcElQSzRBVjF0b0k?oc=5",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2lBNUU1VkRZX3hIVU1NY2Y0WllXaE1PQ1ZLUmVzbFdTc21YbjhRNWlBcEZoVWlFVTRKdFFYbFlCR041eHZiT0FnVUxuRnB2Mnp5cDNoSklTS2RBRFpWcTdoZmVZcjY3VXhEakVZWDZTR3hLTG1mQVlFZ0p5djI5UlBKRGpQbW42amc?oc=5"
       ]
     }
   ]
