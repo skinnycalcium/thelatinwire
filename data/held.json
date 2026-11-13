@@ -1,15 +1,49 @@
 {
-  "at": 1794523930241,
+  "at": 1794539625357,
   "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "HCH",
+        "Diario Paradigma",
+        "sdpnoticias",
+        "teleSUR",
+        "C5N",
+        "El Diario Venezuela",
+        "Diario Libre",
+        "MundoNOW"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Deportaciones en Estados Unidos: ICE expulsa a 483.200",
+        "Estados Unidos supera las 483,000 deportaciones en 2026, la cifra más alta en la historia del ICE",
+        "ICE alcanza cifra histórica de deportaciones en Estados Unidos: más de 483 mil personas",
+        "EE.UU. alcanza cifra récord de 483.200 deportaciones por ICE en 2026",
+        "Récord histórico de deportaciones en Estados Unidos: el ICE expulsó a más de 483 mil extranjeros en 2026",
+        "Estados Unidos supera las 483 mil deportaciones en 2026, la cifra más alta en la historia de ICE",
+        "EE. UU. supera las 483,000 deportaciones en 2026, la cifra más alta en la historia de ICE",
+        "ICE rompe récord histórico: Estados Unidos supera las 483,000 deportaciones en 2026"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yT2diUzREVU9BdUx2N2o1UU93UzRMdlZSNkVuNnF0SFlENjhfeFh2RWFQdGxHckFuaDc4RUExOEpiZkJkUDF2cXJ0MnFqOEtSeW93ZEl5QURzZEVvYUVSTzROeHMwSXJIS2JWUg?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdzNBS2pNaUJGQWo0cHJST25wTlR3a0dQekhJc3VCUHBGck9JY1E0ZGR0ZkJfdHlmOWR1ZG9teW1iRmxQQjlUbkdrcVZqdFhWY3lOYUdMWUhPRk85a1ZKQUx3em1uNkRuZ3BJa2VQSHZKbHRxZnBfN2VoWXQ0eExCVnVHUUZtbkJGQUhwZ1o4VmZjQmI4Qk15cVNKaUZnTEdnTFdxQ1RNRnFfcDYyLWx6YWI0NTFaNFlP?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNFBWTHdnRk1MV2tCSGc1ZHV5a3ppVkxlU0RHQUQyalp5Vl9PSmJoQ3Y3MklmWXlSUUJWN1p6eWFLTUE3b0pmdVlZaldTWG85bXo4am9Sd05BdDBUZDNjYnp0TjZXcDFYUzV0bktpc2pUQTVkR1hqSGxlV3cycC11SHU0cnNHak41S0FYUThYMU0xdU1aSXdqRlhUM1VUaE9fY0JtYXdHTng1bGpNTzZ0R0xzTDBzd0RYUkJhRlRHVktQSDlvUEwtVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3b3h3R1FGc0NuR1hFYkhDOUYyRFo2RlZraFNHeDFyak5OT05uU29lYnp3a1IwUElxam5OdmpsVUowTXV3VVBTUTd3TjBpc3VVdnBjS1lfbkhnVUEyR2NMYTBteUJsNWllYW5zbXhaX1Q?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUEhBX2V6a0Iycm0yMkI0MDg0TzhZekNBMjhrYmx0UGJkdjBvNHROTTRmckhqb3dWU2dKZDlwTU1HUUxIVWlEOFlmQ2VOOWFlVUZmcVlZdVV1TlEzT21BVTNhSVEzQW4xSnVnWTdvRXY4RzIybS1JbTNsay10T25PRHh2djE2TktRNlZ4bzdIS0twNzB2bFNDck9KZlYydzlXTmJ0MXRyU2ppRkxTTXgxRnJ5LWxSMEI3LXdjckVvZHrSAcYBQVVfeXFMTTE1YzNkS0k5Rm5hWEx6LXM4b1kyY3ZQOXNuUjNrUnd5TDlxSDJTOVBpUlB3Yk5Zb3VaMlo4QWpoMEtnS19MOWRvbWJnZXVob1VDWmY5cVdIa2VpaGRrMzZDVFNqWWhQd1RiZFFERW5lVm9VdVdVcFB2bHNNeTNSaXVqTVphUEpLQ0MwSUxjWC1MSXV6ZW4zRTd4bzlSNE1xVjI1bmRWWmJDOVhxS215d2lJSVdxU0s5dTRGb0drZzg5XzRmMWZR?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE14NG85YmlNcEV6dWtQRGhoVkNFYlVvdkcxbEh1WFNYTDVsRFBreXh2WDZ3TlVscHVvTm9IZmxHV3RJQ1hUSzZtamQ4UzhIU3BpYTlRcHJvV3NVam9wSkFkcG1kSFRfRklYNzAtWUVnX0hmMEYz?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPejRHVjNnLUJJNVJ3Tlp1clBwUVRMNHlYMWFfUlhwcjN6RXR2ckxEZW5send3Slo0RWxKREpFTWhjc0F5bmlTYmVGNkxuU0FVSHItV055b1ZrS2RMbnNDN2oxMEVCdnBaWWFmNHhmX1RKVDhzeFFtYjlGZnJlY3duNTZyRFpsNHRVZXZwNXphVDE2T092R2F6OVNOdHZ4OGltM2wwc1pMSXZ3QnBWaEJ3ZGVsZlYyNlR5ZkY1QVp6V0ZWd044U2w40gHMAUFVX3lxTE4xSVlyTVVsQmFDTGpVeXVCbXFXS0MyaGR4Q193dkU0M3NtQ2taRlpHN2FjM2EyWHdNUGxpVHBsWmN6b2xuMFZUcEQ4MlZtNnlHbkhrTkpDMUxwZkpEVm1BdEhTQ0FuYjZkNEdKX2syV2hKMjNLSVRocHZLcE9wci1XUS05VGM1ckVxemNjRDY5eXVyRWN2UlRkNkNDa3NLeHBtWThfakpfdmlMOWhGWnhoQmJ4dE1NZ1NLTktCeVV4WWFZZk1TU2V4Tk41cA?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSkRrd1V5SnhFUUVkVjVKTWJHY2J5cVl6WXVTX2p2aTIwS2JTSUlWQmE2RTZuYTVYaXRRNnFfWF9hTjR2S1hSdUhvYU0zdWw1cFhTR0h6UHB6ajE3RF9lQmRKUk9HTVJYblNSTTBNX3kydGhpQUVmU0xta3BxM0x2cmJlNjJ3Q1p4b3lENmtlRGF3dVVUd3FSMVQxSUNNZUt1OGd3NnpTbEFjams?oc=5"
+      ]
+    },
     {
       "section": "politics",
       "outlets": [
         "Diario Las Américas",
         "El Diario Ecuador",
         "Notigram",
-        "DiarioDigitalRD",
-        "CiberCuba",
-        "Demócrata"
+        "DiarioDigitalRD"
       ],
       "lines": [
         "center"
@@ -18,44 +52,13 @@
         "ICE registra en el último año la mayor cifra de detenciones y deportaciones en su historia",
         "El ICE de Estados Unidos registra la mayor cifra de detenciones y deportaciones de su historia",
         "ICE reporta cifra récord de deportaciones y arrestos en Estados Unidos durante el último año",
-        "ICE registra récord histórico de detenciones y deportaciones de inmigrantes en Estados Unidos",
-        "ICE anuncia récord histórico de deportaciones y arrestos en Estados Unidos durante 2026",
-        "El ICE de EEUU alcanza en el último año el récord histórico de detenciones y deportaciones"
+        "ICE registra récord histórico de detenciones y deportaciones de inmigrantes en Estados Unidos"
       ],
       "links": [
         "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZXRWTnZYN1R5VFIyRzQxeGR0U2Roc09UYTktQXFFMGtGbkxUbWFPVG0wVV9aUW9yVGl6ejFMbEozc0ZRTHY1QTdLLTlYdkwxYy1ja3pKOXJvcWp2SDdLV2ctQ1VFdEg1c093SzB2SkUzUFk4MFpKdWdMQVJmbGdwaDZtdmVYamJFcWtoc0ZCU3cyeENFak5PQ3ZFUE16WFNocm9tTkNJUWRnS09ycWNpN0g1ejg3ZTg3dTMwVmNxYXNGUE5JaW03ZDNiNNIB0AFBVV95cUxONjNvSHYycURvVjZqbHJ6dnYtZFJyNVh4V0NORnNrYW9mbzJZVEF4dVkyU2RWUFBSZXlHbVpCb3YzM2hqTGlBSHA2WVpKVnhDVjdUR3pwMUZzMDVlTkFoejNoUHN6Y19iMndEX0xnR0lVT3VPUTZUcWw1Zzd0NTJFeUJ2enJHQUpxaE05T2R3MWdpZEF6dEw2OFNkNnM4S1lMT0RHc1lMSWpuTGF3UkExbEh0SFFlV3ZWZTEyV05NdTg1UXRMNmY4WG5Bek1YTmtU?oc=5",
         "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV0xaeEdDWFU0b2Rvd0hfbTdoc2xmVlBxV3hVZXJybVhLeVZ4NW1VYmlVamxLS1BVRW5ydXdmYzZMUm9FSy1kRWluRUZmaDVXSUZrMm1hblE0M0I0Rld5bkhrbXpyUmhrVVBNLXhkTEV6d3RmNUJiUlRIR1N2RkJIcGQ2cDR4TzNNX29tSTM2eTRZMXNhNmlOcy1RcmVBQXhadXh1dVhMazNlc1Rjb3FzYV9KcmxCUzcyNkUyTVJxS0RLTjZzQmRnT2tsd1lheDA?oc=5",
         "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUWstYkZxY0lTUUNtN25yNGFFVE8tZ29WNHpjc3Bsa0FYclhEdV9MN3BxbE1mYzhXRlRWNDl2WDhHdkpOTkhJOGVUUTdDU2gydDYxZkF5bEhHb0xmV2JRZnhrdlVIWmtzMGR3MldLZHpaWGJ5UFktM2xUR2RUaTc3MGFvcTRBbzMwdUVpTTlLdXJYVjQzeEpQWDRrWC1WeUhObUZnekVDZzJmdHcwdTk1ZXpyQnhHY3YxWEhOQWN5Q1dnb25YZzQ3Z0dzbmFaTnhMNV9UT3AxUmtyUlE0ZjlvdHp6REo2NGs?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc1JtVk1zZ0hMQ2JZZVhEcjFIdkhadDBkU0thRTktYmJGNktFbGRtQTBIVDZRZVFPcGZfMGNqdV9hYnd0S3ZGTlVoeWR1NE1nWk95RUxLdU9zSWJVZGl3VENQT29xbTRnZ1FtN0ZfSWVaZFpEa1BfRE56Q1pucU5vU0puaXl1c0VBMTA3aUVtb0pFbmVBOFJSQnpFQkNlN2xDLTlEaEk1clJ0dm53QUVBZGhKeW1QS0hrY2l0NjBnLWVjNFZRX0tEVmJLX3E1Vkd2cFVETA?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcFFZVVFCUmdIUHphR3VoWlNfck1jYXN2X2pUZGwzZmUwNTBOVDdRb3NhdWJjeVhSc204eWpkY1pMeEhzbWIxN0xSX3R6NjByWk5jUnlkdkU4NmNDRmxJOF9uUVdyeFdGQ0NtMW45dGVxTkdKZklBQk5XQlBwNmNhTUFzSkNMbzdIR0NVT18wRHRWZjhqZGg4R001VW9ibUdnSXlaaVV4emdNVWhWUmFmS2xnZlVua1dOMy1wRWh0UFZ5bUXSAcMBQVVfeXFMTXBRWVVRQlJnSFB6YUd1aFpTX3JNY2Fzdl9qVGRsM2ZlMDUwTlQ3UW9zYXViY3lYUnNtOHlqZGNaTHhIc21iMTdMUl90ejYwclpOY1J5ZHZFODZjQ0ZsSThfblFXcnhXRkNDbTFuOXRlcU5HSmZJQUJOV0JQcDZjYU1Bc0pDTG83SEdDVU9fMER0VmY4amRoOEdNNVVvYm1HZ0l5WmlVeHpnTVVoVlJhZktsZ2ZVbmtXTjMtcEVodFBWeW1F?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTkxNbWZ1WEt4cGR3MURmTk1Bc2stWVRSV2RhZmxRVVZEYWxRWnpMTEpBSVA0N3cwQTMxTU1sQ0xubGJfRk92aDZZd216Z0tKd0VFVzlNV3ZQc29NaTkyQ081aWZGdzlDLWdvSklRNVRrOTBDNnVyUkdfeDlEOWRsOW82aGNQMk1pcGJqTzRVeG5yd0xRZTE4amtzeVRJeVpNN2kwazBENWtCdXFkQi13MUgyRGNNcGZ5X08ybUp4QzZTeUlKeTQyVElR0gHPAUFVX3lxTFBzb3RvNVJBVHF6OFRVWFpwWE9qRnFCclhjQlFuNmE1Nk5kbExUVGZZYnRQQlhSYUIwOXJNcE5xWWlLWkhwZWtpbWNiV1Y3M2h1RW52aXZudlkwdzE3NUtRQUVxTDl0ZjhwTDhXMnViWFduNWZBWHdIcHdJakRJamZLOU1nOWFBakh6UXdHamRQX2N1UnNQYW1iMGgyYmQ5ZXNhODQ1Y3JOcTlmNDgzVUpTVE5iT3F6MlFEUzJCbkxybnAtMjY2OHhsNzNsZDVHTQ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Diario Paradigma",
-        "sdpnoticias",
-        "HCH",
-        "Diario Libre",
-        "Clarin.com"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Estados Unidos supera las 483,000 deportaciones en 2026, la cifra más alta en la historia del ICE",
-        "ICE alcanza cifra histórica de deportaciones en Estados Unidos: más de 483 mil personas",
-        "Deportaciones en Estados Unidos: ICE expulsa a 483.200",
-        "EE. UU. supera las 483,000 deportaciones en 2026, la cifra más alta en la historia de ICE",
-        "EE.UU. supera las 483.000 deportaciones en 2026, la cifra más alta en la historia de ICE"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdzNBS2pNaUJGQWo0cHJST25wTlR3a0dQekhJc3VCUHBGck9JY1E0ZGR0ZkJfdHlmOWR1ZG9teW1iRmxQQjlUbkdrcVZqdFhWY3lOYUdMWUhPRk85a1ZKQUx3em1uNkRuZ3BJa2VQSHZKbHRxZnBfN2VoWXQ0eExCVnVHUUZtbkJGQUhwZ1o4VmZjQmI4Qk15cVNKaUZnTEdnTFdxQ1RNRnFfcDYyLWx6YWI0NTFaNFlP?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNFBWTHdnRk1MV2tCSGc1ZHV5a3ppVkxlU0RHQUQyalp5Vl9PSmJoQ3Y3MklmWXlSUUJWN1p6eWFLTUE3b0pmdVlZaldTWG85bXo4am9Sd05BdDBUZDNjYnp0TjZXcDFYUzV0bktpc2pUQTVkR1hqSGxlV3cycC11SHU0cnNHak41S0FYUThYMU0xdU1aSXdqRlhUM1VUaE9fY0JtYXdHTng1bGpNTzZ0R0xzTDBzd0RYUkJhRlRHVktQSDlvUEwtVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yT2diUzREVU9BdUx2N2o1UU93UzRMdlZSNkVuNnF0SFlENjhfeFh2RWFQdGxHckFuaDc4RUExOEpiZkJkUDF2cXJ0MnFqOEtSeW93ZEl5QURzZEVvYUVSTzROeHMwSXJIS2JWUg?oc=5",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPejRHVjNnLUJJNVJ3Tlp1clBwUVRMNHlYMWFfUlhwcjN6RXR2ckxEZW5send3Slo0RWxKREpFTWhjc0F5bmlTYmVGNkxuU0FVSHItV055b1ZrS2RMbnNDN2oxMEVCdnBaWWFmNHhmX1RKVDhzeFFtYjlGZnJlY3duNTZyRFpsNHRVZXZwNXphVDE2T092R2F6OVNOdHZ4OGltM2wwc1pMSXZ3QnBWaEJ3ZGVsZlYyNlR5ZkY1QVp6V0ZWd044U2w40gHMAUFVX3lxTE4xSVlyTVVsQmFDTGpVeXVCbXFXS0MyaGR4Q193dkU0M3NtQ2taRlpHN2FjM2EyWHdNUGxpVHBsWmN6b2xuMFZUcEQ4MlZtNnlHbkhrTkpDMUxwZkpEVm1BdEhTQ0FuYjZkNEdKX2syV2hKMjNLSVRocHZLcE9wci1XUS05VGM1ckVxemNjRDY5eXVyRWN2UlRkNkNDa3NLeHBtWThfakpfdmlMOWhGWnhoQmJ4dE1NZ1NLTktCeVV4WWFZZk1TU2V4Tk41cA?oc=5",
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYW8zLURGREo4UmtWUDBUT2J1SXBFSV9NejFLX0pncXN4d2czVnBRUldqU1NxQXVuaExFOEI0cUhLVzBHUDgtSzJzWUZONXR1emdsVlA3RU5PZFp1TUk2N2ctYkkyNDJpenY0UjF6M21zVnB1cmF4c3dDQ0hwR2MyS2RLdkZTMndOSkR2VDlUVEVFXzlEUWFLNy1wY2dSMTFGQURFSkU2MmxPd1Z0TlNVLWFyUVJMVFBtRDZPOWhTcDNTdEQ4Q1luRjFNNHVzUW5XMnViYWgxMnBsZw?oc=5"
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc1JtVk1zZ0hMQ2JZZVhEcjFIdkhadDBkU0thRTktYmJGNktFbGRtQTBIVDZRZVFPcGZfMGNqdV9hYnd0S3ZGTlVoeWR1NE1nWk95RUxLdU9zSWJVZGl3VENQT29xbTRnZ1FtN0ZfSWVaZFpEa1BfRE56Q1pucU5vU0puaXl1c0VBMTA3aUVtb0pFbmVBOFJSQnpFQkNlN2xDLTlEaEk1clJ0dm53QUVBZGhKeW1QS0hrY2l0NjBnLWVjNFZRX0tEVmJLX3E1Vkd2cFVETA?oc=5"
       ]
     },
     {
@@ -63,9 +66,8 @@
       "outlets": [
         "Peninsular Digital",
         "El Diario de Ciudad Victoria",
-        "El Horizonte",
-        "El Diario de Chihuahua",
-        "Excélsior"
+        "La Expresión - Periódico Digital",
+        "El Horizonte"
       ],
       "lines": [
         "center"
@@ -73,40 +75,14 @@
       "titles": [
         "Presume Trump 483 mil deportaciones durante 2026",
         "EE.UU. Alcanza Cifra Récord De Deportaciones Durante 2026",
-        "ICE rompe cifra récord de deportaciones y arrestos durante 2026",
-        "Rompe ICE récord de deportaciones y arrestos en 2026",
-        "Trump presume 483 mil deportaciones y cifra récord del ICE"
+        "Deportaciones de ICE en 2026 alcanzan cifra récord",
+        "ICE rompe cifra récord de deportaciones y arrestos durante 2026"
       ],
       "links": [
         "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTzBkLVlsU3U1MlNTYm9BQTAtb3MxdlpVTS1xMFB5NV9rSV93dHFOTUhNN0JTazVvMzREaU1kenU2dnM0UnNBcXUxMFR2NUJBR3ptMm9saUstM0dORTA4YS1xdnI4S1VUeDd5Q1ZfX01kUVhIeXJESFJ0N1lvNnNhUk1SUmNwX3JYNEJWdlBTRVNuSm9Z?oc=5",
         "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2RIRG9YaFV0bFRETFJPOU00QjRFdXoxR1JtYTRtU3NCRm5uSDc3cHNzMXZUd1dValFoVHBsY2tlR3lrR3h4RVJSbm1Yb0VqOEx1WHByUnRHX25EQXdjT3pkQThjUFpUYVczREpGeGZ5b1ZPQXFkQnVTU3Nhak1Bag?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUxMQ2VuMGRlbkx1LUdmUi1XRkxnVXhGcEpiUTR0eFBwTWZ0enU2UnFkdl9HU3hjRW9Zb3lGaFZrZy00SUZ4d21HSmhSblM4OHdZbl9IcWNCSUhRSXpRM1M1YjdKVFlfSW1nbmQzUlRlSlRrLXpIdUtXWHVVcW1nUTlUZkpHY2YwSjk4WFNmTmIycW9jendaTXBQdC1OUm5QNUZlVi1jMFFZTXFNTEdDZEttcnR5UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUN4b3JsSUYyeVlPWFI0RUV5dlBEeVQxR0JNekFZcFpXdkNMNW5va2hWdkNCT2lKSVBYOTBQWHlfd3pMaFpHc04wZTVlcWRjRi0xZVNNQU05b1hNU2tOTUU4WnNxelkwanF3TWlNUER0YnNUWHNKUS11LXNxc3pnVzFxWDNVLW9qLS01RFM4RDVUTFFBbUV2SHlJSUd2d0pQRzJ1d0hMT2IzVXJLTjFZWGJhNTdDMmNXYjZaQjVTY2FVSms30gHKAUFVX3lxTE45SDVGTWFWbjJrR2l2WWhwYXh6VHdZTlhRQnN6XzlUa09CTV9zVlJrVEc4Ym9PRS1Wb0ZIUWpKWjVCdkl1SUxzN09zbTNiaEZOMlYyOW9rdGdpaFVCYllQVkF4Yk5rRjluVHZ0Y2pnQ0J6UjNZeTR0amczdVZKS1lfZHVQQ1ltZEhPT1h2UU9ubkNzd0JMcGxnZEhtMnZSWmlYdmxENDcwMFR3Q3FwY0xnMjhNc0VlUnRDUURsU0NhaV93TDRmT3pTc3c?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxNRmd2RTJxcVJvU0p3Vkp1dHVERGlRZXgyQWtjcHlaUUNfU2Y2alFGMWhqUHlYRy1ySUo3dE5VWlZ5SjV0X2czY1lJMEFfRHgxaDczcW1Ed0NiWkxPN1lLN215SGFaUFdRbzVJUUtFaFdtSWtnbWNaLWh1QjdYV1FaMzdZaGhQQnU2UHJkNVdUbUZ0eVpjVE1PYXB0YXBpUdIBowFBVV95cUxOWml6OG95ZWdGamR1MUc0THUwd1c4Zm9MbFVkZ1lFdzBFRVR5cURkMGhpc3IxLW9hVl9ZZ3UtU1ZjU0ZYY1h6NER2eTJqcWhXTkJnSnhwWUxvUHlJV2tCeVFqOVpIS0JtVk9rQzFsV1dPLVFEdzFVWjQ3dWpYcDhpaDlHekhtQWswYWZkajdGel9oTEhXdUNldWNwd3N6TGVkVlR3?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Defense News",
-        "KESQ",
-        "Military Times",
-        "House.gov"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "House passes bill to expand benefits for combat-injured veterans",
-        "House approves bill to restore retirement benefits for wounded Veterans",
-        "House passes sweeping veterans benefits bill with polarizing tactic",
-        "Malliotakis-Backed Legislation to Expand Veterans' Healthcare and Benefits Passes House"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM2hzbmdfSzUtYkZRb0JtODBiZjRLZ2J4TFZVMFIyc3VCSmhlcFkyeXJvb2wtRUZFMUZtLTBWRkJMLU1UT1JtUVJ3RmQ5WG04YTdqZkVMU0VFbVgxNElWa3REazFwaGhsQnVhMVRBMENtdm9KUURNVkF6NmFxc2RoRU1oQXpRX2JNdjlSZE1jcy1uWlJ4RE5hOE5udDhjdldjelhUWEdHbGxZQUhpNkE?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3BvQWlwQ2JKdi05LU5TbmVSUmNWMTI1MExZcUFMWW5MNWRKMG9ETFlMVmVhOWlabXFyQzJ4a0VsNnNCdWdxMTNoOW9QTEFBV1k0Wm0yT2pQQWtZS2lmUldlc2JrSS1ZRXoxaHNzZWVnU2tCdlhEaWNNLXFNQ1hxT3lFOVZfS01KdmQzNWFMVGZoUTlNLTI3cTdmbnZ6dTJtRk5tQloxRXA?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdzQwcUxMZ0NpdGdYbTBWbTF6T0ttMUtrSkpad0hWanBZY3NsWXEwenhKdVU0U3NMWG14ZUlUTkZILVViVmxsS3Zjc2dnMEhVdEhuU0JkZzQyQnVaYXhkRWFIVTVmbVJiR2xmaEY3MGNicE5vVHlMQXRHd3c2WjR0SWZMLVBEWE1rOVJHXy1pLVgyYnBhd1JoRUl0dXhYTTM2U2lMYllCOGdWNHlySlRSS2VUNTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRFBRT1hTVU42Y1JqaElfV3JZMmdSN0puT2FQMVM4TUh6LUx5TlhNTVJmYTc4ZmtIQXQ2TDdkQzVESWhyTFIwc2FoTTBXdWRoSlhzWDlLWk43SUR4MWs4WXFZQUtBeGNiRmh0bWVKamt5V1laT29qVmhMV2wtdjR6R0tJY3BRYVRRWmt4SzlYQ3ZXdVJxMTNfS19xTktocjRrajd5U0syY0o5aXRETEtRYlFSb3B3WjZESDJpT2xUV1NJUWpjU3c?oc=5"
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jUFdyblhZb0FWNjFlN3h6RW43REoxSi11cUstbHluOVRIcUJrV3lkdjRRNnlIYXNWa25UeUh4NkUwd0V5c3VOdDJLU21McEtIWXpRMndQa0I4VmVObTdRQml6SU5rYU0teVBaNFpUQjlTOEZtQ21J?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUxMQ2VuMGRlbkx1LUdmUi1XRkxnVXhGcEpiUTR0eFBwTWZ0enU2UnFkdl9HU3hjRW9Zb3lGaFZrZy00SUZ4d21HSmhSblM4OHdZbl9IcWNCSUhRSXpRM1M1YjdKVFlfSW1nbmQzUlRlSlRrLXpIdUtXWHVVcW1nUTlUZkpHY2YwSjk4WFNmTmIycW9jendaTXBQdC1OUm5QNUZlVi1jMFFZTXFNTEdDZEttcnR5UQ?oc=5"
       ]
     }
   ]
