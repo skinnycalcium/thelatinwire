@@ -1,6 +1,30 @@
 {
-  "at": 1794708522052,
+  "at": 1794734864031,
   "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "La Nueva Mañana",
+        "El Litoral",
+        "Diario Río Negro",
+        "Infobae"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Dos acróbatas cordobeses permanecen detenidos en EEUU por el Servicio de Inmigración",
+        "Dos acróbatas cordobeses fueron detenidos por el ICE en Estados Unidos",
+        "Dos acróbatas argentinos detenidos por el ICE en Estados Unidos: quiénes son y qué se sabe de su situación migratoria",
+        "Dos acróbatas cordobeses que iban a un funeral a despedir a un amigo fueron detenidos por el ICE en Arizona"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRktPZ2ZWdi1XNllSdVBwVzVCSC1vb3FKMC1lMU1PWlhWOGdqQXJNWDY3YlNJZmZsSHNJdHpBU3BOQ01mMERuTjVZa09CMGM4UGFRaUZ4MW82c1ZmeU1tOEFTZ0dVa1pNY3J1aloxTTFuU2lIMXRkaWFNaUFpbTZQUTFHa3hPcGE5UW82YWNHLW1YZUxaOThuTnlTWU84ZklFWlVYVW5KcEFKRXVibzVLT3BxNmZrdzIwQ3BYcmFB0gG2AUFVX3lxTE55ejZVMGJSeDVDQ0pDZE51a01yalZfS1l3WFJOVXVVMHpEWmtUbGxTTzg2VjQxV0JBa21IajFzLTkxSG50S1gyRGxjWl9WU2xQZk5zWE5OZW1MUzJWOENtZ1h1Q3FTdERoLTdaX1VRd3NkY1lYd19WSHptRWF6VS1SbElXa19iSE5WWnlKZmpMNS0wWHNPY2NQeHVNVFg0QmxjVEcxRE5IcnBMRVRpY3EyU3NSR3Nn?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQazFzUmV0dG9DSmkyVmRxeTY1QUs0VGRxRUZsZldpZnhIRk5kQUgtM0RuNWUxREVqaFBMdnp0bEx3UC1OdjFfa3M5NWtFWldBZjAyVkRWTjFydjRDWVA0SDlXZFdwdDRNRDlpeHY0b2QxZWZ4R0JsbUJ3Y2o4Q1RoWC1wMEZwX21IWmJpRnVfQ20yYVNkcHYzSHlSYTVoY2tic0dKZjJ6MGJfOGtYdjB0QUZnMVByMk9kZ0ttbVBzRmd4UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOS3d2UjFBeWcwOFEwZ2pVSWVEMks1M0NBTmxjRWJpaERJNFpvZmtlTEc4NUxKWFM4aDdMekJMVWNpWUdsWkFiYkViZ0hYeE5VN2owRVlvNlZnbjktUEUtcTd1d0R3SjNTSVI0WndGdldVcEkzTC1RcGI1aXgyMWlaTXQ3OWlXMjFkZGtVUS0zRzdLUU5qNW55d0VEU0t1NkFIUmxYNW9kVjlaOXY4N3B3eDc2aGJXTE92UTVtZFZYRXBuY0FDZjFQYlp4NWJ3R1VubnUwcHpWMDUtZkFmcFRkRmMzb3N1TWdFYlBCWjhKbW_SAfgBQVVfeXFMUG84VnFTa1RvSk5NQjd5Vk1VTzZmRmdTWW1qV0M2Rzk2WG1jZGFvYUtCTkRKeFc1c0x2eS1qY0NTekg4d3MwLVJreXI3dTRXTTJZV2F4UnZ1RGt0TEx6cXdmYm00WU1ncWpsLXRQX0tBRURRS2hxTzZCenNJMmw5YWFJZTlFc2lRMTlUeXhDRXk5anZkRUZIRXhDQUlTVEJkQi15Y0h5eG84UmdBbnVSTGlrTE45bU5Ta1dmR1ZTSkJldjV4LTl0MDBYdExfbU5VRFpNcVhCSXNIa1lOdzNLYmR3Z0xyU0N4b3gya0pic1NJamVrc3ZVT3E?oc=5",
+        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNWZRSkU3VjBDLUpxck8wSG91RWpzUGpXbWN4T1VvNkZYenUwZkdyRzhPRmFvclBGOVpETUwxVW1xWG0tOTVwRXBodXhjWTJvMG00N2FfSmJGZkZuV3JYek9NaG5JWGNZM3NxS1lOWjVCWTVfaU9GLWtIak5LS0ZQSFYzRG9IbjgybkpPc2VRSnhfX3RfeUJwQXZ2bmFycmZSYjdDcXV2TG9KVlNvUzNmV2RyRnp3dWg0V01HQ0dFUEx3clpqdG8wSFdFQVdiMmoyV3RjZmxyNEFkUjJkX25fRUxJZW00d1XSAYICQVVfeXFMUFBSbXBaVTBUdHh6X0xadmF4ZC13cmZLT2phbl9SY3pGM3JEUGJBOTc5bzJIcjRua3ZRQjF1Sk91RjNKT19qbEhxOWxCcDE2VV9HOU8yRFJnLUNWN080M2w2NkNEOEpHWWItOVlZTnM3b2FIbFg0R1NSYkFBd1Rtc2dDODBrY21xbHozdW5xVUhISFlrSlJTRHFJbTEwbXZXMkRteVVuRUN6NlhMZjhieURuR2pvVzdKczFGRC0yRURzVmp1LWNLTk5wdWZrSDRmUnVnWDlTX3NPYnZndHBYazZjeXJQRkxjN3FmeU9VdUJ1bU1WOUpFUHd5dXg2T1RlVld3?oc=5"
+      ]
+    },
     {
       "section": "politics",
       "outlets": [
@@ -20,6 +44,24 @@
         "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmNDaEFOUjhyQ3dSTXZ5c1pkT0hpdEVqT0tmOGk2cVVDZ1pZT3EtNVlLczVuYllZd0ZWRGRBQmxiY0hTMFJTQXE0YWN0dTA3RzA2N3VmM0MtRzNycGpqbHh6RlZKMGtnaEkwRzZYVUxuLWs2U19jQS1HLS1xb01hZi13Yjh5UnFxSXdScDI1bUHSAZYBQVVfeXFMT084UmYyZ2JNVTg5ZFJKR0N4MTR2SFF5ekRwdFdsNnlTeVQ5dExLUmhlclcycVFuUS1TRHFRTnFWWHp3MVQ0ZzBFbFdST0VkWEh2QTRreVZnaGpGRTJKM3h1aHhsVHZ1VXJtZGpJb3N3RjE4RXJ5TFNFeGVrTjF6R1R2akUwaU9LQWdfSHZUeDNqOUY1UVlB?oc=5",
         "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFFNMFBXQ1g1SHZETWpDcll6MGRzbUpIYzZEQ3lTNUhXTlJJaEMtN2ZOSWxtX0oySTBrcUt0b1dmbGt6VzY1dHdLalU2NER5Y2ZIZFVxZUo3VkFkLUNwQkU3a1BUWVN6TUx4RHlyS0xFVTVrQ3FJaHEwdG5PTUczbThaODUxanY2dkZ1Qjd6TE8tNzZmWDNHc2RXMA?oc=5",
         "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZm84Z0c0b3VhY2pNckJZUUxxcW80NUJEMVJjeUFGa2QweVhwRXFDU1VOeWltYnZJRFl4U2JkdGdlV2d4akNUYldYYUJfeEdtSEdtMXlaOFNVaGJqWF9DV0hKaXplUnpIMjlSZHdiQWhDRVdSS29nSnhMWXlFZVVqMTlFZF9wWUJuUjhzd2FR?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Pragativadi",
+        "Business Standard"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "India-US Trade Deal Almost at ‘Finishing Line’, Remaining Concerns More on American Side: EAM S. Jaishankar",
+        "India-US trade deal nearing finish line, may be sealed soon: Jaishankar"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNGV0N2k4MjdoS0NxM2d1WVB2ZkZOZlh0X19adUVoUk5aOXI0MElGb0l3RGZjX0ZrYVpqU21uRnVHNm1maEhyWFZSbGtJNE9QWUc1U0ItNlNWeTBxYkVYS1hHQ01YVlh6Sm93VklIZTZaSlR0QjQxc1c2WEZ2LXdveEtlZzlCM3Y5bkZoeXhsc25Zek5wMmtidUVnV2RyaHdHSGZkZXZ3Z012cUNRX0hrTEYybncyOHg4a2xDV0FocWZxcFFJSFE?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcEtSdzM0aElWRTdJQU1VekZzcFh3TDRhejJZc2FmOEJVenlYMzFNVjRYbnh2ZFRudUpxUmw0empfTC1zUjhNQnI4TzMtQm94dlYzR1pmcWdZaU14SnhwbTlNc3REUnpfVmdrWXhGb3Rpd1d6VHEyYW54U2xCWVFITXRVVVNOSGNDOVQ4SDBZUElYSDFjRXpaVXF3UWg2aWxXa21oR0QwU1FJelE5dXlJNzZLWjhadmtldEd1T3NrQkZfNjRZd1hLRDdZeXAwSDh3UVHSAdcBQVVfeXFMUFhtVUx4XzdDYXh3dHhtMkNvSG8zZFlCNnZSYi1CSzhIc0NUSDNwdzgtS0wzT2dMZGdPc3dqSjJIQ0x4OWFjSU0xZklEZk9zVXdfTWp5OGNqd1oyWXpISFkxczhHV0FIQThwR2UxWVRRQmYzVGl5YlBRZXJrR2VMTWJCMTEtWm8tTlZlNU5MR3dsenpLbGdGSUFIVW51RzFuMzlyT2dvZkpxaXdqOEtqclhmRWw4VXNoM0NJTnJDQWl4M2xYaFlpVWp0VWhYSXVIR29ud1d5ekE?oc=5"
       ]
     }
   ]
