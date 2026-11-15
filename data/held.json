@@ -1,29 +1,4 @@
 {
-  "at": 1794760266999,
-  "held": [
-    {
-      "section": "politics",
-      "outlets": [
-        "La Gaceta",
-        "El Litoral",
-        "Diario Río Negro",
-        "Infobae"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Quiénes son los dos artistas argentinos que fueron detenidos por inmigración en Estados Unidos",
-        "Dos acróbatas cordobeses fueron detenidos por el ICE en Estados Unidos",
-        "Dos acróbatas argentinos detenidos por el ICE en Estados Unidos: quiénes son y qué se sabe de su situación migratoria",
-        "Dos acróbatas cordobeses que iban a un funeral a despedir a un amigo fueron detenidos por el ICE en Arizona"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR2tJdG01NWNFSV80RzlVNGV0WlRSR1A1UnhTdm1hR1AyTU1PR3l5VHJfNWkyVWtESl9saFAxWWVMZ2s2bXRCbmQ3X2pKaXBDcTFwcEFSYnFxMDZTVDIwQ3BrNlFxTWx3VklXMndiNlNPSU9SWU9CX1IwandVNjZpX3JodFFaWm5DbXBKcy02Rk1XSlg1cWVYYzJFYVh6NjRHNGhNaFNOTFBUTEh2OXhFckJoWlFRSDZhbERZdXd3akxkS3ZmQmdFVHhHZ1JKTHPSAdQBQVVfeXFMTnBBZFFPNUVYUW85MUcybTk3OHUtZ2ZFZTAzWjJqenhoYW1pOVBYa2NPLUg0VDJranpTbmxLM0tYRUp0YVc1S2pUS0lHdVB1d0pfLURVaUpUSTU1YllzLXRXSWlKT0hVZ2RZNGN6QVhiU2cwVUV6ZkhwRm8zWmtPZFhMWm1ZcnJfRlZYVld2RW1mOHA5b1dObWhlczI1UUhNaVlkREJZSjNGaThFajUtLVR4R3lsX0V4NXRWS2podlA0SHE5X3U4dHZta3daamVrRXM3N3k?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQazFzUmV0dG9DSmkyVmRxeTY1QUs0VGRxRUZsZldpZnhIRk5kQUgtM0RuNWUxREVqaFBMdnp0bEx3UC1OdjFfa3M5NWtFWldBZjAyVkRWTjFydjRDWVA0SDlXZFdwdDRNRDlpeHY0b2QxZWZ4R0JsbUJ3Y2o4Q1RoWC1wMEZwX21IWmJpRnVfQ20yYVNkcHYzSHlSYTVoY2tic0dKZjJ6MGJfOGtYdjB0QUZnMVByMk9kZ0ttbVBzRmd4UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOS3d2UjFBeWcwOFEwZ2pVSWVEMks1M0NBTmxjRWJpaERJNFpvZmtlTEc4NUxKWFM4aDdMekJMVWNpWUdsWkFiYkViZ0hYeE5VN2owRVlvNlZnbjktUEUtcTd1d0R3SjNTSVI0WndGdldVcEkzTC1RcGI1aXgyMWlaTXQ3OWlXMjFkZGtVUS0zRzdLUU5qNW55d0VEU0t1NkFIUmxYNW9kVjlaOXY4N3B3eDc2aGJXTE92UTVtZFZYRXBuY0FDZjFQYlp4NWJ3R1VubnUwcHpWMDUtZkFmcFRkRmMzb3N1TWdFYlBCWjhKbW_SAfgBQVVfeXFMUG84VnFTa1RvSk5NQjd5Vk1VTzZmRmdTWW1qV0M2Rzk2WG1jZGFvYUtCTkRKeFc1c0x2eS1qY0NTekg4d3MwLVJreXI3dTRXTTJZV2F4UnZ1RGt0TEx6cXdmYm00WU1ncWpsLXRQX0tBRURRS2hxTzZCenNJMmw5YWFJZTlFc2lRMTlUeXhDRXk5anZkRUZIRXhDQUlTVEJkQi15Y0h5eG84UmdBbnVSTGlrTE45bU5Ta1dmR1ZTSkJldjV4LTl0MDBYdExfbU5VRFpNcVhCSXNIa1lOdzNLYmR3Z0xyU0N4b3gya0pic1NJamVrc3ZVT3E?oc=5",
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNWZRSkU3VjBDLUpxck8wSG91RWpzUGpXbWN4T1VvNkZYenUwZkdyRzhPRmFvclBGOVpETUwxVW1xWG0tOTVwRXBodXhjWTJvMG00N2FfSmJGZkZuV3JYek9NaG5JWGNZM3NxS1lOWjVCWTVfaU9GLWtIak5LS0ZQSFYzRG9IbjgybkpPc2VRSnhfX3RfeUJwQXZ2bmFycmZSYjdDcXV2TG9KVlNvUzNmV2RyRnp3dWg0V01HQ0dFUEx3clpqdG8wSFdFQVdiMmoyV3RjZmxyNEFkUjJkX25fRUxJZW00d1XSAYICQVVfeXFMUFBSbXBaVTBUdHh6X0xadmF4ZC13cmZLT2phbl9SY3pGM3JEUGJBOTc5bzJIcjRua3ZRQjF1Sk91RjNKT19qbEhxOWxCcDE2VV9HOU8yRFJnLUNWN080M2w2NkNEOEpHWWItOVlZTnM3b2FIbFg0R1NSYkFBd1Rtc2dDODBrY21xbHozdW5xVUhISFlrSlJTRHFJbTEwbXZXMkRteVVuRUN6NlhMZjhieURuR2pvVzdKczFGRC0yRURzVmp1LWNLTk5wdWZrSDRmUnVnWDlTX3NPYnZndHBYazZjeXJQRkxjN3FmeU9VdUJ1bU1WOUpFUHd5dXg2T1RlVld3?oc=5"
-      ]
-    }
-  ]
+  "at": 1794777526010,
+  "held": []
 }
