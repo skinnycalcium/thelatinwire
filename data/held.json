@@ -1,46 +1,51 @@
 {
-  "at": 1795108599060,
+  "at": 1795131731200,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "ssrs.com",
-        "The Conversation",
-        "Caledonian Record"
+        "Roll Call",
+        "Middle East Monitor",
+        "Anadolu Ajansı",
+        "C-SPAN"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Independent, Gen Z and Latino voters helped deliver a Democratic wave in 2026 – but that doesn’t mean a lasting realignment",
-        "Independent, Gen Z and Latino voters helped deliver a Democratic wave in 2026 – but that doesn’t mean a lasting realignment",
-        "Independent, Gen Z and Latino voters helped deliver a Democratic wave in 2026 – but that doesn’t mean a lasting realignment"
+        "Iran resolution blocked in first war powers vote since midterms",
+        "US Senate blocks Iran war powers resolution",
+        "US Senate blocks Iran war powers resolution",
+        "Senate Blocks War Powers Resolution to Halt Military Action Against Iran"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLWpCcVgxNGY2bHpfVzlES211eV96QjdPLXF6YWZGN0lGbG5kUWg0OFY0TkFOSThvQ2ZQLWxXQ0tYSkYwUzhNTEtJbnVwYVFVZXpzMUxBZ3JsekR0aFRnUjVSc3ZIVXVBaFJZdW9YMFZFa0xLREpuR2o3blFuVVMyZg?oc=5",
-        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLW5UdFlCRHB3RjhaYWlyM2VEZDdPWFUwQjRoanJPaURrMWJlWlJ0enpEYUo5UVl1WFlKSEluM3BSUlRQSHB2anhoM0taTXFPTUJZM1pXZExPRDBwYkRMUUgyUXBDeU9TT0hrc3RuRTFISk1ieDBCTlIyUV96a016Y0tmYmdjT1VLOTFhRGs1Y3Z2dzRQbzJVS1E4VGc3R3FJMmFHTE5SOEU4RXowSDB2QkI3d0J3dFpZcS1vVnJ4a1hMbzdMOTctOUl6N2FFUXk3V0ZZVnhzWmxId3ZFNmJvV1k4LUhOT19hSXc?oc=5",
-        "https://news.google.com/rss/articles/CBMimAJBVV95cUxNWWdfZWpnS2tNUEs5Rl85MFNWRnBtTFU4dTVlUmR6cnV0dGFueFFMY2I5OFFtRlVJcEdsa1VEV0hPaGhWQ1ZjNVJyTzZadnlMM3BpSWZNVkw2ZmhEX2Y5SFlfWmUzdGVhcGREdHhtbXVicjNmaWNfeV84dFc1aDd5dzFNMjZwWkNCWTZzcEwzeXg5eDNyWE82RDJhdXdnY1htQnIteGczQkZUQXNnLVVSQ21mYlJQVmc4OHdpeWJrR3hrTWlyeUJmZzFFUjROX0trak9CMnhvMmptNHJUaksxcFV5YlRRZFdMRXBLS3JIYklabkkza3Azd2hHUzJ4SkF6MEpYdWtsRFh3VEdJSHpvbEJfSUpGNFhw?oc=5"
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazBIb3BiSDA0OUlvVGc1MWN6bkUxenZJYlpJTjFFRkdvRjQ4R3VxVUVRTng4RDVMVVZnR1c1cGRsMko5WUt2RzdsUTF2bk5HeTB4V2V6QVpDQ201UnNBU2RaZ3hrbHVXd3FpMzZQdk9GTElSd21BamRDS2diYmpoakVDdjNlVlRxbDlURlQ5UWdOWVRXVFBkZjJTWE5BZ28?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ0tIc1E4Q3NBMkwyRWlLNmY1Ri1adEYzVDVZclBERlV0a3hlUlVVMFdNTGlGVnJ2NjZhQVdjQ01zbjkwWjVjTHVtYUFkRmZHazJIcTFlWThldXpiT3dld1dSNXlkYTdtQjFhaUM3aXBSN2d3WnBacjZkMjBGQU51c3pUaTFGMTNLXzV4TFRYYnTSAZYBQVVfeXFMTWpUVVVXdV9PM0tXaHp4WFE2UUF4WEctYWx0X3NSYWQ0UUs1VmtmTkhsMGVGeUdxVEY1Ri05R3g0Ym5aZWI2Y0R5WlJRdEx2N25iLVVrNm9RNXV3Y3pzaGE2a1NOOVJWT2JZWFBoTFZNeFFBTjNud1Vjc0lBMkV2UzRtZldtekRIcjRLUmhwcWl5V1FERVln?oc=5",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSGswTEJoSkJUWU1Hbi12TDQ2TlFHSlRxa3BEOGJaYWpaWGRqV0s4Z0lSOUFjdWlWVDFhaWE5YjdzeW5WYnI4cE84OFlZdVNZSTRXTHFQdWlEMHpXTFpwSGxyVC1JWDFqLURPdGROOFdJV1d3UlFNRmpWck1PQno1OHMtbHNzSXBCbVE?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdVZrZFVyRVZSZ2N3QVlKclZXbVRWTk1tbkZfdUtzQ2FWeE9yaU01OG5OYWxxbmRuVXdzZEpfSVpIM3MwUkVQOERwMzdldVlXT2plSUFWaTJUZmRjNWY1RmJycERsbkxpNVJrZ19iZ1hFWWY5elBNQzY1aVhwN1hyTE5oQUN1YWtBOFNLdzFsY0dNREdQYzVTTklYdGRxSVdwbUJnMS1aUU9WNXdVbUc1VG14czk5a3dkQVE?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "Al Jazeera",
-        "South China Morning Post",
-        "U.S. News & World Report"
+        "kare11.com",
+        "MultiState",
+        "Minnesota House of Representatives (.gov)"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "South Korean court orders retrial for ex-PM Han over martial law attempt",
-        "South Korea court orders retrial of ex-PM Han in martial law case",
-        "South Korea's Supreme Court Orders Retrial for Ex-PM Han Over His Role in Martial Law Attempt"
+        "State canvassing board certifies 2026 election, but recounts still pending",
+        "2026 State Trifecta Election Results by State",
+        "State Attorneys General | 2026 State Election Results",
+        "State Canvassing Board certifies election results; one House recount coming"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbjJicFY2eHlhellMV2lBOU5Ub0pQT01kWjV1Y1RmV0Z6alphcnU4amlYSWQtQUpPTUtFVC1RU3VZWFdKR3NXMGRmRTZtTEVWSmZhcm1tU0tMZmZsM1dwUjRGaWd5UzdDUTA5aFNUWDdZbVRsS1BDa1FVb3VkWkRBX2NyX29KYVNFOEZyQzdyREx1dDZUX1pCSWFlb2pDYUZQU0w2SGQ5cjAwcHczZC12d0tiemnSAboBQVVfeXFMTkxSSGpjUWV6b2EzM3Q3M19TZ1ZvdVlKaDV0QjZZdm0zU3NxdWtsRVZnNF93c0l4dXlSRW9sR2c0N052TldpWjRvcTRFYlFaS1JybXBZREgtOUhubk14TWxGZEF3NnNEcG1GU2txdVNqYzV4THJJM1U5ZlBFUGN6NnYwbUc3YVJncEtRcDEwbUF2NjhEbThYRjRjNVNPSUhPUDFjdV9kbVR4aGF6dzQ2a29sZjBDNklrQURR?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1Q1M3liNTBwNU50OVRGY1F5eG5vR09WYWw5MlVBS2pXUXJ0R3Z5dk5mQUlDanhnVmkzcDlrdVE5U0dCbGhKZHVLZ2dNSDZpQWxxTV9WYy1sbllod0JTeXRLSm9DNGVLMXRvMjF5SDMxN0lZV1B1Q2NrZGlxUm1vQjVxUFFmNXRkR25Ob0VDdjg1ZkVSQ3c3THA3MnQ0NXBrV3FrQzhldU5MQnF3VUhFdlJCRVdjcFJ2MjVnMkFn?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSEdSLWd4X2JMUGRJZ0VjaklQWThjaTVxQVBWZU9WWmZlb1g3THJ6djBLSnhiNGd4ZHRzRWcyNkZTVGdTbENSaGd0UF9aOEh6VlpNZjhXY1Zoc0oteDRVc3F2RDdOTnE4UXBtWFRGbmJnTFJUWWUwUnI4akQyWGVXNThLYkowMFpRcGVvUDNQREU1Z2lLcVNydFRYd1g3N2g5QW9zRDVGU0FMb2xzM00tUEJVYmdjaVdqdTdkdllhX3pZaVU?oc=5"
+        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMXcwLTVKbmN0VDhYNDJnVklFbUlyX0NoSkhjMjRCN2xJYTNLZmZGRk1ab0lQT01wSWtvaVNWUFExT1pSTDQ2dEwzVzMxZ0NHN29nWGlwWDhEb1VxWVltc2RqUHgydjVBWEkwd19ZanVtYk1JYVBJWWhyS0dUT0wzajNlS3cycDJlR21YbVJvOUJKa2xLNVZmc1VUWEV6YnVVX3dMck1KenhmN1VadE9Ybk1ZSE5iLVd3dWRQSVJQRW42anhkZ3FOdmxvY2MwdUJWTGV2VmMxRjlRYVVrOEdocGdMZV85YnZIcXRuTEhnWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZS1YNlRycDdkS0xXd0dKTDhPUkdmWEFoeFUybHp3UEFndFphVjlpaFcxV1M5blY4M3RSTDNKNk85Ni1NYWwtMGY1SnZoQlJTTkM2ZTZxc3RzTEZVY3Zsa25TQWQ5RlpURGVFMk0wOFgzdVFlNUxnbTNHUFVyZHhGQ1dLTUNZUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0JhcW5LTkpfb0lnSDdlWXhRaC1qV1VoLXMzZEdDWXY4aWVUTmdQRl9TS1gwU2hhZ1BUa2drd3dkWDZObUp4Rno4aXRsekRpZnoySDNsZUEtQ2pIZWg1TGN1QVlia3dVS1BuWC1WQllXU3BLVzBIMkpadFJyRk8zOG5CVVBWdVE4YU13Zzk3Nnc?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YQzI5eHVyLUkwQmJfblBIb3FqeTdGZ1hQQjFxRDlOelBhQklwVlFoNlh3LXJHc3ppYUJzNWpPZVhmQWY5VUVpQXpmbmFQT1kzQzhUYUZRRFAwSE01NWc?oc=5"
       ]
     }
   ]
