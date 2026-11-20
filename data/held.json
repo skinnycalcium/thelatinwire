@@ -1,55 +1,61 @@
 {
-  "at": 1795181241528,
+  "at": 1795210060507,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "PV Tech",
-        "WV News",
-        "Crude Oil Prices Today | OilPrice.com",
-        "RTO Insider",
-        "Senate.gov",
-        "CNBC"
+        "WDAY Radio",
+        "SDPB",
+        "TD World",
+        "World Oil",
+        "knoxradio",
+        "National Association of Counties",
+        "WABI"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Senate passes BAAJA permitting reform bill backed by energy industry",
-        "Capito celebrates Senate passage of permitting reform bill as focus shifts to House",
-        "Senate Passes Sweeping Energy Permitting Reform Bill in 62-33 Vote",
-        "Senate Passes Permitting and Transmission Bill, Awaits House Vote",
-        "Senate Passes Bipartisan Permitting Reform Bill",
-        "Senate passes BAAJA permitting reform bill backed by AI, energy sectors"
+        "Cramer urges House to pass sweeping Senate permitting reform bill",
+        "Rounds votes no, Thune votes yes as Senate passes permitting reform bill",
+        "Senate Passes BAAJA Permitting Reform Bill",
+        "Senate passes bipartisan permitting reform bill; industry calls on House to finish the job",
+        "U.S. Senate Passes Bipartisan American Affordability and Jobs Act, Hoeven and Cramer Votes Yes on Bill",
+        "U.S. Senate passes Bipartisan American Affordability and Jobs Act",
+        "Sen. King reacts after Senate passes Bipartisan American Affordability and Jobs Act"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQTZfbGprWUcyZEwzWWJPMm8zd2ZxOU1SQVM5ci1kb20xaFJuMFZUVndNaTA0eFQ4R1ZIVW51allPaWRqQUFlanpGMWJnNU5SS3pYR19ZOXlDLVNhOV9jVy1PUDFuenVWc3RCQ2NsUG1GRjJOUWItTlBaVHJSbGNZNzhhbHFhaE1YMTNzcA?oc=5",
-        "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPY1EwMFZ5bTNKcExocXhnYjZ6Q0ZOR2YyWTJZYll3UHZZbzlXM1NyWDJoTHdfR2FVT05XZFFwNk5Td3NFNHNGcWpUcElKQXA4VGthS1U4RFIxMmFfeDJaWVVhMk52dG5VYVdPRm5Dc0E2ektCbWo5dUVuQ2gwWFI0aFprLVVQRkY4d0QtYkVCREdlTElhY2F2dTVEZVNIZTdibm1vOUZIUkUyZVp5U3p6cVhaSmExNTQ0UHp6ZDc3R3FtWGtCd3BUMDk5T1hsWTdOWFAzLXZUYV9SQi1Ham9BdGZTWGlvTmJfVXFFcjNvMFZBakgwVUdpcEpPczA?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeDR4RjQzUEdzTDJsRWdxZy11dy1hempySTdjbzFObS1uX3dwNklkd05DNkRiTDBOQ1JLd2p6M3h0aEJpYXpaUjdmQklGMlMwUEprV0NpNXBiOWFuRkxxaTV0YVNDZXE3d2hFbFp2enJUakZidURBRUktY1R5cjFjUW5RWXlWN1AtcjNnczh0eUVsRUd5ajVXQVRJcTRUSXgyaXNoQW5lZmN4Qmtnd2ZvVG9uRnVZckRSUWJROVJNVdIBxAFBVV95cUxPSFBmclRrQkNaLWNRVXljZTJuWmhFNVlxU3NmUnZtYXprNmtEa0VBZ1NsWUFIVEU0UTlrZFdaM05ReWE0Ry15U0o4X1FwWFFBRkNyeFZubTM5U1dyUktucjFQRDlyWDJWYm9jQ1p6NzlOZlNNLUI0SGE0WXB3a2pzNXFhU1prYzFWcERNbXVsaHc2bWY1bTBxOENKa0Z5UzlFSkRCWjdHQlNqR0swaXdzZ2JCTWloeDByU1cyMXJjdW02NEpK?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlJ2UmRvTVVJbkFUYkhzNUxvdVRtLVBoM0xFT2wtVW9xeGdMM19ISDVkTnd3V0YwTEhBNElCOWg5dENlRXBxN1dxS1dYUlg2OXVzbnNTUzNZMEp1Q1RGNlJiNEloTVVUb1Z3UFBkdHRXbGhFTzkyRDhmSXd6ZzJPZWtiNEh5OGk2dzlFVkpFMUlWMjE3R3QyN1hoN21xVFdtWWFiWTFKejFyZw?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT0ZoNEtqZFpIa1Y1RmY4VlJnSjVBUXlKY2RESmhqS1BzVkFweVdtd1d0bzJIUkdqTkY5RWkzbDA5YVhZSVlaekljNjhYcTI1SFVoM1NKUmQ3SmVUR1dPak85SmZNRi01R25nSGlKcEt6VEQ3T1JKX2d1UWZPc3U5U0JxS0pMQlE?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOXzE4cVR3bDhHdFdNT2I5SVd6UEMzbnRkZFJPTC1kRXdVcnFoR21XZzd0WS1MYUJyOERZTjB6MUJISTljWU54OUIweTBrSnVlM21yQzIxaEU5ZlBXb1lNektac1RJU1FTOEhSdUs3N0lBbXhEdG5LWW9ocmpvbHFMV3ItRHRlUdIBiwFBVV95cUxNMGQyeHlqS0xvQ1NhNmg1SDJzcFBvbEJwbW1FRlFVYkFUeWVib3I2ZTBadjlsQ3QzSHRzVm5CYUNGb3ktMVJ6Z0VGOENWQ2ZYcFQtbThEZFY1SmNpc2dXcEstYU9WRVU4RDFfUS1DbHRBQmZsOGs5cVhVMEhpdFJ3c1UtVDBJVFJFZE9v?oc=5"
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ2xfcFpWT0YzS2dUd2VfdVFmeWlIY0hfNTcwT3ZaMXBkTjg5YTBoZmlTSjBMY3RJclRaVVktd3dhb0Fndk5XSU40Q0pMaFVTYk5rdVM5VzlwbTQxcGQ3RHFLTzRla2JoRWMyWmN2VzhmbHcxUF9aU0tCZ2hZMVgwbUJhbXFEdkxuYUE1dmZuclRWNENMR3M2TVRkNkhxVlIyM2N4bzhvWlNfZjlMNWFnUXdHNGY?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaXpMcERqQUgyYkNUcFBDQWNFUjJpdDVNZENBZlN4OUI2OHB0aThMSTBmMWFlckxDQmZYeUhkQ0FyNTJjSkUyTjhZb2E4Tzdod3ZIWHM0ckFTMDVrV2xKTElZZmdERGFTckx3dTNBY3lGQTNwRWZTdWJaenZlQTZoOXA2UVRMRVc4RXptTHRVX2x3LTZHTGlKWFBMdDZreUlpZ1FpaWJDeVdQR3NMeG4zSTBn?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbmdtQUw3eC0tVE9VbWExQXRtS3FDVTRSZDlDRnJ2R2JDcVk2dGwzMjFWaFdLbXQ1aDFyV0tFVktuMEV5cHVHQWZuMGlmcHE1YUZyUkFZXzItOGNIdUxaY0drblpOMlQxQjhkMkhKNE0yUFFpYzlVcmNsaTF5WERhNTlyZ3k1aHo4R0Fhal9PaFBaZTN4?oc=5",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxObXpxZ2piYXRkUDVTZ1hGMWNwNWotZGkzU0VsWXoySThtbWhfSDlWSE9ZbDYxTTdNbG9tanFfaTJVMU1QUDdxQmlFNG5OUjRMUWNVckRpLXR1OHNKbW5QcDJyNEc3VV9pdktCR3VsM3lVUmZGbkJMQXh6OXpfeUd6YS11WHE1VTJiX2Q1eF96a3NETE5KanpBamE0NkhlVkVLUlBXZVpKcUUzem0wWkxrZlpfbVJ0a2NaZVl2X0ZOb29ySUQ3YnlwcnBKMA?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3bXNtN1gweEY0RmwyY2podWdmaXNBR2ZwQVh6eFVWclhWZkhhOHVBdXFranlqbWNhVkx5N20tc3BHa2lKLWt0SEV3NnI4NnVlWU5kXzI0R19JSG1fdHdXd010dw?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbm9WMEtYOUUtMFRSYUp5YUV0dHNsMW1LU1YybGhNVl93eVpKTmxESG5KZER1Z0ZOdmpfdzZJTFc4N1JKdnVtOTJpVEVEOGpoX043QXlobnotdjYxNFJyZFVwN2JiYjNXZjgxMnJWa3k3Zk9vVGpHSWs1WVdnNEV3NGQ0MWdtbTgwOEhVcEdEWnlLTXc?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGF4Vm9ZXzdMdkIyOGczc2EzSy1PdmhjVUp2MDd2YXktcnFSTU5OZGlfeFZNbjJYOGNSYm50akRMRi1BT3YyUnk4STV3cm9mS2Y1eEtMdmFTUEhSR20wTi1xUTJ2OUoxV2VRMzBXdUJqYlRQb1JXUnlWVFlGS0gxaVpYckwtUTNFZGNoYzRNZWN0clJEc2VkeHVCTzZEVjFmVHA2UGtJNWpDUDQwejdn?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "Alabama Political Reporter",
-        "Axios",
-        "The Hill"
+        "Tuscaloosa Thread",
+        "FootballScoop.com",
+        "Times-Journal",
+        "AL.com"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "House unanimously passes Palmer-backed bill to disclose federal settlements",
-        "Senate passes Trump-backed permitting bill",
-        "Senate approves key permitting reform bill, sends to House"
+        "Jeremy Pruitt's Case Dismissed by Alabama Supreme Court",
+        "Alabama Supreme Court rules on former Vols head coach Jeremy Pruitt's show cause lawsuit",
+        "Alabama Supreme Court orders dismissal of Pruitt’s $100 million NCAA lawsuit",
+        "Alabama Supreme Court dismisses Jeremy Pruitt lawsuit against NCAA"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUluYVFUam02YWVIbEhpV2RZRlZWNUdMSFlTTVVJdm1OMWhUaHFOYlp3cFlIblBmZFNtVklpbmt6NlNfTzhGRktGNHRRQ0dHZXZvV3NzbEkyRkNFYnpRQ05IbWVycGtmV3FxOGR5WDB0a0ZpWkZuQW9VSGNsS2wxdklMZXZ6ZGNZV1ptbGRUSkpITmd2bjFJWHpaNEs3M3h5bGtjSS1BNnhxLUxlaV9OTHZ1VTJDN2M?oc=5",
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NSmJSbjVyb3JJMlhfRkU0aXBFdWRsb2c3SUpMZ1ZFaVJNdHNhR3RKN18tdHpUQjNoV0xTR3JLQUNIUjA3d2xpby1WZXNXcXVZTkVYOXp1VWdXLVBqM0RHaFo1cEVvY25DakVubDdvZnY0UW1QMVBibg?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT1NJbllLQVZjTlZiNGN2ZVBfZFFIUjZKOW1UUGJpT0FCY19hazNZaWtGSmwxaXpnX0dCWmMyTmJLNUxaVGRfRDB1Zld3clpfdWtjUHNiQ1BFdTh0TG1YSTQ1VHJEd0tVT3BXY2dOVEYtRHo4RHRoMDRYVEFUQm1pQVlB0gGHAUFVX3lxTE1wbF9weDBBMW1SZnlhUkp4bVdyd0lHeGdESS1LalYwLW8tTTNqMXNzTFpZdHJISDE1dDFoX0NnN3BDejVGQ0VlOXRoOUlfaDZ4OWtTLXdXd1k1MTFlQmxNbnNOTEtqcW4tRFRZaHBXWWRGY082cDdlM2JXVXo3RS02V3g2UHQ3TQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVUdRWGJnUWEtN1BGWmswek5yenFlREdmQmtLNDFuRi1VSUx4ZGpWTWIxOThRNEJwTVpyM1AwM3VKRk9abkxNT0NaYlZoYVEzaFQ2MEk4MzRlbWNfVDVlcG1RbjZaWlhzVlNtYVNrSTdyRnpNbzZCVUpCU3pCRDhxRzVlX2Z2aXVZRmc?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxONVZXVDJuM2QtYXJxZjItaVpLbDhvYmUxRl9fM2ZSbzFlbVV6a2M2U3dwdGlyNl9sNHJlLVVSWmotZGJBNE1PWmppMkRRVldsdmJWYU1IaUVOUFZRZThYTDVRYkltVTd2MWRUQ0s0WERRWDA3SDFzbFJkdEtIeEl5VTgtQ3prMkhWMTNHMXBwY01hRThnbmRpdHdjMTBQMVdfWFdMRHVzRmN0cFowdG9QTUFn?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSDFNbEluSmhBUVlYNlVyWmFuYWJSUDhaTWlvTUN4c1l2SGZwUW9SWTJKV2lzdVlTV2hhemJKVlk3UUZBZy1QMS1GSGJmeThtQnFkMG4zUEdnbnpEUV9UcDJ0SmVDQzJ1Y0ZfU0FyMVRwcXB6ZFBDVFRQQnZJV2JoYmlHWFRMd1U?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUw5UUxjYm5wX2JodzJ4RWpxMmlaZWxmMnJ0SFVuZHN6c01VRUNVYkJPTTVVMGJhazZiV3JXb3o0MF9QUm9uakhrU3V1c1Etak9CV2h4bm9IblRBOVJOc1FKcnE0eUQ1NHlBT253ckRYN01jWXB4bFVFbl84ajNfcFp5dGRGR0dlSnR1WXJxejVwb21jQzJyZ0ptWUpsOWVKSTJjTzNBSi1HZw?oc=5"
       ]
     }
   ]
