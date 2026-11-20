@@ -1,27 +1,54 @@
 {
-  "at": 1795148491581,
+  "at": 1795181241528,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "CNBC",
-        "Roll Call",
-        "Senator Kevin Cramer of North Dakota (.gov)",
+        "PV Tech",
+        "WV News",
+        "Crude Oil Prices Today | OilPrice.com",
+        "RTO Insider",
+        "Senate.gov",
+        "CNBC"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "Senate passes BAAJA permitting reform bill backed by energy industry",
+        "Capito celebrates Senate passage of permitting reform bill as focus shifts to House",
+        "Senate Passes Sweeping Energy Permitting Reform Bill in 62-33 Vote",
+        "Senate Passes Permitting and Transmission Bill, Awaits House Vote",
+        "Senate Passes Bipartisan Permitting Reform Bill",
+        "Senate passes BAAJA permitting reform bill backed by AI, energy sectors"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQTZfbGprWUcyZEwzWWJPMm8zd2ZxOU1SQVM5ci1kb20xaFJuMFZUVndNaTA0eFQ4R1ZIVW51allPaWRqQUFlanpGMWJnNU5SS3pYR19ZOXlDLVNhOV9jVy1PUDFuenVWc3RCQ2NsUG1GRjJOUWItTlBaVHJSbGNZNzhhbHFhaE1YMTNzcA?oc=5",
+        "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPY1EwMFZ5bTNKcExocXhnYjZ6Q0ZOR2YyWTJZYll3UHZZbzlXM1NyWDJoTHdfR2FVT05XZFFwNk5Td3NFNHNGcWpUcElKQXA4VGthS1U4RFIxMmFfeDJaWVVhMk52dG5VYVdPRm5Dc0E2ektCbWo5dUVuQ2gwWFI0aFprLVVQRkY4d0QtYkVCREdlTElhY2F2dTVEZVNIZTdibm1vOUZIUkUyZVp5U3p6cVhaSmExNTQ0UHp6ZDc3R3FtWGtCd3BUMDk5T1hsWTdOWFAzLXZUYV9SQi1Ham9BdGZTWGlvTmJfVXFFcjNvMFZBakgwVUdpcEpPczA?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeDR4RjQzUEdzTDJsRWdxZy11dy1hempySTdjbzFObS1uX3dwNklkd05DNkRiTDBOQ1JLd2p6M3h0aEJpYXpaUjdmQklGMlMwUEprV0NpNXBiOWFuRkxxaTV0YVNDZXE3d2hFbFp2enJUakZidURBRUktY1R5cjFjUW5RWXlWN1AtcjNnczh0eUVsRUd5ajVXQVRJcTRUSXgyaXNoQW5lZmN4Qmtnd2ZvVG9uRnVZckRSUWJROVJNVdIBxAFBVV95cUxPSFBmclRrQkNaLWNRVXljZTJuWmhFNVlxU3NmUnZtYXprNmtEa0VBZ1NsWUFIVEU0UTlrZFdaM05ReWE0Ry15U0o4X1FwWFFBRkNyeFZubTM5U1dyUktucjFQRDlyWDJWYm9jQ1p6NzlOZlNNLUI0SGE0WXB3a2pzNXFhU1prYzFWcERNbXVsaHc2bWY1bTBxOENKa0Z5UzlFSkRCWjdHQlNqR0swaXdzZ2JCTWloeDByU1cyMXJjdW02NEpK?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlJ2UmRvTVVJbkFUYkhzNUxvdVRtLVBoM0xFT2wtVW9xeGdMM19ISDVkTnd3V0YwTEhBNElCOWg5dENlRXBxN1dxS1dYUlg2OXVzbnNTUzNZMEp1Q1RGNlJiNEloTVVUb1Z3UFBkdHRXbGhFTzkyRDhmSXd6ZzJPZWtiNEh5OGk2dzlFVkpFMUlWMjE3R3QyN1hoN21xVFdtWWFiWTFKejFyZw?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT0ZoNEtqZFpIa1Y1RmY4VlJnSjVBUXlKY2RESmhqS1BzVkFweVdtd1d0bzJIUkdqTkY5RWkzbDA5YVhZSVlaekljNjhYcTI1SFVoM1NKUmQ3SmVUR1dPak85SmZNRi01R25nSGlKcEt6VEQ3T1JKX2d1UWZPc3U5U0JxS0pMQlE?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOXzE4cVR3bDhHdFdNT2I5SVd6UEMzbnRkZFJPTC1kRXdVcnFoR21XZzd0WS1MYUJyOERZTjB6MUJISTljWU54OUIweTBrSnVlM21yQzIxaEU5ZlBXb1lNektac1RJU1FTOEhSdUs3N0lBbXhEdG5LWW9ocmpvbHFMV3ItRHRlUdIBiwFBVV95cUxNMGQyeHlqS0xvQ1NhNmg1SDJzcFBvbEJwbW1FRlFVYkFUeWVib3I2ZTBadjlsQ3QzSHRzVm5CYUNGb3ktMVJ6Z0VGOENWQ2ZYcFQtbThEZFY1SmNpc2dXcEstYU9WRVU4RDFfUS1DbHRBQmZsOGs5cVhVMEhpdFJ3c1UtVDBJVFJFZE9v?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Alabama Political Reporter",
+        "Axios",
         "The Hill"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
-        "Sweeping permitting overhaul passes Senate, on to House",
-        "Senate Passes Permitting Reform to Unleash North Dakota Energy, Infrastructure Development",
+        "House unanimously passes Palmer-backed bill to disclose federal settlements",
+        "Senate passes Trump-backed permitting bill",
         "Senate approves key permitting reform bill, sends to House"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOXzE4cVR3bDhHdFdNT2I5SVd6UEMzbnRkZFJPTC1kRXdVcnFoR21XZzd0WS1MYUJyOERZTjB6MUJISTljWU54OUIweTBrSnVlM21yQzIxaEU5ZlBXb1lNektac1RJU1FTOEhSdUs3N0lBbXhEdG5LWW9ocmpvbHFMV3ItRHRlUdIBiwFBVV95cUxNMGQyeHlqS0xvQ1NhNmg1SDJzcFBvbEJwbW1FRlFVYkFUeWVib3I2ZTBadjlsQ3QzSHRzVm5CYUNGb3ktMVJ6Z0VGOENWQ2ZYcFQtbThEZFY1SmNpc2dXcEstYU9WRVU4RDFfUS1DbHRBQmZsOGs5cVhVMEhpdFJ3c1UtVDBJVFJFZE9v?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOFd1T1pRc3QwM19YZzUtMDk3SUhGOGZ5NUlnTkh6M2JNS0tZQjJOckxqRUw4SG5tb0FWRlRTZ3NXcTlZMThWdm5Db1F2N19OMW1KWXBLODFQbGpvRVA3VE5LUzQ4N2N2Yll2ejNpcl80NHVIRUpDdDl6UFVvQUNHV2dFNEJlUGFoTVFSamVERUNSamM?oc=5",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRG5nWjV4aU5hVS1vSERhdUQtYVpBVVpiTFdqTGpuYTFxT2g2RDdmYjdWRF9yemdzbVVEZ2UwVUlaM3RleWd0RmNXTWJYS0NrWWlnLUEyY1haT1Y1aVlCZGo5Zk5HRlBDVVREY0plV2hzVHhJZ2QwUFgyQUp3bHJSaWVPRmlZNk55eHN4c2Y1RF9GUmV6MGNBMk9LWHZWNnlnYWQyR01GVzNBV0VVWGRFRm1qRVFDTGFpODV3cHpzMWxpb1ppQzNHQ0VjcWx1N2FhSVcyZm93?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUluYVFUam02YWVIbEhpV2RZRlZWNUdMSFlTTVVJdm1OMWhUaHFOYlp3cFlIblBmZFNtVklpbmt6NlNfTzhGRktGNHRRQ0dHZXZvV3NzbEkyRkNFYnpRQ05IbWVycGtmV3FxOGR5WDB0a0ZpWkZuQW9VSGNsS2wxdklMZXZ6ZGNZV1ptbGRUSkpITmd2bjFJWHpaNEs3M3h5bGtjSS1BNnhxLUxlaV9OTHZ1VTJDN2M?oc=5",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NSmJSbjVyb3JJMlhfRkU0aXBFdWRsb2c3SUpMZ1ZFaVJNdHNhR3RKN18tdHpUQjNoV0xTR3JLQUNIUjA3d2xpby1WZXNXcXVZTkVYOXp1VWdXLVBqM0RHaFo1cEVvY25DakVubDdvZnY0UW1QMVBibg?oc=5",
         "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT1NJbllLQVZjTlZiNGN2ZVBfZFFIUjZKOW1UUGJpT0FCY19hazNZaWtGSmwxaXpnX0dCWmMyTmJLNUxaVGRfRDB1Zld3clpfdWtjUHNiQ1BFdTh0TG1YSTQ1VHJEd0tVT3BXY2dOVEYtRHo4RHRoMDRYVEFUQm1pQVlB0gGHAUFVX3lxTE1wbF9weDBBMW1SZnlhUkp4bVdyd0lHeGdESS1LalYwLW8tTTNqMXNzTFpZdHJISDE1dDFoX0NnN3BDejVGQ0VlOXRoOUlfaDZ4OWtTLXdXd1k1MTFlQmxNbnNOTEtqcW4tRFRZaHBXWWRGY082cDdlM2JXVXo3RS02V3g2UHQ3TQ?oc=5"
       ]
     }
