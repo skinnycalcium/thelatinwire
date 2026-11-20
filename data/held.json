@@ -1,51 +1,28 @@
 {
-  "at": 1795131731200,
+  "at": 1795148491581,
   "held": [
     {
       "section": "politics",
       "outlets": [
+        "CNBC",
         "Roll Call",
-        "Middle East Monitor",
-        "Anadolu Ajansı",
-        "C-SPAN"
+        "Senator Kevin Cramer of North Dakota (.gov)",
+        "The Hill"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Iran resolution blocked in first war powers vote since midterms",
-        "US Senate blocks Iran war powers resolution",
-        "US Senate blocks Iran war powers resolution",
-        "Senate Blocks War Powers Resolution to Halt Military Action Against Iran"
+        "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+        "Sweeping permitting overhaul passes Senate, on to House",
+        "Senate Passes Permitting Reform to Unleash North Dakota Energy, Infrastructure Development",
+        "Senate approves key permitting reform bill, sends to House"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazBIb3BiSDA0OUlvVGc1MWN6bkUxenZJYlpJTjFFRkdvRjQ4R3VxVUVRTng4RDVMVVZnR1c1cGRsMko5WUt2RzdsUTF2bk5HeTB4V2V6QVpDQ201UnNBU2RaZ3hrbHVXd3FpMzZQdk9GTElSd21BamRDS2diYmpoakVDdjNlVlRxbDlURlQ5UWdOWVRXVFBkZjJTWE5BZ28?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ0tIc1E4Q3NBMkwyRWlLNmY1Ri1adEYzVDVZclBERlV0a3hlUlVVMFdNTGlGVnJ2NjZhQVdjQ01zbjkwWjVjTHVtYUFkRmZHazJIcTFlWThldXpiT3dld1dSNXlkYTdtQjFhaUM3aXBSN2d3WnBacjZkMjBGQU51c3pUaTFGMTNLXzV4TFRYYnTSAZYBQVVfeXFMTWpUVVVXdV9PM0tXaHp4WFE2UUF4WEctYWx0X3NSYWQ0UUs1VmtmTkhsMGVGeUdxVEY1Ri05R3g0Ym5aZWI2Y0R5WlJRdEx2N25iLVVrNm9RNXV3Y3pzaGE2a1NOOVJWT2JZWFBoTFZNeFFBTjNud1Vjc0lBMkV2UzRtZldtekRIcjRLUmhwcWl5V1FERVln?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSGswTEJoSkJUWU1Hbi12TDQ2TlFHSlRxa3BEOGJaYWpaWGRqV0s4Z0lSOUFjdWlWVDFhaWE5YjdzeW5WYnI4cE84OFlZdVNZSTRXTHFQdWlEMHpXTFpwSGxyVC1JWDFqLURPdGROOFdJV1d3UlFNRmpWck1PQno1OHMtbHNzSXBCbVE?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdVZrZFVyRVZSZ2N3QVlKclZXbVRWTk1tbkZfdUtzQ2FWeE9yaU01OG5OYWxxbmRuVXdzZEpfSVpIM3MwUkVQOERwMzdldVlXT2plSUFWaTJUZmRjNWY1RmJycERsbkxpNVJrZ19iZ1hFWWY5elBNQzY1aVhwN1hyTE5oQUN1YWtBOFNLdzFsY0dNREdQYzVTTklYdGRxSVdwbUJnMS1aUU9WNXdVbUc1VG14czk5a3dkQVE?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "kare11.com",
-        "MultiState",
-        "Minnesota House of Representatives (.gov)"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "State canvassing board certifies 2026 election, but recounts still pending",
-        "2026 State Trifecta Election Results by State",
-        "State Attorneys General | 2026 State Election Results",
-        "State Canvassing Board certifies election results; one House recount coming"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMXcwLTVKbmN0VDhYNDJnVklFbUlyX0NoSkhjMjRCN2xJYTNLZmZGRk1ab0lQT01wSWtvaVNWUFExT1pSTDQ2dEwzVzMxZ0NHN29nWGlwWDhEb1VxWVltc2RqUHgydjVBWEkwd19ZanVtYk1JYVBJWWhyS0dUT0wzajNlS3cycDJlR21YbVJvOUJKa2xLNVZmc1VUWEV6YnVVX3dMck1KenhmN1VadE9Ybk1ZSE5iLVd3dWRQSVJQRW42anhkZ3FOdmxvY2MwdUJWTGV2VmMxRjlRYVVrOEdocGdMZV85YnZIcXRuTEhnWQ?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZS1YNlRycDdkS0xXd0dKTDhPUkdmWEFoeFUybHp3UEFndFphVjlpaFcxV1M5blY4M3RSTDNKNk85Ni1NYWwtMGY1SnZoQlJTTkM2ZTZxc3RzTEZVY3Zsa25TQWQ5RlpURGVFMk0wOFgzdVFlNUxnbTNHUFVyZHhGQ1dLTUNZUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0JhcW5LTkpfb0lnSDdlWXhRaC1qV1VoLXMzZEdDWXY4aWVUTmdQRl9TS1gwU2hhZ1BUa2drd3dkWDZObUp4Rno4aXRsekRpZnoySDNsZUEtQ2pIZWg1TGN1QVlia3dVS1BuWC1WQllXU3BLVzBIMkpadFJyRk8zOG5CVVBWdVE4YU13Zzk3Nnc?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YQzI5eHVyLUkwQmJfblBIb3FqeTdGZ1hQQjFxRDlOelBhQklwVlFoNlh3LXJHc3ppYUJzNWpPZVhmQWY5VUVpQXpmbmFQT1kzQzhUYUZRRFAwSE01NWc?oc=5"
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOXzE4cVR3bDhHdFdNT2I5SVd6UEMzbnRkZFJPTC1kRXdVcnFoR21XZzd0WS1MYUJyOERZTjB6MUJISTljWU54OUIweTBrSnVlM21yQzIxaEU5ZlBXb1lNektac1RJU1FTOEhSdUs3N0lBbXhEdG5LWW9ocmpvbHFMV3ItRHRlUdIBiwFBVV95cUxNMGQyeHlqS0xvQ1NhNmg1SDJzcFBvbEJwbW1FRlFVYkFUeWVib3I2ZTBadjlsQ3QzSHRzVm5CYUNGb3ktMVJ6Z0VGOENWQ2ZYcFQtbThEZFY1SmNpc2dXcEstYU9WRVU4RDFfUS1DbHRBQmZsOGs5cVhVMEhpdFJ3c1UtVDBJVFJFZE9v?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOFd1T1pRc3QwM19YZzUtMDk3SUhGOGZ5NUlnTkh6M2JNS0tZQjJOckxqRUw4SG5tb0FWRlRTZ3NXcTlZMThWdm5Db1F2N19OMW1KWXBLODFQbGpvRVA3VE5LUzQ4N2N2Yll2ejNpcl80NHVIRUpDdDl6UFVvQUNHV2dFNEJlUGFoTVFSamVERUNSamM?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRG5nWjV4aU5hVS1vSERhdUQtYVpBVVpiTFdqTGpuYTFxT2g2RDdmYjdWRF9yemdzbVVEZ2UwVUlaM3RleWd0RmNXTWJYS0NrWWlnLUEyY1haT1Y1aVlCZGo5Zk5HRlBDVVREY0plV2hzVHhJZ2QwUFgyQUp3bHJSaWVPRmlZNk55eHN4c2Y1RF9GUmV6MGNBMk9LWHZWNnlnYWQyR01GVzNBV0VVWGRFRm1qRVFDTGFpODV3cHpzMWxpb1ppQzNHQ0VjcWx1N2FhSVcyZm93?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT1NJbllLQVZjTlZiNGN2ZVBfZFFIUjZKOW1UUGJpT0FCY19hazNZaWtGSmwxaXpnX0dCWmMyTmJLNUxaVGRfRDB1Zld3clpfdWtjUHNiQ1BFdTh0TG1YSTQ1VHJEd0tVT3BXY2dOVEYtRHo4RHRoMDRYVEFUQm1pQVlB0gGHAUFVX3lxTE1wbF9weDBBMW1SZnlhUkp4bVdyd0lHeGdESS1LalYwLW8tTTNqMXNzTFpZdHJISDE1dDFoX0NnN3BDejVGQ0VlOXRoOUlfaDZ4OWtTLXdXd1k1MTFlQmxNbnNOTEtqcW4tRFRZaHBXWWRGY082cDdlM2JXVXo3RS02V3g2UHQ3TQ?oc=5"
       ]
     }
   ]
