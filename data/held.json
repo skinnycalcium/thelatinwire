@@ -1,115 +1,25 @@
 {
-  "at": 1795342812679,
+  "at": 1795370309461,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "RTE.ie",
-        "Modern Ghana",
-        "NDTV",
-        "livetube.tv",
-        "Shoreline Media Group",
-        "News-Press NOW",
-        "Ottumwa Courier",
-        "Anchorage Daily News",
-        "The Sun Chronicle"
+        "The South Shore Press",
+        "voz.us",
+        "immigration-analytics.com"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "11 killed in Mexico violence after cartel leader arrest",
-        "Cartel members torch vehicles after 'Chapo Isidro' arrest in Mexico",
-        "Mexico Drug Cartel | First Footage Of 'Chapo Isidro' After Arrest In Major Sinaloa Cartel Operation",
-        "Video: Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
-        "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
-        "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
-        "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
-        "Mexico detains top cartel boss ‘El Chapo Isidro,’ setting off deadly burst of violence in Sinaloa",
-        "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa"
+        "Trump Signs Order Requiring Contractors to Alert White House on Congressional Requests",
+        "Trump Signs an Executive Order on White House Contractors",
+        "ICE Detention Contractors Must Report Congress Requests to White House"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jeWxxM0REejVyMWdyakRvRjE3MklnZTVCOVQ4V2V1aHViLV9WWUtJa2JpREhBMkk5U3FHd2dOQklDaTdQNzhUMzRpRXZZZWVhOGVuSnBDX3lQeW16cUo0c3J4eUtqSkF5bDI2YnhB?oc=5",
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mZTNlWUQ2R2IwVXh5Q19BT0U1cUljMFZaeW83UjE3d3gzc0pTVlIzR3hncEt2R2VxdlVwdDV0U1hTS3BLRDZVNXpldVFPY0RnOFk5YXFud1lPaWZpMFNlLdIBXEFVX3lxTE9hSjk3elBORW41WHpVQVdPTkhFWkk1U2hGZEd0OUpNY2t3ZWNtcXphdkczb1hCNk5aejlaSU8zZFdjSXRaQzM3S09ldG43alMwZ21JSWxqZHE3WDM5?oc=5",
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTy0yRDJRdnh0Y1lHNmNhb2R3S0Y5My1wa1loTmIxdDdTbTR3Q0JkZXgtSURWbnVJcFdGRFRWVWl0U2tLSFM1Tm9STjRlRlJWdTVMMWdtSklTaWJHOHg5Uy1HQTRLb3NkN1M5UHRYaFN0MmU1Z05FYW15eU1RMWRZTXpDdm43WDBMRVZZMUdTcEZEbUdtNU9ZcE4zbnoxbkNLVTIzbnh2T25ZdDNJa3VPbVVXQjdIUFRjS0RlcTlxMnJSSE5DZ1dMbFR3dw?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVkUwRmNsMHJ0elEwdWdGZnJwZ3psc2NwOGdodGZ3d3FGTmxLZTlrOWw1eFE4MXpNeHBUX2hlWkRVTXp4LWw3bzJmWUVfV1dpZGp0TkdmVUYyYkdQSGRQWFpXY1cxTGxUb2JKbUhRb1FXaHh3MVVTYWw3NTFRREhybjBrN2dod0NtTXVmbldfak5XR0xZSGNtSmxCX3hPZ1QwOWhhRmdRWHJqX0FMd3g4bXRySTZHVzVfbUQzOUJ1RndlUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMilwJBVV95cUxQWndKcXktVjdyeFRJelUyYURkSnRiaEttVWhkWjl3cUw3MEJmdVctZlp1TkVETVoyakl6TGpra0xIc0xmLWk1WF82VW1Ud04tOHUtVHNveThGc0tibzNXUGV6Z2w3QnBvUndmd1JqU3FlMkhsVU9lNzhpaGlfLTA3bTR2YXZFYVNuNlYtQlZxRFJZbVVqVVpmY2xIbl9BNzBQNlhBenh4cmtTTmF2WFJJcXRORG1CVnlMcDFKMVZvemNwbFpQaC1mUEpSd1RPZjZYUmVsVTFwRjNEdzJIQUFUdUpGYUluOHFZcTJ3QzhRMlVjNUthRExfNVhNSDlVb0VxenFwZnZmS2g0TmVPUkFrSk5KeTNXLWc?oc=5",
-        "https://news.google.com/rss/articles/CBMihwJBVV95cUxOV2p2S2tfRV9SaGRfMXBVS2Zndkt3YlJtaGZpSmJsLUxsTXFmWG44YkpoTlBCcEc3NzhTTFZIc1BGR3lTTndyNTY1OW5XeXVWZkJkZTdxMC12V3FpbHUxTm5EbFB4OTdsckN3aDY1V0ljSXBPTjg4Q0w5ZThFTzRjVmVMbWF0QzMxWlN0YXdEblVJSzlvbFByTU9RR2RRRTFjTDJOS0VjM2t0Nlp1S3dJNnprdUF4T1dpbnRyS3ZHWlBEOVQxVHpzNmplYW0zS0MxZVVaa0hWN2JBOFUtUlcyNHRPZ1c4ZGlUQmZpUWh0Wl9veDcyMlBkbDZHQ3hLM19xbjdWUEZvQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMijgJBVV95cUxQd0cyTk52S0xwSVRoZjF1bWI5VzVUd2ppU0NPbkVVVlFTMWVXSDR6bm44YzZyN0dwRzBaUkN6c1dDejhsVW92aWU5WURsaV91d0RBWGgzTkRCeVZld3NTSExFZmVHM1JWc05XYVJLNDhDcDV3OEZRVGZpXzZIb00xTDVSbzZxbDRvd3Z6MzFoQ1NIanZVSmFRQWJoemhKaUNPNDdNWWU5VzFoYTNxRkVKbXI0UHlLd25Ta2JGeUhIOWNMMUg4UXRnNXRZY2JFSGJyYWg0SWc5N3VwbjBtVXMwR0V6aDFxcjVXQm1SbVltS2Q4NkNsbnh3eDZOODJGSEg2U0VWME40VG1QWmJuVnc?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX1dsV3A1UDR1aGJnUk9JUEl3a3k4Y0ZDcy1sN2NJZDBNanNxZ3JTT2JIUWlBY0ZIYWc2YnR4VXhSbHhvUURTQ09RUXlSbkxyQmdmWnMxd1RXY0tuVnhUQml4Y05XbUVWZDJ3Tkh2YlZqdXk5T1AwekxJNDFPaXVlTWlBYUQxR1NfYkw5YjYyc2RVNWRYaU9YcFFjWEtFazZxR2p6cHJmaTlKNk1yb1pVUnRFYVlpNk10SFZzRWluVDlCZnh5Q0QxR3ZvalY?oc=5",
-        "https://news.google.com/rss/articles/CBMilgJBVV95cUxOLU01bXFkazZseGdtbkt0c0VEUFEtZ1ZRWHFhWHJTY0REbjdIN0VyYVM4QnA2a1dnVUx1MlZfcWFhSHMyWDItV3lFc3VBN1E2ejlKVkFDYTV6aHVsNGF6RURBM1p4S21WekxESmRVYV9GV3B6T1M4NlhYMGplZ1NBbTBxNmpwOTh5TjI0R3ZHaUJLOTZ6M2VXVTdES1h0Wlh0Y2NZU1hGcVFZbHhJZ2tuOFk2RDh0THlDWTlWTlBIaTR4azBaSFM5RVM0UEo1Um53czktenB0Yy1tSXdLWGtxR0dWLVhPdHNlVXZ4c1JvMHpwWER4VERRNjNzQkpWb2tRNGJsbkQxamFPTm0zYmw0ZDRNQTRjQQ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Open Magazine",
-        "Telegraph India",
-        "ThePrint",
-        "Department of Justice (.gov)"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Inside Mexico’s Arrest of El Chapo Isidro, One of the FBI’s Ten Most Wanted Fugitives",
-        "Mexico captures FBI’s most-wanted cartel boss ‘El Chapo Isidro’ as firefights leave 11 dead in Sinaloa",
-        "Mexico’s top druglord ‘El Chapo Isidro’, on FBI’s 10 most wanted fugitives list, captured",
-        "Senior Leader of the Sinaloa Cartel and One of FBI’s Ten Most Wanted Fugitives Arrested in Mexico Following a Homeland Security Task Force Investigation"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZXh2ZlB4YnN3VkstTTZXWE1WR096UnRtRVk5eXhFRUI0ZU92NG9aNVh1NTBuS2FPcm5SbnBfdlJDRjZkQ2ZhY1VadGQtem9FRmU5eWx3Z1pkMWNmRGplaWtzNXRNaUVSMkFSeFZPNl9nQURGVDBHMExFRGpPWUQ5WDBNOVlPNHRhYndrWkFaZ0NRVl81N3liZ0hNYTBSa0xVdXN6dFRqbkR3YjVxZ0RrYjBFb3hOTVU?oc=5",
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSG5ZaW1WcXpqcWVWNHBvQlVmUFFaMU5BSkh1S1luclhnbVpoSHhtbTlpVldYcGlxR1YyeVRfT2xFZ3V4MjBoNWt6a3F4RTAtNmhFdnhWOVVlYVRONDVMVTBUcXplNUpEaGxhazZmR1R2bDlIc25YdkJQNmNVY0xyT192Rlk4NDRxd1FYeVdnZzFROTM4V0VNX1otczN4MjVuN0R6RERnWnN3Wjdfck5yQURtMVlJSklXLVkxVnVJZkVQcjZ5WDFoY3dKUi1LVXE4dlN1ZHhxb1pNaVI2VTZzUm1jQmlzY0Jm0gHuAUFVX3lxTFBvLWFWOFh6NXVoblJyMzBVd28td3h5NlQ4SXBzbGFFakJybDdwcFFBTzREUml2WG8xVmFsMHNiS29xY3VXaTZ3cXhmOHVmOTgyMXFuUlBRR1NpcU9TSXZnc0U1dXBkT0xjMnJfU0g1clZ1a0w1bnBma0x1RWtLTmc4UGstWDFadkJtN212ODg4aE5FTlc2cy1tYVE0bEppbW9RRllvdno1c1ljLXFwb2NidnJSV0Z0TlJuRWxPNW96VklTdkp1bG4wbDBxSkFSd3NnOXVjN3ZBZ2JMVG5yQTBQM0gtS05DTzktNktyWXc?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOFFCR0xfTkg4Qm1uZzFJZF85OUY2VnpJR1BRUnhQZnpPVktlUWE3RjBjODJLc2dHN3NraEZaZERIMm1DX0otMjAtRWhjVUExeGxGQUZTMDF5ekpLVF93LUFMWG1LNHh4ZXJVN0hyczZpRG0wYWlPa1d5Y2hvclMtWGR3X0ltcVVpbTkxQndmRWhRX1pFTl9TNEthQkFSc0ZOcjFJQkpfSVVIOEZUNlRSdEZvXzRZb0RjdEHSAb8BQVVfeXFMTkZocW8zUVFCb1oxaHFZb0dCTENaZGZPeDNEVXEzT0VvN2hGaUNnYVl3UTF5U2pGUXp0OGdsT0E1cEZSZl9YOU9hWmlRMDN1WDk4VWZGcUhFaENoTnMyZHBqLWRyZFpILWhzX2lSN1ZsZmt5TkROWHhTbF93T3NSN2VmSGFTN0NaNWVjWjlHdVozc044bUdTRVF3LUVpOUJPbVJHbmZIWGV4SzBtbUVDVnFTN3ZlOE9jaURTQ1J3bHc?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQmRudy1oQzNudnF1Qm9pWlRYandWazY5RWJpRkIzdmg0RjJxd3A1QzllZmZWbEtNdnlIR0ZYMFBHSVdtMVd2ZlJMcHpxaWItaV9takNNNnMzTTR4bmhDZUEzZ2huQ29rR1UweU9ZOWJUVTlpMWhzUm1uWUQ3alA3ckhzdFd6U1hFLWlnV2NScHRyalhrYTVJMm96eVMteFZlUXlOcF80dWJWWjdMOFBtY19XcjI?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "The Times of India",
-        "ANI News",
-        "TelegraphHerald.com",
-        "WV News"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "US issues security alert for Americans in Mexico after cartel violence, road blockades",
-        "US issues security alert for Americans in Mexico after cartel violence, road blockades in Sinaloa",
-        "Mexico Cartel Violence",
-        "Mexico Cartel Violence"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWDcwcmVLc3YyT3N5bllmRVVzN0hCbzkyTHVua2c3MHNESGF6TlNxSkhmQm9oUUVraWdhVjFOVmotcFBraUs0M0JFaVZSVWJFeHNiV1F1Mm1ERk9hTDZ6NjlndzhNc3ZZLUx3YXY1YXltQ0RGX0ZEUGdrdFQtMnQ5UFZHTTNtM2taRjZkM25odnk0XzAxMGpIOEpFSlJfM2Z6MHRXb0JiNjRQSGdpeXgyUmU3c2o0VG9aMXhVX0VYM1B6bzdIV3VHMFduNXVaYm16alVkTXhZdndPSTMzWnlrWGd0Qjd5Smlsano2atIB8gFBVV95cUxNemd1UzJnb2RjdlpfaVlFRlBsRzZSWFhUTlhGVGlZNUhmRVVxQ2haWnNab3lKaFdKZDFCQUlUd1RWbzlTaGZDZ1F0cmNyZFpaR0swMU1LQmdQNTlMMGN1RE4tOUpJaXRGZWNxYWVCamFjYndVSUNBTU1RRjVWV0dGSWZyOV9EeDgxTTVlcnY3TERKcV9uMmtCNk42cnRYeTdXRDRSdHNyYzV2NUtTdXJpQmQ3Y0RlY1FmNWJwM3ZsdVM4dHpzT3RJV2Q3bG9YOG55b0h3V21mVzFscTg3Qks4OUxUSFo5UngydG41VUlXaEwtZw?oc=5",
-        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONGdZRlJsTGFVYzhHYnlKME85bFU1NDBxNWJDS1J4elBheHh3UXhPZ1NNV2ZQQmFORTl0M2h4MVZaTzA2b0pjWnVjcFdyY3RSNUZZaFkyNGtjS09YNlROU2NLb0UxUkk5V0Q2QTlRdmFwS3pCYkdOdy1pVWNkc3N2VmFJcTc0S2NYbjg2Mk02MVNCTE9kaDNhU3RYanE0M0FGY010dzdUVXMxREdGRzctQ25yZGdRUlRDaTZsYTYtWHk5M1lYTDFYMFNHZFlkeXEyYU5rTFBvdllZRW9Vc0Y1Q1V1UTRlZw?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb0JpcGZFbDVjXzhmUkZnc0wyTzJHa3BsZ015ZUtROFA4bjZZWl9FWnVHbjhyeFBhOXhwSlM2NktKRTdYek5fM2dMQ1NjMU1kQllFd0FuNzkyTlN2bGFIMWpkRC02S0dhZVFtc25seDhXZHpndGRRWDdYZE5laTU3ODB1b08wQ1hVV3Z5UUlsczh4ZWgxMzhoYQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXNfbnpOaUpIVFI2TGJaNFd5M0R1VkxaTlJyQVE0WTMxalRvbXVGM3puMXcxaklSQjdGU3VvOHAyRTdQR0NIeGdEQU91SWVkOVlKcThBaHpPdjdlZmdUUE92RXBSc0xkamw3ZGdSVkExUXhHdmwyazlTN1VVVjg1LWhnNzR2dmRzczRQVXpLUHlkTWt4TmpaLWNlX1I0NXlYQUplRVNmYkw?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Al Jazeera",
-        "Yahoo",
-        "Castanet",
-        "The Bakersfield Californian"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Eleven killed in burst of violence during Mexican cartel leader’s capture",
-        "Eleven killed in Mexico violence after arrest of cartel leader",
-        "11 killed in burst of violence in northern Mexico after capture of cartel leader",
-        "11 killed in burst of violence in northern Mexico after capture of cartel leader"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamNOMXJXUnhxN2ZLeTNlekdQelVXYm1Va004b01XWm10MTdsdlRDUTNNeGNhVkx0RXd3NE5SQVo3TGM4ZXNwbkF4SkRfWVpFTmd3djdRajdmcDJwUUE3Y0EzcFk5d0NXbl9WYjJoM3lMVUVYYWF5NXdXVTdwTVFxQzc5ckozZWV2ZTNGcm1nejg0ZDlEMmYwRFNmQmNuOGVUY0RYd1BXc1lMenJEMWd1YWpaaS3SAboBQVVfeXFMT3RBQmVhWmJ0VnIwQzZyaGxhajZYSzhrdXo1dVUteHVILXBucVluQjFXWjRMQ0VnWDJCNzJYLWs0b1Z0N1VYRzd3VDZJbGloV0dGOVowNkVFSER3UlJkelkzaTREaV9tTHVRNll3VEt0a0I1RFNiemFaTDFOTXV5TS1FSUpZWlE1LUh5LTF2MUFDNGw4U0h0VHMwbmhxdjRKMWNTTGR4NzZyMXVUaWRaT0MwbDgzTm1nczNB?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmtGTHFOMzUzWE9YeF9tcnJDendMRHBZZm1tTU52a19Fb2R1SXVKNlZBNTNacDZ0MFhxODJLTDctOHlVRmFkd3BKam9Ic21nN0pOYXJ1OW5VYW5oUzl1al9hRzZ6ajVDekp2Ny1DcVJ6dy1qSlhFM3E3V3RtaXBIMW12aEJieWR6U3R2aE9oUmMxVjgzR1Vybg?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbk04RVlaQngxVkdBeTkzVUhvT3hfOC15QTFUZUtIakk2UTBZOFFQU0dMNWkxa05VajAwY25mTDJEY29nbUFOT2VCYktRS0VVV281c3hqbEVkRi11U2wzbFpGNW91M0dUSVFuMHpNUFpubzdqVFRYY195WkVxM3lFRzNyenRRNkZwYmd4OU1TdzhXdThKQVgyTG9sY0R0TU43Z0s3NHlaSE1veGpKc1JMdGhTc2ZxWVZ6Z19fME5BRmw?oc=5",
-        "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORVlRRWZfRDdWMnJ0M1E1VUhhNGxBaG5xeVZTM1Y5R05tNzI3anl2Z2ZsTkVacjlTQVVoclFRQ3RvQ3lmd2J0ZlRhLTJxT2RHNEJyLWdqRVhoOUcyTXR5V1NpU2kzZTRJX2lDTE5OR3BpUnFFZmdVRFJhcHNYbnN0YlI2bnZlcXBZTDFzcHYzbUZjc3pkZ19oQU9MZGJiSUVFSDJaa0luSnU5ak1TSU1lQWVRTHd4ejV1UGU5VFlsN3NKODQybGNXcmRsc1c2VURWZm13MG96T1ZMZFozTEpSSDY5eFpjMHhiTDFfMGFZSjdIMmRFUXZMX2RHRjZZQXM?oc=5"
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2RyVWM4SV9nYTk4dDVCYUd6d20tajhCbEstN04wOXRsSElRSGNlamdwZjJIQnNwMmk0a3Z0WXBQMzBFSGMtdlpvREN0cUJSZHQ5eWFrNXNuQlhycmhpTXdadHV5aWtsd1N4ZFpIZlRRaV9icVJsOGtpY00teEd5bkQ2Yk5MMDAxcFA4TWxnTnRIbHo1VTFGanhDakx1S2dtSDJaWFJpMDhvUDVOcnlBNVlEQVBIeVRiUXFCZHBRTmhZTktaTnBMNXlR?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeTlSSWFYRjhYSXgwcXc0VzNaWlV4QmczV1pVRGFyOXB6cnpoY3pTYkFzdC1MZ0dpVUVuOC0tR2M3RlBjUjhWVFB3dkFOY3U2TGEwV1k4U2dIbjJfMTJSZjdrUU1ULVpCWk82enNrZWNfYVdLOUZyblBJcUE0anZOQ3ZGRnhPbzNaWGJSQnduRzU3clhuN1I3RFpWX2JxcnpCUzFwaDZIMWd6UHVSR3pxcE9qb0V4VGZHR05NWU5OS1BPZkxhOXY0VGpRS2hMWmktenY0?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFlpNXVlaV9LX2tRc0hqT19NVzRGX0Jwc3Q0dFoyb1FVY19YN1dqcGVxTDVRcVVqampUNF9Gci1XU1VxaktydHhvNXNEYmlwNi1NZHNYSkQ2bG1hZktqbGRBRXVIV1NOVS1NZXZ3MVlwTzRTV0R4N0VDWmN1dTZqSlNDRjFWMm5fNmZQMERjZm0wcHExTGJiOENzSQ?oc=5"
       ]
     }
   ]
