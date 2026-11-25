@@ -1,84 +1,11 @@
 {
-  "at": 1795559245968,
+  "at": 1795582785455,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "TMJ4 News",
-        "Scripps News",
-        "WMAR 2 News Baltimore",
-        "KTVQ",
-        "KPAX News",
-        "Tampa Bay 28",
-        "10News.com"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "How Latino voters in South Texas turned a GOP redistricting strategy upside down",
-        "How Latino voters in South Texas turned a GOP redistricting strategy upside down",
-        "How Latino voters in South Texas turned a GOP redistricting strategy upside down",
-        "How Latino voters in South Texas turned a GOP redistricting strategy upside down",
-        "How Latino voters in South Texas turned a GOP redistricting strategy upside down",
-        "How Latino voters in South Texas turned a GOP redistricting strategy upside down",
-        "How Latino voters in South Texas turned a GOP redistricting strategy upside down"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSWRVUDFrbzlXM05FaThYdXhYMUREdmNiZFJFUG9GWkNQY2x3UlNvSTJ2eXJCRGNQN2dVdjRQZ19ORGJycGxJRXhYVHBBOFhOMS1GRmhta1JMZ3JWaFZmWXBncVNUZVdaZXNZWGNKOWUwSkdqUUtmSGtIVU5SN194OGhHUm0takxHSE9mTVcxbXBXRmx2MzFja0Z0enp6UTdhNEVvTGtVbzBMRUNtMEItY3lEQWpVOTNCMTFYT25RRG9hMG5mS29RbVBEOA?oc=5",
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTXBSUlQweS03UE1xOGlEZ095OXhvR1oxUmQ3c0JDQUNKUWpXdXotM0pESjNrMGxibXhjSF9SMFc5ZGJfalU2RFIycG00ZnhIZFNFS19JMm1fXzZ1S09pZV95NU95VTl5cDZSbS01d2luU1V4WFNjYnFqWkdPUFc2MFlhcDlZVlIyVGpsMnVTWW1nNkV6eWY2cmt6UjNEdmxqSGwwN1QzOWNBX25jaEZvc0dxZUJTazVp?oc=5",
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa1Y3bzQ4eWhsNGJxanpUUURtSkNWRVVJWDJsek1iMEZJam9uOFA4cHFUWXA1eURTaFEzaFFzSms1S0tRSm9sRTFjMmhCRzlCb0xUSkVxZ1pnMTZmbGhNUnZuRGpxb3RWOXZMczExWmNwOTVGSlctM28zR2pWaXRwWXhYWnhQOXFHT2lENTB5U2Nab3FyZk1CSS1YODdla1JaamVQelhfTmFlWl9HbTBXZENfVWxoTkNuWEdDdld5WTdmRzFDZG80NWVjYmhhZkJ0ckE?oc=5",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUlJJRTN0NE9GcmJWMWxhRGhzQXoxMjFsNGQ1LVA1Xy11dHVPZjBJODk5TDFCNDBFc0d5T25zR0syeTMzalAxTGV2RWxNSWtQWW5LWU9jRm9ST1VkRy1hNVFJSlZJTFMyMlVxLXhWSHBmTnNLWmJPTWdadDRaOU44ZHQxLXE1MHI5TzFfTm1HOUdaNXg2b0NLdVRzbFZxTDdxYzh0ZVVfRUt0ZnU5eGY5SnNrZW5kWGtpNnlaVFlXcWZkM3BGS1Br?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdllBSXEyMF9RWHVCOXdIUTE4bUoxS0w3eU1abHV6d0ZHWGZ4c3NPNktldFBNUlpNY2w2U1J5QUJFT2VaSk9pZmJVZnBPRXVfMFplZEtDNG9Wb3RRMktVMi1adVVURG80MUltTVhkY2RCUUp4azBydzlMOE5jNDRKLTN5cy1VVUY4QUYyYjhwVnVlc090dzdfNlYzN0pyZzdFT2lhREI4S3RfVm4xc0NjbFZLeDBRM1d3TjNST3NGbw?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZFhKeWZQSEs4ZTRxSGhJYzhsSGtnRkZXNDlmNHJENUl3dkZVazc4OVYzZE10VlMwV1h1ZmNleUY3S093NjZhMEpSUHd6eTQ4T1R5dml5cUlUd0JzaGZpM0lXNXpEdkJqNXFLNzhONGNRMUVSOUx0eG1Va2JvTG5qVmVOT3o4VWU5UFRGcXR1a2doT3lUdEZ5QThYemtPcmFvZ0Nlbm1yR0FuRENfbXVzUXBGTllZMmhXb01XZDNfbXFzb2h1LTFuY3hkaUJnQ0JoVC1F?oc=5",
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR3NhT3d4SFdXNVlabE5HUENXMzhwZkZTeXBzbUtxWnRIUG5rd25xRk9oR3RaNUdQbDhZV0FFS0hQdjhyelkwZ1FuT0FiOVozb1NJdDJIVl94aU52U05INjZTQVhySThINGdJaTEzZ1l2SDNDZ0p4dUNJeU5raG9yVEdKZF9iVXplVWlKTWozQ1g4Vmk2TGdaeUJiZUdMUjJJSEVFUVk4RUZDTm1XcEVHTUlBT1ZSVlRsS3VXVnpJd0FmdnZSWWhOTUxYLW9EZw?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "WRAL",
-        "Iowa Capital Dispatch",
-        "River Cities' Reader"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "NC election results are official, as state officials certify 2026 vote counts",
-        "State of Iowa certifies 2026 election results, with no changes from unofficial results",
-        "Iowa State Board of Canvassers Certifies 2026 Midterm Election Results"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQUhORUo5STNrSkZUQk9kQ3FUVkZvQUZkWmdUZTAxdTBtZzJtdXdYbWhTNVBJcnRaZGNRMHljWkdkY3AxRlA1QzRTLVVyY2NiaDlDUDFUcFJTOTVMdjZOZzlyMlRGQTJoRzQ3NlBqQ2hxakhqS1NnRV84OF9ZekZVNGo3VUhsUWFrQ3J3QlRJTW8xWG8?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOREJCYUh3Wi1RVGo2SF8tR3ZwdWgyRGJ1blU5V2h6d1FHQy1fNXNLSm5vdFpqdDd6blRWY3o2LVNHN3VFSlZHaERwY21LSnNKbE9PYjJwbW5ZWVlldjU3MUNLbllWeW84WXl0LTcyZm1sLTRfQXZKbll0dHR5MVdZS0tFV3BuMnJvcHdoT0dKNlhWbmlVZDNpVWd0cEYtaUctMnkta3h2YzNHbDdfellTQ1gydk8yZFJzUlgxTnhMenBzdDdIYzBEbQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWjNkaW5ac3BYTTFBTThROElKMjBLajVXNjRqR25UdVUtenktNl8yNDN1eEhDVHR0X1dLOFJzd3B5SGhuQ183X1c2Tk1ESHMwWXBDcUYyRklwTF9YcVZUeC1yM0tYWDhzRU9RQmR6QU12WEh5ei14d0ZDd2pHblY3MlBWb09yVFpMc3YwTF9DQ1U4bTQwckJ2TVFySENFR0otdkVrWm9TMFBjUQ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "The Detroit News",
-        "MLive.com",
-        "WILX"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Whitmer orders agency to halt consideration of Line 5 tunnel permits",
-        "Whitmer freezes Line 5 tunnel permits in Michigan",
-        "Whitmer directs EGLE to suspend action on Line 5 tunnel permits"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeTdGN045TE9OZmkxRjFEczJMd0EyQ2d4V0F5Znh5YWtHUkFOcVpPb1ZxUkFzNGU0bFNIZnBzZWhtd0ptYXFVZlFfS09mVjNKMlkzSlJnZWx0aEkyUzBkZkZRRXlEZFU5c0FpSjRnRnBOSzRHT01uLWNhSVpBSVdxY0hmRlI1SUJ4YzRaWHBrcnRoWC1xWTRaMDZFa0JudGVsaUd1bVdMcGdHcm5acks3NHNZOHhaWGR6QWdGTTE5ZVZrNVk2VWstTVpqVmZFVmVSZmxFWFRn?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUDhwdEdXeDQ4bnYxa2lTVTlld1FKMlYtcUE2YUwzUlF4anhwY2F4RlM5YXl1aGNkZ3RlV0NrOThCXzlLODFDM2VBbUVLRnZWVHJFUlRFMVlSZ0Jmc0RSTVNNN1hMX0JFZXNjRWVNSE95YXZCUUZaYmxxN1FtWjdQaGVabDk0RUhmekZTTG83bHZXbnFTUkdxMTZhdS0?oc=5",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdEY0UWVDZXZzSXV0UV9Yc2VMZjFQejFjb2FmX3RKOUtldWh1QXE3ZWtzSFdpMGVHWFBGMEJYeXJwMWw5NDdrdzZ2NE1pYjhlc05SbFFaMVE5WlF3UWc0ZkEzNGhPVVQwZ1pWbDhKMHpTY0VYd3JwQU1TQWdZZkMzMjR0bWhRUkdlLTBPWXYtNGZrN1Ex?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
+        "Spectrum News",
+        "STLPR",
         "Audacy",
         "KSDK",
         "STLtoday.com"
@@ -87,11 +14,15 @@
         "center"
       ],
       "titles": [
+        "Mo. Supreme Court disbars former St. Louis Circuit Attorney Kim Gardner",
+        "Missouri Supreme Court disbars Kim Gardner in ethics case involving former Gov. Greitens prosecution",
         "Kim Gardner disbarred by the Missouri Supreme Court",
         "Kim Gardner disbarred by Missouri Supreme Court",
         "Read the Missouri Supreme Court's decision to disbar Kim Gardner"
       ],
       "links": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxObjNtcmdWOUNxbzJucHV4b3BYMC1xT3pMVndITE1HcTMyelctVGNpZmxOdnk0N2FUVVR0TTNNM1hTRF9GRlZyVDdkUFdoTm1ZUzMwa0RCaHE0UEVwei1rUUZVYkMteGRuN2g1OURfWW5Hal81ZWtTeURHWkVka1dzNzhYaENqdzllY3QyTFJJdlF6NlRKbWM2b1N3VkY?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYlV2amN2eWdQSmdDVnhyMmxyb2RyYlJGV0pMcDNYWnV5S0VZZjdFRG56VDFfNUZabFNha3AtMlp4OEJNek1vZU9tOFZmT3Z6eFJGaEpZRWowbWE1aEY4UlZIMnZsb0dFWllkYnowaTNLZWNXQzQtbHl0VDY3XzdwTTl2Tk50NG5kdWJneUwxc1E2MlJjMU1MdTRvRkE0cVBhSTJCYjR3UThxMEJIRENZai1ibi1hUW5RYlliQ2diLUUzaTRXc2VGc0JjNHJLM3pwZ0FPMjhuSHVJNGM?oc=5",
         "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOFFkYnNtTzlGUTRoR1NtUk1RZDU3dDVUWDcySDNDckoxRVVaZW11U3ZjSGtwTHhmOG9qOVQwVmN2MkpOdi1sb1daNndWS1owM2R3aHV2N1ZYZ0xyYk1YVDdDdXktcHc0Mjd6TDBvUWE0SmRVa0tOQVJRRENBZ3VMNU00VUs0eHhkR3JrWFJiUThPQkow?oc=5",
         "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeGhUcDQ5WkhLYmRTVWt3dURZcnVMaGpqMFc0RjhEQUJFZlF4VWpXeTFiN1RFNWxnYXZxS3VPemxhbl8tYjdvUk4wc1BYV2V2Y3ZJcnlIZjVuNVV4amRXVlRUakRVN1owbURoYjI5NU15a1ZhcHoxRFc0THlSTlZBbkprR3lnMVNMdUxRRi00VzQwVFZ6NTk0UW5rLVJ2THRFMXFrQ3E4NktYVlNOYmVfSUJjRFduVjlSSjFoWUtCYzhhZk0yTnVOblh3?oc=5",
         "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGtXM0puQ09JWE1oN3RvMm00cmNGVG5sQXhMRlBoLXM4blJQM2hYRmYwUGowOHYyWGJVMjhMdGtPNXZJVm4yczBWdlZRc2ZVTkpoTGZtd2VKcWFSSXhWSk9HZ2FxSmxYSzNNNUlwekttampKcUx0ZjFwbjE1QlFlVVhoa09RZEpKZnFBelI4MUxQZTM1dXdoemN3MERvUEU?oc=5"
