@@ -1,4 +1,71 @@
 {
-  "at": 1795671033410,
-  "held": []
+  "at": 1795708128650,
+  "held": [
+    {
+      "section": "politics",
+      "outlets": [
+        "24/7 Wall St.",
+        "unchainedcrypto.com",
+        "shattered.io",
+        "Bitbo"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "The Bitcoin Reserve Bill Heads to the House Floor: How Much Would It Lock Up?",
+        "Strategic Bitcoin Reserve Bill Reaches the House Calendar, Awaiting a Floor Vote",
+        "Strategic Bitcoin Reserve Bill: 20-Year Lock, 28-21 Vote",
+        "Bitcoin Reserve Bill With 20-Year Sale Ban Heads to House Floor"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU1hOSGdYNFBUeENLR192YXNXcjBjWGhGWm5yRXVBWEpuSmRfUTlYaE9pZUxQYS1RUng1SnFXMW9naHlwWDF4eGtzbHJNQWl0M0ZFS2RZa0RjWERRZEFUVjNyOEphV0d5ZkZQdktyb3pURFdWbnJ3dVA4dGpldnY2WjBDVjdObFVHdUM3WWFjRldLN0dVUFlqeVJOaE1wMUtVRTdrQVlUVi02SnJNMmoySDlQSWkyN2tOcV9UZnBLdnpsNkt0bDI0R0t4WThQOVU?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZkNVbVhlRFhoNHdEUDF1T3VROGUzcmJZalcwWVRCWjlYSEZXMGRrVzNXUExDYzFDM3NNaWluTkkzV3VLRlg2WTNqTVIzamJmbWZyWWtjMmRCQ0Z4cE5OX1pyb2hkdl9wSUplMTNXWkpZZmVVWUpSZnBMM3RsMHl1WENuV3p3dlNBMzVtQ0dMSVZ2UUNEVWRLODUzdldUYmZBazBFZ3VMOUV0ZkYy?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkpLUEVzYUJ3WVM0djFIc1NrS1FGZEt2YzlDUXRYVjlDX2Y1QTNtVTVGV3lQQk1QNEduZURTRGVPN3dqTXdwZEZ0ZlBCNlBvVXFyTDZkNXNQQXZ0M1A2TjBBVkx2cWhGUndNT3JXOUg1WkhHTjhoU0Rsb19HVlROYTl5Y0d4bUk4ZVR6aENNNXdRZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OTlRiZVl4Sk5mY3ZzdWh6UnlYOWxPNzRkX3Jyc3RvQmRMSXR1cC1Bb2FZanlVWVZpUVUtTnVfS1ZxTTdmVGVIQXB1WWttYWtvSDRoUjhQaHlzYVFVYXkyejQyVzFyQQ?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "Coinpedia",
+        "Seeking Alpha",
+        "The Block"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "US Strategic Bitcoin Reserve Bill Advances, but Can It Pass Before 2027?",
+        "U.S. House Committee clears Bitcoin Reserve Bill; can Congress act in time?",
+        "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEMzcGttWXM1ajVfQnhYTmdJbmlPSU81RVllVnlDeTRiREMwVHYwSFpacW9raTJZc3g4V1VMS2VjNEdFaElLMWRkd0JteVlmVnRreFlNdGdaNE55enNJQkt4QTBTV3J3d19rMGRKdnJ5aEZPM2wzdTNaSTdBRlZDNWxONWdUZkpYNGtrUkdNLVFPQWR1TVhHYtIBngFBVV95cUxOeTVFNVZuSElVRXZGZXJRU09EVDg0OW1BTE9CellVaEd5ZndodE9DT0lzZm5sY0ZmWXpzX3Fkdm53cWl0Sml6NjNuS1lXeW5XUEpJNHREYmxDZDczMXI4Z09QbXVSM25uZEFrUk9rWkNnd0RINzg2WFlLUXVCYS04RFhMTUdYcG1YVVNPWUtEcWdkLXduYVBXRlhXZlNKUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2MzM05GRWYxam40TFh1SkhuWEptSWphTUtfUG9zU25rN3RaSlFfSlctY2o5TmFzTEx1TERfV1p0LTlHSlMyZVdQSm1KYzlZSzFuLWNKMjNhTy1Rd2Ita3p4ZkxyaW1PTHpkRnpoZGJjUF9oTUhQNmNPMk9zdU4xVGIwWEd0dkdZODhGUl9RR0JJTGRJYVRSMUJzZWVXQlpEVjZ6Wjh6aC1Wdzh3dmc?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOVVNTElJZm9mZnBXejBIaHNBLU1WNF9Vd2ozVm1faDhkYUx1QmhuM21FWVBYcXJLSFVPQ0RhYThOWFFBcnctMUFBSHlrT0NrRmh5d21iYnBISXNFcTRMZ2RfbVQtTkNzZkkwNHBrV1hFMGxrc0dZQ3VvZ3B2cTJzUjJxdWdzWWVDbnhVT1pwR3RSaTJwancyYXBLdEhTNjFxcHN6SnV2Y3hOenVqNDlnZDhQRQ?oc=5"
+      ]
+    },
+    {
+      "section": "politics",
+      "outlets": [
+        "MLQ.ai",
+        "Snell & Wilmer",
+        "The National Law Review"
+      ],
+      "lines": [
+        "center"
+      ],
+      "titles": [
+        "What Trump's executive privilege order changes for federal contractors",
+        "Between Two Branches: What Federal Contractors Should Do Now Under the New Executive Privilege Order",
+        "New Executive Order Puts Government Contractors Between the White House and Congress"
+      ],
+      "links": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM2RyX1ZTNXRVVEJsbmxCYmRITGhYZjBaZjBLVVdGb0ZJdm5VNkpnQkNiUlVVQmxaTDE3a3VsVlhwRUFGQ09YZGFiX2hkLTNHYno3SGVNNnBuSk1NakRuYmZxdG9PSFNUSnEzMVREdnNZMnEwVGFoeWdxOGh0R0dTcHVha2VKdmpCc3NrNWlXRWdYYkhy?oc=5",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFFRUktqN1l4OF9VMF9lOVFwZFE4UUhSWjE3dE56LUM1WF9DdXVWa1lnRkxYdlY5UUR5SkFVRlpPelJ5QVFBaWNMSURDM0FYN2FTcll0eGlncV9WYjdvcm1reVB1LWNHNUxPQm50OF9pRnU0MVNnRmNIelBxY1FFZmQ5QWs1dG5welBJVmlwQzBPelJqWWFLdWQ3VWdOcDdoRHF4OFYydHk1eDBxUk00NW1raElUR0ZWSW1LUzZMcGduLUNNYi1iWTdpNUdERUU?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1N6UWxReWR5a3pyeTNodC1FeXVrVjhHZlR6S3RtcE1ELW95X0hQSzk1WV9iOUw5VHIyRExYTVV4UjV2Mm1iWnVBc0NFSTVubktSV25YQUhZNFo3MmxNWDd2c1lmZmMxdGZFOGNqM1MwRGpIR0RLV05pWnB3TEhpSUFNNEt4S3Rad1BRZHFoYWsxWWVLM19WdXNfZFhmMVhpUDRFbXZnd0ZTZUg5TVQ4ajFKTdIBuAFBVV95cUxOei1HbVptb1ZuVHJhZlBZTlVvZVkzV1I5LXVSYkJCbFJNMGtnT00zQmJ3d1djUm9ycFdCXzFpMnJWclRRSzBJcjFwaXhfTGlpMXNKWU8tSEpVMDJ1Y29WY2hpLXpPazF0TnZwekxOSENTcDJaOFJIMXI3eGstVWNkOVRWcEZyN1ZldTByZU5hTlRfWXB2RDFkdXRPa2J1UlQ1WHNvdTBuVDBRblJBOWQtbGlmZG1fWndO?oc=5"
+      ]
+    }
+  ]
 }
