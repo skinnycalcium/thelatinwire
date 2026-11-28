@@ -1,85 +1,55 @@
 {
-  "at": 1795830450161,
+  "at": 1795859660727,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "CTV News",
-        "Radio-Canada",
+        "Brandon Sun",
+        "Montreal Gazette",
         "Castanet",
-        "Medicine Hat News",
-        "thecanadianpressnews.ca",
-        "Bangkok Post",
+        "NanaimoNewsNOW",
         "CPAC"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Kinew calls Bill 21 ‘legislative racism’ after Supreme Court upholds Quebec law",
-        "Supreme Court of Canada rules Quebec’s secularism law is constitutionally valid",
+        "Kinew disappointed in Supreme Court decision on Quebec’s secularism law",
+        "Quebec premier welcomes Supreme Court’s Bill 21 decision, but wary of ‘fine print’ in ruling",
         "Five takeaways from the Supreme Court's ruling on Quebec secularism law",
         "Five takeaways from the Supreme Court’s ruling on Quebec secularism law",
-        "Five takeaways from the Supreme Court's ruling on Quebec secularism law",
-        "Canada's top court largely upholds Quebec secularism law",
         "Quebec Premier Reacts to Supreme Court Ruling on Secularism Law"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYUQzOEtCTjhXV2ZZVkpsMzl3bXFmZXBCODM4bEZXWFRhMG40VGVKeVNjc3E5UmZ0bjFMWW1Tb1Zjdl9TQmpfSElaeUpYMDBJbVNfWmRpdXhOTzJkMnc4VlZpR0ZXUnAzTUhzemREMGNiaER3bkZiTmNId0gwdUR4YzhtZ29uXzJwbnZ2OHhROFdkdVAyamEyQjBHNzhnMTFrNGlHUi0yNGtFdHFOVmxROXhPemlOTGlsbWc?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdUpfLVgzN0w3OUpQRXk2LVlYMjhLTFpVSjhTZ2xaYWNxM2hPWEZFekU5aXlyS2pwUVF3OV9HOC1UVkMwTV8xSGhDWHBrLXI0NkpseTJnT3lJZVJ0aGVhV0pteDJEMXktbGMzUDlsd1I2cFN5eXdBQ09BODNhRGE1UWNVVUhkZ0hEZWZTTEM1ZmFrOG9oZTJObk1RRGtxSHNaSG9EYXQ0NjlabHVfZDNZcWZhUmdlT04tdjZfRVNWZEtFaUdf?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSVBreXpjZ1RqNUtzVXdqbGZsOVVMOWJGaDB1cXJ2eXlmZmkyS1RxUHh4UXdTZllLT0Z2WjJLSVEwdS1xdGl2eVdMVTdVR0NpLWdZWTE2dkdzcUMwT1dhVldJT29qOTBmM0pwbk0tcWhlQ0RQMjJ3T2JhaW9mNGhmRHZfZU5wY0FnY1U3bXNxOTU0VEx1REkxMlJPZjBTMGFERTg1NUJmSzM3RTRzVmVURzdQV09FZW9P?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWlgyOTIta1M5U3BXTmNqOGZjeG1RaXM4N1ZXUmlPaUQxNF9hemkwX281cWV1Tmpob2hZeFZESnd6bW1kaGFjV1R5ME5DdlJKdWw3cXZROE1lZ0VFcmlVV1RCNUgySms0Z1VrMkdQcmNzejNaS3lNWHR4Y2lNT3EzUDh3Q2FaamF6akxsaHRyWVREUFhybGZ2d1l2WEJlVTZ0TG5zS01yVHhnclRGY2lqMndES2hrVHlp?oc=5",
         "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc1pGN0pXT0FMZHVXSkpQMDR6WUJNODZTbVZyUmZZdTNudGpqZFo2R2V5WEs1TXdRZU1qdWhsNXpla2Y2enlDck5HSXlzdWtFX3VBUHZoczA0YWVUMGVobDFiNXdnalE4aHpiSENEajdGYy1BcWFZVXlhMEMzd2xoTlpBaU03Qk4wX1FBZ3VnTzc2Rk1RX0dNdzUtNXpJWW11ZTU0eDNGQTRGNzZWbjNBaElvdjhKdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSzhCZmdReXhsb2JBVDR1NkduSEk1N1FpbUo3VDZDLU9lLXlqNGlqSWR3V0ExczloSkd4UkhkcUlmSDcyTkhDYVpnM0owOUJ1ZTYwd09DM0FTWlV5aExVYWpUdkMyWVdmNlRjX1A2bXdmZFh4VnBzeVNVUFVOclpsZUFuUEM0WEp0MkxJUk1PbWdIRlBaUGNnZ2FCbGlHem1WX3Z4dnVEVDJfVVFTRWZLTVA0UFdsY29BNzlaNEdScEo3M2p1a1VXMg?oc=5",
-        "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTk1GLXYwWjNIZDF6a21YRGpSamdGRDlpeGt0QkU1LW9pX0RCdjU2dU9BeXM3WE83OURCYjJ1bldBdGZadlFpbC1uVUFOZ2tpZWdabno5TU1vTEl0bF9QM1NWR1VOd2lYXzRqU2ZndDNBZnQ4dzZOY3duWVdFMnoycFRSbXhUNlAzTkJUWXVpbFhaeU1fOHVOLTdsc3hHMXBSbTFiUkZYS1pHT2pJZkptMmhHckt0YkVGR1QzTy0zSXB0RUVTQkdnRjROT2F2bkN5Vnl2THlCMF9YcHZ0UWNCMkIyM2JQWFA2WjR5QTBZRkIxaGluemhPSDRnMXltQm5lQm9oemZ6cw?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmlmajRac0dGWHlZNHNEeHNjZ24zRlBzZDg0SURIWHRDMnY4ZWJZYVc1SldrWXljVk1mMldwV2ZpSUFtREpjaUM4cDFvT1U2aC1FbHVHOHZTektCWklUbUNsby1YQlp1TklUTU5ranNZbzJtWVRBeFRLU3BaNVAwX1FJN0ZLNF9KMFRQZmpIVkRrNzJ1b1ZtWENKSzhEUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmhOZmhtM29yX0lHYlVwMmJfMWRpdF9LZGlJaUF5OU9ZdWp2UzU0ZzlrTnF1SERyVWZaQTBOT1pCaHg5c3Q2a09Jd2pxcWhyTE9KVXFBVmJ4bUpHV0hVN0htamJJa3Z5cjE4dkhfOGJmMTd5azloRFlzRHhsUzRNd1Jzc2F4ZE85X1VTai1EcjlxVklVM0JYd3ZYenFhU0xvdXNyOFBabWVwZlFCc2c?oc=5",
         "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPenNSYkJKS1NXNTJfb0U1dFRNMlZuNGR5MW5VS3otaXZzb01Pd0hHY0o2aExZdnZ4X251MU5GUVZEZ0xHN3lTYk8yWmItOVRhYkhyTnRJNWxsWEVhaTZxRy1hdUlMRldMZzlXRm9Db0VmZ1oxazl2cTdYbDRDbWhwT25CLXc4Rm9iN3B2NWgwTndRYjFoZmZrZnpjTlQ5MUprSnY2all2cmZsTFhhUk1wY0hIdEw3STd5NUlvc1NOUUhFTTZVTF85VUNtamVvWlgtSko1QlpzQUxVdnJIZ1J1dW05bw?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "CityNews Montreal",
-        "CBC",
+        "EIN Presswire",
         "Canadian Constitution Foundation",
-        "CTV News"
+        "BC Gov News",
+        "EMSB"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Quebec’s Bill 21: ‘Bottom line nothing changes,’ says lawyer after Supreme Court decision",
-        "What the Supreme Court's Bill 21 decision means for Quebec and its residents",
+        "Attorney general’s statement on Supreme Court of Canada decision in English Montreal School Board case",
         "The Supreme Court of Canada’s Bill 21 decision explained",
-        "Alberta says Supreme Court decision on Quebec a win for provincial lawmakers"
+        "Attorney general’s statement on Supreme Court of Canada decision in English Montreal School Board case",
+        "The English Montreal School Board is deeply disappointed with the Supreme Court of Canada’s decision to uphold (by a narrow 4 to 3 margin) the constitutionality of Bill 21"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR0hBVG5VdC1zTU9Ba05id05lZHUwOHEzS1VNQ2JIVlFoRzRnRXE2Yk0tVVZQLXF3LUNRTHZEbHlMZ05Wc1BTdnBQSXcyd1ZLbVE2YWotWS1JR2wzc2E0enBiOEhQcGthSEhXd0VLNU81RUtVN2x4STBZUWpMWU1RTm53?oc=5",
-        "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtTlhKVkVEWTJ2bXZrUFRwOFdPUENWRlFYNUdxNm9aWlk3WUtFT0tQekxYWmUyZy1Pb1JVc21KcjU4cndPU0t3bHpWNDhlLUFBejA4Q0c5NXJzQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVnBHQnAzZm56Q2xlaVk1R2wzS0N5bVNBeW04UDF1LXpuUWViZVRVejU2cXpjeG9IZ1JCWnpHdWs0ZnQ4cmFEX3ZNel9Ea3ZWUHJqa3llWkMtZUZwOTVfRVNScHdvamhUMG5hWTdBUEV5T1hnRlRJeUtQN05fR1dHNUFwdnpsQnQyLWxZbEZqX056WWhRelZIYVk4WmI3VXVLb1NweGNkVWxGODVDRWtQcTJwX3Z3cmc5ekFocWtqQmpvMkZ3S0gtMHhrZTZyR0loREd4UFlKY3JlVUtRTVV3LUJHUQ?oc=5",
         "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNUExIRzNjN0c1NkZ0ZWpUVlR6dU9QT3AtZlZsa0Y2RVlycmhHbmhRdUNRSERrQUF0WVNCMmFjYnQ4THBiWENBSXo2Y0lHUHg2bG44eg?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcy1SdUZwaWJ5c3RFM1VjM3haZ3JMRjBBRV9sSmJaa2xvaWtNczEzX1o0bVJ2Z2s1czFyVDBMc1N5V0c1NkdTMlZWbVZMT3FINjlZdm1hQzFrcTRqMDYzZGR5LURCYmxFV1JOMHJVMS00R3VjeU1QYUM1dEZNZGZ4Mm9nYTZEanpmbnhoUzBpXzhrOTlCb0RWc2tDN0dXaTVSaDk1NUNlMExUQQ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Radio-Canada",
-        "Paul Wells",
-        "CPAC",
-        "CityNews Montreal"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Muslim, school groups decry Supreme Court’s decision to largely uphold Quebec’s controversial secularism law",
-        "Here’s the Supreme Court judgment on Quebec’s Law 21",
-        "Reactions to Supreme Court Ruling on Quebec’s Secularism Law",
-        "Supreme Court of Canada to rule on Quebec secularism law"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbzFEZUhudDdMRzBBT2tYUkhMWE43c1JpUF9wTjJGUTFtenZoVVFMQzRmakdBY1NkRF9Eb2UzWVBNMExRampBTGE4ZmxHNnRpR19oejgtNS1jR0hkUm1Xcng3SWhiMXVxQ3lMN2JPb1c4WEdVTko0b3FUd0FZemFBdFlXY000X3l6YnZndl9BWUhxdnUyVlR2SUdrMV9Ra1FpdVNickVLWlNRMmVZWVJabGtmWnZaQnBESFNSU1lGS01EbFp6VGRUbVN0SW4zdHpEUkZ6MTJnV0tVeEowTHRlUWkzNGpWNDc5?oc=5",
-        "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vZHFieWFFaHR2eDFKMUx2R2RYdkF2T3h6SnZyaXJNN0tnRFRFRTZnMXZhd05DT3U2b19VeVVXTzROcU00R2FMV0E1MVFaVXhObVFRekFCellVWGpLVW5GQlM0WkwtUXphTzlYMXhCcm5wbkU?oc=5",
-        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVlgtd3FSVnhuazd4UjJCbDBxajM2djFPemgyRGFGSWVtTUFROXpNZGFKeFROdlI2elVQdlg3VmJvUHBuZjZTOXhkMVNWTGZpWWxxNjZJaldnUEg4bHU0SS1qQkpXenIxQU5ZYUd6SFJuY2x3RUtmel9TZVQ3R2JOV1Y2azluZnFFa25hSUJyTVJCV2VrTzZpQXB2d2tqY1M1MWN5NVJmUmlja2FhMmxmRVhhem44QURrVFpfTXRtUmczQWZHYmI4RHdpZVNqZ2pfeEF2eVVGN2lOYTRfM3c?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbjZ4UEdyUlczLWQyT05sZEtvc1JpMXh3bWZiaDVEYWhwcUlSLUdVdUp5S0xjQ3dycFBGeXFvUlY2THBoTWUwaWFrUXo5aXlkd3A3MGpZSnJqZ0UtNHQySHlaLS1MX1BrZ3VBaE8ydnJaQ2JNN0VraDQwd2w5SzAyeXFSZWFJMDRGR21qS3V5NGQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WYmQtZGZ0U2xwQVFuZzJrNm5OcTU2TzNfdnkta0phcTNoazIwZ0x5T2RjQnE5RHJweTAwN1h6QUF5N0dPWnR4c0NPX3phcGktbjkyLWl2WENlaUFDZ2c?oc=5",
+        "https://news.google.com/rss/articles/CBMirgJBVV95cUxNOW1PRHI2N3dzX0RuU0hSZXJFdVQwZ01Wa1U2YVExckxHQ25NTmZzWU5LZi13aTlZUUU0cmNTclF3amRlWFluSUlJZnJiMkdXRGV3YUR3LXNsREdCZXl5Vmg5OW11SzlERkdCTmZBR0EwQXVGZjFqUE02dEhzWlVRaDJPZzlHbzJXRjhGeEo5cXJKQlZIeVBlamZjR1M5U1ZJbndTaHJZbWNKa25mSnQxTVNNTFRsQVlmTGNrVjlOYms4LU5PaHp4eUJHUE9sZGxPdDNjOHc5azhSMDcwcjlhR1kxN2pOVURIQnZkX3pndkpBaG9JNnh5dnZiUTFucDgwajk5RWJaOFRwak83S1ZaemhFeGY0c2RWeXVuQ3NiX0JpVTZGUTd5RkxLczctZw?oc=5"
       ]
     }
   ]
