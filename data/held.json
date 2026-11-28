@@ -1,202 +1,85 @@
 {
-  "at": 1795805124362,
+  "at": 1795830450161,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Toronto Star",
-        "CBC",
-        "Paul Wells",
-        "Canadian HR Reporter",
-        "650 CKOM",
-        "CPAC",
-        "CityNews Calgary"
+        "CTV News",
+        "Radio-Canada",
+        "Castanet",
+        "Medicine Hat News",
+        "thecanadianpressnews.ca",
+        "Bangkok Post",
+        "CPAC"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Supreme Court upholds Quebec’s use of notwithstanding clause for secularism law",
-        "Supreme Court issues landmark decision upholding most of Quebec's secularism law",
-        "Here’s the Supreme Court judgment on Quebec’s Law 21",
-        "Supreme Court of Canada upholds Quebec's secularism law",
-        "Supreme Court upholds most portions of Quebec secularism law",
-        "Reactions to Supreme Court Ruling on Quebec’s Secularism Law",
-        "Supreme Court of Canada to issue ruling on Quebec secularism law Bill 21"
+        "Kinew calls Bill 21 ‘legislative racism’ after Supreme Court upholds Quebec law",
+        "Supreme Court of Canada rules Quebec’s secularism law is constitutionally valid",
+        "Five takeaways from the Supreme Court's ruling on Quebec secularism law",
+        "Five takeaways from the Supreme Court’s ruling on Quebec secularism law",
+        "Five takeaways from the Supreme Court's ruling on Quebec secularism law",
+        "Canada's top court largely upholds Quebec secularism law",
+        "Quebec Premier Reacts to Supreme Court Ruling on Secularism Law"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbzI3SUxzRU1iaVVFdEZUZzlFakZHOGg4WFpyaWtmWEJfN2RTSV91NUpKUVJyb2NKdE9hbmllMEd1U0gxcDZZRVB2VmRnR1hpRHVFMjFqWjRCMHktWHcxN3VqLUlqa1BvRVdyZm13MDI1dGIxclc4TGRGb1F3OUl3WEh0TnV5d3ZOeWdRNHRxTmEtMXNXaDZMbDI5eGFqQ1B0dVAwV3hXbGpSd1hObVpxVjNnM1RhZkJHeVpubTdYRTJCMVJTRTlzYVBoZ0NFVVVVN1RIMndsdExINm5WRGItdHA4Q3lndnN3T1dBSjlwcE9PdmJK?oc=5",
-        "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFQVdkRVlzTkV4OHVuUlptWW1YcGF0XzN1T3M2WEFlZmZmS0hFSHlrSHNmODNYdlI3Z2xVZG9KclY5S205SGk0dV9ON1R2UUNUc0lISmJFeXh3QQ?oc=5",
-        "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vZHFieWFFaHR2eDFKMUx2R2RYdkF2T3h6SnZyaXJNN0tnRFRFRTZnMXZhd05DT3U2b19VeVVXTzROcU00R2FMV0E1MVFaVXhObVFRekFCellVWGpLVW5GQlM0WkwtUXphTzlYMXhCcm5wbkU?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGtXcHF3OUpIVmNyV3I5cTdRY1REN1FoZ2Q3Ynhyd3VUV0d2SHJZNXRfOGJmenJYU09oTlFweXUwREVoRW9FUnRrNHpMWlBLaGl0ZzhQZHJiY0w2N1JmcG0zY2w1ZW8xRElSUWR4NWxVNmNuWXNWWlZtY2tXak9TWE5uT2FJdDFPclM2eFdIVllYak03QzZPVWZBQy1mQXV4b29kOWhzM2hMZkI3SVRN?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlVLYTdfOWR4cUJiLW9hTHpDQTUwUGxCcm1ZYU9USU9DN1dqOV93aG0zc0lWR2hNX045RDA0UzJWOE44NlRWN21QdHNOcWxoRWxraXM5YjNWMVh2bUg0cUlJXy1wS1NmVFNuLU1wOUdrRko0eHV5SDBXODY3YmdReVFJNzY2dXc1a0psbXk5Nm1hMWRTRmtRTXhSaVlINGtMa3hjZnZ3?oc=5",
-        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVlgtd3FSVnhuazd4UjJCbDBxajM2djFPemgyRGFGSWVtTUFROXpNZGFKeFROdlI2elVQdlg3VmJvUHBuZjZTOXhkMVNWTGZpWWxxNjZJaldnUEg4bHU0SS1qQkpXenIxQU5ZYUd6SFJuY2x3RUtmel9TZVQ3R2JOV1Y2azluZnFFa25hSUJyTVJCV2VrTzZpQXB2d2tqY1M1MWN5NVJmUmlja2FhMmxmRVhhem44QURrVFpfTXRtUmczQWZHYmI4RHdpZVNqZ2pfeEF2eVVGN2lOYTRfM3c?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWG1VRWZYNndIcks2M3RhTTBGc0JBY0Z3NHZFNEVtV2U4czh5aGtub1cydHNVNUc1ZGc2RV9kOE51SXpxVFJ6NG9kcXRrdktIb2FlbFhWeW9sV0lzYkNmaWp1UjFyaHpPQ3VLbjhqV3lBa1RRMnpNZEdtR2xYZjFQZXV4Q01BVmNtNV93V0Jicw?oc=5"
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYUQzOEtCTjhXV2ZZVkpsMzl3bXFmZXBCODM4bEZXWFRhMG40VGVKeVNjc3E5UmZ0bjFMWW1Tb1Zjdl9TQmpfSElaeUpYMDBJbVNfWmRpdXhOTzJkMnc4VlZpR0ZXUnAzTUhzemREMGNiaER3bkZiTmNId0gwdUR4YzhtZ29uXzJwbnZ2OHhROFdkdVAyamEyQjBHNzhnMTFrNGlHUi0yNGtFdHFOVmxROXhPemlOTGlsbWc?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdUpfLVgzN0w3OUpQRXk2LVlYMjhLTFpVSjhTZ2xaYWNxM2hPWEZFekU5aXlyS2pwUVF3OV9HOC1UVkMwTV8xSGhDWHBrLXI0NkpseTJnT3lJZVJ0aGVhV0pteDJEMXktbGMzUDlsd1I2cFN5eXdBQ09BODNhRGE1UWNVVUhkZ0hEZWZTTEM1ZmFrOG9oZTJObk1RRGtxSHNaSG9EYXQ0NjlabHVfZDNZcWZhUmdlT04tdjZfRVNWZEtFaUdf?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc1pGN0pXT0FMZHVXSkpQMDR6WUJNODZTbVZyUmZZdTNudGpqZFo2R2V5WEs1TXdRZU1qdWhsNXpla2Y2enlDck5HSXlzdWtFX3VBUHZoczA0YWVUMGVobDFiNXdnalE4aHpiSENEajdGYy1BcWFZVXlhMEMzd2xoTlpBaU03Qk4wX1FBZ3VnTzc2Rk1RX0dNdzUtNXpJWW11ZTU0eDNGQTRGNzZWbjNBaElvdjhKdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSzhCZmdReXhsb2JBVDR1NkduSEk1N1FpbUo3VDZDLU9lLXlqNGlqSWR3V0ExczloSkd4UkhkcUlmSDcyTkhDYVpnM0owOUJ1ZTYwd09DM0FTWlV5aExVYWpUdkMyWVdmNlRjX1A2bXdmZFh4VnBzeVNVUFVOclpsZUFuUEM0WEp0MkxJUk1PbWdIRlBaUGNnZ2FCbGlHem1WX3Z4dnVEVDJfVVFTRWZLTVA0UFdsY29BNzlaNEdScEo3M2p1a1VXMg?oc=5",
+        "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTk1GLXYwWjNIZDF6a21YRGpSamdGRDlpeGt0QkU1LW9pX0RCdjU2dU9BeXM3WE83OURCYjJ1bldBdGZadlFpbC1uVUFOZ2tpZWdabno5TU1vTEl0bF9QM1NWR1VOd2lYXzRqU2ZndDNBZnQ4dzZOY3duWVdFMnoycFRSbXhUNlAzTkJUWXVpbFhaeU1fOHVOLTdsc3hHMXBSbTFiUkZYS1pHT2pJZkptMmhHckt0YkVGR1QzTy0zSXB0RUVTQkdnRjROT2F2bkN5Vnl2THlCMF9YcHZ0UWNCMkIyM2JQWFA2WjR5QTBZRkIxaGluemhPSDRnMXltQm5lQm9oemZ6cw?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmlmajRac0dGWHlZNHNEeHNjZ24zRlBzZDg0SURIWHRDMnY4ZWJZYVc1SldrWXljVk1mMldwV2ZpSUFtREpjaUM4cDFvT1U2aC1FbHVHOHZTektCWklUbUNsby1YQlp1TklUTU5ranNZbzJtWVRBeFRLU3BaNVAwX1FJN0ZLNF9KMFRQZmpIVkRrNzJ1b1ZtWENKSzhEUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPenNSYkJKS1NXNTJfb0U1dFRNMlZuNGR5MW5VS3otaXZzb01Pd0hHY0o2aExZdnZ4X251MU5GUVZEZ0xHN3lTYk8yWmItOVRhYkhyTnRJNWxsWEVhaTZxRy1hdUlMRldMZzlXRm9Db0VmZ1oxazl2cTdYbDRDbWhwT25CLXc4Rm9iN3B2NWgwTndRYjFoZmZrZnpjTlQ5MUprSnY2all2cmZsTFhhUk1wY0hIdEw3STd5NUlvc1NOUUhFTTZVTF85VUNtamVvWlgtSko1QlpzQUxVdnJIZ1J1dW05bw?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "Newsday",
-        "Mexico News Daily",
-        "Al Jazeera",
-        "Anadolu Ajansı",
-        "Merced Sun-Star"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Mexico files formal complaint to US over DEA tip line",
-        "Mexico files formal complaint over DEA’s Sinaloa tip lines: Friday’s mañanera recapped",
-        "Mexico files complaint with US over tip line on alleged drug traffickers",
-        "Mexico files complaint with US over DEA tip line, rules out easing tariffs on Chinese goods",
-        "Mexico files complaint with US over DEA tip line on alleged drug traffickers, corrupt officials"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWYxME53TTg1MWRiMEUyRlBXOXFpZ1F4SHBoOEFua3VQVGJmVDdodXNaamQtZjdaNVdPV0RRQmFmdmVZdjE4cEotaXAwOVFjRXNjdjJyVldRWTE3Q1VwR2xMVTRjU093alFGWVAyZ2pleF9USnY0d3RFVnFWZDhiVVYyTzRfcFR3MXZCcjhaTTdCczJn?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTHM0ajlnNlRxY1NtM1Y5cHBMVmRocEhmanF0emZCVVNRRlpLdHlQMGRhajl6dVZGUVZJNUNfTkEweFNvdUFUNDg4RE9vdmE5UnJlU0VxU0FHSV9nM0FaQjJ3QlVYVlRuNG50S1VzT3phSjlzZ19wT3Zpb3JFLVcyUTJUVGhLVVRJeEJzcEVRN2tWT3pCUUN0bEdOOEVFTUhTOUhMSjlSZnFNalU1ZVdfNmlGUWNtMHNZRzI2U0ZR?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQU9pVjNDRTBvN3FzRE9pM3RRTVhqUFc0UTIybTJKSEtpYUJjNVc0ZG8wWGJfWFo3TllZNUVsMXZMOHB5SHdaajI2R0I1T2x3Q1ZocWRpV1MyU0V1V2l2NE40LTVnc05FeEl5cXRNR19yT3BuQng5SzV5emZ2TE1laVVVdURjYXp5Z2NWSDd6dUdOR2JnUkQzc2NGUE9fQlB3WXExS3dHZjZlaF9oS3RGbDBWUUXSAboBQVVfeXFMUFVOUGlUZVdpS0I5UkMxUXctTjlhdWljSHY2X1FjZmRQMk04bnZ0QUJwRGRtQ1lwaS04MGxSQ2pZRGFBS2UyQ1p4U1o1Ym5sUHBzR0tJM1ZYMXNMWUZPRXZPamYyOTA0bEZRaXQtLTJUUzdaSVFtM0NlY2F5VjQxd1dhVExzRFJUY1k4NU5Da2p2SW9VdFEzaDFvdnZUaEtsazM0VDN6SnB6bTM1RVp6VW1lUTdkakY0S0JB?oc=5",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ0hzQXVNa2NJZmktVl8tdVdsZDRMTkNYMUc5VXoxdHI3YTdQdVZjNDZfNVUtWWRja2pCV3R2WVFYRTAtMUI3c2ZwNGd2Tk5PVHNQa0NJUGc4WVlQaEdRUTNYZjBJSlB3QlVDQjVsMHlqLUd4bGNDNHJDamlDTWYwTklvX1p0N1hUOEpBbDlabGZHcGR6NldNM1lXdWx1MEN3U1MzWVVkR0VKUDFka2o2VkNEdlVFOGNCMTlnXzhCQ3FpVHREdml3?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdHRWNUkySkNfMFI4cjBvM3prZzNRcEx2Q1NxTEVmcmkycWpOcy0ySmFaakY4dEJMazlFLW1OMzBJQjUtZkh3bG1CQUI0cDBtOE53RHNQb2NoeDZPanNhQnlON3NqVkthTWFFY2FxcHFWbkp5XzZVUWU4X1pPYmlLOA?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
+        "CityNews Montreal",
         "CBC",
         "Canadian Constitution Foundation",
-        "Montreal Gazette",
-        "Radio-Canada"
+        "CTV News"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Supreme Court of Canada rules Quebec's secularism law is constitutionally valid",
+        "Quebec’s Bill 21: ‘Bottom line nothing changes,’ says lawyer after Supreme Court decision",
+        "What the Supreme Court's Bill 21 decision means for Quebec and its residents",
         "The Supreme Court of Canada’s Bill 21 decision explained",
-        "Supreme Court decision to uphold Bill 21 a great victory for Quebec, nationalists say",
-        "Muslim, school groups decry Supreme Court’s decision to largely uphold Quebec’s controversial secularism law"
+        "Alberta says Supreme Court decision on Quebec a win for provincial lawmakers"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE03ZWFFYmZrdVAxc29jd3NhbU1Hcm5ReVZwbmFVQklldE9FekdQSVQ3Yl9QYy10aXVLSmgxY2FuLWJLOXZFc1pzQVhNRUQ3U2ZBeVpQMGgwNnZ3QzNiMGtvQkxNdTNiVEFIRVFHWFFjYWF4VHlvcHZON3FLNDk?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR0hBVG5VdC1zTU9Ba05id05lZHUwOHEzS1VNQ2JIVlFoRzRnRXE2Yk0tVVZQLXF3LUNRTHZEbHlMZ05Wc1BTdnBQSXcyd1ZLbVE2YWotWS1JR2wzc2E0enBiOEhQcGthSEhXd0VLNU81RUtVN2x4STBZUWpMWU1RTm53?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtTlhKVkVEWTJ2bXZrUFRwOFdPUENWRlFYNUdxNm9aWlk3WUtFT0tQekxYWmUyZy1Pb1JVc21KcjU4cndPU0t3bHpWNDhlLUFBejA4Q0c5NXJzQQ?oc=5",
         "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNUExIRzNjN0c1NkZ0ZWpUVlR6dU9QT3AtZlZsa0Y2RVlycmhHbmhRdUNRSERrQUF0WVNCMmFjYnQ4THBiWENBSXo2Y0lHUHg2bG44eg?oc=5",
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWlgyOTIta1M5U3BXTmNqOGZjeG1RaXM4N1ZXUmlPaUQxNF9hemkwX281cWV1Tmpob2hZeFZESnd6bW1kaGFjV1R5ME5DdlJKdWw3cXZROE1lZ0VFcmlVV1RCNUgySms0Z1VrMkdQcmNzejNaS3lNWHR4Y2lNT3EzUDh3Q2FaamF6akxsaHRyWVREUFhybGZ2d1l2WEJlVTZ0TG5zS01yVHhnclRGY2lqMndES2hrVHlp?oc=5",
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbzFEZUhudDdMRzBBT2tYUkhMWE43c1JpUF9wTjJGUTFtenZoVVFMQzRmakdBY1NkRF9Eb2UzWVBNMExRampBTGE4ZmxHNnRpR19oejgtNS1jR0hkUm1Xcng3SWhiMXVxQ3lMN2JPb1c4WEdVTko0b3FUd0FZemFBdFlXY000X3l6YnZndl9BWUhxdnUyVlR2SUdrMV9Ra1FpdVNickVLWlNRMmVZWVJabGtmWnZaQnBESFNSU1lGS01EbFp6VGRUbVN0SW4zdHpEUkZ6MTJnV0tVeEowTHRlUWkzNGpWNDc5?oc=5"
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcy1SdUZwaWJ5c3RFM1VjM3haZ3JMRjBBRV9sSmJaa2xvaWtNczEzX1o0bVJ2Z2s1czFyVDBMc1N5V0c1NkdTMlZWbVZMT3FINjlZdm1hQzFrcTRqMDYzZGR5LURCYmxFV1JOMHJVMS00R3VjeU1QYUM1dEZNZGZ4Mm9nYTZEanpmbnhoUzBpXzhrOTlCb0RWc2tDN0dXaTVSaDk1NUNlMExUQQ?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "CTV News",
-        "CBC",
-        "Canadian Civil Liberties Association"
+        "Radio-Canada",
+        "Paul Wells",
+        "CPAC",
+        "CityNews Montreal"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Alberta says Supreme Court decision on Quebec a win for provincial lawmakers",
-        "Supreme Court ruling on Bill 21 'a patchwork of a decision,' says CCLA director",
-        "CCLA Disappointed by Supreme Court Decision on Quebec's Bill 21, Calls for Recognition of Its Harmful Impact"
+        "Muslim, school groups decry Supreme Court’s decision to largely uphold Quebec’s controversial secularism law",
+        "Here’s the Supreme Court judgment on Quebec’s Law 21",
+        "Reactions to Supreme Court Ruling on Quebec’s Secularism Law",
+        "Supreme Court of Canada to rule on Quebec secularism law"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcy1SdUZwaWJ5c3RFM1VjM3haZ3JMRjBBRV9sSmJaa2xvaWtNczEzX1o0bVJ2Z2s1czFyVDBMc1N5V0c1NkdTMlZWbVZMT3FINjlZdm1hQzFrcTRqMDYzZGR5LURCYmxFV1JOMHJVMS00R3VjeU1QYUM1dEZNZGZ4Mm9nYTZEanpmbnhoUzBpXzhrOTlCb0RWc2tDN0dXaTVSaDk1NUNlMExUQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JSjV5WlAzLXEtT3dhUHRCbUluWkFPYWo5UVJCVmUtemFBQnRyVGNIMDVWYlVkZUx6YjM3SnBBZFdWZUxKVnZEWVo1dmo5VFRqQXVSeDdxX0tuUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR0NRaXVzSGtLclNWUGhKUUZZelFHWHhlcFY3bFcwMnNPNG8tRm5hc1ByeVB4RjJQVWdUdE9ndW5DZkFDMHVNZlFSR1hzZlJyT1ZzdnRDX24zNkt3WlJ6TnE5YTF3VllZa2EtMm1wU2VPU3R2OU9rLXBGN1g1a1hQSE1GbUNhV3RLa1pHSnR3eWJjTExFNndRaDdDczUwa1BYdmpuc1hlRUJkRWVIeTJ2ZXJyaGxzTGJJUzEwa193aGNBYmhXLWF3UWhNc3M2SG92TGU4ZQ?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "The Mountaineer",
-        "ncwlife.com",
-        "Baltimore Sun"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "U.S. Supreme Court to hear immigrant asylum case Monday",
-        "U.S. Supreme Court to hear immigrant asylum case Monday",
-        "Supreme Court review of Trump’s asylum order could have ramifications beyond case"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMGxOZUJoaFN4VlVBSTZVRWNBZW0wSGNnemdrR3hZQTlUcWlrOXFFd281Szl0XzBSQkEwczhDMWxwX3Q3WnMyLXZQNFlnVlZDaG5mNk9ockY2cVNoLWh2YVZJcGw1ZV9rTk10RWpUNm54VWhiVWR2RzFWTEdLQUtuV2x1Z2hxNk9TTzhrXzR0elV6UU9GdXBFYTN6c3lScHBpT0NGendFZWxVVnlEUjZCcmJwcFlTcnI1SmZJcWRnRjZ2NDIwakgyelUzVEM4TGJTSllCbXZHdExoUmJkS2ZBekprZw?oc=5",
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc3Mwb3F1ZFRFMDdBdlhQWEN2MTQwZWJQNFhTN2dHMkQ4RTYzYlNhMTNXVmIxWlJ5RUlQcnRyQkloODNKUWdYemRidVlQNHc0RjltX19mTVZxZ29nUHNOSUpDZjd2ZFM0NFZRQVZ3dDNKNXljdmgtZzFiamVDc2hyY1pFb2hFRFFqYVBmV1l5UXItcjQ5MDBDN1RHRWo2bWI2Wk85Vzd6NTBjYVdfWWt4S0J1ckFLbVNEZENaMDZJTm5LdUdPdUhvWEc0SDJ6WG9wYnI0Q2xGYUVhQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLVNGRmFmSGVTVkFNcE45S0c5QTF0bVd0bEpsMVpZZWctRmdmeUZjbHczcWdqaVhGanBESWFNS21XWE5QdExuUFlEdGJ4LXFIdTE5Ql9uQnI2TWphU2RyUjRHYmtNdWJBRzBBZk5zMTJtcWJEQ3ZhWjU3clk3ekZLQS1adW1leENyc21UZU5DQm9SQTFxblJOVWNxOEg1UzNfRjNNclpEdDNxTUhfbG9pcGZIVXZ4aGpRcm1jeHRn?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "NBC News",
-        "CNN"
-      ],
-      "lines": [
-        "left"
-      ],
-      "titles": [
-        "The 33+ best Target Black Friday deals that are actually worth shopping",
-        "These 28 Black Friday headphone and earbud deals are some of the best I’ve ever seen"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0ZnT3R4YlJYYlcwRlJOMTRKS21LOWdCVWRIeTQ4X1pEV2c0WGVNX2k4YV9BTi1Obl9wX0Rrcm5hZ3ZPWFB4Z0dFOWUtc1dRLU5PQzFTc2RvQ2x0QlRRZzJ1Ukg5R1NNMWxoWVBLR0VLdE1KWHU1LU82c3NOWlIzN2lLUTlhbEZx?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3ZDQTdXT3J0SFFCWFBvYlY0bjRRanFrYkhvY25HZDdQZHlqd0NSeTJvaklMblJZdm9FOTlNYzRfUUJkVVNqcFhBVkk0NHJ3aEdKNEZfcE1XSHdQZGNOU3ZabF9zVDBUdF9OY3FJUk16WUxBRE1wVXhCc0JGVVhTX0dQYmlaN3hqM3VkV3UtQTFEdw?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "BC Gov News",
-        "EMSB"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Attorney general’s statement on Supreme Court of Canada decision in English Montreal School Board case",
-        "The English Montreal School Board is deeply disappointed with the Supreme Court of Canada’s decision to uphold (by a narrow 4 to 3 margin) the constitutionality of Bill 21"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WYmQtZGZ0U2xwQVFuZzJrNm5OcTU2TzNfdnkta0phcTNoazIwZ0x5T2RjQnE5RHJweTAwN1h6QUF5N0dPWnR4c0NPX3phcGktbjkyLWl2WENlaUFDZ2c?oc=5",
-        "https://news.google.com/rss/articles/CBMirgJBVV95cUxNOW1PRHI2N3dzX0RuU0hSZXJFdVQwZ01Wa1U2YVExckxHQ25NTmZzWU5LZi13aTlZUUU0cmNTclF3amRlWFluSUlJZnJiMkdXRGV3YUR3LXNsREdCZXl5Vmg5OW11SzlERkdCTmZBR0EwQXVGZjFqUE02dEhzWlVRaDJPZzlHbzJXRjhGeEo5cXJKQlZIeVBlamZjR1M5U1ZJbndTaHJZbWNKa25mSnQxTVNNTFRsQVlmTGNrVjlOYms4LU5PaHp4eUJHUE9sZGxPdDNjOHc5azhSMDcwcjlhR1kxN2pOVURIQnZkX3pndkpBaG9JNnh5dnZiUTFucDgwajk5RWJaOFRwak83S1ZaemhFeGY0c2RWeXVuQ3NiX0JpVTZGUTd5RkxLczctZw?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Yahoo Finance",
-        "Crowdfund Insider"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Why the Strategic Bitcoin Reserve bill might not pass the House floor",
-        "Strategic Bitcoin Reserve Bill Advances To Full House With 20-Year Lock"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUtxcS1RNFd4OGlPcDdraXN6dnRFR2g1dmRiZXFqS21NNnZ5U3JkVzc5TnNkc1E5UmpTYnR1UXFwZk5nMjRoZlZBbi1WQ3g5eFA2bko1MnRjQmFhREZUSERMOWVCV3JlSlA5VDZZUEx4X3RoZlVIRlRKZGtFSUVVWTVEZ0t1azhzclhDeFBqdVVEMnBPUmhld1hKejRsQUM3cTZvUTdhV1l2dnhDLWw5ajlFMjhCTFE?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcnFOVzFRYVRfeUxibnAyRXpKNHhoYUJyRnpIUTVYSjVMTEZRYWNhNzAyMEJTeTBYUGcxb0FYa2d3QTRQZ1BwaUxiY0FIbFZ5al9fcEI4NzMzTmpGamxuWEhCY0xxOVZsZUJQbTcxTWQwYkZXdXRFSjc4ZzFOellYRENXSElnN2E2Q19KSmNRSTdiTEpsc0szY1FSQTgzcm1RT0FMNmFFUC1WQkE4UUdRY25veW5JY054Yk1xMw?oc=5"
-      ]
-    },
-    {
-      "section": "politics",
-      "outlets": [
-        "Yahoo",
-        "Gadget Review"
-      ],
-      "lines": [
-        "center"
-      ],
-      "titles": [
-        "Pa. Senator Plans Data Center Oversight Bill as Senate Debate Grows",
-        "Pa. Senator Plans Data Center Oversight Bill as Senate Debate Grows"
-      ],
-      "links": [
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQXzJZUHZXeFhEZTB1d0owTThicDFCMEFkbUJiWkhVVDF3dV8tNHlITm85c2Y0WTIwZHRKU0I2UG9RWUNWQ0JnMnFnQzRJVFBXbTFidU5YUWJ6OGFDZWNTcHdpRHJwWHB6ZHRVdi1TdmtjVmI5NV9wQ2kycWRqUkJDMHk0TUFHcnZCSHQ0NmZwNzB3dw?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOFViN0tlcU9yazRuNEczTDlCZGpfWTNHSURiTTZlazd2Si1UeDJ0TVZvUXhYenkzekJlNXdJVEZtRFVPTkg3Y0JiUFhNMU1VU0hJQkhKTU1HRk1OeUFQSXNielEwT1hveTlNUnl2eFNmYXlHT08xNXBlWlNvVFZzcktTSG9kM1FOZkVOTHBmMjAtNVFCTDRCZ1lGOA?oc=5"
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbzFEZUhudDdMRzBBT2tYUkhMWE43c1JpUF9wTjJGUTFtenZoVVFMQzRmakdBY1NkRF9Eb2UzWVBNMExRampBTGE4ZmxHNnRpR19oejgtNS1jR0hkUm1Xcng3SWhiMXVxQ3lMN2JPb1c4WEdVTko0b3FUd0FZemFBdFlXY000X3l6YnZndl9BWUhxdnUyVlR2SUdrMV9Ra1FpdVNickVLWlNRMmVZWVJabGtmWnZaQnBESFNSU1lGS01EbFp6VGRUbVN0SW4zdHpEUkZ6MTJnV0tVeEowTHRlUWkzNGpWNDc5?oc=5",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vZHFieWFFaHR2eDFKMUx2R2RYdkF2T3h6SnZyaXJNN0tnRFRFRTZnMXZhd05DT3U2b19VeVVXTzROcU00R2FMV0E1MVFaVXhObVFRekFCellVWGpLVW5GQlM0WkwtUXphTzlYMXhCcm5wbkU?oc=5",
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVlgtd3FSVnhuazd4UjJCbDBxajM2djFPemgyRGFGSWVtTUFROXpNZGFKeFROdlI2elVQdlg3VmJvUHBuZjZTOXhkMVNWTGZpWWxxNjZJaldnUEg4bHU0SS1qQkpXenIxQU5ZYUd6SFJuY2x3RUtmel9TZVQ3R2JOV1Y2azluZnFFa25hSUJyTVJCV2VrTzZpQXB2d2tqY1M1MWN5NVJmUmlja2FhMmxmRVhhem44QURrVFpfTXRtUmczQWZHYmI4RHdpZVNqZ2pfeEF2eVVGN2lOYTRfM3c?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbjZ4UEdyUlczLWQyT05sZEtvc1JpMXh3bWZiaDVEYWhwcUlSLUdVdUp5S0xjQ3dycFBGeXFvUlY2THBoTWUwaWFrUXo5aXlkd3A3MGpZSnJqZ0UtNHQySHlaLS1MX1BrZ3VBaE8ydnJaQ2JNN0VraDQwd2w5SzAyeXFSZWFJMDRGR21qS3V5NGQ?oc=5"
       ]
     }
   ]
