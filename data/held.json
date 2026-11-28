@@ -1,55 +1,46 @@
 {
-  "at": 1795859660727,
+  "at": 1795888780426,
   "held": [
     {
       "section": "politics",
       "outlets": [
-        "Brandon Sun",
-        "Montreal Gazette",
-        "Castanet",
-        "NanaimoNewsNOW",
-        "CPAC"
+        "WBKB11.com",
+        "nwitimes.com",
+        "Tulsa World"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Kinew disappointed in Supreme Court decision on Quebec’s secularism law",
-        "Quebec premier welcomes Supreme Court’s Bill 21 decision, but wary of ‘fine print’ in ruling",
-        "Five takeaways from the Supreme Court's ruling on Quebec secularism law",
-        "Five takeaways from the Supreme Court’s ruling on Quebec secularism law",
-        "Quebec Premier Reacts to Supreme Court Ruling on Secularism Law"
+        "The next Congress will look more like America than ever before",
+        "The next Congress will look more like America than ever before",
+        "The next Congress will look more like America than ever before"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSVBreXpjZ1RqNUtzVXdqbGZsOVVMOWJGaDB1cXJ2eXlmZmkyS1RxUHh4UXdTZllLT0Z2WjJLSVEwdS1xdGl2eVdMVTdVR0NpLWdZWTE2dkdzcUMwT1dhVldJT29qOTBmM0pwbk0tcWhlQ0RQMjJ3T2JhaW9mNGhmRHZfZU5wY0FnY1U3bXNxOTU0VEx1REkxMlJPZjBTMGFERTg1NUJmSzM3RTRzVmVURzdQV09FZW9P?oc=5",
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWlgyOTIta1M5U3BXTmNqOGZjeG1RaXM4N1ZXUmlPaUQxNF9hemkwX281cWV1Tmpob2hZeFZESnd6bW1kaGFjV1R5ME5DdlJKdWw3cXZROE1lZ0VFcmlVV1RCNUgySms0Z1VrMkdQcmNzejNaS3lNWHR4Y2lNT3EzUDh3Q2FaamF6akxsaHRyWVREUFhybGZ2d1l2WEJlVTZ0TG5zS01yVHhnclRGY2lqMndES2hrVHlp?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc1pGN0pXT0FMZHVXSkpQMDR6WUJNODZTbVZyUmZZdTNudGpqZFo2R2V5WEs1TXdRZU1qdWhsNXpla2Y2enlDck5HSXlzdWtFX3VBUHZoczA0YWVUMGVobDFiNXdnalE4aHpiSENEajdGYy1BcWFZVXlhMEMzd2xoTlpBaU03Qk4wX1FBZ3VnTzc2Rk1RX0dNdzUtNXpJWW11ZTU0eDNGQTRGNzZWbjNBaElvdjhKdw?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmhOZmhtM29yX0lHYlVwMmJfMWRpdF9LZGlJaUF5OU9ZdWp2UzU0ZzlrTnF1SERyVWZaQTBOT1pCaHg5c3Q2a09Jd2pxcWhyTE9KVXFBVmJ4bUpHV0hVN0htamJJa3Z5cjE4dkhfOGJmMTd5azloRFlzRHhsUzRNd1Jzc2F4ZE85X1VTai1EcjlxVklVM0JYd3ZYenFhU0xvdXNyOFBabWVwZlFCc2c?oc=5",
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPenNSYkJKS1NXNTJfb0U1dFRNMlZuNGR5MW5VS3otaXZzb01Pd0hHY0o2aExZdnZ4X251MU5GUVZEZ0xHN3lTYk8yWmItOVRhYkhyTnRJNWxsWEVhaTZxRy1hdUlMRldMZzlXRm9Db0VmZ1oxazl2cTdYbDRDbWhwT25CLXc4Rm9iN3B2NWgwTndRYjFoZmZrZnpjTlQ5MUprSnY2all2cmZsTFhhUk1wY0hIdEw3STd5NUlvc1NOUUhFTTZVTF85VUNtamVvWlgtSko1QlpzQUxVdnJIZ1J1dW05bw?oc=5"
+        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVHRLSFpTcl92aU5TWHlvU0VkMXNvcUUzbTlCODI3SlJrSXNRNVNDMWd3TXdPNEZpN3FIeFlxWm54MGR2cy12ZTRPWFZQcUtSYy1IY2dzM1M2YlZUX00yLVNqUkYydlpWY1UwX0xmclppS1Atd1pXa0xZMVpSNHRackNhRTVIanBhUmxsSUl3N0VwWk9nS3VNdmt0d01ZcVVfTllFSlNKaldZZGNfaWd4a0k3QXlDdVpKZFlxVzVIeVduZFA2cjBWSkJ1Qlg3M1NXMXdPR2dxNzBkNklzSUdzRXFKTTY2RFhKYUQtOTFtNk5mRGN4UUNKclY3VQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0I4b0gwS2k1NDBPRnFWWDEzNWh2c1FfSk84VkVLeXloM1dGNTdlZEJ2ZElJVVdabGIyNnNQTkNON3QwZXFkWkhBUXN3Y1M3OFZmRkhjZkhsYXRydzVQS0RxUUVrVVJ1aHN3RjAxaWgtR0dWM1dDd2RXd1JmSHNGTDdqaFJhQVAtWU1xYlllMklkMlBsWDdoWmNPT0N3TXJPbkowVDJkcWYxeWtZ?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzRNU2g4UFlPNThkMERDN2ZGQUhEUVVpZTVLVjBSUHJPdmJBSEFPdVlQOFBvUjItNVRVQUpZT00yX3JHYnhBejRaVmFGRXhmeEdVNWd6RUZMOWJfMTB0NlFYUVIxSVp6SzAwMnVYb2kyN0RVdER0WDA5NDlRNVlkNnUyZFNXd2lFWVE3eGM1MHdjZG9SVTh2aUM2bVpfZzRyc3c5emZsYld6N2ZhVS1B?oc=5"
       ]
     },
     {
       "section": "politics",
       "outlets": [
-        "EIN Presswire",
-        "Canadian Constitution Foundation",
-        "BC Gov News",
-        "EMSB"
+        "Euronews.com",
+        "Inquisitr",
+        "voz.us"
       ],
       "lines": [
         "center"
       ],
       "titles": [
-        "Attorney general’s statement on Supreme Court of Canada decision in English Montreal School Board case",
-        "The Supreme Court of Canada’s Bill 21 decision explained",
-        "Attorney general’s statement on Supreme Court of Canada decision in English Montreal School Board case",
-        "The English Montreal School Board is deeply disappointed with the Supreme Court of Canada’s decision to uphold (by a narrow 4 to 3 margin) the constitutionality of Bill 21"
+        "Mexico lodges formal complaint over US hotline for cartel tips",
+        "Mexico files formal complaint over DEA's Sinaloa cartel tip line",
+        "Mexico files a formal complaint with the US over DEA channels to report the Sinaloa Cartel"
       ],
       "links": [
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVnBHQnAzZm56Q2xlaVk1R2wzS0N5bVNBeW04UDF1LXpuUWViZVRVejU2cXpjeG9IZ1JCWnpHdWs0ZnQ4cmFEX3ZNel9Ea3ZWUHJqa3llWkMtZUZwOTVfRVNScHdvamhUMG5hWTdBUEV5T1hnRlRJeUtQN05fR1dHNUFwdnpsQnQyLWxZbEZqX056WWhRelZIYVk4WmI3VXVLb1NweGNkVWxGODVDRWtQcTJwX3Z3cmc5ekFocWtqQmpvMkZ3S0gtMHhrZTZyR0loREd4UFlKY3JlVUtRTVV3LUJHUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNUExIRzNjN0c1NkZ0ZWpUVlR6dU9QT3AtZlZsa0Y2RVlycmhHbmhRdUNRSERrQUF0WVNCMmFjYnQ4THBiWENBSXo2Y0lHUHg2bG44eg?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WYmQtZGZ0U2xwQVFuZzJrNm5OcTU2TzNfdnkta0phcTNoazIwZ0x5T2RjQnE5RHJweTAwN1h6QUF5N0dPWnR4c0NPX3phcGktbjkyLWl2WENlaUFDZ2c?oc=5",
-        "https://news.google.com/rss/articles/CBMirgJBVV95cUxNOW1PRHI2N3dzX0RuU0hSZXJFdVQwZ01Wa1U2YVExckxHQ25NTmZzWU5LZi13aTlZUUU0cmNTclF3amRlWFluSUlJZnJiMkdXRGV3YUR3LXNsREdCZXl5Vmg5OW11SzlERkdCTmZBR0EwQXVGZjFqUE02dEhzWlVRaDJPZzlHbzJXRjhGeEo5cXJKQlZIeVBlamZjR1M5U1ZJbndTaHJZbWNKa25mSnQxTVNNTFRsQVlmTGNrVjlOYms4LU5PaHp4eUJHUE9sZGxPdDNjOHc5azhSMDcwcjlhR1kxN2pOVURIQnZkX3pndkpBaG9JNnh5dnZiUTFucDgwajk5RWJaOFRwak83S1ZaemhFeGY0c2RWeXVuQ3NiX0JpVTZGUTd5RkxLczctZw?oc=5"
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZEZhZU5aQzhiVFJ3U2lmUnJsS2owQzBWWmtJQ3J6UUVFY0szMzkwQV81aHYwb1J5aWg4YWlBREtkVUFRQnM1T3FZZ3N6Ml9pek9GUUxBUHVCaElrMnliamJUX3lqdXNYak1pYTlqWXZXc3VHR1FZQzM3LVBhd1lnQ2hVQVB6UGk0SHNsaVJab19VQWF6S0ptZV90R1RYOVhYYXVvRkI5bC1kOHBla1lhVVI3YndtR3M?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jQ0Jpb3d0LURoZVlJdkRtYjlMNG5Vb3g1RlNZNG5mODhYMzZfX2lLMWJYa2NRd2ppQnZSWWZIQzlXOXZGcE9aZjBfRmpBS3k1c0RfQVZUTDJmS1Nib1g5dThGdENYX00?oc=5",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNlhiTXNMWWxwaE9WaHNvTDBob3FlU0pNeExFYlNqc3kxU2I1Z2xzY1A3NnVYQzl6VVJoSE42RW1neEdGZ0d4ajJpcDBrOVdLSTlBVURSUTVlQTZTU1NWcENWYjRHM0RzdnJic3JrejZxZ0NLSGtJQUFKWG1Xa2lTcXZ2MGItT0pxaGlkSXdCSV9EMnMtUkNrTG9uTS1ZTWI2S2NWY2F3MFhYdmZoOFM0UXBqNmMxLWYyM1p3cTEyOVhDME9OZDcxQllmNTRBX2c?oc=5"
       ]
     }
   ]
